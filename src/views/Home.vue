@@ -1,23 +1,13 @@
 <template>
-  <HelloWorld />
+  <SucessoErros />
 </template>
 
 <script>
-  import HelloWorld from '../components/HelloWorld'
-
-  export default {
-    components: {
-      HelloWorld
-    }
-  }
-</script>
-ias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import SucessoErros from "../components/SucessoErros";
 
 export default {
-  name: 'home',
   components: {
-    HelloWorld,
-  },
+    SucessoErros
+  }
 };
 </script>

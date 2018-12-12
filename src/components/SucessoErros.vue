@@ -4,6 +4,8 @@
       text-xs-center
       wrap
     >
+    <v-btn color="success">Enviar arquivo</v-btn>
+
     <v-flex xs12>
       <v-card>
         <v-card-title>
@@ -11,7 +13,7 @@
         </v-card-title>
         <v-card-text>
           <div>
-            <canvas id="planet-chart"></canvas>
+            <canvas id="sucessos-erros"></canvas>
           </div>
         </v-card-text>
       </v-card>
@@ -24,43 +26,25 @@
 <script>
 import dados from "../csvjson.json";
 import Chart from "chart.js";
-import planetChartData from "./chart-data.js";
+import sucessosErrosChartData from "./charts/sucessos-e-erros.js";
 
 export default {
   data() {
     return {
-      planetChartData: planetChartData,
-      dados: dados,
+      sucessosErrosChartData: sucessosErrosChartData,
+      dados: [],
       categorias: [],
-      serie: [],
-      chartOptions: {
-        chart: {
-          id: "vuechart-example"
-        },
-        xaxis: {
-          categories: ["a", "b", "c"]
-        }
-      },
-      series: [
-        {
-          name: "series-1",
-          data: this.serie
-        }
-      ]
+      serie: []
     };
   },
   created() {
-    console.log(dados);
-    for (var i = 0; i < 3; i++) {
+    /* for (var i = 0; i < 3; i++) {
       this.categorias.push(dados[i].timeStamp);
       this.serie.push(dados[i].sentBytes);
-    }
-
-    console.log(this.categorias);
-    console.log(this.serie);
+    } */
   },
   mounted() {
-    this.createChart("planet-chart", this.planetChartData);
+    this.createChart("sucessos-erros", this.sucessosErrosChartData);
   },
   methods: {
     createChart(chartId, chartData) {
