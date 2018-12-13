@@ -4,8 +4,16 @@
       text-xs-center
       wrap
     >
-    <v-btn color="success">Enviar arquivo</v-btn>
-
+    <input
+      type="file"
+      @change="selecionarArquivo"
+    >
+    <v-progress-circular
+      :width="3"
+      color="green"
+      indeterminate
+      v-if="loading"
+    ></v-progress-circular>
     <v-flex xs12>
       <v-card>
         <v-card-title>
@@ -27,14 +35,24 @@
 import dados from "../csvjson.json";
 import Chart from "chart.js";
 import sucessosErrosChartData from "./charts/sucessos-e-erros.js";
+import Papa from "papaparse";
 
 export default {
   data() {
     return {
       sucessosErrosChartData: sucessosErrosChartData,
+      objeto: {},
       dados: [],
+      arquivo: "",
+      file: {},
       categorias: [],
-      serie: []
+      serie: [],
+      loading: false,
+      timestamp: [],
+      response: [],
+      response200: 0,
+      response302: 0,
+      responseNao: 0
     };
   },
   created() {
@@ -43,21 +61,19 @@ export default {
       this.serie.push(dados[i].sentBytes);
     } */
   },
-  mounted() {
-    this.createChart("sucessos-erros", this.sucessosErrosChartData);
-  },
+  mounted() {},
   methods: {
     createChart(chartId, chartData) {
       const ctx = document.getElementById(chartId);
       const myChart = new Chart(ctx, {
         type: chartData.type,
         data: {
-          labels: this.categorias,
+          labels: ["200", "304", "Não retornado"],
           datasets: [
             {
               // one line graph
-              label: "Dados enviados",
-              data: this.serie,
+              label: "Response Code",
+              data: [this.response200, this.response302, this.responseNao],
               backgroundColor: [
                 "rgba(54,73,93,.5)" //
               ],
@@ -67,6 +83,48 @@ export default {
         },
         options: chartData.options
       });
+    },
+    pegarCategoria(dado) {
+      let dados = dado[0];
+
+      for (var i = 0; i < dados.length; i++) {
+        //this.timestamp.push(dados[i].timeStamp);
+        //this.response.push(dados[i].responseCode);
+
+        if (dados[i].responseCode === "200") {
+          this.response200++;
+        } else if (dados[i].responseCode === "302") {
+          this.response302 = this.response302 + 1;
+        } else if (dados[i].responseCode === undefined) {
+          this.responseNao = this.responseNao + 1;
+        }
+      }
+
+      this.createChart("sucessos-erros", this.sucessosErrosChartData);
+    },
+    converterObjeto(obj) {
+      this.dados.push(obj.data);
+
+      this.pegarCategoria(this.dados);
+    },
+    converterArquivo(arquivo) {
+      let self = this;
+      Papa.parse(arquivo, {
+        header: true,
+        complete: function(results) {
+          this.objeto = results;
+          self.converterObjeto(results);
+        }
+      });
+    },
+    selecionarArquivo(e) {
+      var input = e.target;
+
+      var file = input.files[0];
+      this.arquivo = file.name;
+      this.file = file;
+
+      this.converterArquivo(file);
     }
   }
 };
