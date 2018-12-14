@@ -32,7 +32,6 @@
 </template>
 
 <script>
-import dados from "../csvjson.json";
 import Chart from "chart.js";
 import sucessosErrosChartData from "./charts/sucessos-e-erros.js";
 import Papa from "papaparse";
@@ -52,6 +51,8 @@ export default {
       response: [],
       response200: 0,
       response302: 0,
+      response404: 0,
+      response500: 0,
       responseNao: 0
     };
   },
@@ -68,12 +69,18 @@ export default {
       const myChart = new Chart(ctx, {
         type: chartData.type,
         data: {
-          labels: ["200", "304", "Não retornado"],
+          labels: ["200", "304", "404", "500", "Não retornado"],
           datasets: [
             {
               // one line graph
               label: "Response Code",
-              data: [this.response200, this.response302, this.responseNao],
+              data: [
+                this.response200,
+                this.response302,
+                this.response404,
+                this.response500,
+                this.responseNao
+              ],
               backgroundColor: [
                 "rgba(54,73,93,.5)" //
               ],
@@ -84,20 +91,26 @@ export default {
         options: chartData.options
       });
     },
+    confereResponseCode(dados) {
+      if (dados.responseCode === "200") {
+        this.response200++;
+      } else if (dados.responseCode === "500") {
+        this.response500++;
+      } else if (dados.responseCode === "302") {
+        this.response302++;
+      } else if (dados.responseCode === undefined) {
+        this.responseNao++;
+      } else if (dados.responseCode === "404") {
+        this.response404++;
+      }
+    },
     pegarCategoria(dado) {
       let dados = dado[0];
 
       for (var i = 0; i < dados.length; i++) {
         //this.timestamp.push(dados[i].timeStamp);
         //this.response.push(dados[i].responseCode);
-
-        if (dados[i].responseCode === "200") {
-          this.response200++;
-        } else if (dados[i].responseCode === "302") {
-          this.response302 = this.response302 + 1;
-        } else if (dados[i].responseCode === undefined) {
-          this.responseNao = this.responseNao + 1;
-        }
+        this.confereResponseCode(dados[i]);
       }
 
       this.createChart("sucessos-erros", this.sucessosErrosChartData);

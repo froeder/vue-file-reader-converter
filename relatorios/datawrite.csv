@@ -1,0 +1,1401 @@
+timeStamp;elapsed;label;responseCode;responseMessage;threadName;success;failureMessage;bytes;grpThreads;allThreads;Latency;SampleCount;ErrorCount;Hostname
+1,54478E+12;23444;Get Página Inicial;200;OK;Thread Group 1-134;true;;144904;200;200;6267;1;0;CPCG-150518
+1,54478E+12;23450;Get Página Inicial;200;OK;Thread Group 1-133;true;;144903;200;200;6217;1;0;CPCG-150518
+1,54478E+12;23788;Get Página Inicial;200;OK;Thread Group 1-1;true;;144719;200;200;6605;1;0;CPCG-150518
+1,54478E+12;23686;Get Página Inicial;200;OK;Thread Group 1-112;true;;144906;200;200;6375;1;0;CPCG-150518
+1,54478E+12;24327;Get Página Inicial;200;OK;Thread Group 1-155;true;;145051;200;200;6130;1;0;CPCG-150518
+1,54478E+12;24705;Get Página Inicial;200;OK;Thread Group 1-11;true;;144740;200;200;4947;1;0;CPCG-150518
+1,54478E+12;24783;Get Página Inicial;200;OK;Thread Group 1-61;true;;144696;200;200;4976;1;0;CPCG-150518
+1,54478E+12;24404;Get Página Inicial;200;OK;Thread Group 1-144;true;;145025;200;200;4618;1;0;CPCG-150518
+1,54478E+12;24680;Get Página Inicial;200;OK;Thread Group 1-141;true;;144976;200;200;6190;1;0;CPCG-150518
+1,54478E+12;25056;Get Página Inicial;200;OK;Thread Group 1-5;true;;144891;200;200;7332;1;0;CPCG-150518
+1,54478E+12;25038;Get Página Inicial;200;OK;Thread Group 1-66;true;;145052;200;200;6478;1;0;CPCG-150518
+1,54478E+12;25080;Get Página Inicial;200;OK;Thread Group 1-44;true;;145036;200;200;6527;1;0;CPCG-150518
+1,54478E+12;25261;Get Página Inicial;200;OK;Thread Group 1-7;true;;145009;200;200;5307;1;0;CPCG-150518
+1,54478E+12;25001;Get Página Inicial;200;OK;Thread Group 1-118;true;;145094;200;200;4758;1;0;CPCG-150518
+1,54478E+12;24979;Get Página Inicial;200;OK;Thread Group 1-122;true;;144859;200;200;5026;1;0;CPCG-150518
+1,54478E+12;25252;Get Página Inicial;200;OK;Thread Group 1-65;true;;144730;200;200;6525;1;0;CPCG-150518
+1,54478E+12;25036;Get Página Inicial;200;OK;Thread Group 1-113;true;;145018;200;200;7175;1;0;CPCG-150518
+1,54478E+12;25233;Get Página Inicial;200;OK;Thread Group 1-64;true;;144849;200;200;6464;1;0;CPCG-150518
+1,54478E+12;24852;Get Página Inicial;200;OK;Thread Group 1-153;true;;144998;200;200;4574;1;0;CPCG-150518
+1,54478E+12;24851;Get Página Inicial;200;OK;Thread Group 1-154;true;;144696;200;200;4586;1;0;CPCG-150518
+1,54478E+12;25240;Get Página Inicial;200;OK;Thread Group 1-6;true;;144859;200;200;4968;1;0;CPCG-150518
+1,54478E+12;24948;Get Página Inicial;200;OK;Thread Group 1-136;true;;145058;200;200;4678;1;0;CPCG-150518
+1,54478E+12;25099;Get Página Inicial;200;OK;Thread Group 1-104;true;;144694;200;200;6801;1;0;CPCG-150518
+1,54478E+12;25246;Get Página Inicial;200;OK;Thread Group 1-47;true;;145036;200;200;4962;1;0;CPCG-150518
+1,54478E+12;25301;Get Página Inicial;200;OK;Thread Group 1-18;true;;144911;200;200;6617;1;0;CPCG-150518
+1,54478E+12;25274;Get Página Inicial;200;OK;Thread Group 1-68;true;;144854;200;200;6486;1;0;CPCG-150518
+1,54478E+12;25273;Get Página Inicial;200;OK;Thread Group 1-2;true;;144662;200;200;4966;1;0;CPCG-150518
+1,54478E+12;25326;Get Página Inicial;200;OK;Thread Group 1-45;true;;145127;200;200;7477;1;0;CPCG-150518
+1,54478E+12;25076;Get Página Inicial;200;OK;Thread Group 1-116;true;;144759;200;200;7218;1;0;CPCG-150518
+1,54478E+12;25039;Get Página Inicial;200;OK;Thread Group 1-125;true;;144904;200;200;7158;1;0;CPCG-150518
+1,54478E+12;24913;Get Página Inicial;200;OK;Thread Group 1-150;true;;144908;200;200;4591;1;0;CPCG-150518
+1,54478E+12;24938;Get Página Inicial;200;OK;Thread Group 1-146;true;;144619;200;200;7007;1;0;CPCG-150518
+1,54478E+12;25743;Get Página Inicial;200;OK;Thread Group 1-71;true;;144626;200;200;4971;1;0;CPCG-150518
+1,54478E+12;25721;Get Página Inicial;200;OK;Thread Group 1-109;true;;144648;200;200;4765;1;0;CPCG-150518
+1,54478E+12;25894;Get Página Inicial;200;OK;Thread Group 1-48;true;;144964;200;200;4950;1;0;CPCG-150518
+1,54478E+12;25675;Get Página Inicial;200;OK;Thread Group 1-126;true;;144972;200;200;8438;1;0;CPCG-150518
+1,54478E+12;25784;Get Página Inicial;200;OK;Thread Group 1-103;true;;144863;200;200;6789;1;0;CPCG-150518
+1,54478E+12;26027;Get Página Inicial;200;OK;Thread Group 1-52;true;;145096;200;200;9039;1;0;CPCG-150518
+1,54478E+12;25814;Get Página Inicial;200;OK;Thread Group 1-102;true;;144875;200;200;8833;1;0;CPCG-150518
+1,54478E+12;25976;Get Página Inicial;200;OK;Thread Group 1-46;true;;144842;200;200;7573;1;0;CPCG-150518
+1,54478E+12;25706;Get Página Inicial;200;OK;Thread Group 1-123;true;;144933;200;200;6698;1;0;CPCG-150518
+1,54478E+12;25479;Get Página Inicial;200;OK;Thread Group 1-171;true;;144950;200;200;8465;1;0;CPCG-150518
+1,54478E+12;26001;Get Página Inicial;200;OK;Thread Group 1-3;true;;144889;200;200;7829;1;0;CPCG-150518
+1,54478E+12;25995;Get Página Inicial;200;OK;Thread Group 1-41;true;;145251;200;200;7512;1;0;CPCG-150518
+1,54478E+12;25608;Get Página Inicial;200;OK;Thread Group 1-156;true;;144840;200;200;8271;1;0;CPCG-150518
+1,54478E+12;26098;Get Página Inicial;200;OK;Thread Group 1-131;true;;144925;200;200;8629;1;0;CPCG-150518
+1,54478E+12;26382;Get Página Inicial;200;OK;Thread Group 1-67;true;;144855;200;200;6567;1;0;CPCG-150518
+1,54478E+12;26889;Get Página Inicial;200;OK;Thread Group 1-19;true;;144856;200;200;6580;1;0;CPCG-150518
+1,54478E+12;27108;Get Página Inicial;200;OK;Thread Group 1-69;true;;144889;200;200;6530;1;0;CPCG-150518
+1,54478E+12;26742;Get Página Inicial;200;OK;Thread Group 1-152;true;;144963;200;200;6198;1;0;CPCG-150518
+1,54478E+12;27336;Get Página Inicial;200;OK;Thread Group 1-79;true;;144844;200;200;10271;1;0;CPCG-150518
+1,54478E+12;27486;Get Página Inicial;200;OK;Thread Group 1-26;true;;144714;200;200;10447;1;0;CPCG-150518
+1,54478E+12;26936;Get Página Inicial;200;OK;Thread Group 1-174;true;;144999;200;200;9908;1;0;CPCG-150518
+1,54478E+12;27242;Get Página Inicial;200;OK;Thread Group 1-110;true;;144870;200;200;6472;1;0;CPCG-150518
+1,54478E+12;27014;Get Página Inicial;200;OK;Thread Group 1-159;true;;144936;200;200;8809;1;0;CPCG-150518
+1,54478E+12;27474;Get Página Inicial;200;OK;Thread Group 1-34;true;;144668;200;200;7387;1;0;CPCG-150518
+1,54478E+12;26858;Get Página Inicial;200;OK;Thread Group 1-196;true;;145026;200;200;8528;1;0;CPCG-150518
+1,54478E+12;27492;Get Página Inicial;200;OK;Thread Group 1-30;true;;144914;200;200;8470;1;0;CPCG-150518
+1,54478E+12;27152;Get Página Inicial;200;OK;Thread Group 1-138;true;;145042;200;200;7454;1;0;CPCG-150518
+1,54478E+12;27531;Get Página Inicial;200;OK;Thread Group 1-20;true;;144845;200;200;9140;1;0;CPCG-150518
+1,54478E+12;26897;Get Página Inicial;200;OK;Thread Group 1-195;true;;144820;200;200;9804;1;0;CPCG-150518
+1,54478E+12;26937;Get Página Inicial;200;OK;Thread Group 1-189;true;;144769;200;200;8408;1;0;CPCG-150518
+1,54478E+12;27237;Get Página Inicial;200;OK;Thread Group 1-127;true;;144924;200;200;7123;1;0;CPCG-150518
+1,54478E+12;27147;Get Página Inicial;200;OK;Thread Group 1-145;true;;145063;200;200;7407;1;0;CPCG-150518
+1,54478E+12;26977;Get Página Inicial;200;OK;Thread Group 1-182;true;;144961;200;200;8353;1;0;CPCG-150518
+1,54478E+12;27058;Get Página Inicial;200;OK;Thread Group 1-191;true;;144869;200;200;11135;1;0;CPCG-150518
+1,54478E+12;27592;Get Página Inicial;200;OK;Thread Group 1-84;true;;144801;200;200;10285;1;0;CPCG-150518
+1,54478E+12;27364;Get Página Inicial;200;OK;Thread Group 1-135;true;;145070;200;200;6266;1;0;CPCG-150518
+1,54478E+12;27740;Get Página Inicial;200;OK;Thread Group 1-37;true;;144849;200;200;9014;1;0;CPCG-150518
+1,54478E+12;28075;Get Página Inicial;200;OK;Thread Group 1-29;true;;145087;200;200;11740;1;0;CPCG-150518
+1,54478E+12;27891;Get Página Inicial;200;OK;Thread Group 1-96;true;;144957;200;200;8874;1;0;CPCG-150518
+1,54478E+12;27865;Get Página Inicial;200;OK;Thread Group 1-115;true;;144864;200;200;7300;1;0;CPCG-150518
+1,54478E+12;28157;Get Página Inicial;200;OK;Thread Group 1-62;true;;144958;200;200;7433;1;0;CPCG-150518
+1,54478E+12;28242;Get Página Inicial;200;OK;Thread Group 1-149;true;;144812;200;200;7266;1;0;CPCG-150518
+1,54478E+12;28335;Get Página Inicial;200;OK;Thread Group 1-143;true;;144850;200;200;7043;1;0;CPCG-150518
+1,54478E+12;29277;Get Página Inicial;200;OK;Thread Group 1-43;true;;145009;200;200;7413;1;0;CPCG-150518
+1,54478E+12;28792;Get Página Inicial;200;OK;Thread Group 1-167;true;;144972;200;200;11201;1;0;CPCG-150518
+1,54478E+12;29516;Get Página Inicial;200;OK;Thread Group 1-55;true;;145063;200;200;10473;1;0;CPCG-150518
+1,54478E+12;29395;Get Página Inicial;200;OK;Thread Group 1-87;true;;144884;200;200;9031;1;0;CPCG-150518
+1,54478E+12;30811;Get Página Inicial;200;OK;Thread Group 1-21;true;;144858;200;200;8947;1;0;CPCG-150518
+1,54478E+12;30999;Get Página Inicial;200;OK;Thread Group 1-40;true;;145005;200;200;7542;1;0;CPCG-150518
+1,54478E+12;30940;Get Página Inicial;200;OK;Thread Group 1-28;true;;144973;200;200;11618;1;0;CPCG-150518
+1,54478E+12;30895;Get Página Inicial;200;OK;Thread Group 1-80;true;;144938;200;200;8628;1;0;CPCG-150518
+1,54478E+12;31066;Get Página Inicial;200;OK;Thread Group 1-54;true;;144829;200;200;8979;1;0;CPCG-150518
+1,54478E+12;31057;Get Página Inicial;200;OK;Thread Group 1-17;true;;144999;200;200;9034;1;0;CPCG-150518
+1,54478E+12;31072;Get Página Inicial;200;OK;Thread Group 1-51;true;;144775;200;200;9030;1;0;CPCG-150518
+1,54478E+12;30787;Get Página Inicial;200;OK;Thread Group 1-147;true;;144987;200;200;7125;1;0;CPCG-150518
+1,54478E+12;31257;Get Página Inicial;200;OK;Thread Group 1-16;true;;144870;200;200;9028;1;0;CPCG-150518
+1,54478E+12;31160;Get Página Inicial;200;OK;Thread Group 1-73;true;;145111;200;200;8917;1;0;CPCG-150518
+1,54478E+12;30746;Get Página Inicial;200;OK;Thread Group 1-163;true;;144808;200;200;8492;1;0;CPCG-150518
+1,54478E+12;30949;Get Página Inicial;200;OK;Thread Group 1-132;true;;144785;200;200;8146;1;0;CPCG-150518
+1,54478E+12;30659;Get Página Inicial;200;OK;Thread Group 1-194;true;;144837;200;200;8322;1;0;CPCG-150518
+1,54478E+12;31243;Get Página Inicial;200;OK;Thread Group 1-72;true;;144969;200;200;11656;1;0;CPCG-150518
+1,54478E+12;30786;Get Página Inicial;200;OK;Thread Group 1-197;true;;145014;200;200;8281;1;0;CPCG-150518
+1,54478E+12;30774;Get Página Inicial;200;OK;Thread Group 1-200;true;;144727;200;200;11032;1;0;CPCG-150518
+1,54478E+12;30871;Get Página Inicial;200;OK;Thread Group 1-185;true;;144752;200;200;10998;1;0;CPCG-150518
+1,54478E+12;31535;Get Página Inicial;200;OK;Thread Group 1-33;true;;144669;200;200;8480;1;0;CPCG-150518
+1,54478E+12;31544;Get Página Inicial;200;OK;Thread Group 1-60;true;;145002;200;200;8969;1;0;CPCG-150518
+1,54478E+12;31076;Get Página Inicial;200;OK;Thread Group 1-160;true;;144785;200;200;8504;1;0;CPCG-150518
+1,54478E+12;31232;Get Página Inicial;200;OK;Thread Group 1-128;true;;144912;200;200;6306;1;0;CPCG-150518
+1,54478E+12;31575;Get Página Inicial;200;OK;Thread Group 1-22;true;;144663;200;200;7551;1;0;CPCG-150518
+1,54478E+12;31013;Get Página Inicial;200;OK;Thread Group 1-184;true;;144920;200;200;9964;1;0;CPCG-150518
+1,54478E+12;31614;Get Página Inicial;200;OK;Thread Group 1-63;true;;144848;200;200;7469;1;0;CPCG-150518
+1,54478E+12;31505;Get Página Inicial;200;OK;Thread Group 1-92;true;;145161;200;200;10952;1;0;CPCG-150518
+1,54478E+12;31452;Get Página Inicial;200;OK;Thread Group 1-117;true;;144949;200;200;8209;1;0;CPCG-150518
+1,54478E+12;31336;Get Página Inicial;200;OK;Thread Group 1-148;true;;145076;200;200;7053;1;0;CPCG-150518
+1,54478E+12;31396;Get Página Inicial;200;OK;Thread Group 1-137;true;;144929;200;200;7147;1;0;CPCG-150518
+1,54478E+12;31778;Get Página Inicial;200;OK;Thread Group 1-27;true;;144739;200;200;11110;1;0;CPCG-150518
+1,54478E+12;31163;Get Página Inicial;200;OK;Thread Group 1-193;true;;144976;200;200;9354;1;0;CPCG-150518
+1,54478E+12;31369;Get Página Inicial;200;OK;Thread Group 1-151;true;;144655;200;200;6968;1;0;CPCG-150518
+1,54478E+12;31634;Get Página Inicial;200;OK;Thread Group 1-95;true;;144856;200;200;8525;1;0;CPCG-150518
+1,54478E+12;31416;Get Página Inicial;200;OK;Thread Group 1-142;true;;144733;200;200;7075;1;0;CPCG-150518
+1,54478E+12;31536;Get Página Inicial;200;OK;Thread Group 1-120;true;;144684;200;200;10946;1;0;CPCG-150518
+1,54478E+12;31800;Get Página Inicial;200;OK;Thread Group 1-23;true;;144642;200;200;7512;1;0;CPCG-150518
+1,54478E+12;31596;Get Página Inicial;200;OK;Thread Group 1-114;true;;144960;200;200;7249;1;0;CPCG-150518
+1,54478E+12;32103;Get Página Inicial;200;OK;Thread Group 1-8;true;;144749;200;200;10559;1;0;CPCG-150518
+1,54478E+12;31596;Get Página Inicial;200;OK;Thread Group 1-166;true;;144914;200;200;10060;1;0;CPCG-150518
+1,54478E+12;31620;Get Página Inicial;200;OK;Thread Group 1-162;true;;144878;200;200;10745;1;0;CPCG-150518
+1,54478E+12;32115;Get Página Inicial;200;OK;Thread Group 1-14;true;;144977;200;200;10419;1;0;CPCG-150518
+1,54478E+12;31573;Get Página Inicial;200;OK;Thread Group 1-172;true;;144892;200;200;8156;1;0;CPCG-150518
+1,54478E+12;31903;Get Página Inicial;200;OK;Thread Group 1-105;true;;144926;200;200;10333;1;0;CPCG-150518
+1,54478E+12;31481;Get Página Inicial;200;OK;Thread Group 1-192;true;;144765;200;200;9883;1;0;CPCG-150518
+1,54478E+12;31893;Get Página Inicial;200;OK;Thread Group 1-106;true;;145005;200;200;10307;1;0;CPCG-150518
+1,54478E+12;31552;Get Página Inicial;200;OK;Thread Group 1-179;true;;144965;200;200;9419;1;0;CPCG-150518
+1,54478E+12;31600;Get Página Inicial;200;OK;Thread Group 1-175;true;;145043;200;200;10703;1;0;CPCG-150518
+1,54478E+12;32163;Get Página Inicial;200;OK;Thread Group 1-12;true;;144920;200;200;10406;1;0;CPCG-150518
+1,54478E+12;32174;Get Página Inicial;200;OK;Thread Group 1-42;true;;144810;200;200;10477;1;0;CPCG-150518
+1,54478E+12;31702;Get Página Inicial;200;OK;Thread Group 1-164;true;;145174;200;200;10053;1;0;CPCG-150518
+1,54478E+12;31921;Get Página Inicial;200;OK;Thread Group 1-119;true;;144834;200;200;8442;1;0;CPCG-150518
+1,54478E+12;32019;Get Página Inicial;200;OK;Thread Group 1-111;true;;144940;200;200;10227;1;0;CPCG-150518
+1,54478E+12;32071;Get Página Inicial;200;OK;Thread Group 1-98;true;;145046;200;200;10046;1;0;CPCG-150518
+1,54478E+12;32216;Get Página Inicial;200;OK;Thread Group 1-15;true;;144917;200;200;11724;1;0;CPCG-150518
+1,54478E+12;32237;Get Página Inicial;200;OK;Thread Group 1-32;true;;144846;200;200;11769;1;0;CPCG-150518
+1,54478E+12;31764;Get Página Inicial;200;OK;Thread Group 1-177;true;;144865;200;200;9430;1;0;CPCG-150518
+1,54478E+12;31712;Get Página Inicial;200;OK;Thread Group 1-190;true;;144779;200;200;9606;1;0;CPCG-150518
+1,54478E+12;31800;Get Página Inicial;200;OK;Thread Group 1-187;true;;145180;200;200;11690;1;0;CPCG-150518
+1,54478E+12;32263;Get Página Inicial;200;OK;Thread Group 1-90;true;;145048;200;200;12332;1;0;CPCG-150518
+1,54478E+12;31881;Get Página Inicial;200;OK;Thread Group 1-170;true;;145102;200;200;9987;1;0;CPCG-150518
+1,54478E+12;32263;Get Página Inicial;200;OK;Thread Group 1-93;true;;144824;200;200;11620;1;0;CPCG-150518
+1,54478E+12;32301;Get Página Inicial;200;OK;Thread Group 1-76;true;;144789;200;200;12288;1;0;CPCG-150518
+1,54478E+12;31831;Get Página Inicial;200;OK;Thread Group 1-186;true;;144890;200;200;9961;1;0;CPCG-150518
+1,54478E+12;32247;Get Página Inicial;200;OK;Thread Group 1-99;true;;144838;200;200;10326;1;0;CPCG-150518
+1,54478E+12;32294;Get Página Inicial;200;OK;Thread Group 1-89;true;;144983;200;200;11666;1;0;CPCG-150518
+1,54478E+12;32463;Get Página Inicial;200;OK;Thread Group 1-38;true;;145070;200;200;11842;1;0;CPCG-150518
+1,54478E+12;32425;Get Página Inicial;200;OK;Thread Group 1-50;true;;145014;200;200;8488;1;0;CPCG-150518
+1,54478E+12;32463;Get Página Inicial;200;OK;Thread Group 1-53;true;;144989;200;200;10460;1;0;CPCG-150518
+1,54478E+12;31978;Get Página Inicial;200;OK;Thread Group 1-157;true;;144904;200;200;9771;1;0;CPCG-150518
+1,54478E+12;31924;Get Página Inicial;200;OK;Thread Group 1-169;true;;144953;200;200;8161;1;0;CPCG-150518
+1,54478E+12;32213;Get Página Inicial;200;OK;Thread Group 1-108;true;;144986;200;200;11003;1;0;CPCG-150518
+1,54478E+12;32135;Get Página Inicial;200;OK;Thread Group 1-124;true;;144834;200;200;9683;1;0;CPCG-150518
+1,54478E+12;32445;Get Página Inicial;200;OK;Thread Group 1-59;true;;145229;200;200;10394;1;0;CPCG-150518
+1,54478E+12;32269;Get Página Inicial;200;OK;Thread Group 1-101;true;;145049;200;200;12298;1;0;CPCG-150518
+1,54478E+12;32142;Get Página Inicial;200;OK;Thread Group 1-129;true;;144736;200;200;11474;1;0;CPCG-150518
+1,54478E+12;32483;Get Página Inicial;200;OK;Thread Group 1-49;true;;144863;200;200;12434;1;0;CPCG-150518
+1,54478E+12;32974;Get Página Inicial;200;OK;Thread Group 1-25;true;;144708;200;200;12360;1;0;CPCG-150518
+1,54478E+12;32507;Get Página Inicial;200;OK;Thread Group 1-158;true;;144944;200;200;9931;1;0;CPCG-150518
+1,54478E+12;32971;Get Página Inicial;200;OK;Thread Group 1-58;true;;145048;200;200;11224;1;0;CPCG-150518
+1,54478E+12;32306;Get Página Inicial;200;OK;Thread Group 1-198;true;;145189;200;200;11758;1;0;CPCG-150518
+1,54478E+12;32800;Get Página Inicial;200;OK;Thread Group 1-94;true;;144985;200;200;10273;1;0;CPCG-150518
+1,54478E+12;32471;Get Página Inicial;200;OK;Thread Group 1-165;true;;145014;200;200;11955;1;0;CPCG-150518
+1,54478E+12;32398;Get Página Inicial;200;OK;Thread Group 1-180;true;;145109;200;200;11879;1;0;CPCG-150518
+1,54478E+12;33028;Get Página Inicial;200;OK;Thread Group 1-35;true;;144861;200;200;12498;1;0;CPCG-150518
+1,54478E+12;32747;Get Página Inicial;200;OK;Thread Group 1-107;true;;144889;200;200;12281;1;0;CPCG-150518
+1,54478E+12;32852;Get Página Inicial;200;OK;Thread Group 1-83;true;;144612;200;200;10263;1;0;CPCG-150518
+1,54478E+12;33979;Get Página Inicial;200;OK;Thread Group 1-74;true;;144784;200;200;8585;1;0;CPCG-150518
+1,54478E+12;34023;Get Página Inicial;200;OK;Thread Group 1-10;true;;144992;200;200;6546;1;0;CPCG-150518
+1,54478E+12;34484;Get Página Inicial;200;OK;Thread Group 1-4;true;;144962;200;200;12496;1;0;CPCG-150518
+1,54478E+12;63257;Get Página Inicial;200;OK;Thread Group 1-75;true;;144805;200;200;12339;1;0;CPCG-150518
+1,54478E+12;63361;Get Página Inicial;200;OK;Thread Group 1-57;true;;145135;200;200;12517;1;0;CPCG-150518
+1,54478E+12;63216;Get Página Inicial;200;OK;Thread Group 1-88;true;;144947;200;200;12420;1;0;CPCG-150518
+1,54478E+12;62779;Get Página Inicial;200;OK;Thread Group 1-181;true;;144780;200;200;12003;1;0;CPCG-150518
+1,54478E+12;62849;Get Página Inicial;200;OK;Thread Group 1-168;true;;144806;200;200;11983;1;0;CPCG-150518
+1,54478E+12;63224;Get Página Inicial;200;OK;Thread Group 1-91;true;;144944;200;200;12460;1;0;CPCG-150518
+1,54478E+12;63372;Get Página Inicial;200;OK;Thread Group 1-13;true;;145099;200;200;12302;1;0;CPCG-150518
+1,54478E+12;62823;Get Página Inicial;200;OK;Thread Group 1-176;true;;145054;200;200;12011;1;0;CPCG-150518
+1,54478E+12;63316;Get Página Inicial;200;OK;Thread Group 1-9;true;;144934;200;200;12503;1;0;CPCG-150518
+1,54478E+12;63208;Get Página Inicial;200;OK;Thread Group 1-97;true;;144898;200;200;12401;1;0;CPCG-150518
+1,54478E+12;62854;Get Página Inicial;200;OK;Thread Group 1-173;true;;144625;200;200;8148;1;0;CPCG-150518
+1,54478E+12;63017;Get Página Inicial;200;OK;Thread Group 1-139;true;;144824;200;200;8464;1;0;CPCG-150518
+1,54478E+12;63337;Get Página Inicial;200;OK;Thread Group 1-70;true;;144788;200;200;8667;1;0;CPCG-150518
+1,54478E+12;63275;Get Página Inicial;200;OK;Thread Group 1-77;true;;144874;200;200;12308;1;0;CPCG-150518
+1,54478E+12;62750;Get Página Inicial;200;OK;Thread Group 1-199;true;;144959;200;200;8077;1;0;CPCG-150518
+1,54478E+12;63323;Get Página Inicial;200;OK;Thread Group 1-78;true;;145089;200;200;8650;1;0;CPCG-150518
+1,54478E+12;63436;Get Página Inicial;200;OK;Thread Group 1-39;true;;145005;200;200;12713;1;0;CPCG-150518
+1,54478E+12;62812;Get Página Inicial;200;OK;Thread Group 1-188;true;;145025;200;200;11130;1;0;CPCG-150518
+1,54478E+12;62863;Get Página Inicial;200;OK;Thread Group 1-178;true;;145128;200;200;11885;1;0;CPCG-150518
+1,54478E+12;63443;Get Página Inicial;200;OK;Thread Group 1-24;true;;144770;200;200;11679;1;0;CPCG-150518
+1,54478E+12;63099;Get Página Inicial;200;OK;Thread Group 1-130;true;;145134;200;200;12278;1;0;CPCG-150518
+1,54478E+12;63298;Get Página Inicial;200;OK;Thread Group 1-86;true;;145107;200;200;11544;1;0;CPCG-150518
+1,54478E+12;63368;Get Página Inicial;200;OK;Thread Group 1-36;true;;144841;200;200;12507;1;0;CPCG-150518
+1,54478E+12;63332;Get Página Inicial;200;OK;Thread Group 1-81;true;;145034;200;200;8846;1;0;CPCG-150518
+1,54478E+12;62954;Get Página Inicial;200;OK;Thread Group 1-161;true;;144939;200;200;11176;1;0;CPCG-150518
+1,54478E+12;63061;Get Página Inicial;200;OK;Thread Group 1-140;true;;145116;200;200;8353;1;0;CPCG-150518
+1,54478E+12;63158;Get Página Inicial;200;OK;Thread Group 1-121;true;;144941;200;200;11379;1;0;CPCG-150518
+1,54478E+12;63385;Get Página Inicial;200;OK;Thread Group 1-31;true;;145081;200;200;12526;1;0;CPCG-150518
+1,54478E+12;62861;Get Página Inicial;200;OK;Thread Group 1-183;true;;144810;200;200;8271;1;0;CPCG-150518
+1,54478E+12;63343;Get Página Inicial;200;OK;Thread Group 1-82;true;;144901;200;200;12473;1;0;CPCG-150518
+1,54478E+12;63324;Get Página Inicial;200;OK;Thread Group 1-85;true;;144831;200;200;11575;1;0;CPCG-150518
+1,54478E+12;63309;Get Página Inicial;200;OK;Thread Group 1-100;true;;144919;200;200;11424;1;0;CPCG-150518
+1,54478E+12;63539;Get Página Inicial;200;OK;Thread Group 1-56;true;;144947;200;200;11527;1;0;CPCG-150518
+1,54478E+12;31589;Tentativa de Login;200;OK;Thread Group 1-76;false;Não conseguiu logar no sistema;81505;200;200;30611;1;1;CPCG-150518
+1,54478E+12;31574;Tentativa de Login;200;OK;Thread Group 1-89;false;Não conseguiu logar no sistema;81505;200;200;30607;1;1;CPCG-150518
+1,54478E+12;31555;Tentativa de Login;200;OK;Thread Group 1-124;false;Não conseguiu logar no sistema;81505;200;200;30582;1;1;CPCG-150518
+1,54478E+12;31601;Tentativa de Login;200;OK;Thread Group 1-99;false;Não conseguiu logar no sistema;81505;200;200;30594;1;1;CPCG-150518
+1,54478E+12;31625;Tentativa de Login;200;OK;Thread Group 1-93;false;Não conseguiu logar no sistema;81506;200;200;30636;1;1;CPCG-150518
+1,54478E+12;32814;Tentativa de Login;200;OK;Thread Group 1-132;false;Não conseguiu logar no sistema;81507;200;200;31830;1;1;CPCG-150518
+1,54478E+12;38853;Tentativa de Login;500;Internal Server Error;Thread Group 1-122;false;Não conseguiu logar no sistema;2386;200;200;38851;1;1;CPCG-150518
+1,54478E+12;31719;Tentativa de Login;200;OK;Thread Group 1-186;false;Não conseguiu logar no sistema;81505;200;200;30617;1;1;CPCG-150518
+1,54478E+12;32601;Tentativa de Login;200;OK;Thread Group 1-60;false;Não conseguiu logar no sistema;81506;200;200;31544;1;1;CPCG-150518
+1,54478E+12;31690;Tentativa de Login;200;OK;Thread Group 1-129;false;Não conseguiu logar no sistema;81505;200;200;30563;1;1;CPCG-150518
+1,54478E+12;31877;Tentativa de Login;200;OK;Thread Group 1-15;false;Não conseguiu logar no sistema;81504;200;200;30711;1;1;CPCG-150518
+1,54478E+12;31743;Tentativa de Login;200;OK;Thread Group 1-50;false;Não conseguiu logar no sistema;81505;200;200;30580;1;1;CPCG-150518
+1,54478E+12;32719;Tentativa de Login;200;OK;Thread Group 1-185;false;Não conseguiu logar no sistema;81506;200;200;31659;1;1;CPCG-150518
+1,54478E+12;31783;Tentativa de Login;200;OK;Thread Group 1-170;false;Não conseguiu logar no sistema;81505;200;200;30691;1;1;CPCG-150518
+1,54478E+12;31722;Tentativa de Login;200;OK;Thread Group 1-49;false;Não conseguiu logar no sistema;81505;200;200;30567;1;1;CPCG-150518
+1,54478E+12;32750;Tentativa de Login;200;OK;Thread Group 1-200;false;Não conseguiu logar no sistema;81505;200;200;31645;1;1;CPCG-150518
+1,54478E+12;32771;Tentativa de Login;200;OK;Thread Group 1-197;false;Não conseguiu logar no sistema;81506;200;200;31692;1;1;CPCG-150518
+1,54478E+12;32979;Tentativa de Login;200;OK;Thread Group 1-16;false;Não conseguiu logar no sistema;81506;200;200;31880;1;1;CPCG-150518
+1,54478E+12;31800;Tentativa de Login;200;OK;Thread Group 1-59;false;Não conseguiu logar no sistema;81505;200;200;30656;1;1;CPCG-150518
+1,54478E+12;32175;Tentativa de Login;200;OK;Thread Group 1-187;false;Não conseguiu logar no sistema;81505;200;200;30643;1;1;CPCG-150518
+1,54478E+12;32154;Tentativa de Login;200;OK;Thread Group 1-157;false;Não conseguiu logar no sistema;81506;200;200;30638;1;1;CPCG-150518
+1,54478E+12;32168;Tentativa de Login;200;OK;Thread Group 1-38;false;Não conseguiu logar no sistema;81505;200;200;30600;1;1;CPCG-150518
+1,54478E+12;39318;Tentativa de Login;500;Internal Server Error;Thread Group 1-64;false;Não conseguiu logar no sistema;2386;200;200;39318;1;1;CPCG-150518
+1,54478E+12;38626;Tentativa de Login;500;Internal Server Error;Thread Group 1-103;false;Não conseguiu logar no sistema;2386;200;200;38625;1;1;CPCG-150518
+1,54478E+12;32164;Tentativa de Login;200;OK;Thread Group 1-101;false;Não conseguiu logar no sistema;81505;200;200;30593;1;1;CPCG-150518
+1,54478E+12;32224;Tentativa de Login;200;OK;Thread Group 1-90;false;Não conseguiu logar no sistema;81505;200;200;30652;1;1;CPCG-150518
+1,54478E+12;33335;Tentativa de Login;200;OK;Thread Group 1-194;false;Não conseguiu logar no sistema;81506;200;200;31834;1;1;CPCG-150518
+1,54478E+12;32189;Tentativa de Login;200;OK;Thread Group 1-108;false;Não conseguiu logar no sistema;81505;200;200;30629;1;1;CPCG-150518
+1,54478E+12;629;GET dados básicos da matrícula;200;OK;Thread Group 1-124;false;Não conseguiu acessar tela de matrícula;82415;200;200;95;1;1;CPCG-150518
+1,54478E+12;632;GET dados básicos da matrícula;200;OK;Thread Group 1-89;false;Não conseguiu acessar tela de matrícula;82414;200;200;104;1;1;CPCG-150518
+1,54478E+12;609;GET dados básicos da matrícula;200;OK;Thread Group 1-93;false;Não conseguiu acessar tela de matrícula;82414;200;200;86;1;1;CPCG-150518
+1,54478E+12;649;GET dados básicos da matrícula;200;OK;Thread Group 1-76;false;Não conseguiu acessar tela de matrícula;82414;200;200;113;1;1;CPCG-150518
+1,54478E+12;595;GET dados básicos da matrícula;200;OK;Thread Group 1-99;false;Não conseguiu acessar tela de matrícula;82414;200;200;78;1;1;CPCG-150518
+1,54478E+12;538;GET dados básicos da matrícula;200;OK;Thread Group 1-132;false;Não conseguiu acessar tela de matrícula;82415;200;200;87;1;1;CPCG-150518
+1,54478E+12;502;GET dados básicos da matrícula;200;OK;Thread Group 1-186;false;Não conseguiu acessar tela de matrícula;82415;200;200;79;1;1;CPCG-150518
+1,54478E+12;476;GET dados básicos da matrícula;200;OK;Thread Group 1-50;false;Não conseguiu acessar tela de matrícula;82415;200;200;155;1;1;CPCG-150518
+1,54478E+12;463;GET dados básicos da matrícula;200;OK;Thread Group 1-200;false;Não conseguiu acessar tela de matrícula;82415;200;200;97;1;1;CPCG-150518
+1,54478E+12;450;GET dados básicos da matrícula;200;OK;Thread Group 1-197;false;Não conseguiu acessar tela de matrícula;82415;200;200;110;1;1;CPCG-150518
+1,54478E+12;410;GET dados básicos da matrícula;200;OK;Thread Group 1-59;false;Não conseguiu acessar tela de matrícula;82415;200;200;101;1;1;CPCG-150518
+1,54478E+12;469;GET dados básicos da matrícula;200;OK;Thread Group 1-170;false;Não conseguiu acessar tela de matrícula;82414;200;200;132;1;1;CPCG-150518
+1,54478E+12;452;GET dados básicos da matrícula;200;OK;Thread Group 1-16;false;Não conseguiu acessar tela de matrícula;82414;200;200;72;1;1;CPCG-150518
+1,54478E+12;479;GET dados básicos da matrícula;200;OK;Thread Group 1-185;false;Não conseguiu acessar tela de matrícula;82415;200;200;101;1;1;CPCG-150518
+1,54478E+12;473;GET dados básicos da matrícula;200;OK;Thread Group 1-49;false;Não conseguiu acessar tela de matrícula;82415;200;200;121;1;1;CPCG-150518
+1,54478E+12;524;GET dados básicos da matrícula;200;OK;Thread Group 1-60;false;Não conseguiu acessar tela de matrícula;82415;200;200;118;1;1;CPCG-150518
+1,54478E+12;508;GET dados básicos da matrícula;200;OK;Thread Group 1-15;false;Não conseguiu acessar tela de matrícula;82414;200;200;103;1;1;CPCG-150518
+1,54478E+12;632;GET dados básicos da matrícula;200;OK;Thread Group 1-129;false;Não conseguiu acessar tela de matrícula;82414;200;200;93;1;1;CPCG-150518
+1,54478E+12;39902;Tentativa de Login;200;OK;Thread Group 1-126;false;Não conseguiu logar no sistema;81505;200;200;38057;1;1;CPCG-150518
+1,54478E+12;40562;Tentativa de Login;200;OK;Thread Group 1-18;false;Não conseguiu logar no sistema;81505;200;200;38710;1;1;CPCG-150518
+1,54478E+12;40544;Tentativa de Login;200;OK;Thread Group 1-146;false;Não conseguiu logar no sistema;81504;200;200;38763;1;1;CPCG-150518
+1,54478E+12;34132;Tentativa de Login;200;OK;Thread Group 1-137;false;Não conseguiu logar no sistema;81506;200;200;32870;1;1;CPCG-150518
+1,54478E+12;34139;Tentativa de Login;200;OK;Thread Group 1-148;false;Não conseguiu logar no sistema;81506;200;200;32864;1;1;CPCG-150518
+1,54478E+12;34896;Tentativa de Login;200;OK;Thread Group 1-40;false;Não conseguiu logar no sistema;81507;200;200;33051;1;1;CPCG-150518
+1,54478E+12;40622;Tentativa de Login;200;OK;Thread Group 1-65;false;Não conseguiu logar no sistema;81505;200;200;38770;1;1;CPCG-150518
+1,54478E+12;35099;Tentativa de Login;200;OK;Thread Group 1-21;false;Não conseguiu logar no sistema;81506;200;200;33290;1;1;CPCG-150518
+1,54478E+12;41108;Tentativa de Login;200;OK;Thread Group 1-61;false;Não conseguiu logar no sistema;81505;200;200;39301;1;1;CPCG-150518
+1,54478E+12;36379;Tentativa de Login;200;OK;Thread Group 1-87;false;Não conseguiu logar no sistema;81505;200;200;34606;1;1;CPCG-150518
+1,54478E+12;34190;Tentativa de Login;200;OK;Thread Group 1-117;false;Não conseguiu logar no sistema;81506;200;200;32905;1;1;CPCG-150518
+1,54478E+12;36450;Tentativa de Login;200;OK;Thread Group 1-55;false;Não conseguiu logar no sistema;81506;200;200;34562;1;1;CPCG-150518
+1,54478E+12;34179;Tentativa de Login;200;OK;Thread Group 1-27;false;Não conseguiu logar no sistema;81506;200;200;32904;1;1;CPCG-150518
+1,54478E+12;1410;POST dados básicos da matrícula;200;OK;Thread Group 1-50;true;;82417;200;200;144;1;0;CPCG-150518
+1,54478E+12;40092;Tentativa de Login;200;OK;Thread Group 1-52;false;Não conseguiu logar no sistema;81505;200;200;38837;1;1;CPCG-150518
+1,54478E+12;1479;GET dados básicos da matrícula;200;OK;Thread Group 1-103;false;Não conseguiu acessar tela de matrícula;82504;200;200;1042;1;1;CPCG-150518
+1,54478E+12;1520;GET dados básicos da matrícula;200;OK;Thread Group 1-187;false;Não conseguiu acessar tela de matrícula;82416;200;200;145;1;1;CPCG-150518
+1,54478E+12;1501;GET dados básicos da matrícula;200;OK;Thread Group 1-64;false;Não conseguiu acessar tela de matrícula;82504;200;200;1046;1;1;CPCG-150518
+1,54478E+12;1627;POST dados básicos da matrícula;200;OK;Thread Group 1-49;true;;82416;200;200;135;1;0;CPCG-150518
+1,54478E+12;435;GET dados básicos da matrícula;200;OK;Thread Group 1-137;false;Não conseguiu acessar tela de matrícula;82414;200;200;140;1;1;CPCG-150518
+1,54478E+12;420;GET dados básicos da matrícula;200;OK;Thread Group 1-117;false;Não conseguiu acessar tela de matrícula;82415;200;200;127;1;1;CPCG-150518
+1,54478E+12;442;GET dados básicos da matrícula;200;OK;Thread Group 1-148;false;Não conseguiu acessar tela de matrícula;82414;200;200;174;1;1;CPCG-150518
+1,54478E+12;398;GET dados básicos da matrícula;200;OK;Thread Group 1-27;false;Não conseguiu acessar tela de matrícula;82414;200;200;123;1;1;CPCG-150518
+1,54478E+12;39936;Tentativa de Login;200;OK;Thread Group 1-67;false;Não conseguiu logar no sistema;81505;200;200;38388;1;1;CPCG-150518
+1,54478E+12;326;Post seleção de disciplinas;200;OK;Thread Group 1-50;true;;82415;200;200;91;1;0;CPCG-150518
+1,54478E+12;295;POST dados básicos da matrícula;200;OK;Thread Group 1-187;true;;82415;200;200;104;1;0;CPCG-150518
+1,54478E+12;287;POST dados básicos da matrícula;200;OK;Thread Group 1-64;true;;82415;200;200;107;1;0;CPCG-150518
+1,54478E+12;1761;POST dados básicos da matrícula;200;OK;Thread Group 1-93;true;;82417;200;200;101;1;0;CPCG-150518
+1,54478E+12;320;POST dados básicos da matrícula;200;OK;Thread Group 1-103;true;;82415;200;200;113;1;0;CPCG-150518
+1,54478E+12;387;GET dados básicos da matrícula;200;OK;Thread Group 1-52;false;Não conseguiu acessar tela de matrícula;82415;200;200;154;1;1;CPCG-150518
+1,54478E+12;1796;POST dados básicos da matrícula;200;OK;Thread Group 1-15;true;;82417;200;200;103;1;0;CPCG-150518
+1,54478E+12;1851;POST dados básicos da matrícula;200;OK;Thread Group 1-89;true;;82417;200;200;138;1;0;CPCG-150518
+1,54478E+12;1899;GET dados básicos da matrícula;200;OK;Thread Group 1-157;false;Não conseguiu acessar tela de matrícula;82416;200;200;152;1;1;CPCG-150518
+1,54478E+12;472;Post revisão de seleção;200;OK;Thread Group 1-50;true;;82415;200;200;111;1;0;CPCG-150518
+1,54478E+12;2260;GET dados básicos da matrícula;200;OK;Thread Group 1-90;false;Não conseguiu acessar tela de matrícula;82416;200;200;90;1;1;CPCG-150518
+1,54478E+12;2255;POST dados básicos da matrícula;200;OK;Thread Group 1-99;true;;82417;200;200;191;1;0;CPCG-150518
+1,54478E+12;471;Post seleção de disciplinas;200;OK;Thread Group 1-93;true;;82415;200;200;105;1;0;CPCG-150518
+1,54478E+12;485;Post seleção de disciplinas;200;OK;Thread Group 1-187;true;;82415;200;200;119;1;0;CPCG-150518
+1,54478E+12;494;POST dados básicos da matrícula;200;OK;Thread Group 1-157;true;;82415;200;200;112;1;0;CPCG-150518
+1,54478E+12;590;Post seleção de disciplinas;200;OK;Thread Group 1-49;true;;82415;200;200;69;1;0;CPCG-150518
+1,54478E+12;501;Post seleção de disciplinas;200;OK;Thread Group 1-89;true;;82415;200;200;115;1;0;CPCG-150518
+1,54478E+12;504;Post seleção de disciplinas;200;OK;Thread Group 1-15;true;;82415;200;200;109;1;0;CPCG-150518
+1,54478E+12;2349;POST dados básicos da matrícula;200;OK;Thread Group 1-186;true;;82416;200;200;125;1;0;CPCG-150518
+1,54478E+12;2221;POST dados básicos da matrícula;200;OK;Thread Group 1-129;true;;82417;200;200;128;1;0;CPCG-150518
+1,54478E+12;2424;POST dados básicos da matrícula;200;OK;Thread Group 1-185;true;;82416;200;200;106;1;0;CPCG-150518
+1,54478E+12;2583;POST dados básicos da matrícula;200;OK;Thread Group 1-170;true;;82416;200;200;106;1;0;CPCG-150518
+1,54478E+12;2735;GET dados básicos da matrícula;200;OK;Thread Group 1-194;false;Não conseguiu acessar tela de matrícula;82416;200;200;193;1;1;CPCG-150518
+1,54478E+12;36335;Tentativa de Login;200;OK;Thread Group 1-163;false;Não conseguiu logar no sistema;81507;200;200;31898;1;1;CPCG-150518
+1,54478E+12;35256;Tentativa de Login;200;OK;Thread Group 1-53;false;Não conseguiu logar no sistema;81507;200;200;30625;1;1;CPCG-150518
+1,54478E+12;3672;GET dados básicos da matrícula;200;OK;Thread Group 1-122;false;Não conseguiu acessar tela de matrícula;82504;200;200;1524;1;1;CPCG-150518
+1,54478E+12;1532;POST dados básicos da matrícula;200;OK;Thread Group 1-117;true;;82416;200;200;92;1;0;CPCG-150518
+1,54478E+12;1959;GET dados básicos da matrícula;200;OK;Thread Group 1-67;false;Não conseguiu acessar tela de matrícula;82416;200;200;102;1;1;CPCG-150518
+1,54478E+12;5319;POST dados básicos da matrícula;200;OK;Thread Group 1-200;true;;82417;200;200;86;1;0;CPCG-150518
+1,54478E+12;5318;POST dados básicos da matrícula;200;OK;Thread Group 1-197;true;;82418;200;200;142;1;0;CPCG-150518
+1,54478E+12;5352;GET dados básicos da matrícula;200;OK;Thread Group 1-108;false;Não conseguiu acessar tela de matrícula;82418;200;200;113;1;1;CPCG-150518
+1,54478E+12;4294;GET dados básicos da matrícula;200;OK;Thread Group 1-65;false;Não conseguiu acessar tela de matrícula;82418;200;200;147;1;1;CPCG-150518
+1,54478E+12;2404;POST dados básicos da matrícula;200;OK;Thread Group 1-122;true;;82416;200;200;171;1;0;CPCG-150518
+1,54478E+12;4265;GET dados básicos da matrícula;200;OK;Thread Group 1-55;false;Não conseguiu acessar tela de matrícula;82418;200;200;156;1;1;CPCG-150518
+1,54478E+12;4327;GET dados básicos da matrícula;200;OK;Thread Group 1-40;false;Não conseguiu acessar tela de matrícula;82417;200;200;167;1;1;CPCG-150518
+1,54478E+12;4351;GET dados básicos da matrícula;200;OK;Thread Group 1-126;false;Não conseguiu acessar tela de matrícula;82418;200;200;173;1;1;CPCG-150518
+1,54478E+12;3929;POST dados básicos da matrícula;200;OK;Thread Group 1-137;true;;82417;200;200;98;1;0;CPCG-150518
+1,54478E+12;4385;GET dados básicos da matrícula;200;OK;Thread Group 1-18;false;Não conseguiu acessar tela de matrícula;82418;200;200;128;1;1;CPCG-150518
+1,54478E+12;4398;GET dados básicos da matrícula;200;OK;Thread Group 1-146;false;Não conseguiu acessar tela de matrícula;82418;200;200;169;1;1;CPCG-150518
+1,54478E+12;3951;POST dados básicos da matrícula;200;OK;Thread Group 1-27;true;;82418;200;200;116;1;0;CPCG-150518
+1,54478E+12;4396;GET dados básicos da matrícula;200;OK;Thread Group 1-21;false;Não conseguiu acessar tela de matrícula;82417;200;200;97;1;1;CPCG-150518
+1,54478E+12;3968;POST dados básicos da matrícula;200;OK;Thread Group 1-148;true;;82418;200;200;118;1;0;CPCG-150518
+1,54478E+12;4489;GET dados básicos da matrícula;200;OK;Thread Group 1-87;false;Não conseguiu acessar tela de matrícula;82418;200;200;143;1;1;CPCG-150518
+1,54478E+12;4514;Post seleção de disciplinas;200;OK;Thread Group 1-64;true;;82418;200;200;108;1;0;CPCG-150518
+1,54478E+12;6317;POST dados básicos da matrícula;200;OK;Thread Group 1-132;true;;82419;200;200;133;1;0;CPCG-150518
+1,54478E+12;6327;POST dados básicos da matrícula;200;OK;Thread Group 1-124;true;;82419;200;200;127;1;0;CPCG-150518
+1,54478E+12;4059;Post seleção de disciplinas;200;OK;Thread Group 1-99;true;;82418;200;200;90;1;0;CPCG-150518
+1,54478E+12;6299;POST dados básicos da matrícula;200;OK;Thread Group 1-16;true;;82419;200;200;110;1;0;CPCG-150518
+1,54478E+12;4096;POST dados básicos da matrícula;200;OK;Thread Group 1-90;true;;82418;200;200;105;1;0;CPCG-150518
+1,54478E+12;4000;Post seleção de disciplinas;200;OK;Thread Group 1-186;true;;82418;200;200;81;1;0;CPCG-150518
+1,54478E+12;3990;Post seleção de disciplinas;200;OK;Thread Group 1-129;true;;82417;200;200;62;1;0;CPCG-150518
+1,54478E+12;719;POST dados básicos da matrícula;200;OK;Thread Group 1-146;true;;82415;200;200;79;1;0;CPCG-150518
+1,54478E+12;4022;Post revisão de seleção;200;OK;Thread Group 1-89;true;;82418;200;200;81;1;0;CPCG-150518
+1,54478E+12;5033;POST dados básicos da matrícula;200;OK;Thread Group 1-52;true;;82418;200;200;79;1;0;CPCG-150518
+1,54478E+12;3665;Post seleção de disciplinas;200;OK;Thread Group 1-117;true;;82417;200;200;116;1;0;CPCG-150518
+1,54478E+12;5137;Post seleção de disciplinas;200;OK;Thread Group 1-103;true;;82418;200;200;133;1;0;CPCG-150518
+1,54478E+12;44709;Tentativa de Login;200;OK;Thread Group 1-19;false;Não conseguiu logar no sistema;81506;200;200;39963;1;1;CPCG-150518
+1,54478E+12;3290;POST dados básicos da matrícula;200;OK;Thread Group 1-67;true;;82417;200;200;96;1;0;CPCG-150518
+1,54478E+12;45682;Tentativa de Login;200;OK;Thread Group 1-102;false;Não conseguiu logar no sistema;81506;200;200;40885;1;1;CPCG-150518
+1,54478E+12;5776;GET dados básicos da matrícula;200;OK;Thread Group 1-61;false;Não conseguiu acessar tela de matrícula;82417;200;200;152;1;1;CPCG-150518
+1,54478E+12;4701;Post revisão de seleção;200;OK;Thread Group 1-15;true;;82418;200;200;69;1;0;CPCG-150518
+1,54478E+12;4818;Post revisão de seleção;200;OK;Thread Group 1-187;true;;82418;200;200;78;1;0;CPCG-150518
+1,54478E+12;4822;Post revisão de seleção;200;OK;Thread Group 1-49;true;;82417;200;200;79;1;0;CPCG-150518
+1,54478E+12;4858;Post seleção de disciplinas;200;OK;Thread Group 1-157;true;;82418;200;200;77;1;0;CPCG-150518
+1,54478E+12;7639;POST dados básicos da matrícula;200;OK;Thread Group 1-59;true;;82419;200;200;90;1;0;CPCG-150518
+1,54478E+12;41170;Tentativa de Login;200;OK;Thread Group 1-33;false;Não conseguiu logar no sistema;81509;200;200;31591;1;1;CPCG-150518
+1,54478E+12;1850;Post seleção de disciplinas;200;OK;Thread Group 1-16;true;;82416;200;200;89;1;0;CPCG-150518
+1,54478E+12;1925;Post seleção de disciplinas;200;OK;Thread Group 1-132;true;;82415;200;200;105;1;0;CPCG-150518
+1,54478E+12;2710;POST dados básicos da matrícula;200;OK;Thread Group 1-126;true;;82417;200;200;137;1;0;CPCG-150518
+1,54478E+12;6590;Post revisão de seleção;200;OK;Thread Group 1-93;true;;82419;200;200;86;1;0;CPCG-150518
+1,54478E+12;3345;POST dados básicos da matrícula;200;OK;Thread Group 1-21;true;;82416;200;200;112;1;0;CPCG-150518
+1,54478E+12;3436;POST dados básicos da matrícula;200;OK;Thread Group 1-40;true;;82416;200;200;118;1;0;CPCG-150518
+1,54478E+12;3472;Post seleção de disciplinas;200;OK;Thread Group 1-137;true;;82416;200;200;130;1;0;CPCG-150518
+1,54478E+12;3461;POST dados básicos da matrícula;200;OK;Thread Group 1-18;true;;82416;200;200;139;1;0;CPCG-150518
+1,54478E+12;3445;Post seleção de disciplinas;200;OK;Thread Group 1-148;true;;82417;200;200;173;1;0;CPCG-150518
+1,54478E+12;3462;Post seleção de disciplinas;200;OK;Thread Group 1-27;true;;82417;200;200;133;1;0;CPCG-150518
+1,54478E+12;3373;POST dados básicos da matrícula;200;OK;Thread Group 1-87;true;;82416;200;200;201;1;0;CPCG-150518
+1,54478E+12;42239;Tentativa de Login;200;OK;Thread Group 1-128;false;Não conseguiu logar no sistema;81509;200;200;31581;1;1;CPCG-150518
+1,54478E+12;2891;Post revisão de seleção;200;OK;Thread Group 1-64;true;;82416;200;200;89;1;0;CPCG-150518
+1,54478E+12;6579;Post seleção de disciplinas;200;OK;Thread Group 1-170;true;;82418;200;200;2198;1;0;CPCG-150518
+1,54478E+12;9217;GET dados básicos da matrícula;200;OK;Thread Group 1-38;false;Não conseguiu acessar tela de matrícula;82420;200;200;157;1;1;CPCG-150518
+1,54478E+12;42584;Tentativa de Login;200;OK;Thread Group 1-72;false;Não conseguiu logar no sistema;81510;200;200;31844;1;1;CPCG-150518
+1,54478E+12;41044;Tentativa de Login;200;OK;Thread Group 1-58;false;Não conseguiu logar no sistema;81508;200;200;30206;1;1;CPCG-150518
+1,54478E+12;41390;Tentativa de Login;200;OK;Thread Group 1-165;false;Não conseguiu logar no sistema;81510;200;200;30214;1;1;CPCG-150518
+1,54478E+12;9756;GET dados básicos da matrícula;200;OK;Thread Group 1-101;false;Não conseguiu acessar tela de matrícula;82420;200;200;139;1;1;CPCG-150518
+1,54478E+12;41829;Tentativa de Login;200;OK;Thread Group 1-158;false;Não conseguiu logar no sistema;81509;200;200;30198;1;1;CPCG-150518
+1,54478E+12;10116;POST dados básicos da matrícula;200;OK;Thread Group 1-60;true;;82420;200;200;122;1;0;CPCG-150518
+1,54478E+12;41849;Tentativa de Login;200;OK;Thread Group 1-83;false;Não conseguiu logar no sistema;81508;200;200;30211;1;1;CPCG-150518
+1,54478E+12;4911;Post seleção de disciplinas;200;OK;Thread Group 1-197;true;;82418;200;200;1831;1;0;CPCG-150518
+1,54478E+12;48895;Tentativa de Login;200;OK;Thread Group 1-171;false;Não conseguiu logar no sistema;81508;200;200;39204;1;1;CPCG-150518
+1,54478E+12;41946;Tentativa de Login;200;OK;Thread Group 1-35;false;Não conseguiu logar no sistema;81509;200;200;30211;1;1;CPCG-150518
+1,54478E+12;7350;GET dados básicos da matrícula;200;OK;Thread Group 1-163;false;Não conseguiu acessar tela de matrícula;82418;200;200;2513;1;1;CPCG-150518
+1,54478E+12;3906;Post seleção de disciplinas;200;OK;Thread Group 1-146;true;;82418;200;200;79;1;0;CPCG-150518
+1,54478E+12;3961;Post seleção de disciplinas;200;OK;Thread Group 1-124;true;;82418;200;200;93;1;0;CPCG-150518
+1,54478E+12;3953;Post revisão de seleção;200;OK;Thread Group 1-129;true;;82418;200;200;93;1;0;CPCG-150518
+1,54478E+12;3501;Post revisão de seleção;200;OK;Thread Group 1-117;true;;82418;200;200;1355;1;0;CPCG-150518
+1,54478E+12;7950;Post seleção de disciplinas;200;OK;Thread Group 1-185;true;;82420;200;200;242;1;0;CPCG-150518
+1,54478E+12;4071;Post revisão de seleção;200;OK;Thread Group 1-99;true;;82418;200;200;103;1;0;CPCG-150518
+1,54478E+12;4053;Post seleção de disciplinas;200;OK;Thread Group 1-90;true;;82418;200;200;98;1;0;CPCG-150518
+1,54478E+12;3959;Post revisão de seleção;200;OK;Thread Group 1-103;true;;82418;200;200;1621;1;0;CPCG-150518
+1,54478E+12;3857;GET dados básicos da matrícula;200;OK;Thread Group 1-102;false;Não conseguiu acessar tela de matrícula;82417;200;200;1950;1;1;CPCG-150518
+1,54478E+12;628;Post revisão de seleção;200;OK;Thread Group 1-146;true;;82415;200;200;61;1;0;CPCG-150518
+1,54478E+12;627;Post revisão de seleção;200;OK;Thread Group 1-124;true;;82416;200;200;90;1;0;CPCG-150518
+1,54478E+12;522;Post revisão de seleção;200;OK;Thread Group 1-185;true;;82416;200;200;116;1;0;CPCG-150518
+1,54478E+12;528;Post revisão de seleção;200;OK;Thread Group 1-90;true;;82415;200;200;115;1;0;CPCG-150518
+1,54478E+12;1906;Post seleção de disciplinas;200;OK;Thread Group 1-40;true;;82416;200;200;60;1;0;CPCG-150518
+1,54478E+12;1930;Post seleção de disciplinas;200;OK;Thread Group 1-21;true;;82417;200;200;74;1;0;CPCG-150518
+1,54478E+12;3961;Post seleção de disciplinas;200;OK;Thread Group 1-67;true;;82417;200;200;111;1;0;CPCG-150518
+1,54478E+12;3925;POST dados básicos da matrícula;200;OK;Thread Group 1-61;true;;82418;200;200;1987;1;0;CPCG-150518
+1,54478E+12;4247;Post seleção de disciplinas;200;OK;Thread Group 1-52;true;;82418;200;200;1375;1;0;CPCG-150518
+1,54478E+12;4855;Post revisão de seleção;200;OK;Thread Group 1-186;true;;82417;200;200;102;1;0;CPCG-150518
+1,54478E+12;3049;Post revisão de seleção;200;OK;Thread Group 1-16;true;;82417;200;200;132;1;0;CPCG-150518
+1,54478E+12;2999;Post revisão de seleção;200;OK;Thread Group 1-132;true;;82417;200;200;128;1;0;CPCG-150518
+1,54478E+12;42921;Tentativa de Login;200;OK;Thread Group 1-180;false;Não conseguiu logar no sistema;81510;200;200;30189;1;1;CPCG-150518
+1,54478E+12;44341;Tentativa de Login;200;OK;Thread Group 1-160;false;Não conseguiu logar no sistema;81511;200;200;31597;1;1;CPCG-150518
+1,54478E+12;3043;Post seleção de disciplinas;200;OK;Thread Group 1-126;true;;82417;200;200;238;1;0;CPCG-150518
+1,54478E+12;11351;POST dados básicos da matrícula;200;OK;Thread Group 1-76;true;;82420;200;200;151;1;0;CPCG-150518
+1,54478E+12;43024;Tentativa de Login;200;OK;Thread Group 1-107;false;Não conseguiu logar no sistema;81510;200;200;30188;1;1;CPCG-150518
+1,54478E+12;44496;Tentativa de Login;200;OK;Thread Group 1-184;false;Não conseguiu logar no sistema;81512;200;200;31698;1;1;CPCG-150518
+1,54478E+12;44540;Tentativa de Login;200;OK;Thread Group 1-22;false;Não conseguiu logar no sistema;81511;200;200;31715;1;1;CPCG-150518
+1,54478E+12;3931;Post seleção de disciplinas;200;OK;Thread Group 1-59;true;;82418;200;200;2014;1;0;CPCG-150518
+1,54478E+12;44591;Tentativa de Login;200;OK;Thread Group 1-63;false;Não conseguiu logar no sistema;81511;200;200;31665;1;1;CPCG-150518
+1,54478E+12;6479;POST dados básicos da matrícula;200;OK;Thread Group 1-108;true;;82418;200;200;1876;1;0;CPCG-150518
+1,54478E+12;9101;POST dados básicos da matrícula;200;OK;Thread Group 1-194;true;;82420;200;200;2420;1;0;CPCG-150518
+1,54478E+12;6520;Post seleção de disciplinas;200;OK;Thread Group 1-200;true;;82419;200;200;1840;1;0;CPCG-150518
+1,54478E+12;43585;Tentativa de Login;200;OK;Thread Group 1-25;false;Não conseguiu logar no sistema;81509;200;200;30279;1;1;CPCG-150518
+1,54478E+12;43550;Tentativa de Login;200;OK;Thread Group 1-94;false;Não conseguiu logar no sistema;81510;200;200;30232;1;1;CPCG-150518
+1,54478E+12;208;Post seleção de disciplinas;200;OK;Thread Group 1-108;true;;82416;200;200;69;1;0;CPCG-150518
+1,54478E+12;272;GET dados básicos da matrícula;200;OK;Thread Group 1-25;false;Não conseguiu acessar tela de matrícula;82415;200;200;79;1;1;CPCG-150518
+1,54478E+12;2767;GET dados básicos da matrícula;200;OK;Thread Group 1-58;false;Não conseguiu acessar tela de matrícula;82416;200;200;122;1;1;CPCG-150518
+1,54478E+12;257;GET dados básicos da matrícula;200;OK;Thread Group 1-94;false;Não conseguiu acessar tela de matrícula;82416;200;200;57;1;1;CPCG-150518
+1,54478E+12;43975;Tentativa de Login;200;OK;Thread Group 1-198;false;Não conseguiu logar no sistema;81510;200;200;30224;1;1;CPCG-150518
+1,54478E+12;50989;Tentativa de Login;200;OK;Thread Group 1-48;false;Não conseguiu logar no sistema;81509;200;200;39481;1;1;CPCG-150518
+1,54478E+12;51621;Tentativa de Login;200;OK;Thread Group 1-68;false;Não conseguiu logar no sistema;81509;200;200;39844;1;1;CPCG-150518
+1,54478E+12;9323;GET dados básicos da matrícula;200;OK;Thread Group 1-53;false;Não conseguiu acessar tela de matrícula;82420;200;200;2541;1;1;CPCG-150518
+1,54478E+12;51741;Tentativa de Login;200;OK;Thread Group 1-7;false;Não conseguiu logar no sistema;81509;200;200;40091;1;1;CPCG-150518
+1,54478E+12;2693;GET dados básicos da matrícula;200;OK;Thread Group 1-165;false;Não conseguiu acessar tela de matrícula;82417;200;200;82;1;1;CPCG-150518
+1,54478E+12;6844;Post seleção de disciplinas;200;OK;Thread Group 1-122;true;;82419;200;200;160;1;0;CPCG-150518
+1,54478E+12;4347;GET dados básicos da matrícula;200;OK;Thread Group 1-33;false;Não conseguiu acessar tela de matrícula;82418;200;200;1724;1;1;CPCG-150518
+1,54478E+12;2705;POST dados básicos da matrícula;200;OK;Thread Group 1-101;true;;82417;200;200;61;1;0;CPCG-150518
+1,54478E+12;1780;POST dados básicos da matrícula;200;OK;Thread Group 1-102;true;;82417;200;200;85;1;0;CPCG-150518
+1,54478E+12;244;Post seleção de disciplinas;200;OK;Thread Group 1-101;true;;82415;200;200;63;1;0;CPCG-150518
+1,54478E+12;281;POST dados básicos da matrícula;200;OK;Thread Group 1-33;true;;82416;200;200;63;1;0;CPCG-150518
+1,54478E+12;1883;Post revisão de seleção;200;OK;Thread Group 1-21;true;;82417;200;200;69;1;0;CPCG-150518
+1,54478E+12;189;Post seleção de disciplinas;200;OK;Thread Group 1-102;true;;82415;200;200;65;1;0;CPCG-150518
+1,54478E+12;1964;Post revisão de seleção;200;OK;Thread Group 1-40;true;;82417;200;200;71;1;0;CPCG-150518
+1,54478E+12;2000;Post revisão de seleção;200;OK;Thread Group 1-67;true;;82417;200;200;59;1;0;CPCG-150518
+1,54478E+12;52357;Tentativa de Login;200;OK;Thread Group 1-118;true;;703537;200;200;6529;1;0;CPCG-150518
+1,54478E+12;177;Post revisão de seleção;200;OK;Thread Group 1-102;true;;82414;200;200;63;1;0;CPCG-150518
+1,54478E+12;4180;Post revisão de seleção;200;OK;Thread Group 1-170;true;;82418;200;200;74;1;0;CPCG-150518
+1,54478E+12;6298;Post revisão de seleção;200;OK;Thread Group 1-157;true;;82418;200;200;100;1;0;CPCG-150518
+1,54478E+12;2091;GET dados básicos da matrícula;200;OK;Thread Group 1-22;false;Não conseguiu acessar tela de matrícula;82417;200;200;63;1;1;CPCG-150518
+1,54478E+12;2259;GET dados básicos da matrícula;200;OK;Thread Group 1-184;false;Não conseguiu acessar tela de matrícula;82416;200;200;75;1;1;CPCG-150518
+1,54478E+12;2089;Post revisão de seleção;200;OK;Thread Group 1-200;true;;82417;200;200;83;1;0;CPCG-150518
+1,54478E+12;12045;GET dados básicos da matrícula;200;OK;Thread Group 1-72;false;Não conseguiu acessar tela de matrícula;82418;200;200;92;1;1;CPCG-150518
+1,54478E+12;11382;Post seleção de disciplinas;200;OK;Thread Group 1-60;true;;82419;200;200;60;1;0;CPCG-150518
+1,54478E+12;9501;Post revisão de seleção;200;OK;Thread Group 1-108;true;;82418;200;200;61;1;0;CPCG-150518
+1,54478E+12;15976;POST dados básicos da matrícula;200;OK;Thread Group 1-65;true;;82420;200;200;161;1;0;CPCG-150518
+1,54478E+12;61420;Tentativa de Login;200;OK;Thread Group 1-11;false;Não conseguiu logar no sistema;81506;200;200;60753;1;1;CPCG-150518
+1,54478E+12;62380;Tentativa de Login;200;OK;Thread Group 1-134;true;;703542;200;200;1525;1;0;CPCG-150518
+1,54478E+12;16008;POST dados básicos da matrícula;200;OK;Thread Group 1-55;true;;82421;200;200;169;1;0;CPCG-150518
+1,54478E+12;9474;POST dados básicos da matrícula;200;OK;Thread Group 1-25;true;;82418;200;200;62;1;0;CPCG-150518
+1,54478E+12;9486;POST dados básicos da matrícula;200;OK;Thread Group 1-94;true;;82418;200;200;56;1;0;CPCG-150518
+1,54478E+12;9489;POST dados básicos da matrícula;200;OK;Thread Group 1-58;true;;82418;200;200;66;1;0;CPCG-150518
+1,54478E+12;379;Post seleção de disciplinas;200;OK;Thread Group 1-65;true;;82415;200;200;102;1;0;CPCG-150518
+1,54478E+12;364;GET dados básicos da matrícula;200;OK;Thread Group 1-11;false;Não conseguiu acessar tela de matrícula;82415;200;200;66;1;1;CPCG-150518
+1,54478E+12;383;Post revisão de seleção;200;OK;Thread Group 1-60;true;;82415;200;200;82;1;0;CPCG-150518
+1,54478E+12;312;Post seleção de disciplinas;200;OK;Thread Group 1-25;true;;82415;200;200;87;1;0;CPCG-150518
+1,54478E+12;302;Post seleção de disciplinas;200;OK;Thread Group 1-58;true;;82415;200;200;69;1;0;CPCG-150518
+1,54478E+12;305;Post seleção de disciplinas;200;OK;Thread Group 1-94;true;;82415;200;200;73;1;0;CPCG-150518
+1,54478E+12;345;Post seleção de disciplinas;200;OK;Thread Group 1-55;true;;82415;200;200;88;1;0;CPCG-150518
+1,54478E+12;11792;GET dados básicos da matrícula;200;OK;Thread Group 1-158;false;Não conseguiu acessar tela de matrícula;82419;200;200;67;1;1;CPCG-150518
+1,54478E+12;414;GET dados básicos da matrícula;200;OK;Thread Group 1-134;true;;16881;200;200;146;1;0;CPCG-150518
+1,54478E+12;11875;GET dados básicos da matrícula;200;OK;Thread Group 1-83;false;Não conseguiu acessar tela de matrícula;82419;200;200;63;1;1;CPCG-150518
+1,54478E+12;61453;Tentativa de Login;200;OK;Thread Group 1-113;false;Não conseguiu logar no sistema;81505;200;200;60388;1;1;CPCG-150518
+1,54478E+12;305;POST dados básicos da matrícula;200;OK;Thread Group 1-11;true;;82414;200;200;83;1;0;CPCG-150518
+1,54478E+12;301;Post revisão de seleção;200;OK;Thread Group 1-55;true;;82415;200;200;92;1;0;CPCG-150518
+1,54478E+12;310;Post revisão de seleção;200;OK;Thread Group 1-58;true;;82415;200;200;94;1;0;CPCG-150518
+1,54478E+12;334;Post revisão de seleção;200;OK;Thread Group 1-25;true;;82415;200;200;121;1;0;CPCG-150518
+1,54478E+12;318;Post revisão de seleção;200;OK;Thread Group 1-94;true;;82415;200;200;102;1;0;CPCG-150518
+1,54478E+12;324;Post revisão de seleção;200;OK;Thread Group 1-65;true;;82415;200;200;96;1;0;CPCG-150518
+1,54478E+12;344;POST dados básicos da matrícula;200;OK;Thread Group 1-158;true;;82415;200;200;91;1;0;CPCG-150518
+1,54478E+12;12065;GET dados básicos da matrícula;200;OK;Thread Group 1-171;false;Não conseguiu acessar tela de matrícula;82419;200;200;2095;1;1;CPCG-150518
+1,54478E+12;10032;GET dados básicos da matrícula;200;OK;Thread Group 1-198;false;Não conseguiu acessar tela de matrícula;82418;200;200;8771;1;1;CPCG-150518
+1,54478E+12;12086;Post revisão de seleção;200;OK;Thread Group 1-197;true;;82419;200;200;2039;1;0;CPCG-150518
+1,54478E+12;282;POST dados básicos da matrícula;200;OK;Thread Group 1-83;true;;82415;200;200;83;1;0;CPCG-150518
+1,54478E+12;12073;GET dados básicos da matrícula;200;OK;Thread Group 1-35;false;Não conseguiu acessar tela de matrícula;82419;200;200;2088;1;1;CPCG-150518
+1,54478E+12;276;GET dados básicos da matrícula;200;OK;Thread Group 1-113;false;Não conseguiu acessar tela de matrícula;82415;200;200;99;1;1;CPCG-150518
+1,54478E+12;10094;GET dados básicos da matrícula;200;OK;Thread Group 1-48;false;Não conseguiu acessar tela de matrícula;82418;200;200;65;1;1;CPCG-150518
+1,54478E+12;227;Post seleção de disciplinas;200;OK;Thread Group 1-11;true;;82415;200;200;75;1;0;CPCG-150518
+1,54478E+12;220;Post seleção de disciplinas;200;OK;Thread Group 1-158;true;;82415;200;200;64;1;0;CPCG-150518
+1,54478E+12;249;POST dados básicos da matrícula;200;OK;Thread Group 1-198;true;;82414;200;200;67;1;0;CPCG-150518
+1,54478E+12;257;Post seleção de disciplinas;200;OK;Thread Group 1-83;true;;82414;200;200;77;1;0;CPCG-150518
+1,54478E+12;274;POST dados básicos da matrícula;200;OK;Thread Group 1-35;true;;82415;200;200;84;1;0;CPCG-150518
+1,54478E+12;298;POST dados básicos da matrícula;200;OK;Thread Group 1-171;true;;82414;200;200;89;1;0;CPCG-150518
+1,54478E+12;231;POST dados básicos da matrícula;200;OK;Thread Group 1-48;true;;82415;200;200;78;1;0;CPCG-150518
+1,54478E+12;284;POST dados básicos da matrícula;200;OK;Thread Group 1-113;true;;82415;200;200;92;1;0;CPCG-150518
+1,54478E+12;272;Post revisão de seleção;200;OK;Thread Group 1-11;true;;82415;200;200;116;1;0;CPCG-150518
+1,54478E+12;277;Post revisão de seleção;200;OK;Thread Group 1-158;true;;82414;200;200;91;1;0;CPCG-150518
+1,54478E+12;247;Post seleção de disciplinas;200;OK;Thread Group 1-171;true;;82415;200;200;84;1;0;CPCG-150518
+1,54478E+12;249;Post seleção de disciplinas;200;OK;Thread Group 1-35;true;;82414;200;200;79;1;0;CPCG-150518
+1,54478E+12;297;Post seleção de disciplinas;200;OK;Thread Group 1-198;true;;82415;200;200;86;1;0;CPCG-150518
+1,54478E+12;279;Post revisão de seleção;200;OK;Thread Group 1-83;true;;82415;200;200;82;1;0;CPCG-150518
+1,54478E+12;241;Post seleção de disciplinas;200;OK;Thread Group 1-48;true;;82414;200;200;77;1;0;CPCG-150518
+1,54478E+12;247;Post seleção de disciplinas;200;OK;Thread Group 1-113;true;;82415;200;200;101;1;0;CPCG-150518
+1,54478E+12;969;POST dados básicos da matrícula;200;OK;Thread Group 1-134;true;;165773;200;200;118;1;0;CPCG-150518
+1,54478E+12;10666;GET dados básicos da matrícula;200;OK;Thread Group 1-68;false;Não conseguiu acessar tela de matrícula;82418;200;200;63;1;1;CPCG-150518
+1,54478E+12;10636;GET dados básicos da matrícula;200;OK;Thread Group 1-7;false;Não conseguiu acessar tela de matrícula;82417;200;200;8771;1;1;CPCG-150518
+1,54478E+12;185;Post revisão de seleção;200;OK;Thread Group 1-48;true;;82415;200;200;60;1;0;CPCG-150518
+1,54478E+12;62403;Tentativa de Login;200;OK;Thread Group 1-3;false;Não conseguiu logar no sistema;81505;200;200;60492;1;1;CPCG-150518
+1,54478E+12;62416;Tentativa de Login;200;OK;Thread Group 1-123;false;Não conseguiu logar no sistema;81505;200;200;60536;1;1;CPCG-150518
+1,54478E+12;62437;Tentativa de Login;200;OK;Thread Group 1-41;false;Não conseguiu logar no sistema;81505;200;200;60476;1;1;CPCG-150518
+1,54478E+12;62023;Tentativa de Login;200;OK;Thread Group 1-131;false;Não conseguiu logar no sistema;81505;200;200;60315;1;1;CPCG-150518
+1,54478E+12;62404;Tentativa de Login;200;OK;Thread Group 1-156;false;Não conseguiu logar no sistema;81505;200;200;60428;1;1;CPCG-150518
+1,54478E+12;63439;Tentativa de Login;200;OK;Thread Group 1-141;false;Não conseguiu logar no sistema;81506;200;200;62159;1;1;CPCG-150518
+1,54478E+12;63446;Tentativa de Login;200;OK;Thread Group 1-5;false;Não conseguiu logar no sistema;81506;200;200;62185;1;1;CPCG-150518
+1,54478E+12;1079;Post revisão de seleção;200;OK;Thread Group 1-35;true;;82416;200;200;82;1;0;CPCG-150518
+1,54478E+12;1125;Post revisão de seleção;200;OK;Thread Group 1-198;true;;82416;200;200;77;1;0;CPCG-150518
+1,54478E+12;63613;Tentativa de Login;200;OK;Thread Group 1-66;false;Não conseguiu logar no sistema;81506;200;200;62512;1;1;CPCG-150518
+1,54478E+12;1174;Post revisão de seleção;200;OK;Thread Group 1-113;true;;82417;200;200;78;1;0;CPCG-150518
+1,54478E+12;1214;Post revisão de seleção;200;OK;Thread Group 1-171;true;;82416;200;200;68;1;0;CPCG-150518
+1,54478E+12;63596;Tentativa de Login;200;OK;Thread Group 1-44;false;Não conseguiu logar no sistema;81506;200;200;62623;1;1;CPCG-150518
+1,54478E+12;1158;POST dados básicos da matrícula;200;OK;Thread Group 1-7;true;;82416;200;200;64;1;0;CPCG-150518
+1,54478E+12;346;GET dados básicos da matrícula;200;OK;Thread Group 1-141;false;Não conseguiu acessar tela de matrícula;82415;200;200;80;1;1;CPCG-150518
+1,54478E+12;1233;POST dados básicos da matrícula;200;OK;Thread Group 1-68;true;;82416;200;200;93;1;0;CPCG-150518
+1,54478E+12;63569;Tentativa de Login;200;OK;Thread Group 1-104;false;Não conseguiu logar no sistema;81506;200;200;60508;1;1;CPCG-150518
+1,54478E+12;11827;POST dados básicos da matrícula;200;OK;Thread Group 1-165;true;;82419;200;200;61;1;0;CPCG-150518
+1,54478E+12;353;GET dados básicos da matrícula;200;OK;Thread Group 1-5;false;Não conseguiu acessar tela de matrícula;82414;200;200;115;1;1;CPCG-150518
+1,54478E+12;65059;Tentativa de Login;200;OK;Thread Group 1-1;true;;703544;200;200;1530;1;0;CPCG-150518
+1,54478E+12;11255;GET dados básicos da matrícula;200;OK;Thread Group 1-118;true;;16884;200;200;121;1;0;CPCG-150518
+1,54478E+12;11972;Post revisão de seleção;200;OK;Thread Group 1-122;true;;82418;200;200;8758;1;0;CPCG-150518
+1,54478E+12;328;GET dados básicos da matrícula;200;OK;Thread Group 1-66;false;Não conseguiu acessar tela de matrícula;82414;200;200;97;1;1;CPCG-150518
+1,54478E+12;281;POST dados básicos da matrícula;200;OK;Thread Group 1-141;true;;82415;200;200;105;1;0;CPCG-150518
+1,54478E+12;283;Post seleção de disciplinas;200;OK;Thread Group 1-68;true;;82415;200;200;92;1;0;CPCG-150518
+1,54478E+12;335;Post seleção de disciplinas;200;OK;Thread Group 1-7;true;;82415;200;200;116;1;0;CPCG-150518
+1,54478E+12;272;POST dados básicos da matrícula;200;OK;Thread Group 1-5;true;;82415;200;200;87;1;0;CPCG-150518
+1,54478E+12;468;GET dados básicos da matrícula;200;OK;Thread Group 1-44;false;Não conseguiu acessar tela de matrícula;82415;200;200;86;1;1;CPCG-150518
+1,54478E+12;17581;GET dados básicos da matrícula;200;OK;Thread Group 1-19;false;Não conseguiu acessar tela de matrícula;82422;200;200;125;1;1;CPCG-150518
+1,54478E+12;338;GET dados básicos da matrícula;200;OK;Thread Group 1-104;false;Não conseguiu acessar tela de matrícula;82415;200;200;89;1;1;CPCG-150518
+1,54478E+12;365;Post seleção de disciplinas;200;OK;Thread Group 1-165;true;;82415;200;200;104;1;0;CPCG-150518
+1,54478E+12;254;POST dados básicos da matrícula;200;OK;Thread Group 1-66;true;;82415;200;200;85;1;0;CPCG-150518
+1,54478E+12;11962;Post seleção de disciplinas;200;OK;Thread Group 1-33;true;;82419;200;200;57;1;0;CPCG-150518
+1,54478E+12;12346;POST dados básicos da matrícula;200;OK;Thread Group 1-53;true;;82419;200;200;60;1;0;CPCG-150518
+1,54478E+12;235;Post revisão de seleção;200;OK;Thread Group 1-7;true;;82415;200;200;72;1;0;CPCG-150518
+1,54478E+12;271;Post revisão de seleção;200;OK;Thread Group 1-68;true;;82415;200;200;78;1;0;CPCG-150518
+1,54478E+12;64127;Tentativa de Login;200;OK;Thread Group 1-136;false;Não conseguiu logar no sistema;81506;200;200;60573;1;1;CPCG-150518
+1,54478E+12;238;Post seleção de disciplinas;200;OK;Thread Group 1-66;true;;82415;200;200;75;1;0;CPCG-150518
+1,54478E+12;268;Post revisão de seleção;200;OK;Thread Group 1-165;true;;82415;200;200;90;1;0;CPCG-150518
+1,54478E+12;289;POST dados básicos da matrícula;200;OK;Thread Group 1-104;true;;82415;200;200;81;1;0;CPCG-150518
+1,54478E+12;293;POST dados básicos da matrícula;200;OK;Thread Group 1-44;true;;82415;200;200;105;1;0;CPCG-150518
+1,54478E+12;495;Post revisão de seleção;200;OK;Thread Group 1-33;true;;82415;200;200;93;1;0;CPCG-150518
+1,54478E+12;593;POST dados básicos da matrícula;200;OK;Thread Group 1-19;true;;82415;200;200;99;1;0;CPCG-150518
+1,54478E+12;16165;Post revisão de seleção;200;OK;Thread Group 1-137;true;;82420;200;200;73;1;0;CPCG-150518
+1,54478E+12;14142;Post revisão de seleção;200;OK;Thread Group 1-52;true;;82420;200;200;78;1;0;CPCG-150518
+1,54478E+12;16169;Post seleção de disciplinas;200;OK;Thread Group 1-18;true;;82421;200;200;71;1;0;CPCG-150518
+1,54478E+12;1026;GET dados básicos da matrícula;200;OK;Thread Group 1-1;true;;16881;200;200;185;1;0;CPCG-150518
+1,54478E+12;14996;POST dados básicos da matrícula;200;OK;Thread Group 1-163;true;;82419;200;200;74;1;0;CPCG-150518
+1,54478E+12;496;GET dados básicos da matrícula;200;OK;Thread Group 1-136;false;Não conseguiu acessar tela de matrícula;82415;200;200;92;1;1;CPCG-150518
+1,54478E+12;14419;Post seleção de disciplinas;200;OK;Thread Group 1-61;true;;82420;200;200;85;1;0;CPCG-150518
+1,54478E+12;16246;GET dados básicos da matrícula;200;OK;Thread Group 1-128;false;Não conseguiu acessar tela de matrícula;82421;200;200;62;1;1;CPCG-150518
+1,54478E+12;66141;Tentativa de Login;200;OK;Thread Group 1-112;true;;703551;200;200;1586;1;0;CPCG-150518
+1,54478E+12;64963;Tentativa de Login;200;OK;Thread Group 1-47;false;Não conseguiu logar no sistema;81513;200;200;40019;1;1;CPCG-150518
+1,54478E+12;64380;Tentativa de Login;200;OK;Thread Group 1-109;false;Não conseguiu logar no sistema;81506;200;200;60404;1;1;CPCG-150518
+1,54478E+12;65092;Tentativa de Login;200;OK;Thread Group 1-153;false;Não conseguiu logar no sistema;81513;200;200;40064;1;1;CPCG-150518
+1,54478E+12;62977;Tentativa de Login;200;OK;Thread Group 1-191;false;Não conseguiu logar no sistema;81504;200;200;60989;1;1;CPCG-150518
+1,54478E+12;62932;Tentativa de Login;200;OK;Thread Group 1-37;false;Não conseguiu logar no sistema;81505;200;200;61006;1;1;CPCG-150518
+1,54478E+12;62603;Tentativa de Login;200;OK;Thread Group 1-96;false;Não conseguiu logar no sistema;81505;200;200;60711;1;1;CPCG-150518
+1,54478E+12;62607;Tentativa de Login;200;OK;Thread Group 1-29;false;Não conseguiu logar no sistema;81505;200;200;60653;1;1;CPCG-150518
+1,54478E+12;62548;Tentativa de Login;200;OK;Thread Group 1-115;false;Não conseguiu logar no sistema;81505;200;200;60684;1;1;CPCG-150518
+1,54478E+12;62524;Tentativa de Login;200;OK;Thread Group 1-62;false;Não conseguiu logar no sistema;81505;200;200;60611;1;1;CPCG-150518
+1,54478E+12;13494;Post revisão de seleção;200;OK;Thread Group 1-101;true;;82420;200;200;59;1;0;CPCG-150518
+1,54478E+12;1465;Post seleção de disciplinas;200;OK;Thread Group 1-53;true;;82416;200;200;92;1;0;CPCG-150518
+1,54478E+12;65562;Tentativa de Login;200;OK;Thread Group 1-125;false;Não conseguiu logar no sistema;81507;200;200;60564;1;1;CPCG-150518
+1,54478E+12;65575;Tentativa de Login;200;OK;Thread Group 1-150;false;Não conseguiu logar no sistema;81508;200;200;60558;1;1;CPCG-150518
+1,54478E+12;62205;Tentativa de Login;200;OK;Thread Group 1-143;false;Não conseguiu logar no sistema;81505;200;200;60453;1;1;CPCG-150518
+1,54478E+12;62269;Tentativa de Login;200;OK;Thread Group 1-149;false;Não conseguiu logar no sistema;81505;200;200;60519;1;1;CPCG-150518
+1,54478E+12;2076;POST dados básicos da matrícula;200;OK;Thread Group 1-118;true;;165774;200;200;142;1;0;CPCG-150518
+1,54478E+12;3438;Post seleção de disciplinas;200;OK;Thread Group 1-134;true;;165562;200;200;1618;1;0;CPCG-150518
+1,54478E+12;1109;POST dados básicos da matrícula;200;OK;Thread Group 1-136;true;;82416;200;200;90;1;0;CPCG-150518
+1,54478E+12;61805;Tentativa de Login;200;OK;Thread Group 1-43;false;Não conseguiu logar no sistema;81506;200;200;60508;1;1;CPCG-150518
+1,54478E+12;61807;Tentativa de Login;200;OK;Thread Group 1-167;false;Não conseguiu logar no sistema;81505;200;200;60554;1;1;CPCG-150518
+1,54478E+12;1304;Post seleção de disciplinas;200;OK;Thread Group 1-19;true;;82416;200;200;78;1;0;CPCG-150518
+1,54478E+12;1957;Post seleção de disciplinas;200;OK;Thread Group 1-5;true;;82417;200;200;93;1;0;CPCG-150518
+1,54478E+12;1983;Post seleção de disciplinas;200;OK;Thread Group 1-141;true;;82417;200;200;70;1;0;CPCG-150518
+1,54478E+12;63665;Tentativa de Login;200;OK;Thread Group 1-26;false;Não conseguiu logar no sistema;81505;200;200;62552;1;1;CPCG-150518
+1,54478E+12;1592;Post seleção de disciplinas;200;OK;Thread Group 1-104;true;;82417;200;200;269;1;0;CPCG-150518
+1,54478E+12;17315;POST dados básicos da matrícula;200;OK;Thread Group 1-38;true;;82422;200;200;72;1;0;CPCG-150518
+1,54478E+12;1601;Post seleção de disciplinas;200;OK;Thread Group 1-44;true;;82417;200;200;266;1;0;CPCG-150518
+1,54478E+12;63682;Tentativa de Login;200;OK;Thread Group 1-79;false;Não conseguiu logar no sistema;81506;200;200;62576;1;1;CPCG-150518
+1,54478E+12;1609;Post revisão de seleção;200;OK;Thread Group 1-66;true;;82417;200;200;267;1;0;CPCG-150518
+1,54478E+12;337;Post revisão de seleção;200;OK;Thread Group 1-53;true;;82416;200;200;113;1;0;CPCG-150518
+1,54478E+12;1125;GET dados básicos da matrícula;200;OK;Thread Group 1-112;true;;16882;200;200;123;1;0;CPCG-150518
+1,54478E+12;65993;Tentativa de Login;200;OK;Thread Group 1-6;false;Não conseguiu logar no sistema;81507;200;200;60613;1;1;CPCG-150518
+1,54478E+12;411;GET dados básicos da matrícula;200;OK;Thread Group 1-125;false;Não conseguiu acessar tela de matrícula;82415;200;200;138;1;1;CPCG-150518
+1,54478E+12;1418;Post seleção de disciplinas;200;OK;Thread Group 1-163;true;;82417;200;200;120;1;0;CPCG-150518
+1,54478E+12;417;GET dados básicos da matrícula;200;OK;Thread Group 1-150;false;Não conseguiu acessar tela de matrícula;82414;200;200;144;1;1;CPCG-150518
+1,54478E+12;15356;Post revisão de seleção;200;OK;Thread Group 1-126;true;;82421;200;200;66;1;0;CPCG-150518
+1,54478E+12;1323;Post revisão de seleção;200;OK;Thread Group 1-61;true;;82416;200;200;93;1;0;CPCG-150518
+1,54478E+12;1463;Post revisão de seleção;200;OK;Thread Group 1-18;true;;82417;200;200;107;1;0;CPCG-150518
+1,54478E+12;367;Post seleção de disciplinas;200;OK;Thread Group 1-136;true;;82416;200;200;80;1;0;CPCG-150518
+1,54478E+12;1394;POST dados básicos da matrícula;200;OK;Thread Group 1-128;true;;82415;200;200;90;1;0;CPCG-150518
+1,54478E+12;66135;Tentativa de Login;200;OK;Thread Group 1-2;false;Não conseguiu logar no sistema;81507;200;200;60654;1;1;CPCG-150518
+1,54478E+12;64000;Tentativa de Login;200;OK;Thread Group 1-174;false;Não conseguiu logar no sistema;81506;200;200;62729;1;1;CPCG-150518
+1,54478E+12;427;GET dados básicos da matrícula;200;OK;Thread Group 1-167;false;Não conseguiu acessar tela de matrícula;82414;200;200;148;1;1;CPCG-150518
+1,54478E+12;463;Post revisão de seleção;200;OK;Thread Group 1-19;true;;82415;200;200;145;1;0;CPCG-150518
+1,54478E+12;442;GET dados básicos da matrícula;200;OK;Thread Group 1-26;false;Não conseguiu acessar tela de matrícula;82414;200;200;122;1;1;CPCG-150518
+1,54478E+12;64115;Tentativa de Login;200;OK;Thread Group 1-110;false;Não conseguiu logar no sistema;81506;200;200;62729;1;1;CPCG-150518
+1,54478E+12;512;GET dados básicos da matrícula;200;OK;Thread Group 1-43;false;Não conseguiu acessar tela de matrícula;82415;200;200;177;1;1;CPCG-150518
+1,54478E+12;470;Post revisão de seleção;200;OK;Thread Group 1-44;true;;82415;200;200;156;1;0;CPCG-150518
+1,54478E+12;503;Post seleção de disciplinas;200;OK;Thread Group 1-38;true;;82415;200;200;162;1;0;CPCG-150518
+1,54478E+12;307;Post revisão de seleção;200;OK;Thread Group 1-163;true;;82414;200;200;99;1;0;CPCG-150518
+1,54478E+12;513;Post revisão de seleção;200;OK;Thread Group 1-104;true;;82415;200;200;195;1;0;CPCG-150518
+1,54478E+12;652;Post revisão de seleção;200;OK;Thread Group 1-134;true;;17420;200;200;398;1;0;CPCG-150518
+1,54478E+12;557;GET dados básicos da matrícula;200;OK;Thread Group 1-79;false;Não conseguiu acessar tela de matrícula;82415;200;200;157;1;1;CPCG-150518
+1,54478E+12;388;POST dados básicos da matrícula;200;OK;Thread Group 1-125;true;;82415;200;200;110;1;0;CPCG-150518
+1,54478E+12;417;GET dados básicos da matrícula;200;OK;Thread Group 1-6;false;Não conseguiu acessar tela de matrícula;82415;200;200;96;1;1;CPCG-150518
+1,54478E+12;365;Post revisão de seleção;200;OK;Thread Group 1-136;true;;82415;200;200;131;1;0;CPCG-150518
+1,54478E+12;457;POST dados básicos da matrícula;200;OK;Thread Group 1-150;true;;82415;200;200;138;1;0;CPCG-150518
+1,54478E+12;325;GET dados básicos da matrícula;200;OK;Thread Group 1-2;false;Não conseguiu acessar tela de matrícula;82415;200;200;79;1;1;CPCG-150518
+1,54478E+12;358;Post seleção de disciplinas;200;OK;Thread Group 1-128;true;;82415;200;200;129;1;0;CPCG-150518
+1,54478E+12;313;POST dados básicos da matrícula;200;OK;Thread Group 1-167;true;;82415;200;200;118;1;0;CPCG-150518
+1,54478E+12;67133;Tentativa de Login;500;Internal Server Error;Thread Group 1-155;false;Não conseguiu logar no sistema;2386;200;200;67133;1;1;CPCG-150518
+1,54478E+12;433;GET dados básicos da matrícula;200;OK;Thread Group 1-174;false;Não conseguiu acessar tela de matrícula;82415;200;200;130;1;1;CPCG-150518
+1,54478E+12;351;POST dados básicos da matrícula;200;OK;Thread Group 1-26;true;;82414;200;200;119;1;0;CPCG-150518
+1,54478E+12;342;GET dados básicos da matrícula;200;OK;Thread Group 1-110;false;Não conseguiu acessar tela de matrícula;82415;200;200;121;1;1;CPCG-150518
+1,54478E+12;302;Post revisão de seleção;200;OK;Thread Group 1-38;true;;82415;200;200;110;1;0;CPCG-150518
+1,54478E+12;257;POST dados básicos da matrícula;200;OK;Thread Group 1-6;true;;82415;200;200;91;1;0;CPCG-150518
+1,54478E+12;285;Post seleção de disciplinas;200;OK;Thread Group 1-125;true;;82416;200;200;103;1;0;CPCG-150518
+1,54478E+12;16099;GET dados básicos da matrícula;200;OK;Thread Group 1-160;false;Não conseguiu acessar tela de matrícula;82421;200;200;80;1;1;CPCG-150518
+1,54478E+12;13640;POST dados básicos da matrícula;200;OK;Thread Group 1-184;true;;82419;200;200;58;1;0;CPCG-150518
+1,54478E+12;301;POST dados básicos da matrícula;200;OK;Thread Group 1-79;true;;82415;200;200;127;1;0;CPCG-150518
+1,54478E+12;66669;Tentativa de Login;200;OK;Thread Group 1-116;false;Não conseguiu logar no sistema;81507;200;200;60647;1;1;CPCG-150518
+1,54478E+12;13820;POST dados básicos da matrícula;200;OK;Thread Group 1-22;true;;82419;200;200;59;1;0;CPCG-150518
+1,54478E+12;289;POST dados básicos da matrícula;200;OK;Thread Group 1-2;true;;82414;200;200;117;1;0;CPCG-150518
+1,54478E+12;67329;Tentativa de Login;200;OK;Thread Group 1-144;false;Não conseguiu logar no sistema;81509;200;200;61203;1;1;CPCG-150518
+1,54478E+12;18381;Post revisão de seleção;200;OK;Thread Group 1-27;true;;82422;200;200;85;1;0;CPCG-150518
+1,54478E+12;18395;Post revisão de seleção;200;OK;Thread Group 1-148;true;;82422;200;200;77;1;0;CPCG-150518
+1,54478E+12;16164;GET dados básicos da matrícula;200;OK;Thread Group 1-107;false;Não conseguiu acessar tela de matrícula;82421;200;200;75;1;1;CPCG-150518
+1,54478E+12;16172;Post seleção de disciplinas;200;OK;Thread Group 1-76;true;;82421;200;200;63;1;0;CPCG-150518
+1,54478E+12;291;POST dados básicos da matrícula;200;OK;Thread Group 1-174;true;;82415;200;200;100;1;0;CPCG-150518
+1,54478E+12;15980;GET dados básicos da matrícula;200;OK;Thread Group 1-63;false;Não conseguiu acessar tela de matrícula;82420;200;200;83;1;1;CPCG-150518
+1,54478E+12;18473;Post seleção de disciplinas;200;OK;Thread Group 1-87;true;;82422;200;200;78;1;0;CPCG-150518
+1,54478E+12;15846;Post seleção de disciplinas;200;OK;Thread Group 1-194;true;;82420;200;200;2083;1;0;CPCG-150518
+1,54478E+12;3971;GET dados básicos da matrícula;200;OK;Thread Group 1-123;false;Não conseguiu acessar tela de matrícula;82418;200;200;80;1;1;CPCG-150518
+1,54478E+12;64857;Tentativa de Login;200;OK;Thread Group 1-195;false;Não conseguiu logar no sistema;81506;200;200;61006;1;1;CPCG-150518
+1,54478E+12;64848;Tentativa de Login;200;OK;Thread Group 1-189;false;Não conseguiu logar no sistema;81506;200;200;61123;1;1;CPCG-150518
+1,54478E+12;64825;Tentativa de Login;200;OK;Thread Group 1-182;false;Não conseguiu logar no sistema;81506;200;200;61058;1;1;CPCG-150518
+1,54478E+12;64698;Tentativa de Login;200;OK;Thread Group 1-84;false;Não conseguiu logar no sistema;81507;200;200;60957;1;1;CPCG-150518
+1,54478E+12;64865;Tentativa de Login;200;OK;Thread Group 1-127;false;Não conseguiu logar no sistema;81506;200;200;61021;1;1;CPCG-150518
+1,54478E+12;64874;Tentativa de Login;200;OK;Thread Group 1-145;false;Não conseguiu logar no sistema;81507;200;200;61105;1;1;CPCG-150518
+1,54478E+12;65364;Tentativa de Login;200;OK;Thread Group 1-152;false;Não conseguiu logar no sistema;81507;200;200;61542;1;1;CPCG-150518
+1,54478E+12;4108;GET dados básicos da matrícula;200;OK;Thread Group 1-131;false;Não conseguiu acessar tela de matrícula;82418;200;200;78;1;1;CPCG-150518
+1,54478E+12;67295;Tentativa de Login;200;OK;Thread Group 1-45;true;;703549;200;200;8742;1;0;CPCG-150518
+1,54478E+12;66443;Tentativa de Login;200;OK;Thread Group 1-69;false;Não conseguiu logar no sistema;81507;200;200;61672;1;1;CPCG-150518
+1,54478E+12;1840;Post revisão de seleção;200;OK;Thread Group 1-128;true;;82417;200;200;88;1;0;CPCG-150518
+1,54478E+12;1844;Post seleção de disciplinas;200;OK;Thread Group 1-150;true;;82417;200;200;90;1;0;CPCG-150518
+1,54478E+12;3788;POST dados básicos da matrícula;200;OK;Thread Group 1-1;true;;165776;200;200;134;1;0;CPCG-150518
+1,54478E+12;66292;Tentativa de Login;200;OK;Thread Group 1-34;false;Não conseguiu logar no sistema;81507;200;200;60786;1;1;CPCG-150518
+1,54478E+12;67804;Tentativa de Login;200;OK;Thread Group 1-46;false;Não conseguiu logar no sistema;81507;200;200;60340;1;1;CPCG-150518
+1,54478E+12;1766;Post seleção de disciplinas;200;OK;Thread Group 1-22;true;;82416;200;200;82;1;0;CPCG-150518
+1,54478E+12;1813;POST dados básicos da matrícula;200;OK;Thread Group 1-160;true;;82416;200;200;84;1;0;CPCG-150518
+1,54478E+12;17585;Post revisão de seleção;200;OK;Thread Group 1-59;true;;82422;200;200;62;1;0;CPCG-150518
+1,54478E+12;1817;Post seleção de disciplinas;200;OK;Thread Group 1-184;true;;82415;200;200;86;1;0;CPCG-150518
+1,54478E+12;2622;POST dados básicos da matrícula;200;OK;Thread Group 1-112;true;;165774;200;200;191;1;0;CPCG-150518
+1,54478E+12;1999;POST dados básicos da matrícula;200;OK;Thread Group 1-110;true;;82417;200;200;107;1;0;CPCG-150518
+1,54478E+12;68637;Tentativa de Login;200;OK;Thread Group 1-154;false;Não conseguiu logar no sistema;81508;200;200;60698;1;1;CPCG-150518
+1,54478E+12;2035;GET dados básicos da matrícula;200;OK;Thread Group 1-116;false;Não conseguiu acessar tela de matrícula;82416;200;200;74;1;1;CPCG-150518
+1,54478E+12;1841;POST dados básicos da matrícula;200;OK;Thread Group 1-63;true;;82416;200;200;82;1;0;CPCG-150518
+1,54478E+12;1934;GET dados básicos da matrícula;200;OK;Thread Group 1-144;false;Não conseguiu acessar tela de matrícula;82415;200;200;88;1;1;CPCG-150518
+1,54478E+12;2084;Post revisão de seleção;200;OK;Thread Group 1-125;true;;82416;200;200;84;1;0;CPCG-150518
+1,54478E+12;1975;Post revisão de seleção;200;OK;Thread Group 1-76;true;;82416;200;200;105;1;0;CPCG-150518
+1,54478E+12;1838;Post revisão de seleção;200;OK;Thread Group 1-194;true;;82415;200;200;59;1;0;CPCG-150518
+1,54478E+12;68373;Tentativa de Login;200;OK;Thread Group 1-71;false;Não conseguiu logar no sistema;81508;200;200;60506;1;1;CPCG-150518
+1,54478E+12;2045;POST dados básicos da matrícula;200;OK;Thread Group 1-107;true;;82417;200;200;76;1;0;CPCG-150518
+1,54478E+12;442;GET dados básicos da matrícula;200;OK;Thread Group 1-34;false;Não conseguiu acessar tela de matrícula;82415;200;200;189;1;1;CPCG-150518
+1,54478E+12;2199;Post seleção de disciplinas;200;OK;Thread Group 1-2;true;;82417;200;200;103;1;0;CPCG-150518
+1,54478E+12;3998;GET dados básicos da matrícula;200;OK;Thread Group 1-47;false;Não conseguiu acessar tela de matrícula;82417;200;200;2029;1;1;CPCG-150518
+1,54478E+12;8351;POST dados básicos da matrícula;200;OK;Thread Group 1-72;true;;82420;200;200;2219;1;0;CPCG-150518
+1,54478E+12;63246;Tentativa de Login;200;OK;Thread Group 1-17;false;Não conseguiu logar no sistema;81506;200;200;61318;1;1;CPCG-150518
+1,54478E+12;538;GET dados básicos da matrícula;200;OK;Thread Group 1-46;false;Não conseguiu acessar tela de matrícula;82414;200;200;206;1;1;CPCG-150518
+1,54478E+12;18468;GET dados básicos da matrícula;200;OK;Thread Group 1-180;false;Não conseguiu acessar tela de matrícula;82422;200;200;75;1;1;CPCG-150518
+1,54478E+12;487;GET dados básicos da matrícula;200;OK;Thread Group 1-154;false;Não conseguiu acessar tela de matrícula;82415;200;200;234;1;1;CPCG-150518
+1,54478E+12;62686;Tentativa de Login;200;OK;Thread Group 1-98;false;Não conseguiu logar no sistema;81505;200;200;61237;1;1;CPCG-150518
+1,54478E+12;62817;Tentativa de Login;200;OK;Thread Group 1-106;false;Não conseguiu logar no sistema;81505;200;200;61371;1;1;CPCG-150518
+1,54478E+12;62508;Tentativa de Login;200;OK;Thread Group 1-169;false;Não conseguiu logar no sistema;81505;200;200;61051;1;1;CPCG-150518
+1,54478E+12;2507;GET dados básicos da matrícula;200;OK;Thread Group 1-145;false;Não conseguiu acessar tela de matrícula;82416;200;200;84;1;1;CPCG-150518
+1,54478E+12;62639;Tentativa de Login;200;OK;Thread Group 1-177;false;Não conseguiu logar no sistema;81505;200;200;61175;1;1;CPCG-150518
+1,54478E+12;4289;GET dados básicos da matrícula;200;OK;Thread Group 1-115;false;Não conseguiu acessar tela de matrícula;82418;200;200;71;1;1;CPCG-150518
+1,54478E+12;62769;Tentativa de Login;200;OK;Thread Group 1-164;false;Não conseguiu logar no sistema;81505;200;200;61306;1;1;CPCG-150518
+1,54478E+12;2571;GET dados básicos da matrícula;200;OK;Thread Group 1-195;false;Não conseguiu acessar tela de matrícula;82417;200;200;118;1;1;CPCG-150518
+1,54478E+12;62860;Tentativa de Login;200;OK;Thread Group 1-192;false;Não conseguiu logar no sistema;81506;200;200;61392;1;1;CPCG-150518
+1,54478E+12;62677;Tentativa de Login;200;OK;Thread Group 1-32;false;Não conseguiu logar no sistema;81505;200;200;61205;1;1;CPCG-150518
+1,54478E+12;62858;Tentativa de Login;200;OK;Thread Group 1-179;false;Não conseguiu logar no sistema;81505;200;200;61377;1;1;CPCG-150518
+1,54478E+12;67476;Tentativa de Login;200;OK;Thread Group 1-30;false;Não conseguiu logar no sistema;81506;200;200;63375;1;1;CPCG-150518
+1,54478E+12;62654;Tentativa de Login;200;OK;Thread Group 1-190;false;Não conseguiu logar no sistema;81504;200;200;61175;1;1;CPCG-150518
+1,54478E+12;63749;Tentativa de Login;200;OK;Thread Group 1-73;false;Não conseguiu logar no sistema;81506;200;200;62280;1;1;CPCG-150518
+1,54478E+12;62882;Tentativa de Login;200;OK;Thread Group 1-166;false;Não conseguiu logar no sistema;81504;200;200;61416;1;1;CPCG-150518
+1,54478E+12;2688;GET dados básicos da matrícula;200;OK;Thread Group 1-127;false;Não conseguiu acessar tela de matrícula;82417;200;200;87;1;1;CPCG-150518
+1,54478E+12;293;GET dados básicos da matrícula;200;OK;Thread Group 1-169;false;Não conseguiu acessar tela de matrícula;82415;200;200;97;1;1;CPCG-150518
+1,54478E+12;305;GET dados básicos da matrícula;200;OK;Thread Group 1-192;false;Não conseguiu acessar tela de matrícula;82414;200;200;95;1;1;CPCG-150518
+1,54478E+12;318;GET dados básicos da matrícula;200;OK;Thread Group 1-164;false;Não conseguiu acessar tela de matrícula;82415;200;200;87;1;1;CPCG-150518
+1,54478E+12;303;GET dados básicos da matrícula;200;OK;Thread Group 1-73;false;Não conseguiu acessar tela de matrícula;82415;200;200;89;1;1;CPCG-150518
+1,54478E+12;350;GET dados básicos da matrícula;200;OK;Thread Group 1-98;false;Não conseguiu acessar tela de matrícula;82415;200;200;113;1;1;CPCG-150518
+1,54478E+12;334;POST dados básicos da matrícula;200;OK;Thread Group 1-145;true;;82415;200;200;114;1;0;CPCG-150518
+1,54478E+12;354;GET dados básicos da matrícula;200;OK;Thread Group 1-106;false;Não conseguiu acessar tela de matrícula;82415;200;200;126;1;1;CPCG-150518
+1,54478E+12;313;GET dados básicos da matrícula;200;OK;Thread Group 1-179;false;Não conseguiu acessar tela de matrícula;82414;200;200;103;1;1;CPCG-150518
+1,54478E+12;314;GET dados básicos da matrícula;200;OK;Thread Group 1-190;false;Não conseguiu acessar tela de matrícula;82415;200;200;109;1;1;CPCG-150518
+1,54478E+12;330;POST dados básicos da matrícula;200;OK;Thread Group 1-195;true;;82415;200;200;95;1;0;CPCG-150518
+1,54478E+12;324;GET dados básicos da matrícula;200;OK;Thread Group 1-30;false;Não conseguiu acessar tela de matrícula;82415;200;200;96;1;1;CPCG-150518
+1,54478E+12;336;GET dados básicos da matrícula;200;OK;Thread Group 1-32;false;Não conseguiu acessar tela de matrícula;82415;200;200;117;1;1;CPCG-150518
+1,54478E+12;368;POST dados básicos da matrícula;200;OK;Thread Group 1-115;true;;82414;200;200;133;1;0;CPCG-150518
+1,54478E+12;368;GET dados básicos da matrícula;200;OK;Thread Group 1-166;false;Não conseguiu acessar tela de matrícula;82414;200;200;106;1;1;CPCG-150518
+1,54478E+12;414;GET dados básicos da matrícula;200;OK;Thread Group 1-177;false;Não conseguiu acessar tela de matrícula;82414;200;200;130;1;1;CPCG-150518
+1,54478E+12;345;POST dados básicos da matrícula;200;OK;Thread Group 1-127;true;;82414;200;200;89;1;0;CPCG-150518
+1,54478E+12;7154;GET dados básicos da matrícula;200;OK;Thread Group 1-156;false;Não conseguiu acessar tela de matrícula;82418;200;200;109;1;1;CPCG-150518
+1,54478E+12;5277;GET dados básicos da matrícula;200;OK;Thread Group 1-109;false;Não conseguiu acessar tela de matrícula;82417;200;200;206;1;1;CPCG-150518
+1,54478E+12;7218;GET dados básicos da matrícula;200;OK;Thread Group 1-3;false;Não conseguiu acessar tela de matrícula;82419;200;200;102;1;1;CPCG-150518
+1,54478E+12;3240;POST dados básicos da matrícula;200;OK;Thread Group 1-123;true;;82416;200;200;66;1;0;CPCG-150518
+1,54478E+12;7191;GET dados básicos da matrícula;200;OK;Thread Group 1-41;false;Não conseguiu acessar tela de matrícula;82419;200;200;96;1;1;CPCG-150518
+1,54478E+12;2089;Post revisão de seleção;200;OK;Thread Group 1-150;true;;82416;200;200;161;1;0;CPCG-150518
+1,54478E+12;4118;POST dados básicos da matrícula;200;OK;Thread Group 1-43;true;;82418;200;200;149;1;0;CPCG-150518
+1,54478E+12;3546;Post seleção de disciplinas;200;OK;Thread Group 1-174;true;;82418;200;200;69;1;0;CPCG-150518
+1,54478E+12;3824;Post seleção de disciplinas;200;OK;Thread Group 1-26;true;;82418;200;200;96;1;0;CPCG-150518
+1,54478E+12;3747;Post seleção de disciplinas;200;OK;Thread Group 1-79;true;;82418;200;200;94;1;0;CPCG-150518
+1,54478E+12;3795;Post seleção de disciplinas;200;OK;Thread Group 1-6;true;;82418;200;200;105;1;0;CPCG-150518
+1,54478E+12;64776;Tentativa de Login;200;OK;Thread Group 1-80;false;Não conseguiu logar no sistema;81507;200;200;61356;1;1;CPCG-150518
+1,54478E+12;1990;Post seleção de disciplinas;200;OK;Thread Group 1-160;true;;82416;200;200;100;1;0;CPCG-150518
+1,54478E+12;3607;Post revisão de seleção;200;OK;Thread Group 1-87;true;;82418;200;200;70;1;0;CPCG-150518
+1,54478E+12;4912;Post seleção de disciplinas;200;OK;Thread Group 1-118;true;;165562;200;200;905;1;0;CPCG-150518
+1,54478E+12;2076;Post revisão de seleção;200;OK;Thread Group 1-22;true;;82417;200;200;115;1;0;CPCG-150518
+1,54478E+12;2160;Post revisão de seleção;200;OK;Thread Group 1-184;true;;82417;200;200;110;1;0;CPCG-150518
+1,54478E+12;65024;Tentativa de Login;200;OK;Thread Group 1-28;false;Não conseguiu logar no sistema;81507;200;200;61442;1;1;CPCG-150518
+1,54478E+12;2133;Post seleção de disciplinas;200;OK;Thread Group 1-110;true;;82416;200;200;76;1;0;CPCG-150518
+1,54478E+12;277;Post revisão de seleção;200;OK;Thread Group 1-160;true;;82415;200;200;70;1;0;CPCG-150518
+1,54478E+12;1888;Post revisão de seleção;200;OK;Thread Group 1-2;true;;82416;200;200;90;1;0;CPCG-150518
+1,54478E+12;1940;POST dados básicos da matrícula;200;OK;Thread Group 1-34;true;;82417;200;200;86;1;0;CPCG-150518
+1,54478E+12;4305;Post seleção de disciplinas;200;OK;Thread Group 1-167;true;;82417;200;200;85;1;0;CPCG-150518
+1,54478E+12;1945;Post seleção de disciplinas;200;OK;Thread Group 1-107;true;;82417;200;200;80;1;0;CPCG-150518
+1,54478E+12;2108;POST dados básicos da matrícula;200;OK;Thread Group 1-116;true;;82417;200;200;91;1;0;CPCG-150518
+1,54478E+12;2059;POST dados básicos da matrícula;200;OK;Thread Group 1-144;true;;82416;200;200;83;1;0;CPCG-150518
+1,54478E+12;64020;Tentativa de Login;200;OK;Thread Group 1-14;false;Não conseguiu logar no sistema;81506;200;200;60476;1;1;CPCG-150518
+1,54478E+12;63967;Tentativa de Login;200;OK;Thread Group 1-12;false;Não conseguiu logar no sistema;81505;200;200;60392;1;1;CPCG-150518
+1,54478E+12;1940;GET dados básicos da matrícula;200;OK;Thread Group 1-71;false;Não conseguiu acessar tela de matrícula;82417;200;200;74;1;1;CPCG-150518
+1,54478E+12;65087;Tentativa de Login;200;OK;Thread Group 1-54;false;Não conseguiu logar no sistema;81508;200;200;61483;1;1;CPCG-150518
+1,54478E+12;72407;Tentativa de Login;200;OK;Thread Group 1-133;true;;703557;200;200;2217;1;0;CPCG-150518
+1,54478E+12;64127;Tentativa de Login;200;OK;Thread Group 1-105;false;Não conseguiu logar no sistema;81506;200;200;60454;1;1;CPCG-150518
+1,54478E+12;2425;Post seleção de disciplinas;200;OK;Thread Group 1-112;true;;165561;200;200;616;1;0;CPCG-150518
+1,54478E+12;1953;GET dados básicos da matrícula;200;OK;Thread Group 1-17;false;Não conseguiu acessar tela de matrícula;82416;200;200;83;1;1;CPCG-150518
+1,54478E+12;2212;Post seleção de disciplinas;200;OK;Thread Group 1-63;true;;82417;200;200;86;1;0;CPCG-150518
+1,54478E+12;64146;Tentativa de Login;200;OK;Thread Group 1-175;false;Não conseguiu logar no sistema;81506;200;200;60436;1;1;CPCG-150518
+1,54478E+12;2030;Post seleção de disciplinas;200;OK;Thread Group 1-72;true;;82417;200;200;90;1;0;CPCG-150518
+1,54478E+12;1091;POST dados básicos da matrícula;200;OK;Thread Group 1-169;true;;82416;200;200;96;1;0;CPCG-150518
+1,54478E+12;1064;Post seleção de disciplinas;200;OK;Thread Group 1-145;true;;82415;200;200;90;1;0;CPCG-150518
+1,54478E+12;1080;POST dados básicos da matrícula;200;OK;Thread Group 1-192;true;;82416;200;200;95;1;0;CPCG-150518
+1,54478E+12;1092;POST dados básicos da matrícula;200;OK;Thread Group 1-190;true;;82415;200;200;93;1;0;CPCG-150518
+1,54478E+12;1114;POST dados básicos da matrícula;200;OK;Thread Group 1-106;true;;82416;200;200;88;1;0;CPCG-150518
+1,54478E+12;1112;POST dados básicos da matrícula;200;OK;Thread Group 1-30;true;;82415;200;200;93;1;0;CPCG-150518
+1,54478E+12;1142;POST dados básicos da matrícula;200;OK;Thread Group 1-73;true;;82415;200;200;93;1;0;CPCG-150518
+1,54478E+12;1096;Post seleção de disciplinas;200;OK;Thread Group 1-115;true;;82416;200;200;71;1;0;CPCG-150518
+1,54478E+12;1132;Post seleção de disciplinas;200;OK;Thread Group 1-195;true;;82416;200;200;98;1;0;CPCG-150518
+1,54478E+12;64370;Tentativa de Login;200;OK;Thread Group 1-8;false;Não conseguiu logar no sistema;81507;200;200;61417;1;1;CPCG-150518
+1,54478E+12;1126;POST dados básicos da matrícula;200;OK;Thread Group 1-166;true;;82416;200;200;77;1;0;CPCG-150518
+1,54478E+12;1192;POST dados básicos da matrícula;200;OK;Thread Group 1-98;true;;82416;200;200;75;1;0;CPCG-150518
+1,54478E+12;1214;POST dados básicos da matrícula;200;OK;Thread Group 1-164;true;;82416;200;200;116;1;0;CPCG-150518
+1,54478E+12;3935;POST dados básicos da matrícula;200;OK;Thread Group 1-131;true;;82418;200;200;95;1;0;CPCG-150518
+1,54478E+12;1194;POST dados básicos da matrícula;200;OK;Thread Group 1-32;true;;82416;200;200;104;1;0;CPCG-150518
+1,54478E+12;5885;GET dados básicos da matrícula;200;OK;Thread Group 1-37;false;Não conseguiu acessar tela de matrícula;82419;200;200;76;1;1;CPCG-150518
+1,54478E+12;4029;GET dados básicos da matrícula;200;OK;Thread Group 1-152;false;Não conseguiu acessar tela de matrícula;82418;200;200;971;1;1;CPCG-150518
+1,54478E+12;1208;POST dados básicos da matrícula;200;OK;Thread Group 1-177;true;;82416;200;200;71;1;0;CPCG-150518
+1,54478E+12;4210;GET dados básicos da matrícula;200;OK;Thread Group 1-182;false;Não conseguiu acessar tela de matrícula;82417;200;200;114;1;1;CPCG-150518
+1,54478E+12;1365;POST dados básicos da matrícula;200;OK;Thread Group 1-179;true;;82416;200;200;103;1;0;CPCG-150518
+1,54478E+12;69161;Tentativa de Login;200;OK;Thread Group 1-138;false;Não conseguiu logar no sistema;81508;200;200;63377;1;1;CPCG-150518
+1,54478E+12;1211;Post seleção de disciplinas;200;OK;Thread Group 1-127;true;;82415;200;200;76;1;0;CPCG-150518
+1,54478E+12;4279;GET dados básicos da matrícula;200;OK;Thread Group 1-84;false;Não conseguiu acessar tela de matrícula;82417;200;200;95;1;1;CPCG-150518
+1,54478E+12;4300;GET dados básicos da matrícula;200;OK;Thread Group 1-189;false;Não conseguiu acessar tela de matrícula;82418;200;200;115;1;1;CPCG-150518
+1,54478E+12;64613;Tentativa de Login;200;OK;Thread Group 1-42;false;Não conseguiu logar no sistema;81506;200;200;61391;1;1;CPCG-150518
+1,54478E+12;791;Post seleção de disciplinas;200;OK;Thread Group 1-73;true;;82416;200;200;104;1;0;CPCG-150518
+1,54478E+12;834;Post seleção de disciplinas;200;OK;Thread Group 1-190;true;;82416;200;200;161;1;0;CPCG-150518
+1,54478E+12;813;Post seleção de disciplinas;200;OK;Thread Group 1-106;true;;82416;200;200;141;1;0;CPCG-150518
+1,54478E+12;6558;GET dados básicos da matrícula;200;OK;Thread Group 1-96;false;Não conseguiu acessar tela de matrícula;82419;200;200;82;1;1;CPCG-150518
+1,54478E+12;3620;GET dados básicos da matrícula;200;OK;Thread Group 1-69;false;Não conseguiu acessar tela de matrícula;82418;200;200;2097;1;1;CPCG-150518
+1,54478E+12;69510;Tentativa de Login;200;OK;Thread Group 1-135;false;Não conseguiu logar no sistema;81508;200;200;63584;1;1;CPCG-150518
+1,54478E+12;6576;GET dados básicos da matrícula;200;OK;Thread Group 1-191;false;Não conseguiu acessar tela de matrícula;82419;200;200;73;1;1;CPCG-150518
+1,54478E+12;885;Post seleção de disciplinas;200;OK;Thread Group 1-192;true;;82416;200;200;117;1;0;CPCG-150518
+1,54478E+12;916;Post seleção de disciplinas;200;OK;Thread Group 1-169;true;;82416;200;200;140;1;0;CPCG-150518
+1,54478E+12;69726;Tentativa de Login;200;OK;Thread Group 1-20;false;Não conseguiu logar no sistema;81508;200;200;63534;1;1;CPCG-150518
+1,54478E+12;907;Post revisão de seleção;200;OK;Thread Group 1-145;true;;82416;200;200;112;1;0;CPCG-150518
+1,54478E+12;6331;GET dados básicos da matrícula;200;OK;Thread Group 1-143;false;Não conseguiu acessar tela de matrícula;82419;200;200;98;1;1;CPCG-150518
+1,54478E+12;1643;POST dados básicos da matrícula;200;OK;Thread Group 1-109;true;;82416;200;200;112;1;0;CPCG-150518
+1,54478E+12;6241;Post revisão de seleção;200;OK;Thread Group 1-141;true;;82419;200;200;137;1;0;CPCG-150518
+1,54478E+12;1749;POST dados básicos da matrícula;200;OK;Thread Group 1-3;true;;82417;200;200;937;1;0;CPCG-150518
+1,54478E+12;1770;POST dados básicos da matrícula;200;OK;Thread Group 1-156;true;;82417;200;200;124;1;0;CPCG-150518
+1,54478E+12;1753;POST dados básicos da matrícula;200;OK;Thread Group 1-41;true;;82416;200;200;939;1;0;CPCG-150518
+1,54478E+12;4763;GET dados básicos da matrícula;200;OK;Thread Group 1-45;true;;16883;200;200;932;1;0;CPCG-150518
+1,54478E+12;936;GET dados básicos da matrícula;200;OK;Thread Group 1-8;false;Não conseguiu acessar tela de matrícula;82415;200;200;149;1;1;CPCG-150518
+1,54478E+12;922;Post seleção de disciplinas;200;OK;Thread Group 1-166;true;;82415;200;200;185;1;0;CPCG-150518
+1,54478E+12;1016;Post revisão de seleção;200;OK;Thread Group 1-115;true;;82415;200;200;169;1;0;CPCG-150518
+1,54478E+12;949;Post seleção de disciplinas;200;OK;Thread Group 1-131;true;;82415;200;200;108;1;0;CPCG-150518
+1,54478E+12;65208;Tentativa de Login;200;OK;Thread Group 1-111;false;Não conseguiu logar no sistema;81506;200;200;61316;1;1;CPCG-150518
+1,54478E+12;65350;Tentativa de Login;200;OK;Thread Group 1-162;false;Não conseguiu logar no sistema;81507;200;200;61463;1;1;CPCG-150518
+1,54478E+12;6519;GET dados básicos da matrícula;200;OK;Thread Group 1-149;false;Não conseguiu acessar tela de matrícula;82419;200;200;101;1;1;CPCG-150518
+1,54478E+12;6783;GET dados básicos da matrícula;200;OK;Thread Group 1-29;false;Não conseguiu acessar tela de matrícula;82418;200;200;95;1;1;CPCG-150518
+1,54478E+12;1040;Post seleção de disciplinas;200;OK;Thread Group 1-30;true;;82416;200;200;198;1;0;CPCG-150518
+1,54478E+12;912;POST dados básicos da matrícula;200;OK;Thread Group 1-37;true;;82416;200;200;139;1;0;CPCG-150518
+1,54478E+12;65261;Tentativa de Login;200;OK;Thread Group 1-119;false;Não conseguiu logar no sistema;81506;200;200;61365;1;1;CPCG-150518
+1,54478E+12;862;Post seleção de disciplinas;200;OK;Thread Group 1-177;true;;82416;200;200;124;1;0;CPCG-150518
+1,54478E+12;955;Post seleção de disciplinas;200;OK;Thread Group 1-32;true;;82416;200;200;162;1;0;CPCG-150518
+1,54478E+12;1037;Post revisão de seleção;200;OK;Thread Group 1-195;true;;82415;200;200;134;1;0;CPCG-150518
+1,54478E+12;1843;Post seleção de disciplinas;200;OK;Thread Group 1-123;true;;82417;200;200;98;1;0;CPCG-150518
+1,54478E+12;817;Post seleção de disciplinas;200;OK;Thread Group 1-179;true;;82416;200;200;133;1;0;CPCG-150518
+1,54478E+12;867;POST dados básicos da matrícula;200;OK;Thread Group 1-182;true;;82416;200;200;411;1;0;CPCG-150518
+1,54478E+12;794;Post revisão de seleção;200;OK;Thread Group 1-127;true;;82416;200;200;185;1;0;CPCG-150518
+1,54478E+12;782;POST dados básicos da matrícula;200;OK;Thread Group 1-189;true;;82416;200;200;323;1;0;CPCG-150518
+1,54478E+12;799;GET dados básicos da matrícula;200;OK;Thread Group 1-138;false;Não conseguiu acessar tela de matrícula;82416;200;200;338;1;1;CPCG-150518
+1,54478E+12;69981;Tentativa de Login;200;OK;Thread Group 1-196;false;Não conseguiu logar no sistema;81508;200;200;63542;1;1;CPCG-150518
+1,54478E+12;66429;Tentativa de Login;200;OK;Thread Group 1-51;false;Não conseguiu logar no sistema;81507;200;200;62503;1;1;CPCG-150518
+1,54478E+12;703;GET dados básicos da matrícula;200;OK;Thread Group 1-42;false;Não conseguiu acessar tela de matrícula;82416;200;200;236;1;1;CPCG-150518
+1,54478E+12;5592;GET dados básicos da matrícula;200;OK;Thread Group 1-155;false;Não conseguiu acessar tela de matrícula;82506;200;200;1837;1;1;CPCG-150518
+1,54478E+12;918;POST dados básicos da matrícula;200;OK;Thread Group 1-152;true;;82416;200;200;139;1;0;CPCG-150518
+1,54478E+12;999;Post seleção de disciplinas;200;OK;Thread Group 1-164;true;;82416;200;200;155;1;0;CPCG-150518
+1,54478E+12;6800;GET dados básicos da matrícula;200;OK;Thread Group 1-62;false;Não conseguiu acessar tela de matrícula;82419;200;200;83;1;1;CPCG-150518
+1,54478E+12;65392;Tentativa de Login;200;OK;Thread Group 1-172;false;Não conseguiu logar no sistema;81505;200;200;61455;1;1;CPCG-150518
+1,54478E+12;66295;Tentativa de Login;200;OK;Thread Group 1-147;false;Não conseguiu logar no sistema;81507;200;200;62304;1;1;CPCG-150518
+1,54478E+12;6390;Post revisão de seleção;200;OK;Thread Group 1-5;true;;82419;200;200;163;1;0;CPCG-150518
+1,54478E+12;889;POST dados básicos da matrícula;200;OK;Thread Group 1-84;true;;82416;200;200;323;1;0;CPCG-150518
+1,54478E+12;70192;Tentativa de Login;200;OK;Thread Group 1-159;false;Não conseguiu logar no sistema;81508;200;200;63579;1;1;CPCG-150518
+1,54478E+12;294;POST dados básicos da matrícula;500;Internal Server Error;Thread Group 1-138;false;;2599;200;200;292;1;1;CPCG-150518
+1,54478E+12;2401;Post seleção de disciplinas;200;OK;Thread Group 1-43;true;;82417;200;200;113;1;0;CPCG-150518
+1,54478E+12;2384;Post revisão de seleção;200;OK;Thread Group 1-79;true;;82417;200;200;113;1;0;CPCG-150518
+1,54478E+12;2423;Post revisão de seleção;200;OK;Thread Group 1-174;true;;82417;200;200;119;1;0;CPCG-150518
+1,54478E+12;2436;Post revisão de seleção;200;OK;Thread Group 1-26;true;;82417;200;200;111;1;0;CPCG-150518
+1,54478E+12;2390;GET dados básicos da matrícula;200;OK;Thread Group 1-80;false;Não conseguiu acessar tela de matrícula;82416;200;200;101;1;1;CPCG-150518
+1,54478E+12;3910;POST dados básicos da matrícula;200;OK;Thread Group 1-47;true;;82417;200;200;94;1;0;CPCG-150518
+1,54478E+12;2430;Post revisão de seleção;200;OK;Thread Group 1-6;true;;82417;200;200;108;1;0;CPCG-150518
+1,54478E+12;8469;GET dados básicos da matrícula;200;OK;Thread Group 1-153;false;Não conseguiu acessar tela de matrícula;82419;200;200;160;1;1;CPCG-150518
+1,54478E+12;4436;POST dados básicos da matrícula;200;OK;Thread Group 1-154;true;;82417;200;200;59;1;0;CPCG-150518
+1,54478E+12;4557;POST dados básicos da matrícula;200;OK;Thread Group 1-46;true;;82417;200;200;62;1;0;CPCG-150518
+1,54478E+12;2617;GET dados básicos da matrícula;200;OK;Thread Group 1-175;false;Não conseguiu acessar tela de matrícula;82417;200;200;139;1;1;CPCG-150518
+1,54478E+12;2706;Post revisão de seleção;200;OK;Thread Group 1-63;true;;82417;200;200;181;1;0;CPCG-150518
+1,54478E+12;4625;POST dados básicos da matrícula;200;OK;Thread Group 1-180;true;;82418;200;200;169;1;0;CPCG-150518
+1,54478E+12;2973;GET dados básicos da matrícula;200;OK;Thread Group 1-28;false;Não conseguiu acessar tela de matrícula;82417;200;200;148;1;1;CPCG-150518
+1,54478E+12;2587;Post seleção de disciplinas;200;OK;Thread Group 1-98;true;;82416;200;200;159;1;0;CPCG-150518
+1,54478E+12;1840;POST dados básicos da matrícula;200;OK;Thread Group 1-69;true;;82416;200;200;86;1;0;CPCG-150518
+1,54478E+12;2872;GET dados básicos da matrícula;200;OK;Thread Group 1-133;true;;16882;200;200;283;1;0;CPCG-150518
+1,54478E+12;36720;Tentativa de Login;200;OK;Thread Group 1-161;false;Não conseguiu logar no sistema;81506;200;200;32698;1;1;CPCG-150518
+1,54478E+12;36819;Tentativa de Login;200;OK;Thread Group 1-130;false;Não conseguiu logar no sistema;81507;200;200;32709;1;1;CPCG-150518
+1,54478E+12;37531;Tentativa de Login;200;OK;Thread Group 1-91;false;Não conseguiu logar no sistema;81507;200;200;32761;1;1;CPCG-150518
+1,54478E+12;3410;GET dados básicos da matrícula;200;OK;Thread Group 1-51;false;Não conseguiu acessar tela de matrícula;82416;200;200;187;1;1;CPCG-150518
+1,54478E+12;3412;GET dados básicos da matrícula;200;OK;Thread Group 1-172;false;Não conseguiu acessar tela de matrícula;82417;200;200;211;1;1;CPCG-150518
+1,54478E+12;3432;POST dados básicos da matrícula;200;OK;Thread Group 1-62;true;;82417;200;200;212;1;0;CPCG-150518
+1,54478E+12;3486;POST dados básicos da matrícula;200;OK;Thread Group 1-149;true;;82417;200;200;247;1;0;CPCG-150518
+1,54478E+12;3522;POST dados básicos da matrícula;200;OK;Thread Group 1-29;true;;82416;200;200;338;1;0;CPCG-150518
+1,54478E+12;3535;POST dados básicos da matrícula;200;OK;Thread Group 1-155;true;;82417;200;200;324;1;0;CPCG-150518
+1,54478E+12;3563;GET dados básicos da matrícula;200;OK;Thread Group 1-196;false;Não conseguiu acessar tela de matrícula;82416;200;200;375;1;1;CPCG-150518
+1,54478E+12;3549;GET dados básicos da matrícula;200;OK;Thread Group 1-147;false;Não conseguiu acessar tela de matrícula;82417;200;200;325;1;1;CPCG-150518
+1,54478E+12;3600;GET dados básicos da matrícula;200;OK;Thread Group 1-119;false;Não conseguiu acessar tela de matrícula;82417;200;200;334;1;1;CPCG-150518
+1,54478E+12;8683;Post seleção de disciplinas;200;OK;Thread Group 1-1;true;;165564;200;200;779;1;0;CPCG-150518
+1,54478E+12;5386;POST dados básicos da matrícula;200;OK;Thread Group 1-143;true;;82418;200;200;97;1;0;CPCG-150518
+1,54478E+12;5392;GET dados básicos da matrícula;200;OK;Thread Group 1-20;false;Não conseguiu acessar tela de matrícula;82418;200;200;104;1;1;CPCG-150518
+1,54478E+12;5884;Post revisão de seleção;200;OK;Thread Group 1-106;true;;82418;200;200;92;1;0;CPCG-150518
+1,54478E+12;5880;GET dados básicos da matrícula;200;OK;Thread Group 1-135;false;Não conseguiu acessar tela de matrícula;82418;200;200;132;1;1;CPCG-150518
+1,54478E+12;5908;Post revisão de seleção;200;OK;Thread Group 1-190;true;;82417;200;200;104;1;0;CPCG-150518
+1,54478E+12;5888;Post revisão de seleção;200;OK;Thread Group 1-192;true;;82418;200;200;101;1;0;CPCG-150518
+1,54478E+12;5887;Post seleção de disciplinas;200;OK;Thread Group 1-109;true;;82417;200;200;85;1;0;CPCG-150518
+1,54478E+12;5930;POST dados básicos da matrícula;200;OK;Thread Group 1-191;true;;82417;200;200;170;1;0;CPCG-150518
+1,54478E+12;5489;GET dados básicos da matrícula;200;OK;Thread Group 1-159;false;Não conseguiu acessar tela de matrícula;82418;200;200;332;1;1;CPCG-150518
+1,54478E+12;5943;POST dados básicos da matrícula;200;OK;Thread Group 1-96;true;;82418;200;200;122;1;0;CPCG-150518
+1,54478E+12;39764;Tentativa de Login;200;OK;Thread Group 1-86;false;Não conseguiu logar no sistema;81508;200;200;32753;1;1;CPCG-150518
+1,54478E+12;5419;Post seleção de disciplinas;200;OK;Thread Group 1-138;true;;82418;200;200;1375;1;0;CPCG-150518
+1,54478E+12;39776;Tentativa de Login;200;OK;Thread Group 1-24;false;Não conseguiu logar no sistema;81508;200;200;32738;1;1;CPCG-150518
+1,54478E+12;39834;Tentativa de Login;200;OK;Thread Group 1-13;false;Não conseguiu logar no sistema;81509;200;200;32789;1;1;CPCG-150518
+1,54478E+12;39691;Tentativa de Login;200;OK;Thread Group 1-56;false;Não conseguiu logar no sistema;81508;200;200;32615;1;1;CPCG-150518
+1,54478E+12;5633;Post seleção de disciplinas;200;OK;Thread Group 1-84;true;;82418;200;200;235;1;0;CPCG-150518
+1,54478E+12;39854;Tentativa de Login;200;OK;Thread Group 1-176;false;Não conseguiu logar no sistema;81508;200;200;32800;1;1;CPCG-150518
+1,54478E+12;4154;Post seleção de disciplinas;200;OK;Thread Group 1-69;true;;82416;200;200;708;1;0;CPCG-150518
+1,54478E+12;39788;Tentativa de Login;200;OK;Thread Group 1-140;false;Não conseguiu logar no sistema;81508;200;200;32745;1;1;CPCG-150518
+1,54478E+12;39798;Tentativa de Login;200;OK;Thread Group 1-121;false;Não conseguiu logar no sistema;81507;200;200;32751;1;1;CPCG-150518
+1,54478E+12;14662;Logout;200;OK;Thread Group 1-35;true;;81953;200;200;9775;1;0;CPCG-150518
+1,54478E+12;39884;Tentativa de Login;200;OK;Thread Group 1-70;false;Não conseguiu logar no sistema;81508;199;199;32789;1;1;CPCG-150518
+1,54478E+12;39796;Tentativa de Login;200;OK;Thread Group 1-100;false;Não conseguiu logar no sistema;81508;199;199;32666;1;1;CPCG-150518
+1,54478E+12;25824;Logout;200;OK;Thread Group 1-21;true;;81953;199;199;20896;1;0;CPCG-150518
+1,54478E+12;11964;Logout;200;OK;Thread Group 1-126;true;;81953;198;198;7025;1;0;CPCG-150518
+1,54478E+12;16413;Logout;200;OK;Thread Group 1-94;true;;81953;197;197;11467;1;0;CPCG-150518
+1,54478E+12;4627;POST dados básicos da matrícula;200;OK;Thread Group 1-175;true;;82417;196;196;243;1;0;CPCG-150518
+1,54478E+12;6087;Post revisão de seleção;200;OK;Thread Group 1-131;true;;82419;196;196;202;1;0;CPCG-150518
+1,54478E+12;40200;Tentativa de Login;200;OK;Thread Group 1-57;false;Não conseguiu logar no sistema;81508;196;196;33948;1;1;CPCG-150518
+1,54478E+12;6153;Post seleção de disciplinas;200;OK;Thread Group 1-41;true;;82419;196;196;228;1;0;CPCG-150518
+1,54478E+12;6091;Post seleção de disciplinas;200;OK;Thread Group 1-37;true;;82419;196;196;299;1;0;CPCG-150518
+1,54478E+12;6101;GET dados básicos da matrícula;200;OK;Thread Group 1-111;false;Não conseguiu acessar tela de matrícula;82419;196;196;346;1;1;CPCG-150518
+1,54478E+12;6318;Post revisão de seleção;200;OK;Thread Group 1-169;true;;82418;196;196;99;1;0;CPCG-150518
+1,54478E+12;4566;POST dados básicos da matrícula;200;OK;Thread Group 1-28;true;;82418;196;196;655;1;0;CPCG-150518
+1,54478E+12;4626;Logout;200;OK;Thread Group 1-63;true;;81953;196;196;696;1;0;CPCG-150518
+1,54478E+12;6169;Post revisão de seleção;200;OK;Thread Group 1-30;true;;82418;195;195;316;1;0;CPCG-150518
+1,54478E+12;40233;Tentativa de Login;200;OK;Thread Group 1-139;false;Não conseguiu logar no sistema;81508;195;195;33915;1;1;CPCG-150518
+1,54478E+12;4562;Post revisão de seleção;200;OK;Thread Group 1-98;true;;82418;195;195;700;1;0;CPCG-150518
+1,54478E+12;40210;Tentativa de Login;200;OK;Thread Group 1-36;false;Não conseguiu logar no sistema;81508;195;195;33898;1;1;CPCG-150518
+1,54478E+12;6176;Post revisão de seleção;200;OK;Thread Group 1-32;true;;82419;195;195;269;1;0;CPCG-150518
+1,54478E+12;6166;Post revisão de seleção;200;OK;Thread Group 1-123;true;;82419;195;195;260;1;0;CPCG-150518
+1,54478E+12;40286;Tentativa de Login;200;OK;Thread Group 1-168;false;Não conseguiu logar no sistema;81509;195;195;33942;1;1;CPCG-150518
+1,54478E+12;6248;Post revisão de seleção;200;OK;Thread Group 1-166;true;;82418;195;195;84;1;0;CPCG-150518
+1,54478E+12;4670;Post seleção de disciplinas;200;OK;Thread Group 1-180;true;;82418;195;195;790;1;0;CPCG-150518
+1,54478E+12;6180;Post revisão de seleção;200;OK;Thread Group 1-179;true;;82419;195;195;304;1;0;CPCG-150518
+1,54478E+12;40316;Tentativa de Login;200;OK;Thread Group 1-88;false;Não conseguiu logar no sistema;81508;195;195;33953;1;1;CPCG-150518
+1,54478E+12;6205;Post revisão de seleção;200;OK;Thread Group 1-177;true;;82419;195;195;227;1;0;CPCG-150518
+1,54478E+12;6275;POST dados básicos da matrícula;200;OK;Thread Group 1-8;true;;82419;195;195;214;1;0;CPCG-150518
+1,54478E+12;6180;Post revisão de seleção;200;OK;Thread Group 1-164;true;;82419;195;195;172;1;0;CPCG-150518
+1,54478E+12;6191;POST dados básicos da matrícula;200;OK;Thread Group 1-42;true;;82419;195;195;294;1;0;CPCG-150518
+1,54478E+12;6242;GET dados básicos da matrícula;200;OK;Thread Group 1-162;false;Não conseguiu acessar tela de matrícula;82419;195;195;369;1;1;CPCG-150518
+1,54478E+12;40340;Tentativa de Login;200;OK;Thread Group 1-181;false;Não conseguiu logar no sistema;81508;195;195;33958;1;1;CPCG-150518
+1,54478E+12;6220;Post seleção de disciplinas;200;OK;Thread Group 1-182;true;;82419;195;195;182;1;0;CPCG-150518
+1,54478E+12;6486;Post revisão de seleção;200;OK;Thread Group 1-73;true;;82419;195;195;105;1;0;CPCG-150518
+1,54478E+12;6224;Post seleção de disciplinas;200;OK;Thread Group 1-189;true;;82419;195;195;291;1;0;CPCG-150518
+1,54478E+12;40292;Tentativa de Login;200;OK;Thread Group 1-188;false;Não conseguiu logar no sistema;81507;195;195;33893;1;1;CPCG-150518
+1,54478E+12;6219;Post seleção de disciplinas;200;OK;Thread Group 1-152;true;;82419;195;195;167;1;0;CPCG-150518
+1,54478E+12;6336;Post seleção de disciplinas;200;OK;Thread Group 1-3;true;;82419;195;195;162;1;0;CPCG-150518
+1,54478E+12;28164;Logout;200;OK;Thread Group 1-185;true;;81953;195;195;22765;1;0;CPCG-150518
+1,54478E+12;32717;Logout;200;OK;Thread Group 1-89;true;;81954;194;194;27288;1;0;CPCG-150518
+1,54478E+12;17570;Logout;200;OK;Thread Group 1-108;true;;81954;193;193;12150;1;0;CPCG-150518
+1,54478E+12;40364;Tentativa de Login;200;OK;Thread Group 1-178;false;Não conseguiu logar no sistema;81508;192;192;33886;1;1;CPCG-150518
+1,54478E+12;6396;Post seleção de disciplinas;200;OK;Thread Group 1-156;true;;82419;192;192;194;1;0;CPCG-150518
+1,54478E+12;16890;Logout;200;OK;Thread Group 1-65;true;;81955;192;192;11440;1;0;CPCG-150518
+1,54478E+12;28291;Logout;200;OK;Thread Group 1-103;true;;81955;191;191;22785;1;0;CPCG-150518
+1,54478E+12;14006;Logout;200;OK;Thread Group 1-33;true;;81954;190;190;8571;1;0;CPCG-150518
+1,54478E+12;13934;Logout;200;OK;Thread Group 1-52;true;;81954;189;189;8488;1;0;CPCG-150518
+1,54478E+12;12067;Logout;200;OK;Thread Group 1-136;true;;81955;189;189;6618;1;0;CPCG-150518
+1,54478E+12;72039;Tentativa de Login;200;OK;Thread Group 1-95;false;Não conseguiu logar no sistema;81507;188;188;68317;1;1;CPCG-150518
+1,54478E+12;15220;Logout;200;OK;Thread Group 1-198;true;;81954;187;187;9724;1;0;CPCG-150518
+1,54478E+12;16926;Logout;200;OK;Thread Group 1-197;true;;81955;186;186;11367;1;0;CPCG-150518
+1,54478E+12;40459;Tentativa de Login;200;OK;Thread Group 1-31;false;Não conseguiu logar no sistema;81507;185;185;36685;1;1;CPCG-150518
+1,54478E+12;28519;Logout;200;OK;Thread Group 1-124;true;;81955;185;185;22751;1;0;CPCG-150518
+1,54478E+12;12717;Logout;200;OK;Thread Group 1-61;true;;81954;185;185;7045;1;0;CPCG-150518
+1,54478E+12;12469;Logout;200;OK;Thread Group 1-44;true;;81954;183;183;6781;1;0;CPCG-150518
+1,54478E+12;26555;Logout;200;OK;Thread Group 1-40;true;;81954;182;182;20799;1;0;CPCG-150518
+1,54478E+12;8328;Post revisão de seleção;200;OK;Thread Group 1-118;true;;17425;181;181;231;1;0;CPCG-150518
+1,54478E+12;13650;Logout;200;OK;Thread Group 1-19;true;;81954;181;181;6832;1;0;CPCG-150518
+1,54478E+12;13760;Logout;200;OK;Thread Group 1-163;true;;81953;180;180;6770;1;0;CPCG-150518
+1,54478E+12;29854;Logout;200;OK;Thread Group 1-146;true;;81954;179;179;22821;1;0;CPCG-150518
+1,54478E+12;14036;Logout;200;OK;Thread Group 1-18;true;;81954;178;178;7037;1;0;CPCG-150518
+1,54478E+12;16034;Logout;200;OK;Thread Group 1-68;true;;81955;177;177;8978;1;0;CPCG-150518
+1,54478E+12;18658;Logout;200;OK;Thread Group 1-58;true;;81953;176;176;11506;1;0;CPCG-150518
+1,54478E+12;18017;Logout;200;OK;Thread Group 1-83;true;;81953;175;175;10865;1;0;CPCG-150518
+1,54478E+12;18981;Logout;200;OK;Thread Group 1-60;true;;81954;174;174;11822;1;0;CPCG-150518
+1,54478E+12;18182;Logout;200;OK;Thread Group 1-11;true;;81954;173;173;11032;1;0;CPCG-150518
+1,54478E+12;16821;Logout;200;OK;Thread Group 1-171;true;;81955;172;172;9683;1;0;CPCG-150518
+1,54478E+12;17850;Logout;200;OK;Thread Group 1-48;true;;81954;171;171;10707;1;0;CPCG-150518
+1,54478E+12;27995;Logout;200;OK;Thread Group 1-67;true;;81954;170;170;20719;1;0;CPCG-150518
+1,54478E+12;27900;Logout;200;OK;Thread Group 1-102;true;;81954;169;169;20652;1;0;CPCG-150518
+1,54478E+12;14424;Logout;200;OK;Thread Group 1-53;true;;81954;168;168;7244;1;0;CPCG-150518
+1,54478E+12;14031;Logout;200;OK;Thread Group 1-104;true;;81955;167;167;6740;1;0;CPCG-150518
+1,54478E+12;30132;Logout;200;OK;Thread Group 1-90;true;;81954;166;166;22782;1;0;CPCG-150518
+1,54478E+12;14559;Logout;200;OK;Thread Group 1-66;true;;81954;165;165;7265;1;0;CPCG-150518
+1,54478E+12;15809;Logout;200;OK;Thread Group 1-137;true;;81954;164;164;8509;1;0;CPCG-150518
+1,54478E+12;16175;Logout;200;OK;Thread Group 1-165;true;;81954;163;163;8866;1;0;CPCG-150518
+1,54478E+12;11644;Logout;200;OK;Thread Group 1-125;true;;81954;162;162;4333;1;0;CPCG-150518
+1,54478E+12;18286;Logout;200;OK;Thread Group 1-158;true;;81954;161;161;10918;1;0;CPCG-150518
+1,54478E+12;9527;POST dados básicos da matrícula;200;OK;Thread Group 1-71;true;;82420;160;160;121;1;0;CPCG-150518
+1,54478E+12;9687;Post revisão de seleção;200;OK;Thread Group 1-110;true;;82420;160;160;108;1;0;CPCG-150518
+1,54478E+12;14080;Logout;200;OK;Thread Group 1-134;true;;81954;160;160;6734;1;0;CPCG-150518
+1,54478E+12;9557;Post seleção de disciplinas;200;OK;Thread Group 1-116;true;;82420;159;159;146;1;0;CPCG-150518
+1,54478E+12;11628;Logout;200;OK;Thread Group 1-194;true;;81954;159;159;4257;1;0;CPCG-150518
+1,54478E+12;33972;Logout;200;OK;Thread Group 1-187;true;;81954;159;159;26779;1;0;CPCG-150518
+1,54478E+12;32204;Logout;200;OK;Thread Group 1-93;true;;81954;157;157;24970;1;0;CPCG-150518
+1,54478E+12;8429;Logout;200;OK;Thread Group 1-141;true;;81954;156;156;1172;1;0;CPCG-150518
+1,54478E+12;16415;Logout;200;OK;Thread Group 1-7;true;;81954;155;155;9006;1;0;CPCG-150518
+1,54478E+12;8327;Logout;200;OK;Thread Group 1-195;true;;81954;155;155;1037;1;0;CPCG-150518
+1,54478E+12;17097;Logout;200;OK;Thread Group 1-113;true;;81954;153;153;9679;1;0;CPCG-150518
+1,54478E+12;9619;Logout;200;OK;Thread Group 1-2;true;;81954;152;152;2211;1;0;CPCG-150518
+1,54478E+12;9628;Post revisão de seleção;200;OK;Thread Group 1-167;true;;82420;151;151;1984;1;0;CPCG-150518
+1,54478E+12;9758;Logout;200;OK;Thread Group 1-160;true;;81954;151;151;2338;1;0;CPCG-150518
+1,54478E+12;5593;GET dados básicos da matrícula;200;OK;Thread Group 1-130;false;Não conseguiu acessar tela de matrícula;82418;150;150;602;1;1;CPCG-150518
+1,54478E+12;11714;Logout;200;OK;Thread Group 1-76;true;;81954;150;150;4274;1;0;CPCG-150518
+1,54478E+12;13920;Logout;200;OK;Thread Group 1-38;true;;81954;149;149;6472;1;0;CPCG-150518
+1,54478E+12;8618;Logout;200;OK;Thread Group 1-145;true;;81954;148;148;1221;1;0;CPCG-150518
+1,54478E+12;9746;Post seleção de disciplinas;200;OK;Thread Group 1-34;true;;82420;147;147;136;1;0;CPCG-150518
+1,54478E+12;7835;Post revisão de seleção;200;OK;Thread Group 1-43;true;;82419;147;147;454;1;0;CPCG-150518
+1,54478E+12;19099;Logout;200;OK;Thread Group 1-55;true;;81955;147;147;11466;1;0;CPCG-150518
+1,54478E+12;5815;GET dados básicos da matrícula;200;OK;Thread Group 1-161;false;Não conseguiu acessar tela de matrícula;82417;147;147;429;1;1;CPCG-150518
+1,54478E+12;31084;Logout;200;OK;Thread Group 1-99;true;;81955;146;146;23502;1;0;CPCG-150518
+1,54478E+12;12315;Logout;200;OK;Thread Group 1-59;true;;81954;145;145;4902;1;0;CPCG-150518
+1,54478E+12;34333;Logout;200;OK;Thread Group 1-49;true;;81954;144;144;26730;1;0;CPCG-150518
+1,54478E+12;17127;Logout;200;OK;Thread Group 1-122;true;;81954;143;143;9359;1;0;CPCG-150518
+1,54478E+12;30289;Logout;200;OK;Thread Group 1-16;true;;81954;142;142;22765;1;0;CPCG-150518
+1,54478E+12;30305;Logout;200;OK;Thread Group 1-186;true;;81954;141;141;22781;1;0;CPCG-150518
+1,54478E+12;7986;POST dados básicos da matrícula;200;OK;Thread Group 1-80;true;;82419;140;140;407;1;0;CPCG-150518
+1,54478E+12;12548;Logout;200;OK;Thread Group 1-128;true;;81955;140;140;5079;1;0;CPCG-150518
+1,54478E+12;74406;Tentativa de Login;200;OK;Thread Group 1-193;false;Não conseguiu logar no sistema;81507;139;139;69071;1;1;CPCG-150518
+1,54478E+12;28072;Logout;200;OK;Thread Group 1-157;true;;81956;139;139;20500;1;0;CPCG-150518
+1,54478E+12;19325;Logout;200;OK;Thread Group 1-25;true;;81955;138;138;11486;1;0;CPCG-150518
+1,54478E+12;28235;Logout;200;OK;Thread Group 1-170;true;;81955;137;137;20652;1;0;CPCG-150518
+1,54478E+12;31282;Logout;200;OK;Thread Group 1-129;true;;81954;136;136;23591;1;0;CPCG-150518
+1,54478E+12;9998;POST dados básicos da matrícula;200;OK;Thread Group 1-17;true;;82420;135;135;124;1;0;CPCG-150518
+1,54478E+12;10529;Logout;200;OK;Thread Group 1-150;true;;81953;135;135;2992;1;0;CPCG-150518
+1,54478E+12;9938;Post revisão de seleção;200;OK;Thread Group 1-72;true;;82420;135;135;91;1;0;CPCG-150518
+1,54478E+12;8828;Logout;200;OK;Thread Group 1-115;true;;81954;134;134;1056;1;0;CPCG-150518
+1,54478E+12;8843;Logout;200;OK;Thread Group 1-127;true;;81954;133;133;1120;1;0;CPCG-150518
+1,54478E+12;10447;Logout;200;OK;Thread Group 1-22;true;;81954;132;132;2841;1;0;CPCG-150518
+1,54478E+12;42883;Tentativa de Login;200;OK;Thread Group 1-85;false;Não conseguiu logar no sistema;81507;131;131;37472;1;1;CPCG-150518
+1,54478E+12;31301;Logout;200;OK;Thread Group 1-117;true;;81954;131;131;23563;1;0;CPCG-150518
+1,54478E+12;5442;POST dados básicos da matrícula;200;OK;Thread Group 1-172;true;;82417;130;130;1385;1;0;CPCG-150518
+1,54478E+12;5456;POST dados básicos da matrícula;200;OK;Thread Group 1-51;true;;82418;130;130;1483;1;0;CPCG-150518
+1,54478E+12;32557;Logout;200;OK;Thread Group 1-64;true;;81954;130;130;24767;1;0;CPCG-150518
+1,54478E+12;14233;Logout;200;OK;Thread Group 1-27;true;;81954;129;129;6584;1;0;CPCG-150518
+1,54478E+12;5491;GET dados básicos da matrícula;200;OK;Thread Group 1-91;false;Não conseguiu acessar tela de matrícula;82417;128;128;1482;1;1;CPCG-150518
+1,54478E+12;43003;Tentativa de Login;200;OK;Thread Group 1-81;false;Não conseguiu logar no sistema;81507;128;128;37493;1;1;CPCG-150518
+1,54478E+12;3796;POST dados básicos da matrícula;200;OK;Thread Group 1-20;true;;82417;128;128;198;1;0;CPCG-150518
+1,54478E+12;8955;Logout;200;OK;Thread Group 1-5;true;;81954;128;128;1362;1;0;CPCG-150518
+1,54478E+12;3813;Post seleção de disciplinas;200;OK;Thread Group 1-143;true;;82417;127;127;212;1;0;CPCG-150518
+1,54478E+12;8298;Logout;200;OK;Thread Group 1-174;true;;81954;127;127;714;1;0;CPCG-150518
+1,54478E+12;10271;GET dados básicos da matrícula;200;OK;Thread Group 1-54;false;Não conseguiu acessar tela de matrícula;82420;126;126;183;1;1;CPCG-150518
+1,54478E+12;10257;GET dados básicos da matrícula;200;OK;Thread Group 1-105;false;Não conseguiu acessar tela de matrícula;82420;126;126;199;1;1;CPCG-150518
+1,54478E+12;8342;Logout;200;OK;Thread Group 1-26;true;;81954;126;126;701;1;0;CPCG-150518
+1,54478E+12;74871;Tentativa de Login;200;OK;Thread Group 1-92;false;Não conseguiu logar no sistema;81507;126;126;70038;1;1;CPCG-150518
+1,54478E+12;43125;Tentativa de Login;200;OK;Thread Group 1-39;false;Não conseguiu logar no sistema;81507;125;125;38309;1;1;CPCG-150518
+1,54478E+12;72508;Tentativa de Login;200;OK;Thread Group 1-74;false;Não conseguiu logar no sistema;81507;125;125;67941;1;1;CPCG-150518
+1,54478E+12;74752;Tentativa de Login;200;OK;Thread Group 1-23;false;Não conseguiu logar no sistema;81506;125;125;70498;1;1;CPCG-150518
+1,54478E+12;4197;Post revisão de seleção;200;OK;Thread Group 1-1;true;;17422;125;125;241;1;0;CPCG-150518
+1,54478E+12;43138;Tentativa de Login;200;OK;Thread Group 1-82;false;Não conseguiu logar no sistema;81507;125;125;38342;1;1;CPCG-150518
+1,54478E+12;43158;Tentativa de Login;200;OK;Thread Group 1-183;false;Não conseguiu logar no sistema;81507;125;125;39338;1;1;CPCG-150518
+1,54478E+12;3071;GET dados básicos da matrícula;200;OK;Thread Group 1-57;false;Não conseguiu acessar tela de matrícula;82417;125;125;243;1;1;CPCG-150518
+1,54478E+12;3085;Post seleção de disciplinas;200;OK;Thread Group 1-175;true;;82416;125;125;231;1;0;CPCG-150518
+1,54478E+12;3075;Post revisão de seleção;200;OK;Thread Group 1-41;true;;82417;125;125;243;1;0;CPCG-150518
+1,54478E+12;3082;Post revisão de seleção;200;OK;Thread Group 1-37;true;;82416;125;125;248;1;0;CPCG-150518
+1,54478E+12;3069;Post seleção de disciplinas;200;OK;Thread Group 1-28;true;;82416;125;125;272;1;0;CPCG-150518
+1,54478E+12;3112;POST dados básicos da matrícula;200;OK;Thread Group 1-111;true;;82416;125;125;291;1;0;CPCG-150518
+1,54478E+12;10823;Logout;200;OK;Thread Group 1-87;true;;81955;125;125;2872;1;0;CPCG-150518
+1,54478E+12;5760;Post seleção de disciplinas;200;OK;Thread Group 1-62;true;;82419;124;124;1785;1;0;CPCG-150518
+1,54478E+12;74940;Tentativa de Login;200;OK;Thread Group 1-142;false;Não conseguiu logar no sistema;81507;124;124;70988;1;1;CPCG-150518
+1,54478E+12;7908;POST dados básicos da matrícula;200;OK;Thread Group 1-153;true;;82419;124;124;2168;1;0;CPCG-150518
+1,54478E+12;3062;Post revisão de seleção;200;OK;Thread Group 1-189;true;;82417;124;124;357;1;0;CPCG-150518
+1,54478E+12;3154;GET dados básicos da matrícula;200;OK;Thread Group 1-139;false;Não conseguiu acessar tela de matrícula;82417;124;124;411;1;1;CPCG-150518
+1,54478E+12;5848;Post seleção de disciplinas;200;OK;Thread Group 1-149;true;;82419;124;124;1928;1;0;CPCG-150518
+1,54478E+12;3121;GET dados básicos da matrícula;200;OK;Thread Group 1-88;false;Não conseguiu acessar tela de matrícula;82417;124;124;398;1;1;CPCG-150518
+1,54478E+12;3153;Logout;200;OK;Thread Group 1-166;true;;81952;124;124;483;1;0;CPCG-150518
+1,54478E+12;3092;GET dados básicos da matrícula;200;OK;Thread Group 1-188;false;Não conseguiu acessar tela de matrícula;82417;123;123;354;1;1;CPCG-150518
+1,54478E+12;3099;Post revisão de seleção;200;OK;Thread Group 1-152;true;;82417;123;123;354;1;0;CPCG-150518
+1,54478E+12;3145;Post seleção de disciplinas;200;OK;Thread Group 1-8;true;;82417;123;123;388;1;0;CPCG-150518
+1,54478E+12;3196;Logout;200;OK;Thread Group 1-30;true;;81953;123;123;500;1;0;CPCG-150518
+1,54478E+12;3130;POST dados básicos da matrícula;200;OK;Thread Group 1-162;true;;82416;122;122;362;1;0;CPCG-150518
+1,54478E+12;3298;Logout;200;OK;Thread Group 1-131;true;;81952;122;122;632;1;0;CPCG-150518
+1,54478E+12;7747;POST dados básicos da matrícula;200;OK;Thread Group 1-133;true;;165777;121;121;286;1;0;CPCG-150518
+1,54478E+12;3217;Logout;200;OK;Thread Group 1-123;true;;81953;121;121;470;1;0;CPCG-150518
+1,54478E+12;3163;GET dados básicos da matrícula;200;OK;Thread Group 1-181;false;Não conseguiu acessar tela de matrícula;82417;121;121;361;1;1;CPCG-150518
+1,54478E+12;3165;Post revisão de seleção;200;OK;Thread Group 1-182;true;;82416;120;120;366;1;0;CPCG-150518
+1,54478E+12;10627;Post revisão de seleção;200;OK;Thread Group 1-112;true;;17426;120;120;336;1;0;CPCG-150518
+1,54478E+12;3212;Logout;200;OK;Thread Group 1-177;true;;81952;120;120;466;1;0;CPCG-150518
+1,54478E+12;3226;Post revisão de seleção;200;OK;Thread Group 1-180;true;;82417;120;120;412;1;0;CPCG-150518
+1,54478E+12;3253;GET dados básicos da matrícula;200;OK;Thread Group 1-36;false;Não conseguiu acessar tela de matrícula;82417;119;119;418;1;1;CPCG-150518
+1,54478E+12;3215;Post seleção de disciplinas;200;OK;Thread Group 1-42;true;;82417;119;119;383;1;0;CPCG-150518
+1,54478E+12;3289;GET dados básicos da matrícula;200;OK;Thread Group 1-168;false;Não conseguiu acessar tela de matrícula;82417;119;119;405;1;1;CPCG-150518
+1,54478E+12;3220;Post revisão de seleção;200;OK;Thread Group 1-3;true;;82416;119;119;352;1;0;CPCG-150518
+1,54478E+12;10742;GET dados básicos da matrícula;200;OK;Thread Group 1-12;false;Não conseguiu acessar tela de matrícula;82420;119;119;235;1;1;CPCG-150518
+1,54478E+12;3841;POST dados básicos da matrícula;200;OK;Thread Group 1-135;true;;82417;119;119;1022;1;0;CPCG-150518
+1,54478E+12;10748;Post revisão de seleção;200;OK;Thread Group 1-107;true;;82421;119;119;89;1;0;CPCG-150518
+1,54478E+12;3312;Logout;200;OK;Thread Group 1-179;true;;81952;119;119;476;1;0;CPCG-150518
+1,54478E+12;75175;Tentativa de Login;200;OK;Thread Group 1-151;false;Não conseguiu logar no sistema;81507;118;118;71393;1;1;CPCG-150518
+1,54478E+12;3311;Logout;200;OK;Thread Group 1-164;true;;81952;118;118;456;1;0;CPCG-150518
+1,54478E+12;3291;Logout;200;OK;Thread Group 1-73;true;;81952;117;117;427;1;0;CPCG-150518
+1,54478E+12;10796;GET dados básicos da matrícula;200;OK;Thread Group 1-14;false;Não conseguiu acessar tela de matrícula;82421;116;116;224;1;1;CPCG-150518
+1,54478E+12;3375;Logout;200;OK;Thread Group 1-32;true;;81953;116;116;492;1;0;CPCG-150518
+1,54478E+12;35341;Logout;200;OK;Thread Group 1-15;true;;81956;115;115;27188;1;0;CPCG-150518
+1,54478E+12;3811;GET dados básicos da matrícula;200;OK;Thread Group 1-176;false;Não conseguiu acessar tela de matrícula;82418;115;115;2039;1;1;CPCG-150518
+1,54478E+12;3816;Post revisão de seleção;200;OK;Thread Group 1-69;true;;82418;114;114;2068;1;0;CPCG-150518
+1,54478E+12;10838;Post seleção de disciplinas;200;OK;Thread Group 1-144;true;;82421;114;114;136;1;0;CPCG-150518
+1,54478E+12;3822;GET dados básicos da matrícula;200;OK;Thread Group 1-140;false;Não conseguiu acessar tela de matrícula;82418;114;114;2073;1;1;CPCG-150518
+1,54478E+12;3820;GET dados básicos da matrícula;200;OK;Thread Group 1-121;false;Não conseguiu acessar tela de matrícula;82418;114;114;2062;1;1;CPCG-150518
+1,54478E+12;3899;Post seleção de disciplinas;200;OK;Thread Group 1-191;true;;82418;114;114;1593;1;0;CPCG-150518
+1,54478E+12;3875;GET dados básicos da matrícula;200;OK;Thread Group 1-86;false;Não conseguiu acessar tela de matrícula;82418;114;114;1564;1;1;CPCG-150518
+1,54478E+12;3927;Post revisão de seleção;200;OK;Thread Group 1-109;true;;82418;114;114;1606;1;0;CPCG-150518
+1,54478E+12;16263;Logout;200;OK;Thread Group 1-101;true;;81955;114;114;7883;1;0;CPCG-150518
+1,54478E+12;3949;Logout;200;OK;Thread Group 1-192;true;;81953;114;114;1620;1;0;CPCG-150518
+1,54478E+12;8183;Post seleção de disciplinas;200;OK;Thread Group 1-46;true;;82420;112;112;2192;1;0;CPCG-150518
+1,54478E+12;3974;Logout;200;OK;Thread Group 1-190;true;;81953;112;112;1645;1;0;CPCG-150518
+1,54478E+12;3481;Logout;200;OK;Thread Group 1-98;true;;81953;111;111;485;1;0;CPCG-150518
+1,54478E+12;3915;Post revisão de seleção;200;OK;Thread Group 1-138;true;;82418;111;111;1560;1;0;CPCG-150518
+1,54478E+12;8929;Post seleção de disciplinas;200;OK;Thread Group 1-47;true;;82419;110;110;547;1;0;CPCG-150518
+1,54478E+12;3851;GET dados básicos da matrícula;200;OK;Thread Group 1-70;false;Não conseguiu acessar tela de matrícula;82418;110;110;2150;1;1;CPCG-150518
+1,54478E+12;6083;POST dados básicos da matrícula;200;OK;Thread Group 1-119;true;;82419;110;110;167;1;0;CPCG-150518
+1,54478E+12;28564;Logout;200;OK;Thread Group 1-200;true;;81956;110;110;20125;1;0;CPCG-150518
+1,54478E+12;43806;Tentativa de Login;200;OK;Thread Group 1-75;false;Não conseguiu logar no sistema;81507;109;109;39731;1;1;CPCG-150518
+1,54478E+12;3979;Post seleção de disciplinas;200;OK;Thread Group 1-96;true;;82417;109;109;1588;1;0;CPCG-150518
+1,54478E+12;3378;GET dados básicos da matrícula;200;OK;Thread Group 1-178;false;Não conseguiu acessar tela de matrícula;82417;109;109;348;1;1;CPCG-150518
+1,54478E+12;11192;Logout;200;OK;Thread Group 1-184;true;;81955;109;109;2760;1;0;CPCG-150518
+1,54478E+12;3969;GET dados básicos da matrícula;200;OK;Thread Group 1-13;false;Não conseguiu acessar tela de matrícula;82418;108;108;1877;1;1;CPCG-150518
+1,54478E+12;3952;Post revisão de seleção;200;OK;Thread Group 1-84;true;;82418;108;108;1859;1;0;CPCG-150518
+1,54478E+12;3956;GET dados básicos da matrícula;200;OK;Thread Group 1-56;false;Não conseguiu acessar tela de matrícula;82417;108;108;1861;1;1;CPCG-150518
+1,54478E+12;4009;POST dados básicos da matrícula;200;OK;Thread Group 1-159;true;;82418;108;108;1598;1;0;CPCG-150518
+1,54478E+12;3976;GET dados básicos da matrícula;200;OK;Thread Group 1-24;false;Não conseguiu acessar tela de matrícula;82418;108;108;1877;1;1;CPCG-150518
+1,54478E+12;6198;Post seleção de disciplinas;200;OK;Thread Group 1-29;true;;82419;108;108;2079;1;0;CPCG-150518
+1,54478E+12;8981;Logout;200;OK;Thread Group 1-6;true;;81955;108;108;691;1;0;CPCG-150518
+1,54478E+12;1007;Post seleção de disciplinas;200;OK;Thread Group 1-80;true;;82416;108;108;294;1;0;CPCG-150518
+1,54478E+12;9046;Logout;200;OK;Thread Group 1-79;true;;81956;107;107;747;1;0;CPCG-150518
+1,54478E+12;988;GET dados básicos da matrícula;200;OK;Thread Group 1-193;false;Não conseguiu acessar tela de matrícula;82416;106;106;285;1;1;CPCG-150518
+1,54478E+12;6167;Post seleção de disciplinas;200;OK;Thread Group 1-155;true;;82419;106;106;2109;1;0;CPCG-150518
+1,54478E+12;40335;Logout;200;OK;Thread Group 1-50;true;;81957;106;106;30163;1;0;CPCG-150518
+1,54478E+12;3359;GET dados básicos da matrícula;200;OK;Thread Group 1-95;false;Não conseguiu acessar tela de matrícula;82417;105;105;935;1;1;CPCG-150518
+1,54478E+12;2992;Logout;200;OK;Thread Group 1-118;true;;81952;105;105;261;1;0;CPCG-150518
+1,54478E+12;4096;Logout;200;OK;Thread Group 1-106;true;;81953;105;105;1029;1;0;CPCG-150518
+1,54478E+12;3268;GET dados básicos da matrícula;200;OK;Thread Group 1-31;false;Não conseguiu acessar tela de matrícula;82417;103;103;823;1;1;CPCG-150518
+1,54478E+12;43831;Tentativa de Login;200;OK;Thread Group 1-97;false;Não conseguiu logar no sistema;81510;103;103;32889;1;1;CPCG-150518
+1,54478E+12;15059;Logout;200;OK;Thread Group 1-148;true;;81955;103;103;6580;1;0;CPCG-150518
+1,54478E+12;964;Post seleção de disciplinas;200;OK;Thread Group 1-17;true;;82416;102;102;270;1;0;CPCG-150518
+1,54478E+12;31330;Logout;200;OK;Thread Group 1-132;true;;81956;102;102;23023;1;0;CPCG-150518
+1,54478E+12;72750;Tentativa de Login;200;OK;Thread Group 1-4;false;Não conseguiu logar no sistema;81507;101;101;68657;1;1;CPCG-150518
+1,54478E+12;8363;Post seleção de disciplinas;200;OK;Thread Group 1-154;true;;82420;101;101;2184;1;0;CPCG-150518
+1,54478E+12;6177;POST dados básicos da matrícula;200;OK;Thread Group 1-196;true;;82418;101;101;2120;1;0;CPCG-150518
+1,54478E+12;3660;Logout;200;OK;Thread Group 1-169;true;;81953;101;101;560;1;0;CPCG-150518
+1,54478E+12;43851;Tentativa de Login;200;OK;Thread Group 1-9;false;Não conseguiu logar no sistema;81507;100;100;40795;1;1;CPCG-150518
+1,54478E+12;43822;Tentativa de Login;200;OK;Thread Group 1-199;false;Não conseguiu logar no sistema;81507;100;100;40645;1;1;CPCG-150518
+1,54478E+12;6184;POST dados básicos da matrícula;200;OK;Thread Group 1-147;true;;82419;100;100;2121;1;0;CPCG-150518
+1,54478E+12;3451;Post revisão de seleção;200;OK;Thread Group 1-156;true;;82417;100;100;347;1;0;CPCG-150518
+1,54478E+12;43829;Tentativa de Login;200;OK;Thread Group 1-78;false;Não conseguiu logar no sistema;81507;100;100;40110;1;1;CPCG-150518
+1,54478E+12;3956;GET dados básicos da matrícula;200;OK;Thread Group 1-100;false;Não conseguiu acessar tela de matrícula;82418;100;100;210;1;1;CPCG-150518
+1,54478E+12;1509;Post seleção de disciplinas;200;OK;Thread Group 1-71;true;;82416;100;100;170;1;0;CPCG-150518
+1,54478E+12;75398;Tentativa de Login;200;OK;Thread Group 1-114;false;Não conseguiu logar no sistema;81507;100;100;71736;1;1;CPCG-150518
+1,54478E+12;1484;Post revisão de seleção;200;OK;Thread Group 1-116;true;;82417;100;100;168;1;0;CPCG-150518
+1,54478E+12;1496;Logout;200;OK;Thread Group 1-110;true;;81953;100;100;274;1;0;CPCG-150518
+1,54478E+12;75442;Tentativa de Login;200;OK;Thread Group 1-120;false;Não conseguiu logar no sistema;81507;100;100;71610;1;1;CPCG-150518
+1,54478E+12;901;Post seleção de disciplinas;200;OK;Thread Group 1-172;true;;82416;99;99;324;1;0;CPCG-150518
+1,54478E+12;1417;POST dados básicos da matrícula;200;OK;Thread Group 1-130;true;;82416;99;99;202;1;0;CPCG-150518
+1,54478E+12;1421;Logout;200;OK;Thread Group 1-167;true;;81951;99;99;208;1;0;CPCG-150518
+1,54478E+12;43858;Tentativa de Login;200;OK;Thread Group 1-77;false;Não conseguiu logar no sistema;81508;99;99;41567;1;1;CPCG-150518
+1,54478E+12;905;Post seleção de disciplinas;200;OK;Thread Group 1-51;true;;82416;99;99;316;1;0;CPCG-150518
+1,54478E+12;73172;Tentativa de Login;200;OK;Thread Group 1-10;false;Não conseguiu logar no sistema;81507;98;98;69513;1;1;CPCG-150518
+1,54478E+12;43873;Tentativa de Login;200;OK;Thread Group 1-173;false;Não conseguiu logar no sistema;81507;98;98;41589;1;1;CPCG-150518
+1,54478E+12;1291;POST dados básicos da matrícula;200;OK;Thread Group 1-161;true;;82417;98;98;277;1;0;CPCG-150518
+1,54478E+12;1316;Post revisão de seleção;200;OK;Thread Group 1-34;true;;82417;98;98;313;1;0;CPCG-150518
+1,54478E+12;1301;Logout;200;OK;Thread Group 1-43;true;;81953;98;98;307;1;0;CPCG-150518
+1,54478E+12;821;Post seleção de disciplinas;200;OK;Thread Group 1-20;true;;82416;97;97;291;1;0;CPCG-150518
+1,54478E+12;799;POST dados básicos da matrícula;200;OK;Thread Group 1-54;true;;82415;97;97;288;1;0;CPCG-150518
+1,54478E+12;852;GET dados básicos da matrícula;200;OK;Thread Group 1-81;false;Não conseguiu acessar tela de matrícula;82416;97;97;303;1;1;CPCG-150518
+1,54478E+12;1047;Logout;200;OK;Thread Group 1-72;true;;81951;97;97;451;1;0;CPCG-150518
+1,54478E+12;1030;GET dados básicos da matrícula;200;OK;Thread Group 1-85;false;Não conseguiu acessar tela de matrícula;82416;96;96;360;1;1;CPCG-150518
+1,54478E+12;837;Logout;200;OK;Thread Group 1-1;true;;81952;96;96;137;1;0;CPCG-150518
+1,54478E+12;1043;POST dados básicos da matrícula;200;OK;Thread Group 1-91;true;;82416;95;95;345;1;0;CPCG-150518
+1,54478E+12;10356;POST dados básicos da matrícula;200;OK;Thread Group 1-45;true;;165778;95;95;394;1;0;CPCG-150518
+1,54478E+12;1188;GET dados básicos da matrícula;200;OK;Thread Group 1-82;false;Não conseguiu acessar tela de matrícula;82416;95;95;334;1;1;CPCG-150518
+1,54478E+12;1270;GET dados básicos da matrícula;200;OK;Thread Group 1-151;false;Não conseguiu acessar tela de matrícula;82416;95;95;472;1;1;CPCG-150518
+1,54478E+12;1194;POST dados básicos da matrícula;200;OK;Thread Group 1-140;true;;82415;95;95;390;1;0;CPCG-150518
+1,54478E+12;1095;Post revisão de seleção;200;OK;Thread Group 1-96;true;;82416;95;95;402;1;0;CPCG-150518
+1,54478E+12;1001;Logout;200;OK;Thread Group 1-116;true;;81949;95;95;314;1;0;CPCG-150518
+1,54478E+12;990;GET dados básicos da matrícula;200;OK;Thread Group 1-173;false;Não conseguiu acessar tela de matrícula;82414;95;95;466;1;1;CPCG-150518
+1,54478E+12;992;Post seleção de disciplinas;200;OK;Thread Group 1-161;true;;82415;94;94;471;1;0;CPCG-150518
+1,54478E+12;1006;Post seleção de disciplinas;200;OK;Thread Group 1-130;true;;82415;94;94;474;1;0;CPCG-150518
+1,54478E+12;996;Logout;200;OK;Thread Group 1-34;true;;81950;94;94;448;1;0;CPCG-150518
+1,54478E+12;1043;GET dados básicos da matrícula;200;OK;Thread Group 1-77;false;Não conseguiu acessar tela de matrícula;82415;93;93;474;1;1;CPCG-150518
+1,54478E+12;1366;Logout;200;OK;Thread Group 1-109;true;;81951;93;93;420;1;0;CPCG-150518
+1,54478E+12;1394;Post revisão de seleção;200;OK;Thread Group 1-155;true;;82415;92;92;537;1;0;CPCG-150518
+1,54478E+12;1381;Post seleção de disciplinas;200;OK;Thread Group 1-196;true;;82415;92;92;509;1;0;CPCG-150518
+1,54478E+12;1381;GET dados básicos da matrícula;200;OK;Thread Group 1-199;false;Não conseguiu acessar tela de matrícula;82416;92;92;500;1;1;CPCG-150518
+1,54478E+12;1382;Logout;200;OK;Thread Group 1-156;true;;81952;92;92;485;1;0;CPCG-150518
+1,54478E+12;1432;POST dados básicos da matrícula;200;OK;Thread Group 1-95;true;;82415;91;91;529;1;0;CPCG-150518
+1,54478E+12;1416;GET dados básicos da matrícula;200;OK;Thread Group 1-4;false;Não conseguiu acessar tela de matrícula;82416;91;91;512;1;1;CPCG-150518
+1,54478E+12;1392;Post revisão de seleção;200;OK;Thread Group 1-71;true;;82416;91;91;481;1;0;CPCG-150518
+1,54478E+12;1462;Post revisão de seleção;200;OK;Thread Group 1-29;true;;82416;91;91;390;1;0;CPCG-150518
+1,54478E+12;1456;POST dados básicos da matrícula;200;OK;Thread Group 1-31;true;;82416;91;91;523;1;0;CPCG-150518
+1,54478E+12;1464;Post revisão de seleção;200;OK;Thread Group 1-154;true;;82415;91;91;505;1;0;CPCG-150518
+1,54478E+12;1467;Post seleção de disciplinas;200;OK;Thread Group 1-147;true;;82416;91;91;330;1;0;CPCG-150518
+1,54478E+12;1483;GET dados básicos da matrícula;200;OK;Thread Group 1-9;false;Não conseguiu acessar tela de matrícula;82415;91;91;505;1;1;CPCG-150518
+1,54478E+12;2050;POST dados básicos da matrícula;200;OK;Thread Group 1-88;true;;82416;91;91;253;1;0;CPCG-150518
+1,54478E+12;2348;POST dados básicos da matrícula;200;OK;Thread Group 1-105;true;;82417;91;91;278;1;0;CPCG-150518
+1,54478E+12;2237;Post revisão de seleção;200;OK;Thread Group 1-175;true;;82416;91;91;362;1;0;CPCG-150518
+1,54478E+12;2129;Post seleção de disciplinas;200;OK;Thread Group 1-162;true;;82417;91;91;636;1;0;CPCG-150518
+1,54478E+12;2171;Logout;200;OK;Thread Group 1-3;true;;81952;91;91;284;1;0;CPCG-150518
+1,54478E+12;2250;POST dados básicos da matrícula;200;OK;Thread Group 1-181;true;;82417;91;91;335;1;0;CPCG-150518
+1,54478E+12;2291;Post revisão de seleção;200;OK;Thread Group 1-8;true;;82417;90;90;345;1;0;CPCG-150518
+1,54478E+12;1850;POST dados básicos da matrícula;200;OK;Thread Group 1-81;true;;82416;90;90;430;1;0;CPCG-150518
+1,54478E+12;2617;GET dados básicos da matrícula;200;OK;Thread Group 1-92;false;Não conseguiu acessar tela de matrícula;82417;90;90;274;1;1;CPCG-150518
+1,54478E+12;1896;GET dados básicos da matrícula;200;OK;Thread Group 1-114;false;Não conseguiu acessar tela de matrícula;82416;90;90;499;1;1;CPCG-150518
+1,54478E+12;1885;Post revisão de seleção;200;OK;Thread Group 1-51;true;;82415;90;90;467;1;0;CPCG-150518
+1,54478E+12;1713;Post seleção de disciplinas;200;OK;Thread Group 1-91;true;;82415;90;90;427;1;0;CPCG-150518
+1,54478E+12;2264;Post revisão de seleção;200;OK;Thread Group 1-42;true;;82417;90;90;501;1;0;CPCG-150518
+1,54478E+12;1875;Post seleção de disciplinas;200;OK;Thread Group 1-54;true;;82416;90;90;465;1;0;CPCG-150518
+1,54478E+12;2355;POST dados básicos da matrícula;200;OK;Thread Group 1-188;true;;82417;90;90;542;1;0;CPCG-150518
+1,54478E+12;2620;GET dados básicos da matrícula;200;OK;Thread Group 1-39;false;Não conseguiu acessar tela de matrícula;82416;90;90;290;1;1;CPCG-150518
+1,54478E+12;2215;Post seleção de disciplinas;200;OK;Thread Group 1-135;true;;82416;90;90;471;1;0;CPCG-150518
+1,54478E+12;2071;Post revisão de seleção;200;OK;Thread Group 1-47;true;;82416;90;90;413;1;0;CPCG-150518
+1,54478E+12;2816;Post revisão de seleção;200;OK;Thread Group 1-143;true;;82417;90;90;304;1;0;CPCG-150518
+1,54478E+12;2405;Logout;200;OK;Thread Group 1-180;true;;81952;90;90;341;1;0;CPCG-150518
+1,54478E+12;2720;GET dados básicos da matrícula;200;OK;Thread Group 1-74;false;Não conseguiu acessar tela de matrícula;82416;90;90;282;1;1;CPCG-150518
+1,54478E+12;2715;GET dados básicos da matrícula;200;OK;Thread Group 1-23;false;Não conseguiu acessar tela de matrícula;82417;89;89;347;1;1;CPCG-150518
+1,54478E+12;2720;Logout;200;OK;Thread Group 1-41;true;;81953;89;89;375;1;0;CPCG-150518
+1,54478E+12;2735;GET dados básicos da matrícula;200;OK;Thread Group 1-183;false;Não conseguiu acessar tela de matrícula;82417;89;89;396;1;1;CPCG-150518
+1,54478E+12;2527;Logout;200;OK;Thread Group 1-152;true;;81952;89;89;342;1;0;CPCG-150518
+1,54478E+12;2279;POST dados básicos da matrícula;200;OK;Thread Group 1-121;true;;82417;89;89;176;1;0;CPCG-150518
+1,54478E+12;1644;POST dados básicos da matrícula;200;OK;Thread Group 1-82;true;;82416;87;87;129;1;0;CPCG-150518
+1,54478E+12;2051;POST dados básicos da matrícula;200;OK;Thread Group 1-85;true;;82416;87;87;342;1;0;CPCG-150518
+1,54478E+12;2358;POST dados básicos da matrícula;200;OK;Thread Group 1-86;true;;82417;87;87;175;1;0;CPCG-150518
+1,54478E+12;2392;POST dados básicos da matrícula;200;OK;Thread Group 1-176;true;;82417;87;87;538;1;0;CPCG-150518
+1,54478E+12;2423;POST dados básicos da matrícula;200;OK;Thread Group 1-14;true;;82416;87;87;155;1;0;CPCG-150518
+1,54478E+12;2272;POST dados básicos da matrícula;200;OK;Thread Group 1-178;true;;82417;87;87;569;1;0;CPCG-150518
+1,54478E+12;2747;Post revisão de seleção;200;OK;Thread Group 1-62;true;;82416;87;87;311;1;0;CPCG-150518
+1,54478E+12;2482;Logout;200;OK;Thread Group 1-107;true;;81952;87;87;236;1;0;CPCG-150518
+1,54478E+12;2807;Logout;200;OK;Thread Group 1-37;true;;81952;87;87;380;1;0;CPCG-150518
+1,54478E+12;2800;Post revisão de seleção;200;OK;Thread Group 1-28;true;;82416;85;85;322;1;0;CPCG-150518
+1,54478E+12;2824;POST dados básicos da matrícula;200;OK;Thread Group 1-57;true;;82417;85;85;366;1;0;CPCG-150518
+1,54478E+12;2493;POST dados básicos da matrícula;200;OK;Thread Group 1-12;true;;82417;85;85;762;1;0;CPCG-150518
+1,54478E+12;2782;Post seleção de disciplinas;200;OK;Thread Group 1-111;true;;82416;85;85;355;1;0;CPCG-150518
+1,54478E+12;2681;Post seleção de disciplinas;200;OK;Thread Group 1-153;true;;82417;85;85;270;1;0;CPCG-150518
+1,54478E+12;2357;Logout;200;OK;Thread Group 1-138;true;;81952;85;85;626;1;0;CPCG-150518
+1,54478E+12;2308;Logout;200;OK;Thread Group 1-84;true;;81952;84;84;569;1;0;CPCG-150518
+1,54478E+12;2302;Post revisão de seleção;200;OK;Thread Group 1-80;true;;82416;84;84;549;1;0;CPCG-150518
+1,54478E+12;2661;Logout;200;OK;Thread Group 1-112;true;;81952;83;83;431;1;0;CPCG-150518
+1,54478E+12;2744;Post revisão de seleção;200;OK;Thread Group 1-149;true;;82417;83;83;370;1;0;CPCG-150518
+1,54478E+12;680;Logout;200;OK;Thread Group 1-175;true;;81950;82;82;304;1;0;CPCG-150518
+1,54478E+12;2373;POST dados básicos da matrícula;200;OK;Thread Group 1-13;true;;82417;81;81;549;1;0;CPCG-150518
+1,54478E+12;2488;Post revisão de seleção;200;OK;Thread Group 1-191;true;;82417;81;81;686;1;0;CPCG-150518
+1,54478E+12;2360;POST dados básicos da matrícula;200;OK;Thread Group 1-193;true;;82416;81;81;547;1;0;CPCG-150518
+1,54478E+12;711;Post seleção de disciplinas;200;OK;Thread Group 1-88;true;;82415;81;81;320;1;0;CPCG-150518
+1,54478E+12;713;Post seleção de disciplinas;200;OK;Thread Group 1-105;true;;82414;81;81;319;1;0;CPCG-150518
+1,54478E+12;2777;POST dados básicos da matrícula;200;OK;Thread Group 1-139;true;;82416;81;81;373;1;0;CPCG-150518
+1,54478E+12;2706;Logout;200;OK;Thread Group 1-182;true;;81952;81;81;641;1;0;CPCG-150518
+1,54478E+12;2800;Logout;200;OK;Thread Group 1-189;true;;81952;81;81;387;1;0;CPCG-150518
+1,54478E+12;2824;GET dados básicos da matrícula;200;OK;Thread Group 1-142;false;Não conseguiu acessar tela de matrícula;82416;79;79;644;1;1;CPCG-150518
+1,54478E+12;2333;GET dados básicos da matrícula;200;OK;Thread Group 1-78;false;Não conseguiu acessar tela de matrícula;82417;79;79;517;1;1;CPCG-150518
+1,54478E+12;441;POST dados básicos da matrícula;200;OK;Thread Group 1-92;true;;82414;79;79;107;1;0;CPCG-150518
+1,54478E+12;2453;GET dados básicos da matrícula;200;OK;Thread Group 1-75;false;Não conseguiu acessar tela de matrícula;82417;79;79;580;1;1;CPCG-150518
+1,54478E+12;967;Logout;200;OK;Thread Group 1-71;true;;81952;79;79;131;1;0;CPCG-150518
+1,54478E+12;2675;POST dados básicos da matrícula;200;OK;Thread Group 1-168;true;;82417;78;78;794;1;0;CPCG-150518
+1,54478E+12;2727;POST dados básicos da matrícula;200;OK;Thread Group 1-36;true;;82417;78;78;640;1;0;CPCG-150518
+1,54478E+12;2448;POST dados básicos da matrícula;200;OK;Thread Group 1-56;true;;82417;78;78;542;1;0;CPCG-150518
+1,54478E+12;2453;Post seleção de disciplinas;200;OK;Thread Group 1-159;true;;82417;78;78;601;1;0;CPCG-150518
+1,54478E+12;2484;Post seleção de disciplinas;200;OK;Thread Group 1-119;true;;82417;78;78;634;1;0;CPCG-150518
+1,54478E+12;2585;Post revisão de seleção;200;OK;Thread Group 1-144;true;;82417;78;78;708;1;0;CPCG-150518
+1,54478E+12;2455;POST dados básicos da matrícula;200;OK;Thread Group 1-24;true;;82417;78;78;569;1;0;CPCG-150518
+1,54478E+12;2381;GET dados básicos da matrícula;200;OK;Thread Group 1-120;false;Não conseguiu acessar tela de matrícula;82416;78;78;515;1;1;CPCG-150518
+1,54478E+12;2593;Logout;200;OK;Thread Group 1-69;true;;81952;78;78;703;1;0;CPCG-150518
+1,54478E+12;2403;POST dados básicos da matrícula;200;OK;Thread Group 1-100;true;;82417;77;77;480;1;0;CPCG-150518
+1,54478E+12;2561;Post revisão de seleção;200;OK;Thread Group 1-46;true;;82417;77;77;676;1;0;CPCG-150518
+1,54478E+12;2396;GET dados básicos da matrícula;200;OK;Thread Group 1-10;false;Não conseguiu acessar tela de matrícula;82417;77;77;496;1;1;CPCG-150518
+1,54478E+12;2440;Post revisão de seleção;200;OK;Thread Group 1-17;true;;82417;77;77;548;1;0;CPCG-150518
+1,54478E+12;2448;GET dados básicos da matrícula;200;OK;Thread Group 1-97;false;Não conseguiu acessar tela de matrícula;82416;77;77;567;1;1;CPCG-150518
+1,54478E+12;2389;Post revisão de seleção;200;OK;Thread Group 1-20;true;;82416;77;77;492;1;0;CPCG-150518
+1,54478E+12;527;Post revisão de seleção;200;OK;Thread Group 1-54;true;;82416;77;77;111;1;0;CPCG-150518
+1,54478E+12;1431;POST dados básicos da matrícula;200;OK;Thread Group 1-173;true;;82417;77;77;100;1;0;CPCG-150518
+1,54478E+12;1435;Post seleção de disciplinas;200;OK;Thread Group 1-140;true;;82416;77;77;124;1;0;CPCG-150518
+1,54478E+12;514;POST dados básicos da matrícula;200;OK;Thread Group 1-39;true;;82415;77;77;112;1;0;CPCG-150518
+1,54478E+12;2540;POST dados básicos da matrícula;200;OK;Thread Group 1-70;true;;82417;77;77;637;1;0;CPCG-150518
+1,54478E+12;1409;Post revisão de seleção;200;OK;Thread Group 1-130;true;;82416;77;77;84;1;0;CPCG-150518
+1,54478E+12;1417;Post revisão de seleção;200;OK;Thread Group 1-161;true;;82416;77;77;121;1;0;CPCG-150518
+1,54478E+12;2409;Post revisão de seleção;200;OK;Thread Group 1-172;true;;82417;77;77;501;1;0;CPCG-150518
+1,54478E+12;1534;POST dados básicos da matrícula;200;OK;Thread Group 1-151;true;;82416;77;77;119;1;0;CPCG-150518
+1,54478E+12;1481;POST dados básicos da matrícula;200;OK;Thread Group 1-77;true;;82417;77;77;124;1;0;CPCG-150518
+1,54478E+12;1550;Logout;200;OK;Thread Group 1-96;true;;81951;77;77;276;1;0;CPCG-150518
+1,54478E+12;2319;Post seleção de disciplinas;200;OK;Thread Group 1-45;true;;165561;76;76;880;1;0;CPCG-150518
+1,54478E+12;3228;Post seleção de disciplinas;200;OK;Thread Group 1-133;true;;165561;76;76;1518;1;0;CPCG-150518
+1,54478E+12;1555;POST dados básicos da matrícula;200;OK;Thread Group 1-199;true;;82416;76;76;173;1;0;CPCG-150518
+1,54478E+12;1575;POST dados básicos da matrícula;200;OK;Thread Group 1-4;true;;82416;76;76;162;1;0;CPCG-150518
+1,54478E+12;1624;Logout;200;OK;Thread Group 1-155;true;;81951;76;76;184;1;0;CPCG-150518
+1,54478E+12;1104;Post seleção de disciplinas;200;OK;Thread Group 1-181;true;;82415;75;75;356;1;0;CPCG-150518
+1,54478E+12;1610;Post revisão de seleção;200;OK;Thread Group 1-196;true;;82416;75;75;206;1;0;CPCG-150518
+1,54478E+12;1031;Logout;200;OK;Thread Group 1-47;true;;81949;75;75;332;1;0;CPCG-150518
+1,54478E+12;1003;Post seleção de disciplinas;200;OK;Thread Group 1-12;true;;82415;74;74;476;1;0;CPCG-150518
+1,54478E+12;835;Post revisão de seleção;200;OK;Thread Group 1-140;true;;82415;74;74;453;1;0;CPCG-150518
+1,54478E+12;834;Logout;200;OK;Thread Group 1-130;true;;81950;74;74;449;1;0;CPCG-150518
+1,54478E+12;743;Post seleção de disciplinas;200;OK;Thread Group 1-77;true;;82414;73;73;344;1;0;CPCG-150518
+1,54478E+12;748;Post seleção de disciplinas;200;OK;Thread Group 1-151;true;;82415;73;73;358;1;0;CPCG-150518
+1,54478E+12;880;Post seleção de disciplinas;200;OK;Thread Group 1-173;true;;82415;73;73;450;1;0;CPCG-150518
+1,54478E+12;1433;POST dados básicos da matrícula;200;OK;Thread Group 1-114;true;;82416;73;73;144;1;0;CPCG-150518
+1,54478E+12;903;Logout;200;OK;Thread Group 1-161;true;;81950;73;73;443;1;0;CPCG-150518
+1,54478E+12;255;Post revisão de seleção;200;OK;Thread Group 1-151;true;;82415;72;72;120;1;0;CPCG-150518
+1,54478E+12;271;Post revisão de seleção;200;OK;Thread Group 1-77;true;;82415;72;72;135;1;0;CPCG-150518
+1,54478E+12;232;Post revisão de seleção;200;OK;Thread Group 1-173;true;;82415;72;72;109;1;0;CPCG-150518
+1,54478E+12;3172;POST dados básicos da matrícula;200;OK;Thread Group 1-74;true;;82416;72;72;118;1;0;CPCG-150518
+1,54478E+12;3469;Logout;200;OK;Thread Group 1-51;true;;81951;72;72;159;1;0;CPCG-150518
+1,54478E+12;3479;Post revisão de seleção;200;OK;Thread Group 1-91;true;;82417;71;71;107;1;0;CPCG-150518
+1,54478E+12;3033;Post seleção de disciplinas;200;OK;Thread Group 1-168;true;;82416;71;71;159;1;0;CPCG-150518
+1,54478E+12;3668;Post revisão de seleção;200;OK;Thread Group 1-135;true;;82417;71;71;362;1;0;CPCG-150518
+1,54478E+12;3697;Logout;200;OK;Thread Group 1-42;true;;81953;71;71;369;1;0;CPCG-150518
+1,54478E+12;3743;Post revisão de seleção;200;OK;Thread Group 1-162;true;;82417;70;70;402;1;0;CPCG-150518
+1,54478E+12;3701;Post seleção de disciplinas;200;OK;Thread Group 1-188;true;;82417;70;70;387;1;0;CPCG-150518
+1,54478E+12;2794;Post revisão de seleção;200;OK;Thread Group 1-45;true;;17421;70;70;336;1;0;CPCG-150518
+1,54478E+12;4087;Logout;200;OK;Thread Group 1-8;true;;81952;70;70;435;1;0;CPCG-150518
+1,54478E+12;3649;Post revisão de seleção;200;OK;Thread Group 1-88;true;;82417;69;69;366;1;0;CPCG-150518
+1,54478E+12;3647;Post revisão de seleção;200;OK;Thread Group 1-105;true;;82417;69;69;379;1;0;CPCG-150518
+1,54478E+12;4571;Post seleção de disciplinas;200;OK;Thread Group 1-95;true;;82417;69;69;181;1;0;CPCG-150518
+1,54478E+12;4510;Post revisão de seleção;200;OK;Thread Group 1-147;true;;82418;69;69;130;1;0;CPCG-150518
+1,54478E+12;4499;POST dados básicos da matrícula;200;OK;Thread Group 1-9;true;;82417;69;69;136;1;0;CPCG-150518
+1,54478E+12;4551;Post seleção de disciplinas;200;OK;Thread Group 1-31;true;;82418;69;69;145;1;0;CPCG-150518
+1,54478E+12;3617;POST dados básicos da matrícula;200;OK;Thread Group 1-75;true;;82417;69;69;534;1;0;CPCG-150518
+1,54478E+12;4584;Logout;200;OK;Thread Group 1-29;true;;81954;69;69;178;1;0;CPCG-150518
+1,54478E+12;3787;Post seleção de disciplinas;200;OK;Thread Group 1-178;true;;82416;69;69;696;1;0;CPCG-150518
+1,54478E+12;3064;Post seleção de disciplinas;200;OK;Thread Group 1-199;true;;82417;68;68;125;1;0;CPCG-150518
+1,54478E+12;3019;Logout;200;OK;Thread Group 1-196;true;;81953;68;68;117;1;0;CPCG-150518
+1,54478E+12;3026;Post seleção de disciplinas;200;OK;Thread Group 1-4;true;;82416;67;67;144;1;0;CPCG-150518
+1,54478E+12;4556;Logout;200;OK;Thread Group 1-154;true;;81954;67;67;179;1;0;CPCG-150518
+1,54478E+12;4108;Post seleção de disciplinas;200;OK;Thread Group 1-81;true;;82418;66;66;126;1;0;CPCG-150518
+1,54478E+12;2452;Logout;200;OK;Thread Group 1-77;true;;81953;66;66;124;1;0;CPCG-150518
+1,54478E+12;3036;Post revisão de seleção;200;OK;Thread Group 1-181;true;;82416;65;65;116;1;0;CPCG-150518
+1,54478E+12;2457;Logout;200;OK;Thread Group 1-173;true;;81952;65;65;122;1;0;CPCG-150518
+1,54478E+12;2753;Logout;200;OK;Thread Group 1-140;true;;81953;64;64;195;1;0;CPCG-150518
+1,54478E+12;3859;Post seleção de disciplinas;200;OK;Thread Group 1-85;true;;82417;63;63;334;1;0;CPCG-150518
+1,54478E+12;2497;Logout;200;OK;Thread Group 1-151;true;;81952;63;63;139;1;0;CPCG-150518
+1,54478E+12;3895;Logout;200;OK;Thread Group 1-62;true;;81953;62;62;141;1;0;CPCG-150518
+1,54478E+12;4058;Logout;200;OK;Thread Group 1-143;true;;81953;61;61;142;1;0;CPCG-150518
+1,54478E+12;4100;POST dados básicos da matrícula;200;OK;Thread Group 1-23;true;;82417;60;60;117;1;0;CPCG-150518
+1,54478E+12;3912;Logout;200;OK;Thread Group 1-80;true;;81953;60;60;263;1;0;CPCG-150518
+1,54478E+12;3745;Logout;200;OK;Thread Group 1-46;true;;81953;60;60;234;1;0;CPCG-150518
+1,54478E+12;3973;Post revisão de seleção;200;OK;Thread Group 1-153;true;;82418;58;58;160;1;0;CPCG-150518
+1,54478E+12;3845;Post seleção de disciplinas;200;OK;Thread Group 1-92;true;;82418;58;58;383;1;0;CPCG-150518
+1,54478E+12;4077;Post seleção de disciplinas;200;OK;Thread Group 1-121;true;;82417;58;58;171;1;0;CPCG-150518
+1,54478E+12;3817;Post seleção de disciplinas;200;OK;Thread Group 1-56;true;;82418;58;58;240;1;0;CPCG-150518
+1,54478E+12;4009;Post seleção de disciplinas;200;OK;Thread Group 1-14;true;;82417;58;58;148;1;0;CPCG-150518
+1,54478E+12;4086;POST dados básicos da matrícula;200;OK;Thread Group 1-183;true;;82418;58;58;139;1;0;CPCG-150518
+1,54478E+12;3894;Logout;200;OK;Thread Group 1-191;true;;81953;58;58;264;1;0;CPCG-150518
+1,54478E+12;3789;POST dados básicos da matrícula;200;OK;Thread Group 1-97;true;;82417;58;58;270;1;0;CPCG-150518
+1,54478E+12;3813;POST dados básicos da matrícula;200;OK;Thread Group 1-120;true;;82418;57;57;276;1;0;CPCG-150518
+1,54478E+12;3796;Logout;200;OK;Thread Group 1-17;true;;81953;57;57;277;1;0;CPCG-150518
+1,54478E+12;3853;Post revisão de seleção;200;OK;Thread Group 1-159;true;;82418;56;56;241;1;0;CPCG-150518
+1,54478E+12;3888;Logout;200;OK;Thread Group 1-144;true;;81953;56;56;258;1;0;CPCG-150518
+1,54478E+12;3893;Post revisão de seleção;200;OK;Thread Group 1-119;true;;82418;56;56;226;1;0;CPCG-150518
+1,54478E+12;3961;Post seleção de disciplinas;200;OK;Thread Group 1-193;true;;82417;56;56;331;1;0;CPCG-150518
+1,54478E+12;3114;Post seleção de disciplinas;200;OK;Thread Group 1-114;true;;82417;55;55;1378;1;0;CPCG-150518
+1,54478E+12;4066;Post seleção de disciplinas;200;OK;Thread Group 1-24;true;;82418;55;55;340;1;0;CPCG-150518
+1,54478E+12;421;Post revisão de seleção;200;OK;Thread Group 1-14;true;;82415;55;55;104;1;0;CPCG-150518
+1,54478E+12;412;Post seleção de disciplinas;200;OK;Thread Group 1-120;true;;82414;55;55;102;1;0;CPCG-150518
+1,54478E+12;431;Post revisão de seleção;200;OK;Thread Group 1-92;true;;82415;55;55;140;1;0;CPCG-150518
+1,54478E+12;415;Post seleção de disciplinas;200;OK;Thread Group 1-97;true;;82415;55;55;108;1;0;CPCG-150518
+1,54478E+12;421;Post seleção de disciplinas;200;OK;Thread Group 1-183;true;;82415;55;55;102;1;0;CPCG-150518
+1,54478E+12;444;Logout;200;OK;Thread Group 1-153;true;;81949;55;55;161;1;0;CPCG-150518
+1,54478E+12;433;Post revisão de seleção;200;OK;Thread Group 1-56;true;;82415;54;54;136;1;0;CPCG-150518
+1,54478E+12;438;Post revisão de seleção;200;OK;Thread Group 1-121;true;;82415;54;54;121;1;0;CPCG-150518
+1,54478E+12;486;Post seleção de disciplinas;200;OK;Thread Group 1-23;true;;82415;54;54;113;1;0;CPCG-150518
+1,54478E+12;358;Logout;200;OK;Thread Group 1-119;true;;81950;54;54;155;1;0;CPCG-150518
+1,54478E+12;402;Logout;200;OK;Thread Group 1-159;true;;81950;53;53;182;1;0;CPCG-150518
+1,54478E+12;362;Post revisão de seleção;200;OK;Thread Group 1-193;true;;82414;52;52;150;1;0;CPCG-150518
+1,54478E+12;4352;Post seleção de disciplinas;200;OK;Thread Group 1-13;true;;82417;52;52;210;1;0;CPCG-150518
+1,54478E+12;4457;Post seleção de disciplinas;200;OK;Thread Group 1-57;true;;82418;52;52;272;1;0;CPCG-150518
+1,54478E+12;4481;Post seleção de disciplinas;200;OK;Thread Group 1-82;true;;82418;52;52;282;1;0;CPCG-150518
+1,54478E+12;4219;Logout;200;OK;Thread Group 1-54;true;;81953;52;52;320;1;0;CPCG-150518
+1,54478E+12;4466;Logout;200;OK;Thread Group 1-28;true;;81953;51;51;206;1;0;CPCG-150518
+1,54478E+12;4247;Logout;200;OK;Thread Group 1-20;true;;81953;51;51;331;1;0;CPCG-150518
+1,54478E+12;4489;Post seleção de disciplinas;200;OK;Thread Group 1-86;true;;82418;49;49;277;1;0;CPCG-150518
+1,54478E+12;4259;POST dados básicos da matrícula;200;OK;Thread Group 1-10;true;;82418;49;49;207;1;0;CPCG-150518
+1,54478E+12;4223;Logout;200;OK;Thread Group 1-172;true;;81953;49;49;341;1;0;CPCG-150518
+1,54478E+12;4344;POST dados básicos da matrícula;200;OK;Thread Group 1-78;true;;82418;48;48;378;1;0;CPCG-150518
+1,54478E+12;235;Post revisão de seleção;200;OK;Thread Group 1-114;true;;82414;48;48;76;1;0;CPCG-150518
+1,54478E+12;1070;Post revisão de seleção;200;OK;Thread Group 1-188;true;;82416;48;48;137;1;0;CPCG-150518
+1,54478E+12;233;Post revisão de seleção;200;OK;Thread Group 1-24;true;;82415;48;48;96;1;0;CPCG-150518
+1,54478E+12;4515;Post seleção de disciplinas;200;OK;Thread Group 1-176;true;;82418;48;48;123;1;0;CPCG-150518
+1,54478E+12;4502;Post revisão de seleção;200;OK;Thread Group 1-111;true;;82418;48;48;174;1;0;CPCG-150518
+1,54478E+12;4259;Post seleção de disciplinas;200;OK;Thread Group 1-70;true;;82418;48;48;306;1;0;CPCG-150518
+1,54478E+12;1114;Logout;200;OK;Thread Group 1-135;true;;81951;48;48;263;1;0;CPCG-150518
+1,54478E+12;4263;Post seleção de disciplinas;200;OK;Thread Group 1-39;true;;82418;48;48;340;1;0;CPCG-150518
+1,54478E+12;1084;Logout;200;OK;Thread Group 1-45;true;;81951;47;47;168;1;0;CPCG-150518
+1,54478E+12;4394;POST dados básicos da matrícula;200;OK;Thread Group 1-142;true;;82418;46;46;277;1;0;CPCG-150518
+1,54478E+12;1507;Post seleção de disciplinas;200;OK;Thread Group 1-74;true;;82417;46;46;532;1;0;CPCG-150518
+1,54478E+12;1117;Logout;200;OK;Thread Group 1-162;true;;81952;46;46;276;1;0;CPCG-150518
+1,54478E+12;4438;Post seleção de disciplinas;200;OK;Thread Group 1-139;true;;82418;45;45;342;1;0;CPCG-150518
+1,54478E+12;4351;Post seleção de disciplinas;200;OK;Thread Group 1-100;true;;82418;45;45;327;1;0;CPCG-150518
+1,54478E+12;4449;Post seleção de disciplinas;200;OK;Thread Group 1-36;true;;82418;45;45;341;1;0;CPCG-150518
+1,54478E+12;4542;Logout;200;OK;Thread Group 1-149;true;;81953;45;45;442;1;0;CPCG-150518
+1,54478E+12;4048;Post revisão de seleção;200;OK;Thread Group 1-133;true;;17423;44;44;345;1;0;CPCG-150518
+1,54478E+12;3696;Post revisão de seleção;200;OK;Thread Group 1-12;true;;82418;44;44;104;1;0;CPCG-150518
+1,54478E+12;240;Post revisão de seleção;200;OK;Thread Group 1-86;true;;82415;44;44;86;1;0;CPCG-150518
+1,54478E+12;933;Post seleção de disciplinas;200;OK;Thread Group 1-75;true;;82416;44;44;161;1;0;CPCG-150518
+1,54478E+12;945;Post seleção de disciplinas;200;OK;Thread Group 1-9;true;;82416;44;44;115;1;0;CPCG-150518
+1,54478E+12;1539;Logout;200;OK;Thread Group 1-91;true;;81952;44;44;703;1;0;CPCG-150518
+1,54478E+12;1526;Post revisão de seleção;200;OK;Thread Group 1-168;true;;82417;43;43;680;1;0;CPCG-150518
+1,54478E+12;276;Post seleção de disciplinas;200;OK;Thread Group 1-78;true;;82415;43;43;89;1;0;CPCG-150518
+1,54478E+12;300;Post revisão de seleção;200;OK;Thread Group 1-57;true;;82415;43;43;122;1;0;CPCG-150518
+1,54478E+12;931;Post revisão de seleção;200;OK;Thread Group 1-85;true;;82415;43;43;165;1;0;CPCG-150518
+1,54478E+12;288;Post seleção de disciplinas;200;OK;Thread Group 1-142;true;;82415;43;43;87;1;0;CPCG-150518
+1,54478E+12;1037;Post revisão de seleção;200;OK;Thread Group 1-31;true;;82416;43;43;164;1;0;CPCG-150518
+1,54478E+12;1060;Logout;200;OK;Thread Group 1-105;true;;81952;43;43;176;1;0;CPCG-150518
+1,54478E+12;363;Post revisão de seleção;200;OK;Thread Group 1-82;true;;82415;43;43;114;1;0;CPCG-150518
+1,54478E+12;1031;Post revisão de seleção;200;OK;Thread Group 1-4;true;;82416;42;42;183;1;0;CPCG-150518
+1,54478E+12;1066;Post revisão de seleção;200;OK;Thread Group 1-95;true;;82416;42;42;175;1;0;CPCG-150518
+1,54478E+12;1064;Logout;200;OK;Thread Group 1-147;true;;81951;42;42;172;1;0;CPCG-150518
+1,54478E+12;1056;Post revisão de seleção;200;OK;Thread Group 1-178;true;;82415;41;41;160;1;0;CPCG-150518
+1,54478E+12;376;Post seleção de disciplinas;200;OK;Thread Group 1-10;true;;82415;41;41;109;1;0;CPCG-150518
+1,54478E+12;306;Post revisão de seleção;200;OK;Thread Group 1-139;true;;82415;41;41;82;1;0;CPCG-150518
+1,54478E+12;368;Post revisão de seleção;200;OK;Thread Group 1-176;true;;82415;41;41;103;1;0;CPCG-150518
+1,54478E+12;1062;Logout;200;OK;Thread Group 1-181;true;;81951;41;41;190;1;0;CPCG-150518
+1,54478E+12;367;Post revisão de seleção;200;OK;Thread Group 1-39;true;;82415;40;40;92;1;0;CPCG-150518
+1,54478E+12;1102;Post revisão de seleção;200;OK;Thread Group 1-199;true;;82415;40;40;187;1;0;CPCG-150518
+1,54478E+12;1087;Post revisão de seleção;200;OK;Thread Group 1-81;true;;82416;40;40;178;1;0;CPCG-150518
+1,54478E+12;396;Post revisão de seleção;200;OK;Thread Group 1-70;true;;82415;40;40;105;1;0;CPCG-150518
+1,54478E+12;1157;Logout;200;OK;Thread Group 1-88;true;;81951;40;40;183;1;0;CPCG-150518
+1,54478E+12;478;Post revisão de seleção;200;OK;Thread Group 1-74;true;;82414;39;39;133;1;0;CPCG-150518
+1,54478E+12;531;Logout;200;OK;Thread Group 1-111;true;;81950;39;39;142;1;0;CPCG-150518
+1,54478E+12;426;Post revisão de seleção;200;OK;Thread Group 1-36;true;;82414;38;38;112;1;0;CPCG-150518
+1,54478E+12;716;Post revisão de seleção;200;OK;Thread Group 1-97;true;;82416;38;38;100;1;0;CPCG-150518
+1,54478E+12;611;Post revisão de seleção;200;OK;Thread Group 1-100;true;;82414;38;38;93;1;0;CPCG-150518
+1,54478E+12;768;Post revisão de seleção;200;OK;Thread Group 1-183;true;;82415;38;38;99;1;0;CPCG-150518
+1,54478E+12;810;Logout;200;OK;Thread Group 1-193;true;;81951;38;38;132;1;0;CPCG-150518
+1,54478E+12;861;Post revisão de seleção;200;OK;Thread Group 1-13;true;;82416;37;37;106;1;0;CPCG-150518
+1,54478E+12;623;Logout;200;OK;Thread Group 1-133;true;;81950;37;37;153;1;0;CPCG-150518
+1,54478E+12;919;Logout;200;OK;Thread Group 1-92;true;;81951;36;36;122;1;0;CPCG-150518
+1,54478E+12;923;Post revisão de seleção;200;OK;Thread Group 1-120;true;;82416;35;35;138;1;0;CPCG-150518
+1,54478E+12;254;Logout;200;OK;Thread Group 1-97;true;;81949;35;35;117;1;0;CPCG-150518
+1,54478E+12;966;Logout;200;OK;Thread Group 1-24;true;;81951;34;34;136;1;0;CPCG-150518
+1,54478E+12;1053;Logout;200;OK;Thread Group 1-14;true;;81950;33;33;162;1;0;CPCG-150518
+1,54478E+12;714;Logout;200;OK;Thread Group 1-57;true;;81951;32;32;170;1;0;CPCG-150518
+1,54478E+12;600;Logout;200;OK;Thread Group 1-39;true;;81951;31;31;168;1;0;CPCG-150518
+1,54478E+12;752;Logout;200;OK;Thread Group 1-86;true;;81950;31;31;148;1;0;CPCG-150518
+1,54478E+12;288;Logout;200;OK;Thread Group 1-183;true;;81951;31;31;140;1;0;CPCG-150518
+1,54478E+12;1004;Logout;200;OK;Thread Group 1-114;true;;81951;28;28;152;1;0;CPCG-150518
+1,54478E+12;1008;Logout;200;OK;Thread Group 1-188;true;;81951;27;27;151;1;0;CPCG-150518
+1,54478E+12;827;Post revisão de seleção;200;OK;Thread Group 1-75;true;;82416;26;26;95;1;0;CPCG-150518
+1,54478E+12;813;Logout;200;OK;Thread Group 1-168;true;;81951;26;26;127;1;0;CPCG-150518
+1,54478E+12;852;Logout;200;OK;Thread Group 1-12;true;;81951;25;25;151;1;0;CPCG-150518
+1,54478E+12;840;Logout;200;OK;Thread Group 1-85;true;;81951;24;24;176;1;0;CPCG-150518
+1,54478E+12;857;Post revisão de seleção;200;OK;Thread Group 1-78;true;;82415;23;23;99;1;0;CPCG-150518
+1,54478E+12;815;Post revisão de seleção;200;OK;Thread Group 1-142;true;;82416;23;23;128;1;0;CPCG-150518
+1,54478E+12;777;Logout;200;OK;Thread Group 1-139;true;;81952;23;23;170;1;0;CPCG-150518
+1,54478E+12;922;Post revisão de seleção;200;OK;Thread Group 1-9;true;;82416;22;22;95;1;0;CPCG-150518
+1,54478E+12;829;Logout;200;OK;Thread Group 1-178;true;;81951;22;22;211;1;0;CPCG-150518
+1,54478E+12;1233;Post revisão de seleção;200;OK;Thread Group 1-23;true;;82417;22;22;106;1;0;CPCG-150518
+1,54478E+12;1232;Logout;200;OK;Thread Group 1-121;true;;81952;22;22;127;1;0;CPCG-150518
+1,54478E+12;828;Post revisão de seleção;200;OK;Thread Group 1-10;true;;82416;20;20;146;1;0;CPCG-150518
+1,54478E+12;869;Logout;200;OK;Thread Group 1-4;true;;81952;20;20;200;1;0;CPCG-150518
+1,54478E+12;846;Logout;200;OK;Thread Group 1-176;true;;81952;19;19;173;1;0;CPCG-150518
+1,54478E+12;833;Logout;200;OK;Thread Group 1-81;true;;81951;18;18;267;1;0;CPCG-150518
+1,54478E+12;856;Logout;200;OK;Thread Group 1-70;true;;81951;17;17;262;1;0;CPCG-150518
+1,54478E+12;1364;Logout;200;OK;Thread Group 1-56;true;;81952;16;16;156;1;0;CPCG-150518
+1,54478E+12;454;Logout;200;OK;Thread Group 1-120;true;;81951;15;15;110;1;0;CPCG-150518
+1,54478E+12;914;Logout;200;OK;Thread Group 1-199;true;;81950;14;14;184;1;0;CPCG-150518
+1,54478E+12;508;Logout;200;OK;Thread Group 1-13;true;;81951;13;13;102;1;0;CPCG-150518
+1,54478E+12;657;Logout;200;OK;Thread Group 1-100;true;;81951;13;13;133;1;0;CPCG-150518
+1,54478E+12;828;Logout;200;OK;Thread Group 1-74;true;;81951;11;11;223;1;0;CPCG-150518
+1,54478E+12;785;Logout;200;OK;Thread Group 1-36;true;;81952;10;10;184;1;0;CPCG-150518
+1,54478E+12;1073;Logout;200;OK;Thread Group 1-95;true;;81952;9;9;154;1;0;CPCG-150518
+1,54478E+12;264;Logout;200;OK;Thread Group 1-9;true;;81950;8;8;121;1;0;CPCG-150518
+1,54478E+12;376;Logout;200;OK;Thread Group 1-75;true;;81950;7;7;235;1;0;CPCG-150518
+1,54478E+12;271;Logout;200;OK;Thread Group 1-23;true;;81950;6;6;112;1;0;CPCG-150518
+1,54478E+12;322;Logout;200;OK;Thread Group 1-142;true;;81952;5;5;115;1;0;CPCG-150518
+1,54478E+12;333;Logout;200;OK;Thread Group 1-78;true;;81951;5;5;117;1;0;CPCG-150518
+1,54478E+12;274;Logout;200;OK;Thread Group 1-10;true;;81951;3;3;130;1;0;CPCG-150518
+1,54478E+12;1150;Logout;200;OK;Thread Group 1-31;true;;81950;2;2;156;1;0;CPCG-150518
+1,54478E+12;1181;Logout;200;OK;Thread Group 1-82;true;;81953;1;1;178;1;0;CPCG-150518

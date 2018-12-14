@@ -1,0 +1,1401 @@
+timeStamp;elapsed;label;responseCode;responseMessage;threadName;success;grpThreads;allThreads;URL;Latency;IdleTime;Connect
+1,54E+12;23450;Get Página Inicial;200;OK;Thread Group 1-133;true;200;200;https://homologacao.ufms.br/siscad/;6217;0;6103
+1,54E+12;23788;Get Página Inicial;200;OK;Thread Group 1-1;true;200;200;https://homologacao.ufms.br/siscad/;6605;0;6462
+1,54E+12;23444;Get Página Inicial;200;OK;Thread Group 1-134;true;200;200;https://homologacao.ufms.br/siscad/;6267;0;6148
+1,54E+12;23686;Get Página Inicial;200;OK;Thread Group 1-112;true;200;200;https://homologacao.ufms.br/siscad/;6375;0;6223
+1,54E+12;24327;Get Página Inicial;200;OK;Thread Group 1-155;true;200;200;https://homologacao.ufms.br/siscad/;6130;0;6012
+1,54E+12;24705;Get Página Inicial;200;OK;Thread Group 1-11;true;200;200;https://homologacao.ufms.br/siscad/;4947;0;4850
+1,54E+12;24783;Get Página Inicial;200;OK;Thread Group 1-61;true;200;200;https://homologacao.ufms.br/siscad/;4976;0;4899
+1,54E+12;24404;Get Página Inicial;200;OK;Thread Group 1-144;true;200;200;https://homologacao.ufms.br/siscad/;4618;0;4513
+1,54E+12;24680;Get Página Inicial;200;OK;Thread Group 1-141;true;200;200;https://homologacao.ufms.br/siscad/;6190;0;6067
+1,54E+12;25056;Get Página Inicial;200;OK;Thread Group 1-5;true;200;200;https://homologacao.ufms.br/siscad/;7332;0;7217
+1,54E+12;25038;Get Página Inicial;200;OK;Thread Group 1-66;true;200;200;https://homologacao.ufms.br/siscad/;6478;0;6388
+1,54E+12;25080;Get Página Inicial;200;OK;Thread Group 1-44;true;200;200;https://homologacao.ufms.br/siscad/;6527;0;6411
+1,54E+12;25261;Get Página Inicial;200;OK;Thread Group 1-7;true;200;200;https://homologacao.ufms.br/siscad/;5307;0;5241
+1,54E+12;25001;Get Página Inicial;200;OK;Thread Group 1-118;true;200;200;https://homologacao.ufms.br/siscad/;4758;0;4653
+1,54E+12;24979;Get Página Inicial;200;OK;Thread Group 1-122;true;200;200;https://homologacao.ufms.br/siscad/;5026;0;4953
+1,54E+12;25252;Get Página Inicial;200;OK;Thread Group 1-65;true;200;200;https://homologacao.ufms.br/siscad/;6525;0;6432
+1,54E+12;25036;Get Página Inicial;200;OK;Thread Group 1-113;true;200;200;https://homologacao.ufms.br/siscad/;7175;0;7075
+1,54E+12;25233;Get Página Inicial;200;OK;Thread Group 1-64;true;200;200;https://homologacao.ufms.br/siscad/;6464;0;6403
+1,54E+12;24852;Get Página Inicial;200;OK;Thread Group 1-153;true;200;200;https://homologacao.ufms.br/siscad/;4574;0;4482
+1,54E+12;24851;Get Página Inicial;200;OK;Thread Group 1-154;true;200;200;https://homologacao.ufms.br/siscad/;4586;0;4480
+1,54E+12;25240;Get Página Inicial;200;OK;Thread Group 1-6;true;200;200;https://homologacao.ufms.br/siscad/;4968;0;4861
+1,54E+12;24948;Get Página Inicial;200;OK;Thread Group 1-136;true;200;200;https://homologacao.ufms.br/siscad/;4678;0;4562
+1,54E+12;25099;Get Página Inicial;200;OK;Thread Group 1-104;true;200;200;https://homologacao.ufms.br/siscad/;6801;0;6743
+1,54E+12;25246;Get Página Inicial;200;OK;Thread Group 1-47;true;200;200;https://homologacao.ufms.br/siscad/;4962;0;4851
+1,54E+12;25301;Get Página Inicial;200;OK;Thread Group 1-18;true;200;200;https://homologacao.ufms.br/siscad/;6617;0;6429
+1,54E+12;25274;Get Página Inicial;200;OK;Thread Group 1-68;true;200;200;https://homologacao.ufms.br/siscad/;6486;0;6407
+1,54E+12;25273;Get Página Inicial;200;OK;Thread Group 1-2;true;200;200;https://homologacao.ufms.br/siscad/;4966;0;4853
+1,54E+12;25326;Get Página Inicial;200;OK;Thread Group 1-45;true;200;200;https://homologacao.ufms.br/siscad/;7477;0;7353
+1,54E+12;25076;Get Página Inicial;200;OK;Thread Group 1-116;true;200;200;https://homologacao.ufms.br/siscad/;7218;0;7115
+1,54E+12;25039;Get Página Inicial;200;OK;Thread Group 1-125;true;200;200;https://homologacao.ufms.br/siscad/;7158;0;7025
+1,54E+12;24913;Get Página Inicial;200;OK;Thread Group 1-150;true;200;200;https://homologacao.ufms.br/siscad/;4591;0;4497
+1,54E+12;24938;Get Página Inicial;200;OK;Thread Group 1-146;true;200;200;https://homologacao.ufms.br/siscad/;7007;0;6825
+1,54E+12;25743;Get Página Inicial;200;OK;Thread Group 1-71;true;200;200;https://homologacao.ufms.br/siscad/;4971;0;4869
+1,54E+12;25721;Get Página Inicial;200;OK;Thread Group 1-109;true;200;200;https://homologacao.ufms.br/siscad/;4765;0;4693
+1,54E+12;25894;Get Página Inicial;200;OK;Thread Group 1-48;true;200;200;https://homologacao.ufms.br/siscad/;4950;0;4857
+1,54E+12;25675;Get Página Inicial;200;OK;Thread Group 1-126;true;200;200;https://homologacao.ufms.br/siscad/;8438;0;8236
+1,54E+12;25784;Get Página Inicial;200;OK;Thread Group 1-103;true;200;200;https://homologacao.ufms.br/siscad/;6789;0;6730
+1,54E+12;26027;Get Página Inicial;200;OK;Thread Group 1-52;true;200;200;https://homologacao.ufms.br/siscad/;9039;0;8690
+1,54E+12;25814;Get Página Inicial;200;OK;Thread Group 1-102;true;200;200;https://homologacao.ufms.br/siscad/;8833;0;8472
+1,54E+12;25976;Get Página Inicial;200;OK;Thread Group 1-46;true;200;200;https://homologacao.ufms.br/siscad/;7573;0;7317
+1,54E+12;25706;Get Página Inicial;200;OK;Thread Group 1-123;true;200;200;https://homologacao.ufms.br/siscad/;6698;0;6628
+1,54E+12;25479;Get Página Inicial;200;OK;Thread Group 1-171;true;200;200;https://homologacao.ufms.br/siscad/;8465;0;8123
+1,54E+12;26001;Get Página Inicial;200;OK;Thread Group 1-3;true;200;200;https://homologacao.ufms.br/siscad/;7829;0;7727
+1,54E+12;25995;Get Página Inicial;200;OK;Thread Group 1-41;true;200;200;https://homologacao.ufms.br/siscad/;7512;0;7340
+1,54E+12;25608;Get Página Inicial;200;OK;Thread Group 1-156;true;200;200;https://homologacao.ufms.br/siscad/;8271;0;8079
+1,54E+12;26098;Get Página Inicial;200;OK;Thread Group 1-131;true;200;200;https://homologacao.ufms.br/siscad/;8629;0;8318
+1,54E+12;26382;Get Página Inicial;200;OK;Thread Group 1-67;true;200;200;https://homologacao.ufms.br/siscad/;6567;0;6396
+1,54E+12;26889;Get Página Inicial;200;OK;Thread Group 1-19;true;200;200;https://homologacao.ufms.br/siscad/;6580;0;6473
+1,54E+12;27108;Get Página Inicial;200;OK;Thread Group 1-69;true;200;200;https://homologacao.ufms.br/siscad/;6530;0;6386
+1,54E+12;26742;Get Página Inicial;200;OK;Thread Group 1-152;true;200;200;https://homologacao.ufms.br/siscad/;6198;0;6014
+1,54E+12;27336;Get Página Inicial;200;OK;Thread Group 1-79;true;200;200;https://homologacao.ufms.br/siscad/;10271;0;9646
+1,54E+12;27486;Get Página Inicial;200;OK;Thread Group 1-26;true;200;200;https://homologacao.ufms.br/siscad/;10447;0;9782
+1,54E+12;26936;Get Página Inicial;200;OK;Thread Group 1-174;true;200;200;https://homologacao.ufms.br/siscad/;9908;0;9234
+1,54E+12;27242;Get Página Inicial;200;OK;Thread Group 1-110;true;200;200;https://homologacao.ufms.br/siscad/;6472;0;6228
+1,54E+12;27014;Get Página Inicial;200;OK;Thread Group 1-159;true;200;200;https://homologacao.ufms.br/siscad/;8809;0;8697
+1,54E+12;27474;Get Página Inicial;200;OK;Thread Group 1-34;true;200;200;https://homologacao.ufms.br/siscad/;7387;0;7263
+1,54E+12;26858;Get Página Inicial;200;OK;Thread Group 1-196;true;200;200;https://homologacao.ufms.br/siscad/;8528;0;8441
+1,54E+12;27492;Get Página Inicial;200;OK;Thread Group 1-30;true;200;200;https://homologacao.ufms.br/siscad/;8470;0;8199
+1,54E+12;27152;Get Página Inicial;200;OK;Thread Group 1-138;true;200;200;https://homologacao.ufms.br/siscad/;7454;0;7344
+1,54E+12;27531;Get Página Inicial;200;OK;Thread Group 1-20;true;200;200;https://homologacao.ufms.br/siscad/;9140;0;9060
+1,54E+12;26897;Get Página Inicial;200;OK;Thread Group 1-195;true;200;200;https://homologacao.ufms.br/siscad/;9804;0;9120
+1,54E+12;26937;Get Página Inicial;200;OK;Thread Group 1-189;true;200;200;https://homologacao.ufms.br/siscad/;8408;0;8040
+1,54E+12;27237;Get Página Inicial;200;OK;Thread Group 1-127;true;200;200;https://homologacao.ufms.br/siscad/;7123;0;7048
+1,54E+12;27147;Get Página Inicial;200;OK;Thread Group 1-145;true;200;200;https://homologacao.ufms.br/siscad/;7407;0;7306
+1,54E+12;26977;Get Página Inicial;200;OK;Thread Group 1-182;true;200;200;https://homologacao.ufms.br/siscad/;8353;0;8072
+1,54E+12;27058;Get Página Inicial;200;OK;Thread Group 1-191;true;200;200;https://homologacao.ufms.br/siscad/;11135;0;10714
+1,54E+12;27592;Get Página Inicial;200;OK;Thread Group 1-84;true;200;200;https://homologacao.ufms.br/siscad/;10285;0;9683
+1,54E+12;27364;Get Página Inicial;200;OK;Thread Group 1-135;true;200;200;https://homologacao.ufms.br/siscad/;6266;0;6092
+1,54E+12;27740;Get Página Inicial;200;OK;Thread Group 1-37;true;200;200;https://homologacao.ufms.br/siscad/;9014;0;8670
+1,54E+12;28075;Get Página Inicial;200;OK;Thread Group 1-29;true;200;200;https://homologacao.ufms.br/siscad/;11740;0;11358
+1,54E+12;27891;Get Página Inicial;200;OK;Thread Group 1-96;true;200;200;https://homologacao.ufms.br/siscad/;8874;0;8684
+1,54E+12;27865;Get Página Inicial;200;OK;Thread Group 1-115;true;200;200;https://homologacao.ufms.br/siscad/;7300;0;7098
+1,54E+12;28157;Get Página Inicial;200;OK;Thread Group 1-62;true;200;200;https://homologacao.ufms.br/siscad/;7433;0;7311
+1,54E+12;28242;Get Página Inicial;200;OK;Thread Group 1-149;true;200;200;https://homologacao.ufms.br/siscad/;7266;0;6916
+1,54E+12;28335;Get Página Inicial;200;OK;Thread Group 1-143;true;200;200;https://homologacao.ufms.br/siscad/;7043;0;6950
+1,54E+12;29277;Get Página Inicial;200;OK;Thread Group 1-43;true;200;200;https://homologacao.ufms.br/siscad/;7413;0;7325
+1,54E+12;28792;Get Página Inicial;200;OK;Thread Group 1-167;true;200;200;https://homologacao.ufms.br/siscad/;11201;0;10826
+1,54E+12;29516;Get Página Inicial;200;OK;Thread Group 1-55;true;200;200;https://homologacao.ufms.br/siscad/;10473;0;9793
+1,54E+12;29395;Get Página Inicial;200;OK;Thread Group 1-87;true;200;200;https://homologacao.ufms.br/siscad/;9031;0;8938
+1,54E+12;30811;Get Página Inicial;200;OK;Thread Group 1-21;true;200;200;https://homologacao.ufms.br/siscad/;8947;0;8668
+1,54E+12;30999;Get Página Inicial;200;OK;Thread Group 1-40;true;200;200;https://homologacao.ufms.br/siscad/;7542;0;7370
+1,54E+12;30940;Get Página Inicial;200;OK;Thread Group 1-28;true;200;200;https://homologacao.ufms.br/siscad/;11618;0;11274
+1,54E+12;30895;Get Página Inicial;200;OK;Thread Group 1-80;true;200;200;https://homologacao.ufms.br/siscad/;8628;0;8421
+1,54E+12;31066;Get Página Inicial;200;OK;Thread Group 1-54;true;200;200;https://homologacao.ufms.br/siscad/;8979;0;8734
+1,54E+12;31057;Get Página Inicial;200;OK;Thread Group 1-17;true;200;200;https://homologacao.ufms.br/siscad/;9034;0;8715
+1,54E+12;31072;Get Página Inicial;200;OK;Thread Group 1-51;true;200;200;https://homologacao.ufms.br/siscad/;9030;0;8675
+1,54E+12;30787;Get Página Inicial;200;OK;Thread Group 1-147;true;200;200;https://homologacao.ufms.br/siscad/;7125;0;6944
+1,54E+12;31257;Get Página Inicial;200;OK;Thread Group 1-16;true;200;200;https://homologacao.ufms.br/siscad/;9028;0;8791
+1,54E+12;31160;Get Página Inicial;200;OK;Thread Group 1-73;true;200;200;https://homologacao.ufms.br/siscad/;8917;0;8589
+1,54E+12;30746;Get Página Inicial;200;OK;Thread Group 1-163;true;200;200;https://homologacao.ufms.br/siscad/;8492;0;8175
+1,54E+12;30949;Get Página Inicial;200;OK;Thread Group 1-132;true;200;200;https://homologacao.ufms.br/siscad/;8146;0;7939
+1,54E+12;30659;Get Página Inicial;200;OK;Thread Group 1-194;true;200;200;https://homologacao.ufms.br/siscad/;8322;0;8015
+1,54E+12;31243;Get Página Inicial;200;OK;Thread Group 1-72;true;200;200;https://homologacao.ufms.br/siscad/;11656;0;11298
+1,54E+12;30786;Get Página Inicial;200;OK;Thread Group 1-197;true;200;200;https://homologacao.ufms.br/siscad/;8281;0;8017
+1,54E+12;30774;Get Página Inicial;200;OK;Thread Group 1-200;true;200;200;https://homologacao.ufms.br/siscad/;11032;0;10668
+1,54E+12;30871;Get Página Inicial;200;OK;Thread Group 1-185;true;200;200;https://homologacao.ufms.br/siscad/;10998;0;10740
+1,54E+12;31535;Get Página Inicial;200;OK;Thread Group 1-33;true;200;200;https://homologacao.ufms.br/siscad/;8480;0;8196
+1,54E+12;31544;Get Página Inicial;200;OK;Thread Group 1-60;true;200;200;https://homologacao.ufms.br/siscad/;8969;0;8661
+1,54E+12;31076;Get Página Inicial;200;OK;Thread Group 1-160;true;200;200;https://homologacao.ufms.br/siscad/;8504;0;8283
+1,54E+12;31232;Get Página Inicial;200;OK;Thread Group 1-128;true;200;200;https://homologacao.ufms.br/siscad/;6306;0;6129
+1,54E+12;31575;Get Página Inicial;200;OK;Thread Group 1-22;true;200;200;https://homologacao.ufms.br/siscad/;7551;0;7380
+1,54E+12;31013;Get Página Inicial;200;OK;Thread Group 1-184;true;200;200;https://homologacao.ufms.br/siscad/;9964;0;9170
+1,54E+12;31614;Get Página Inicial;200;OK;Thread Group 1-63;true;200;200;https://homologacao.ufms.br/siscad/;7469;0;7320
+1,54E+12;31505;Get Página Inicial;200;OK;Thread Group 1-92;true;200;200;https://homologacao.ufms.br/siscad/;10952;0;9622
+1,54E+12;31452;Get Página Inicial;200;OK;Thread Group 1-117;true;200;200;https://homologacao.ufms.br/siscad/;8209;0;7931
+1,54E+12;31336;Get Página Inicial;200;OK;Thread Group 1-148;true;200;200;https://homologacao.ufms.br/siscad/;7053;0;6927
+1,54E+12;31396;Get Página Inicial;200;OK;Thread Group 1-137;true;200;200;https://homologacao.ufms.br/siscad/;7147;0;7003
+1,54E+12;31778;Get Página Inicial;200;OK;Thread Group 1-27;true;200;200;https://homologacao.ufms.br/siscad/;11110;0;9805
+1,54E+12;31163;Get Página Inicial;200;OK;Thread Group 1-193;true;200;200;https://homologacao.ufms.br/siscad/;9354;0;9138
+1,54E+12;31369;Get Página Inicial;200;OK;Thread Group 1-151;true;200;200;https://homologacao.ufms.br/siscad/;6968;0;6893
+1,54E+12;31634;Get Página Inicial;200;OK;Thread Group 1-95;true;200;200;https://homologacao.ufms.br/siscad/;8525;0;8310
+1,54E+12;31416;Get Página Inicial;200;OK;Thread Group 1-142;true;200;200;https://homologacao.ufms.br/siscad/;7075;0;6937
+1,54E+12;31536;Get Página Inicial;200;OK;Thread Group 1-120;true;200;200;https://homologacao.ufms.br/siscad/;10946;0;10698
+1,54E+12;31800;Get Página Inicial;200;OK;Thread Group 1-23;true;200;200;https://homologacao.ufms.br/siscad/;7512;0;7335
+1,54E+12;31596;Get Página Inicial;200;OK;Thread Group 1-114;true;200;200;https://homologacao.ufms.br/siscad/;7249;0;7056
+1,54E+12;32103;Get Página Inicial;200;OK;Thread Group 1-8;true;200;200;https://homologacao.ufms.br/siscad/;10559;0;9770
+1,54E+12;31596;Get Página Inicial;200;OK;Thread Group 1-166;true;200;200;https://homologacao.ufms.br/siscad/;10060;0;9256
+1,54E+12;31620;Get Página Inicial;200;OK;Thread Group 1-162;true;200;200;https://homologacao.ufms.br/siscad/;10745;0;10605
+1,54E+12;32115;Get Página Inicial;200;OK;Thread Group 1-14;true;200;200;https://homologacao.ufms.br/siscad/;10419;0;9783
+1,54E+12;31573;Get Página Inicial;200;OK;Thread Group 1-172;true;200;200;https://homologacao.ufms.br/siscad/;8156;0;7981
+1,54E+12;31903;Get Página Inicial;200;OK;Thread Group 1-105;true;200;200;https://homologacao.ufms.br/siscad/;10333;0;9554
+1,54E+12;31481;Get Página Inicial;200;OK;Thread Group 1-192;true;200;200;https://homologacao.ufms.br/siscad/;9883;0;9178
+1,54E+12;31893;Get Página Inicial;200;OK;Thread Group 1-106;true;200;200;https://homologacao.ufms.br/siscad/;10307;0;9545
+1,54E+12;31552;Get Página Inicial;200;OK;Thread Group 1-179;true;200;200;https://homologacao.ufms.br/siscad/;9419;0;9243
+1,54E+12;31600;Get Página Inicial;200;OK;Thread Group 1-175;true;200;200;https://homologacao.ufms.br/siscad/;10703;0;10427
+1,54E+12;32163;Get Página Inicial;200;OK;Thread Group 1-12;true;200;200;https://homologacao.ufms.br/siscad/;10406;0;9766
+1,54E+12;32174;Get Página Inicial;200;OK;Thread Group 1-42;true;200;200;https://homologacao.ufms.br/siscad/;10477;0;9769
+1,54E+12;31702;Get Página Inicial;200;OK;Thread Group 1-164;true;200;200;https://homologacao.ufms.br/siscad/;10053;0;9283
+1,54E+12;31921;Get Página Inicial;200;OK;Thread Group 1-119;true;200;200;https://homologacao.ufms.br/siscad/;8442;0;8256
+1,54E+12;32019;Get Página Inicial;200;OK;Thread Group 1-111;true;200;200;https://homologacao.ufms.br/siscad/;10227;0;9535
+1,54E+12;32071;Get Página Inicial;200;OK;Thread Group 1-98;true;200;200;https://homologacao.ufms.br/siscad/;10046;0;9580
+1,54E+12;32216;Get Página Inicial;200;OK;Thread Group 1-15;true;200;200;https://homologacao.ufms.br/siscad/;11724;0;11287
+1,54E+12;32237;Get Página Inicial;200;OK;Thread Group 1-32;true;200;200;https://homologacao.ufms.br/siscad/;11769;0;11403
+1,54E+12;31764;Get Página Inicial;200;OK;Thread Group 1-177;true;200;200;https://homologacao.ufms.br/siscad/;9430;0;9237
+1,54E+12;31712;Get Página Inicial;200;OK;Thread Group 1-190;true;200;200;https://homologacao.ufms.br/siscad/;9606;0;9211
+1,54E+12;31800;Get Página Inicial;200;OK;Thread Group 1-187;true;200;200;https://homologacao.ufms.br/siscad/;11690;0;11465
+1,54E+12;32263;Get Página Inicial;200;OK;Thread Group 1-90;true;200;200;https://homologacao.ufms.br/siscad/;12332;0;12090
+1,54E+12;31881;Get Página Inicial;200;OK;Thread Group 1-170;true;200;200;https://homologacao.ufms.br/siscad/;9987;0;9241
+1,54E+12;32263;Get Página Inicial;200;OK;Thread Group 1-93;true;200;200;https://homologacao.ufms.br/siscad/;11620;0;11214
+1,54E+12;32301;Get Página Inicial;200;OK;Thread Group 1-76;true;200;200;https://homologacao.ufms.br/siscad/;12288;0;12018
+1,54E+12;31831;Get Página Inicial;200;OK;Thread Group 1-186;true;200;200;https://homologacao.ufms.br/siscad/;9961;0;9168
+1,54E+12;32247;Get Página Inicial;200;OK;Thread Group 1-99;true;200;200;https://homologacao.ufms.br/siscad/;10326;0;9579
+1,54E+12;32294;Get Página Inicial;200;OK;Thread Group 1-89;true;200;200;https://homologacao.ufms.br/siscad/;11666;0;11198
+1,54E+12;32463;Get Página Inicial;200;OK;Thread Group 1-38;true;200;200;https://homologacao.ufms.br/siscad/;11842;0;11400
+1,54E+12;32425;Get Página Inicial;200;OK;Thread Group 1-50;true;200;200;https://homologacao.ufms.br/siscad/;8488;0;8254
+1,54E+12;32463;Get Página Inicial;200;OK;Thread Group 1-53;true;200;200;https://homologacao.ufms.br/siscad/;10460;0;9816
+1,54E+12;31978;Get Página Inicial;200;OK;Thread Group 1-157;true;200;200;https://homologacao.ufms.br/siscad/;9771;0;9302
+1,54E+12;31924;Get Página Inicial;200;OK;Thread Group 1-169;true;200;200;https://homologacao.ufms.br/siscad/;8161;0;7938
+1,54E+12;32213;Get Página Inicial;200;OK;Thread Group 1-108;true;200;200;https://homologacao.ufms.br/siscad/;11003;0;10747
+1,54E+12;32135;Get Página Inicial;200;OK;Thread Group 1-124;true;200;200;https://homologacao.ufms.br/siscad/;9683;0;9450
+1,54E+12;32445;Get Página Inicial;200;OK;Thread Group 1-59;true;200;200;https://homologacao.ufms.br/siscad/;10394;0;9773
+1,54E+12;32269;Get Página Inicial;200;OK;Thread Group 1-101;true;200;200;https://homologacao.ufms.br/siscad/;12298;0;12044
+1,54E+12;32142;Get Página Inicial;200;OK;Thread Group 1-129;true;200;200;https://homologacao.ufms.br/siscad/;11474;0;11025
+1,54E+12;32483;Get Página Inicial;200;OK;Thread Group 1-49;true;200;200;https://homologacao.ufms.br/siscad/;12434;0;12126
+1,54E+12;32974;Get Página Inicial;200;OK;Thread Group 1-25;true;200;200;https://homologacao.ufms.br/siscad/;12360;0;12147
+1,54E+12;32507;Get Página Inicial;200;OK;Thread Group 1-158;true;200;200;https://homologacao.ufms.br/siscad/;9931;0;9371
+1,54E+12;32971;Get Página Inicial;200;OK;Thread Group 1-58;true;200;200;https://homologacao.ufms.br/siscad/;11224;0;10983
+1,54E+12;32306;Get Página Inicial;200;OK;Thread Group 1-198;true;200;200;https://homologacao.ufms.br/siscad/;11758;0;11479
+1,54E+12;32800;Get Página Inicial;200;OK;Thread Group 1-94;true;200;200;https://homologacao.ufms.br/siscad/;10273;0;9609
+1,54E+12;32471;Get Página Inicial;200;OK;Thread Group 1-165;true;200;200;https://homologacao.ufms.br/siscad/;11955;0;11638
+1,54E+12;32398;Get Página Inicial;200;OK;Thread Group 1-180;true;200;200;https://homologacao.ufms.br/siscad/;11879;0;11571
+1,54E+12;33028;Get Página Inicial;200;OK;Thread Group 1-35;true;200;200;https://homologacao.ufms.br/siscad/;12498;0;12168
+1,54E+12;32747;Get Página Inicial;200;OK;Thread Group 1-107;true;200;200;https://homologacao.ufms.br/siscad/;12281;0;12013
+1,54E+12;32852;Get Página Inicial;200;OK;Thread Group 1-83;true;200;200;https://homologacao.ufms.br/siscad/;10263;0;9635
+1,54E+12;33979;Get Página Inicial;200;OK;Thread Group 1-74;true;200;200;https://homologacao.ufms.br/siscad/;8585;0;8438
+1,54E+12;34023;Get Página Inicial;200;OK;Thread Group 1-10;true;200;200;https://homologacao.ufms.br/siscad/;6546;0;6393
+1,54E+12;34484;Get Página Inicial;200;OK;Thread Group 1-4;true;200;200;https://homologacao.ufms.br/siscad/;12496;0;12231
+1,54E+12;63257;Get Página Inicial;200;OK;Thread Group 1-75;true;200;200;https://homologacao.ufms.br/siscad/;12339;0;12038
+1,54E+12;63361;Get Página Inicial;200;OK;Thread Group 1-57;true;200;200;https://homologacao.ufms.br/siscad/;12517;0;12190
+1,54E+12;63216;Get Página Inicial;200;OK;Thread Group 1-88;true;200;200;https://homologacao.ufms.br/siscad/;12420;0;12130
+1,54E+12;62779;Get Página Inicial;200;OK;Thread Group 1-181;true;200;200;https://homologacao.ufms.br/siscad/;12003;0;11689
+1,54E+12;62849;Get Página Inicial;200;OK;Thread Group 1-168;true;200;200;https://homologacao.ufms.br/siscad/;11983;0;11660
+1,54E+12;63224;Get Página Inicial;200;OK;Thread Group 1-91;true;200;200;https://homologacao.ufms.br/siscad/;12460;0;12122
+1,54E+12;63372;Get Página Inicial;200;OK;Thread Group 1-13;true;200;200;https://homologacao.ufms.br/siscad/;12302;0;12090
+1,54E+12;62823;Get Página Inicial;200;OK;Thread Group 1-176;true;200;200;https://homologacao.ufms.br/siscad/;12011;0;11720
+1,54E+12;63316;Get Página Inicial;200;OK;Thread Group 1-9;true;200;200;https://homologacao.ufms.br/siscad/;12503;0;12205
+1,54E+12;63208;Get Página Inicial;200;OK;Thread Group 1-97;true;200;200;https://homologacao.ufms.br/siscad/;12401;0;12090
+1,54E+12;62854;Get Página Inicial;200;OK;Thread Group 1-173;true;200;200;https://homologacao.ufms.br/siscad/;8148;0;7926
+1,54E+12;63017;Get Página Inicial;200;OK;Thread Group 1-139;true;200;200;https://homologacao.ufms.br/siscad/;8464;0;8283
+1,54E+12;63337;Get Página Inicial;200;OK;Thread Group 1-70;true;200;200;https://homologacao.ufms.br/siscad/;8667;0;8469
+1,54E+12;63275;Get Página Inicial;200;OK;Thread Group 1-77;true;200;200;https://homologacao.ufms.br/siscad/;12308;0;12001
+1,54E+12;62750;Get Página Inicial;200;OK;Thread Group 1-199;true;200;200;https://homologacao.ufms.br/siscad/;8077;0;7884
+1,54E+12;63323;Get Página Inicial;200;OK;Thread Group 1-78;true;200;200;https://homologacao.ufms.br/siscad/;8650;0;8429
+1,54E+12;63436;Get Página Inicial;200;OK;Thread Group 1-39;true;200;200;https://homologacao.ufms.br/siscad/;12713;0;12394
+1,54E+12;62812;Get Página Inicial;200;OK;Thread Group 1-188;true;200;200;https://homologacao.ufms.br/siscad/;11130;0;10737
+1,54E+12;62863;Get Página Inicial;200;OK;Thread Group 1-178;true;200;200;https://homologacao.ufms.br/siscad/;11885;0;11550
+1,54E+12;63443;Get Página Inicial;200;OK;Thread Group 1-24;true;200;200;https://homologacao.ufms.br/siscad/;11679;0;11361
+1,54E+12;63099;Get Página Inicial;200;OK;Thread Group 1-130;true;200;200;https://homologacao.ufms.br/siscad/;12278;0;11935
+1,54E+12;63298;Get Página Inicial;200;OK;Thread Group 1-86;true;200;200;https://homologacao.ufms.br/siscad/;11544;0;11236
+1,54E+12;63368;Get Página Inicial;200;OK;Thread Group 1-36;true;200;200;https://homologacao.ufms.br/siscad/;12507;0;12205
+1,54E+12;63332;Get Página Inicial;200;OK;Thread Group 1-81;true;200;200;https://homologacao.ufms.br/siscad/;8846;0;8606
+1,54E+12;62954;Get Página Inicial;200;OK;Thread Group 1-161;true;200;200;https://homologacao.ufms.br/siscad/;11176;0;10855
+1,54E+12;63061;Get Página Inicial;200;OK;Thread Group 1-140;true;200;200;https://homologacao.ufms.br/siscad/;8353;0;8151
+1,54E+12;63158;Get Página Inicial;200;OK;Thread Group 1-121;true;200;200;https://homologacao.ufms.br/siscad/;11379;0;11049
+1,54E+12;63385;Get Página Inicial;200;OK;Thread Group 1-31;true;200;200;https://homologacao.ufms.br/siscad/;12526;0;12206
+1,54E+12;62861;Get Página Inicial;200;OK;Thread Group 1-183;true;200;200;https://homologacao.ufms.br/siscad/;8271;0;7933
+1,54E+12;63343;Get Página Inicial;200;OK;Thread Group 1-82;true;200;200;https://homologacao.ufms.br/siscad/;12473;0;12161
+1,54E+12;63324;Get Página Inicial;200;OK;Thread Group 1-85;true;200;200;https://homologacao.ufms.br/siscad/;11575;0;11203
+1,54E+12;63309;Get Página Inicial;200;OK;Thread Group 1-100;true;200;200;https://homologacao.ufms.br/siscad/;11424;0;11145
+1,54E+12;63539;Get Página Inicial;200;OK;Thread Group 1-56;true;200;200;https://homologacao.ufms.br/siscad/;11527;0;11351
+1,54E+12;31589;Tentativa de Login;200;OK;Thread Group 1-76;false;200;200;https://homologacao.ufms.br/siscad/login;30611;0;0
+1,54E+12;31574;Tentativa de Login;200;OK;Thread Group 1-89;false;200;200;https://homologacao.ufms.br/siscad/login;30607;0;0
+1,54E+12;31555;Tentativa de Login;200;OK;Thread Group 1-124;false;200;200;https://homologacao.ufms.br/siscad/login;30582;0;0
+1,54E+12;31601;Tentativa de Login;200;OK;Thread Group 1-99;false;200;200;https://homologacao.ufms.br/siscad/login;30594;0;0
+1,54E+12;31625;Tentativa de Login;200;OK;Thread Group 1-93;false;200;200;https://homologacao.ufms.br/siscad/login;30636;0;0
+1,54E+12;32814;Tentativa de Login;200;OK;Thread Group 1-132;false;200;200;https://homologacao.ufms.br/siscad/login;31830;0;1384
+1,54E+12;38853;Tentativa de Login;500;Internal Server Error;Thread Group 1-122;false;200;200;https://homologacao.ufms.br/siscad/login;38851;0;0
+1,54E+12;31719;Tentativa de Login;200;OK;Thread Group 1-186;false;200;200;https://homologacao.ufms.br/siscad/login;30617;0;0
+1,54E+12;32601;Tentativa de Login;200;OK;Thread Group 1-60;false;200;200;https://homologacao.ufms.br/siscad/login;31544;0;1270
+1,54E+12;31690;Tentativa de Login;200;OK;Thread Group 1-129;false;200;200;https://homologacao.ufms.br/siscad/login;30563;0;0
+1,54E+12;31877;Tentativa de Login;200;OK;Thread Group 1-15;false;200;200;https://homologacao.ufms.br/siscad/login;30711;0;0
+1,54E+12;31743;Tentativa de Login;200;OK;Thread Group 1-50;false;200;200;https://homologacao.ufms.br/siscad/login;30580;0;0
+1,54E+12;32719;Tentativa de Login;200;OK;Thread Group 1-185;false;200;200;https://homologacao.ufms.br/siscad/login;31659;0;1340
+1,54E+12;31783;Tentativa de Login;200;OK;Thread Group 1-170;false;200;200;https://homologacao.ufms.br/siscad/login;30691;0;0
+1,54E+12;31722;Tentativa de Login;200;OK;Thread Group 1-49;false;200;200;https://homologacao.ufms.br/siscad/login;30567;0;0
+1,54E+12;32750;Tentativa de Login;200;OK;Thread Group 1-200;false;200;200;https://homologacao.ufms.br/siscad/login;31645;0;1348
+1,54E+12;32771;Tentativa de Login;200;OK;Thread Group 1-197;false;200;200;https://homologacao.ufms.br/siscad/login;31692;0;1352
+1,54E+12;32979;Tentativa de Login;200;OK;Thread Group 1-16;false;200;200;https://homologacao.ufms.br/siscad/login;31880;0;941
+1,54E+12;31800;Tentativa de Login;200;OK;Thread Group 1-59;false;200;200;https://homologacao.ufms.br/siscad/login;30656;0;0
+1,54E+12;32175;Tentativa de Login;200;OK;Thread Group 1-187;false;200;200;https://homologacao.ufms.br/siscad/login;30643;0;0
+1,54E+12;32154;Tentativa de Login;200;OK;Thread Group 1-157;false;200;200;https://homologacao.ufms.br/siscad/login;30638;0;0
+1,54E+12;32168;Tentativa de Login;200;OK;Thread Group 1-38;false;200;200;https://homologacao.ufms.br/siscad/login;30600;0;0
+1,54E+12;39318;Tentativa de Login;500;Internal Server Error;Thread Group 1-64;false;200;200;https://homologacao.ufms.br/siscad/login;39318;0;0
+1,54E+12;38626;Tentativa de Login;500;Internal Server Error;Thread Group 1-103;false;200;200;https://homologacao.ufms.br/siscad/login;38625;0;0
+1,54E+12;32164;Tentativa de Login;200;OK;Thread Group 1-101;false;200;200;https://homologacao.ufms.br/siscad/login;30593;0;0
+1,54E+12;32224;Tentativa de Login;200;OK;Thread Group 1-90;false;200;200;https://homologacao.ufms.br/siscad/login;30652;0;0
+1,54E+12;33335;Tentativa de Login;200;OK;Thread Group 1-194;false;200;200;https://homologacao.ufms.br/siscad/login;31834;0;1453
+1,54E+12;32189;Tentativa de Login;200;OK;Thread Group 1-108;false;200;200;https://homologacao.ufms.br/siscad/login;30629;0;0
+1,54E+12;629;GET dados básicos da matrícula;200;OK;Thread Group 1-124;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;95;0;0
+1,54E+12;632;GET dados básicos da matrícula;200;OK;Thread Group 1-89;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;104;0;0
+1,54E+12;609;GET dados básicos da matrícula;200;OK;Thread Group 1-93;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;86;0;0
+1,54E+12;649;GET dados básicos da matrícula;200;OK;Thread Group 1-76;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;113;0;0
+1,54E+12;595;GET dados básicos da matrícula;200;OK;Thread Group 1-99;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;78;0;0
+1,54E+12;538;GET dados básicos da matrícula;200;OK;Thread Group 1-132;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;87;0;0
+1,54E+12;502;GET dados básicos da matrícula;200;OK;Thread Group 1-186;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;79;0;0
+1,54E+12;476;GET dados básicos da matrícula;200;OK;Thread Group 1-50;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;155;0;0
+1,54E+12;463;GET dados básicos da matrícula;200;OK;Thread Group 1-200;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;97;0;0
+1,54E+12;450;GET dados básicos da matrícula;200;OK;Thread Group 1-197;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;110;0;0
+1,54E+12;410;GET dados básicos da matrícula;200;OK;Thread Group 1-59;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;101;0;0
+1,54E+12;469;GET dados básicos da matrícula;200;OK;Thread Group 1-170;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;132;0;0
+1,54E+12;452;GET dados básicos da matrícula;200;OK;Thread Group 1-16;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;72;0;0
+1,54E+12;479;GET dados básicos da matrícula;200;OK;Thread Group 1-185;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;101;0;0
+1,54E+12;473;GET dados básicos da matrícula;200;OK;Thread Group 1-49;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;121;0;0
+1,54E+12;524;GET dados básicos da matrícula;200;OK;Thread Group 1-60;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;118;0;0
+1,54E+12;508;GET dados básicos da matrícula;200;OK;Thread Group 1-15;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;103;0;0
+1,54E+12;632;GET dados básicos da matrícula;200;OK;Thread Group 1-129;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;93;0;0
+1,54E+12;39902;Tentativa de Login;200;OK;Thread Group 1-126;false;200;200;https://homologacao.ufms.br/siscad/login;38057;0;0
+1,54E+12;40562;Tentativa de Login;200;OK;Thread Group 1-18;false;200;200;https://homologacao.ufms.br/siscad/login;38710;0;0
+1,54E+12;40544;Tentativa de Login;200;OK;Thread Group 1-146;false;200;200;https://homologacao.ufms.br/siscad/login;38763;0;0
+1,54E+12;34132;Tentativa de Login;200;OK;Thread Group 1-137;false;200;200;https://homologacao.ufms.br/siscad/login;32870;0;2482
+1,54E+12;34139;Tentativa de Login;200;OK;Thread Group 1-148;false;200;200;https://homologacao.ufms.br/siscad/login;32864;0;2337
+1,54E+12;34896;Tentativa de Login;200;OK;Thread Group 1-40;false;200;200;https://homologacao.ufms.br/siscad/login;33051;0;764
+1,54E+12;40622;Tentativa de Login;200;OK;Thread Group 1-65;false;200;200;https://homologacao.ufms.br/siscad/login;38770;0;0
+1,54E+12;35099;Tentativa de Login;200;OK;Thread Group 1-21;false;200;200;https://homologacao.ufms.br/siscad/login;33290;0;747
+1,54E+12;41108;Tentativa de Login;200;OK;Thread Group 1-61;false;200;200;https://homologacao.ufms.br/siscad/login;39301;0;527
+1,54E+12;36379;Tentativa de Login;200;OK;Thread Group 1-87;false;200;200;https://homologacao.ufms.br/siscad/login;34606;0;1799
+1,54E+12;34190;Tentativa de Login;200;OK;Thread Group 1-117;false;200;200;https://homologacao.ufms.br/siscad/login;32905;0;2365
+1,54E+12;36450;Tentativa de Login;200;OK;Thread Group 1-55;false;200;200;https://homologacao.ufms.br/siscad/login;34562;0;1746
+1,54E+12;34179;Tentativa de Login;200;OK;Thread Group 1-27;false;200;200;https://homologacao.ufms.br/siscad/login;32904;0;2708
+1,54E+12;1410;POST dados básicos da matrícula;200;OK;Thread Group 1-50;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;144;0;0
+1,54E+12;40092;Tentativa de Login;200;OK;Thread Group 1-52;false;200;200;https://homologacao.ufms.br/siscad/login;38837;0;0
+1,54E+12;1479;GET dados básicos da matrícula;200;OK;Thread Group 1-103;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1042;0;866
+1,54E+12;1520;GET dados básicos da matrícula;200;OK;Thread Group 1-187;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;145;0;0
+1,54E+12;1501;GET dados básicos da matrícula;200;OK;Thread Group 1-64;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1046;0;859
+1,54E+12;1627;POST dados básicos da matrícula;200;OK;Thread Group 1-49;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;135;0;0
+1,54E+12;435;GET dados básicos da matrícula;200;OK;Thread Group 1-137;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;140;0;0
+1,54E+12;420;GET dados básicos da matrícula;200;OK;Thread Group 1-117;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;127;0;0
+1,54E+12;442;GET dados básicos da matrícula;200;OK;Thread Group 1-148;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;174;0;0
+1,54E+12;398;GET dados básicos da matrícula;200;OK;Thread Group 1-27;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;123;0;0
+1,54E+12;39936;Tentativa de Login;200;OK;Thread Group 1-67;false;200;200;https://homologacao.ufms.br/siscad/login;38388;0;0
+1,54E+12;326;Post seleção de disciplinas;200;OK;Thread Group 1-50;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;91;0;0
+1,54E+12;295;POST dados básicos da matrícula;200;OK;Thread Group 1-187;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;104;0;0
+1,54E+12;287;POST dados básicos da matrícula;200;OK;Thread Group 1-64;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;107;0;0
+1,54E+12;1761;POST dados básicos da matrícula;200;OK;Thread Group 1-93;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;101;0;0
+1,54E+12;320;POST dados básicos da matrícula;200;OK;Thread Group 1-103;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;113;0;0
+1,54E+12;387;GET dados básicos da matrícula;200;OK;Thread Group 1-52;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;154;0;0
+1,54E+12;1796;POST dados básicos da matrícula;200;OK;Thread Group 1-15;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;103;0;0
+1,54E+12;1851;POST dados básicos da matrícula;200;OK;Thread Group 1-89;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;138;0;0
+1,54E+12;1899;GET dados básicos da matrícula;200;OK;Thread Group 1-157;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;152;0;0
+1,54E+12;472;Post revisão de seleção;200;OK;Thread Group 1-50;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;111;0;0
+1,54E+12;2260;GET dados básicos da matrícula;200;OK;Thread Group 1-90;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;90;0;0
+1,54E+12;2255;POST dados básicos da matrícula;200;OK;Thread Group 1-99;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;191;0;0
+1,54E+12;471;Post seleção de disciplinas;200;OK;Thread Group 1-93;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;105;0;0
+1,54E+12;485;Post seleção de disciplinas;200;OK;Thread Group 1-187;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;119;0;0
+1,54E+12;494;POST dados básicos da matrícula;200;OK;Thread Group 1-157;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;112;0;0
+1,54E+12;590;Post seleção de disciplinas;200;OK;Thread Group 1-49;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;69;0;0
+1,54E+12;501;Post seleção de disciplinas;200;OK;Thread Group 1-89;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;115;0;0
+1,54E+12;504;Post seleção de disciplinas;200;OK;Thread Group 1-15;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;109;0;0
+1,54E+12;2349;POST dados básicos da matrícula;200;OK;Thread Group 1-186;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;125;0;0
+1,54E+12;2221;POST dados básicos da matrícula;200;OK;Thread Group 1-129;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;128;0;0
+1,54E+12;2424;POST dados básicos da matrícula;200;OK;Thread Group 1-185;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;106;0;0
+1,54E+12;2583;POST dados básicos da matrícula;200;OK;Thread Group 1-170;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;106;0;0
+1,54E+12;2735;GET dados básicos da matrícula;200;OK;Thread Group 1-194;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;193;0;0
+1,54E+12;36335;Tentativa de Login;200;OK;Thread Group 1-163;false;200;200;https://homologacao.ufms.br/siscad/login;31898;0;989
+1,54E+12;35256;Tentativa de Login;200;OK;Thread Group 1-53;false;200;200;https://homologacao.ufms.br/siscad/login;30625;0;0
+1,54E+12;3672;GET dados básicos da matrícula;200;OK;Thread Group 1-122;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1524;0;1293
+1,54E+12;1532;POST dados básicos da matrícula;200;OK;Thread Group 1-117;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;92;0;0
+1,54E+12;1959;GET dados básicos da matrícula;200;OK;Thread Group 1-67;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;102;0;0
+1,54E+12;5319;POST dados básicos da matrícula;200;OK;Thread Group 1-200;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;86;0;0
+1,54E+12;5318;POST dados básicos da matrícula;200;OK;Thread Group 1-197;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;142;0;0
+1,54E+12;5352;GET dados básicos da matrícula;200;OK;Thread Group 1-108;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;113;0;0
+1,54E+12;4294;GET dados básicos da matrícula;200;OK;Thread Group 1-65;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;147;0;0
+1,54E+12;2404;POST dados básicos da matrícula;200;OK;Thread Group 1-122;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;171;0;0
+1,54E+12;4265;GET dados básicos da matrícula;200;OK;Thread Group 1-55;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;156;0;0
+1,54E+12;4327;GET dados básicos da matrícula;200;OK;Thread Group 1-40;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;167;0;0
+1,54E+12;4351;GET dados básicos da matrícula;200;OK;Thread Group 1-126;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;173;0;0
+1,54E+12;3929;POST dados básicos da matrícula;200;OK;Thread Group 1-137;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;98;0;0
+1,54E+12;4385;GET dados básicos da matrícula;200;OK;Thread Group 1-18;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;128;0;0
+1,54E+12;4398;GET dados básicos da matrícula;200;OK;Thread Group 1-146;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;169;0;0
+1,54E+12;3951;POST dados básicos da matrícula;200;OK;Thread Group 1-27;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;116;0;0
+1,54E+12;4396;GET dados básicos da matrícula;200;OK;Thread Group 1-21;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;97;0;0
+1,54E+12;3968;POST dados básicos da matrícula;200;OK;Thread Group 1-148;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;118;0;0
+1,54E+12;4489;GET dados básicos da matrícula;200;OK;Thread Group 1-87;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;143;0;0
+1,54E+12;4514;Post seleção de disciplinas;200;OK;Thread Group 1-64;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;108;0;0
+1,54E+12;6317;POST dados básicos da matrícula;200;OK;Thread Group 1-132;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;133;0;0
+1,54E+12;6327;POST dados básicos da matrícula;200;OK;Thread Group 1-124;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;127;0;0
+1,54E+12;4059;Post seleção de disciplinas;200;OK;Thread Group 1-99;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;90;0;0
+1,54E+12;6299;POST dados básicos da matrícula;200;OK;Thread Group 1-16;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;110;0;0
+1,54E+12;4096;POST dados básicos da matrícula;200;OK;Thread Group 1-90;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;105;0;0
+1,54E+12;4000;Post seleção de disciplinas;200;OK;Thread Group 1-186;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;81;0;0
+1,54E+12;3990;Post seleção de disciplinas;200;OK;Thread Group 1-129;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;62;0;0
+1,54E+12;719;POST dados básicos da matrícula;200;OK;Thread Group 1-146;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;79;0;0
+1,54E+12;4022;Post revisão de seleção;200;OK;Thread Group 1-89;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;81;0;0
+1,54E+12;5033;POST dados básicos da matrícula;200;OK;Thread Group 1-52;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;79;0;0
+1,54E+12;3665;Post seleção de disciplinas;200;OK;Thread Group 1-117;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;116;0;0
+1,54E+12;5137;Post seleção de disciplinas;200;OK;Thread Group 1-103;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;133;0;0
+1,54E+12;44709;Tentativa de Login;200;OK;Thread Group 1-19;false;200;200;https://homologacao.ufms.br/siscad/login;39963;0;0
+1,54E+12;3290;POST dados básicos da matrícula;200;OK;Thread Group 1-67;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;96;0;0
+1,54E+12;45682;Tentativa de Login;200;OK;Thread Group 1-102;false;200;200;https://homologacao.ufms.br/siscad/login;40885;0;0
+1,54E+12;5776;GET dados básicos da matrícula;200;OK;Thread Group 1-61;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;152;0;0
+1,54E+12;4701;Post revisão de seleção;200;OK;Thread Group 1-15;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;69;0;0
+1,54E+12;4818;Post revisão de seleção;200;OK;Thread Group 1-187;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;78;0;0
+1,54E+12;4822;Post revisão de seleção;200;OK;Thread Group 1-49;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;79;0;0
+1,54E+12;4858;Post seleção de disciplinas;200;OK;Thread Group 1-157;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;77;0;0
+1,54E+12;7639;POST dados básicos da matrícula;200;OK;Thread Group 1-59;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;90;0;0
+1,54E+12;41170;Tentativa de Login;200;OK;Thread Group 1-33;false;200;200;https://homologacao.ufms.br/siscad/login;31591;0;1273
+1,54E+12;1850;Post seleção de disciplinas;200;OK;Thread Group 1-16;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;89;0;0
+1,54E+12;1925;Post seleção de disciplinas;200;OK;Thread Group 1-132;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;105;0;0
+1,54E+12;2710;POST dados básicos da matrícula;200;OK;Thread Group 1-126;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;137;0;0
+1,54E+12;6590;Post revisão de seleção;200;OK;Thread Group 1-93;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;86;0;0
+1,54E+12;3345;POST dados básicos da matrícula;200;OK;Thread Group 1-21;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;112;0;0
+1,54E+12;3436;POST dados básicos da matrícula;200;OK;Thread Group 1-40;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;118;0;0
+1,54E+12;3472;Post seleção de disciplinas;200;OK;Thread Group 1-137;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;130;0;0
+1,54E+12;3461;POST dados básicos da matrícula;200;OK;Thread Group 1-18;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;139;0;0
+1,54E+12;3445;Post seleção de disciplinas;200;OK;Thread Group 1-148;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;173;0;0
+1,54E+12;3462;Post seleção de disciplinas;200;OK;Thread Group 1-27;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;133;0;0
+1,54E+12;3373;POST dados básicos da matrícula;200;OK;Thread Group 1-87;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;201;0;0
+1,54E+12;42239;Tentativa de Login;200;OK;Thread Group 1-128;false;200;200;https://homologacao.ufms.br/siscad/login;31581;0;1336
+1,54E+12;2891;Post revisão de seleção;200;OK;Thread Group 1-64;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;89;0;0
+1,54E+12;6579;Post seleção de disciplinas;200;OK;Thread Group 1-170;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;2198;0;2038
+1,54E+12;9217;GET dados básicos da matrícula;200;OK;Thread Group 1-38;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;157;0;0
+1,54E+12;42584;Tentativa de Login;200;OK;Thread Group 1-72;false;200;200;https://homologacao.ufms.br/siscad/login;31844;0;1445
+1,54E+12;41044;Tentativa de Login;200;OK;Thread Group 1-58;false;200;200;https://homologacao.ufms.br/siscad/login;30206;0;0
+1,54E+12;41390;Tentativa de Login;200;OK;Thread Group 1-165;false;200;200;https://homologacao.ufms.br/siscad/login;30214;0;0
+1,54E+12;9756;GET dados básicos da matrícula;200;OK;Thread Group 1-101;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;139;0;0
+1,54E+12;41829;Tentativa de Login;200;OK;Thread Group 1-158;false;200;200;https://homologacao.ufms.br/siscad/login;30198;0;0
+1,54E+12;10116;POST dados básicos da matrícula;200;OK;Thread Group 1-60;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;122;0;0
+1,54E+12;41849;Tentativa de Login;200;OK;Thread Group 1-83;false;200;200;https://homologacao.ufms.br/siscad/login;30211;0;0
+1,54E+12;4911;Post seleção de disciplinas;200;OK;Thread Group 1-197;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1831;0;1747
+1,54E+12;48895;Tentativa de Login;200;OK;Thread Group 1-171;false;200;200;https://homologacao.ufms.br/siscad/login;39204;0;0
+1,54E+12;41946;Tentativa de Login;200;OK;Thread Group 1-35;false;200;200;https://homologacao.ufms.br/siscad/login;30211;0;0
+1,54E+12;7350;GET dados básicos da matrícula;200;OK;Thread Group 1-163;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2513;0;2319
+1,54E+12;3906;Post seleção de disciplinas;200;OK;Thread Group 1-146;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;79;0;0
+1,54E+12;3961;Post seleção de disciplinas;200;OK;Thread Group 1-124;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;93;0;0
+1,54E+12;3953;Post revisão de seleção;200;OK;Thread Group 1-129;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;93;0;0
+1,54E+12;3501;Post revisão de seleção;200;OK;Thread Group 1-117;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;1355;0;1224
+1,54E+12;7950;Post seleção de disciplinas;200;OK;Thread Group 1-185;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;242;0;0
+1,54E+12;4071;Post revisão de seleção;200;OK;Thread Group 1-99;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;103;0;0
+1,54E+12;4053;Post seleção de disciplinas;200;OK;Thread Group 1-90;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;98;0;0
+1,54E+12;3959;Post revisão de seleção;200;OK;Thread Group 1-103;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;1621;0;1346
+1,54E+12;3857;GET dados básicos da matrícula;200;OK;Thread Group 1-102;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1950;0;1880
+1,54E+12;628;Post revisão de seleção;200;OK;Thread Group 1-146;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;61;0;0
+1,54E+12;627;Post revisão de seleção;200;OK;Thread Group 1-124;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;90;0;0
+1,54E+12;522;Post revisão de seleção;200;OK;Thread Group 1-185;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;116;0;0
+1,54E+12;528;Post revisão de seleção;200;OK;Thread Group 1-90;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;115;0;0
+1,54E+12;1906;Post seleção de disciplinas;200;OK;Thread Group 1-40;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;60;0;0
+1,54E+12;1930;Post seleção de disciplinas;200;OK;Thread Group 1-21;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;74;0;0
+1,54E+12;3961;Post seleção de disciplinas;200;OK;Thread Group 1-67;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;111;0;0
+1,54E+12;3925;POST dados básicos da matrícula;200;OK;Thread Group 1-61;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1987;0;1925
+1,54E+12;4247;Post seleção de disciplinas;200;OK;Thread Group 1-52;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1375;0;1251
+1,54E+12;4855;Post revisão de seleção;200;OK;Thread Group 1-186;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;102;0;0
+1,54E+12;3049;Post revisão de seleção;200;OK;Thread Group 1-16;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;132;0;0
+1,54E+12;2999;Post revisão de seleção;200;OK;Thread Group 1-132;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;128;0;0
+1,54E+12;42921;Tentativa de Login;200;OK;Thread Group 1-180;false;200;200;https://homologacao.ufms.br/siscad/login;30189;0;0
+1,54E+12;44341;Tentativa de Login;200;OK;Thread Group 1-160;false;200;200;https://homologacao.ufms.br/siscad/login;31597;0;1289
+1,54E+12;3043;Post seleção de disciplinas;200;OK;Thread Group 1-126;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;238;0;0
+1,54E+12;11351;POST dados básicos da matrícula;200;OK;Thread Group 1-76;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;151;0;0
+1,54E+12;43024;Tentativa de Login;200;OK;Thread Group 1-107;false;200;200;https://homologacao.ufms.br/siscad/login;30188;0;0
+1,54E+12;44496;Tentativa de Login;200;OK;Thread Group 1-184;false;200;200;https://homologacao.ufms.br/siscad/login;31698;0;1469
+1,54E+12;44540;Tentativa de Login;200;OK;Thread Group 1-22;false;200;200;https://homologacao.ufms.br/siscad/login;31715;0;1476
+1,54E+12;3931;Post seleção de disciplinas;200;OK;Thread Group 1-59;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;2014;0;1741
+1,54E+12;44591;Tentativa de Login;200;OK;Thread Group 1-63;false;200;200;https://homologacao.ufms.br/siscad/login;31665;0;1456
+1,54E+12;6479;POST dados básicos da matrícula;200;OK;Thread Group 1-108;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1876;0;1772
+1,54E+12;9101;POST dados básicos da matrícula;200;OK;Thread Group 1-194;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2420;0;2196
+1,54E+12;6520;Post seleção de disciplinas;200;OK;Thread Group 1-200;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1840;0;1760
+1,54E+12;43585;Tentativa de Login;200;OK;Thread Group 1-25;false;200;200;https://homologacao.ufms.br/siscad/login;30279;0;0
+1,54E+12;43550;Tentativa de Login;200;OK;Thread Group 1-94;false;200;200;https://homologacao.ufms.br/siscad/login;30232;0;0
+1,54E+12;208;Post seleção de disciplinas;200;OK;Thread Group 1-108;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;69;0;0
+1,54E+12;272;GET dados básicos da matrícula;200;OK;Thread Group 1-25;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;79;0;0
+1,54E+12;2767;GET dados básicos da matrícula;200;OK;Thread Group 1-58;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;122;0;0
+1,54E+12;257;GET dados básicos da matrícula;200;OK;Thread Group 1-94;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;57;0;0
+1,54E+12;43975;Tentativa de Login;200;OK;Thread Group 1-198;false;200;200;https://homologacao.ufms.br/siscad/login;30224;0;0
+1,54E+12;50989;Tentativa de Login;200;OK;Thread Group 1-48;false;200;200;https://homologacao.ufms.br/siscad/login;39481;0;0
+1,54E+12;51621;Tentativa de Login;200;OK;Thread Group 1-68;false;200;200;https://homologacao.ufms.br/siscad/login;39844;0;0
+1,54E+12;9323;GET dados básicos da matrícula;200;OK;Thread Group 1-53;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2541;0;2389
+1,54E+12;51741;Tentativa de Login;200;OK;Thread Group 1-7;false;200;200;https://homologacao.ufms.br/siscad/login;40091;0;0
+1,54E+12;2693;GET dados básicos da matrícula;200;OK;Thread Group 1-165;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;82;0;0
+1,54E+12;6844;Post seleção de disciplinas;200;OK;Thread Group 1-122;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;160;0;0
+1,54E+12;4347;GET dados básicos da matrícula;200;OK;Thread Group 1-33;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1724;0;1617
+1,54E+12;2705;POST dados básicos da matrícula;200;OK;Thread Group 1-101;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;61;0;0
+1,54E+12;1780;POST dados básicos da matrícula;200;OK;Thread Group 1-102;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;85;0;0
+1,54E+12;244;Post seleção de disciplinas;200;OK;Thread Group 1-101;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;63;0;0
+1,54E+12;281;POST dados básicos da matrícula;200;OK;Thread Group 1-33;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;63;0;0
+1,54E+12;1883;Post revisão de seleção;200;OK;Thread Group 1-21;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;69;0;0
+1,54E+12;189;Post seleção de disciplinas;200;OK;Thread Group 1-102;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;65;0;0
+1,54E+12;1964;Post revisão de seleção;200;OK;Thread Group 1-40;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;71;0;0
+1,54E+12;2000;Post revisão de seleção;200;OK;Thread Group 1-67;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;59;0;0
+1,54E+12;52357;Tentativa de Login;200;OK;Thread Group 1-118;true;200;200;https://homologacao.ufms.br/siscad/academico;6529;0;0
+1,54E+12;177;Post revisão de seleção;200;OK;Thread Group 1-102;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;63;0;0
+1,54E+12;4180;Post revisão de seleção;200;OK;Thread Group 1-170;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;74;0;0
+1,54E+12;6298;Post revisão de seleção;200;OK;Thread Group 1-157;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;100;0;0
+1,54E+12;2091;GET dados básicos da matrícula;200;OK;Thread Group 1-22;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;63;0;0
+1,54E+12;2259;GET dados básicos da matrícula;200;OK;Thread Group 1-184;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;75;0;0
+1,54E+12;2089;Post revisão de seleção;200;OK;Thread Group 1-200;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;83;0;0
+1,54E+12;12045;GET dados básicos da matrícula;200;OK;Thread Group 1-72;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;92;0;0
+1,54E+12;11382;Post seleção de disciplinas;200;OK;Thread Group 1-60;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;60;0;0
+1,54E+12;9501;Post revisão de seleção;200;OK;Thread Group 1-108;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;61;0;0
+1,54E+12;15976;POST dados básicos da matrícula;200;OK;Thread Group 1-65;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;161;0;0
+1,54E+12;61420;Tentativa de Login;200;OK;Thread Group 1-11;false;200;200;https://homologacao.ufms.br/siscad/login;60753;0;472
+1,54E+12;62380;Tentativa de Login;200;OK;Thread Group 1-134;true;200;200;https://homologacao.ufms.br/siscad/academico;1525;0;0
+1,54E+12;16008;POST dados básicos da matrícula;200;OK;Thread Group 1-55;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;169;0;0
+1,54E+12;9474;POST dados básicos da matrícula;200;OK;Thread Group 1-25;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;62;0;0
+1,54E+12;9486;POST dados básicos da matrícula;200;OK;Thread Group 1-94;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;56;0;0
+1,54E+12;9489;POST dados básicos da matrícula;200;OK;Thread Group 1-58;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;66;0;0
+1,54E+12;379;Post seleção de disciplinas;200;OK;Thread Group 1-65;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;102;0;0
+1,54E+12;364;GET dados básicos da matrícula;200;OK;Thread Group 1-11;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;66;0;0
+1,54E+12;383;Post revisão de seleção;200;OK;Thread Group 1-60;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;82;0;0
+1,54E+12;312;Post seleção de disciplinas;200;OK;Thread Group 1-25;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;87;0;0
+1,54E+12;302;Post seleção de disciplinas;200;OK;Thread Group 1-58;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;69;0;0
+1,54E+12;305;Post seleção de disciplinas;200;OK;Thread Group 1-94;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;73;0;0
+1,54E+12;345;Post seleção de disciplinas;200;OK;Thread Group 1-55;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;88;0;0
+1,54E+12;11792;GET dados básicos da matrícula;200;OK;Thread Group 1-158;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;67;0;0
+1,54E+12;414;GET dados básicos da matrícula;200;OK;Thread Group 1-134;true;200;200;https://homologacao.ufms.br/siscad/matricula/2;146;0;0
+1,54E+12;11875;GET dados básicos da matrícula;200;OK;Thread Group 1-83;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;63;0;0
+1,54E+12;61453;Tentativa de Login;200;OK;Thread Group 1-113;false;200;200;https://homologacao.ufms.br/siscad/login;60388;0;0
+1,54E+12;305;POST dados básicos da matrícula;200;OK;Thread Group 1-11;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;83;0;0
+1,54E+12;301;Post revisão de seleção;200;OK;Thread Group 1-55;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;92;0;0
+1,54E+12;310;Post revisão de seleção;200;OK;Thread Group 1-58;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;94;0;0
+1,54E+12;334;Post revisão de seleção;200;OK;Thread Group 1-25;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;121;0;0
+1,54E+12;318;Post revisão de seleção;200;OK;Thread Group 1-94;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;102;0;0
+1,54E+12;324;Post revisão de seleção;200;OK;Thread Group 1-65;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;96;0;0
+1,54E+12;344;POST dados básicos da matrícula;200;OK;Thread Group 1-158;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;91;0;0
+1,54E+12;12065;GET dados básicos da matrícula;200;OK;Thread Group 1-171;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2095;0;2034
+1,54E+12;10032;GET dados básicos da matrícula;200;OK;Thread Group 1-198;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;8771;0;8699
+1,54E+12;12086;Post revisão de seleção;200;OK;Thread Group 1-197;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;2039;0;1971
+1,54E+12;282;POST dados básicos da matrícula;200;OK;Thread Group 1-83;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;83;0;0
+1,54E+12;12073;GET dados básicos da matrícula;200;OK;Thread Group 1-35;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2088;0;2027
+1,54E+12;276;GET dados básicos da matrícula;200;OK;Thread Group 1-113;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;99;0;0
+1,54E+12;10094;GET dados básicos da matrícula;200;OK;Thread Group 1-48;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;65;0;0
+1,54E+12;227;Post seleção de disciplinas;200;OK;Thread Group 1-11;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;75;0;0
+1,54E+12;220;Post seleção de disciplinas;200;OK;Thread Group 1-158;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;64;0;0
+1,54E+12;249;POST dados básicos da matrícula;200;OK;Thread Group 1-198;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;67;0;0
+1,54E+12;257;Post seleção de disciplinas;200;OK;Thread Group 1-83;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;77;0;0
+1,54E+12;274;POST dados básicos da matrícula;200;OK;Thread Group 1-35;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;84;0;0
+1,54E+12;298;POST dados básicos da matrícula;200;OK;Thread Group 1-171;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;89;0;0
+1,54E+12;231;POST dados básicos da matrícula;200;OK;Thread Group 1-48;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;78;0;0
+1,54E+12;284;POST dados básicos da matrícula;200;OK;Thread Group 1-113;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;92;0;0
+1,54E+12;272;Post revisão de seleção;200;OK;Thread Group 1-11;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;116;0;0
+1,54E+12;277;Post revisão de seleção;200;OK;Thread Group 1-158;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;91;0;0
+1,54E+12;247;Post seleção de disciplinas;200;OK;Thread Group 1-171;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;84;0;0
+1,54E+12;249;Post seleção de disciplinas;200;OK;Thread Group 1-35;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;79;0;0
+1,54E+12;297;Post seleção de disciplinas;200;OK;Thread Group 1-198;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;86;0;0
+1,54E+12;279;Post revisão de seleção;200;OK;Thread Group 1-83;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;82;0;0
+1,54E+12;241;Post seleção de disciplinas;200;OK;Thread Group 1-48;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;77;0;0
+1,54E+12;247;Post seleção de disciplinas;200;OK;Thread Group 1-113;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;101;0;0
+1,54E+12;969;POST dados básicos da matrícula;200;OK;Thread Group 1-134;true;200;200;https://homologacao.ufms.br/siscad/matricula/3;118;0;0
+1,54E+12;10666;GET dados básicos da matrícula;200;OK;Thread Group 1-68;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;63;0;0
+1,54E+12;10636;GET dados básicos da matrícula;200;OK;Thread Group 1-7;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;8771;0;8701
+1,54E+12;185;Post revisão de seleção;200;OK;Thread Group 1-48;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;60;0;0
+1,54E+12;62403;Tentativa de Login;200;OK;Thread Group 1-3;false;200;200;https://homologacao.ufms.br/siscad/login;60492;0;0
+1,54E+12;62416;Tentativa de Login;200;OK;Thread Group 1-123;false;200;200;https://homologacao.ufms.br/siscad/login;60536;0;0
+1,54E+12;62437;Tentativa de Login;200;OK;Thread Group 1-41;false;200;200;https://homologacao.ufms.br/siscad/login;60476;0;0
+1,54E+12;62023;Tentativa de Login;200;OK;Thread Group 1-131;false;200;200;https://homologacao.ufms.br/siscad/login;60315;0;0
+1,54E+12;62404;Tentativa de Login;200;OK;Thread Group 1-156;false;200;200;https://homologacao.ufms.br/siscad/login;60428;0;0
+1,54E+12;63439;Tentativa de Login;200;OK;Thread Group 1-141;false;200;200;https://homologacao.ufms.br/siscad/login;62159;0;1786
+1,54E+12;63446;Tentativa de Login;200;OK;Thread Group 1-5;false;200;200;https://homologacao.ufms.br/siscad/login;62185;0;1778
+1,54E+12;1079;Post revisão de seleção;200;OK;Thread Group 1-35;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;82;0;0
+1,54E+12;1125;Post revisão de seleção;200;OK;Thread Group 1-198;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;77;0;0
+1,54E+12;63613;Tentativa de Login;200;OK;Thread Group 1-66;false;200;200;https://homologacao.ufms.br/siscad/login;62512;0;2086
+1,54E+12;1174;Post revisão de seleção;200;OK;Thread Group 1-113;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;78;0;0
+1,54E+12;1214;Post revisão de seleção;200;OK;Thread Group 1-171;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;68;0;0
+1,54E+12;63596;Tentativa de Login;200;OK;Thread Group 1-44;false;200;200;https://homologacao.ufms.br/siscad/login;62623;0;2170
+1,54E+12;1158;POST dados básicos da matrícula;200;OK;Thread Group 1-7;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;64;0;0
+1,54E+12;346;GET dados básicos da matrícula;200;OK;Thread Group 1-141;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;80;0;0
+1,54E+12;1233;POST dados básicos da matrícula;200;OK;Thread Group 1-68;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;93;0;0
+1,54E+12;63569;Tentativa de Login;200;OK;Thread Group 1-104;false;200;200;https://homologacao.ufms.br/siscad/login;60508;0;0
+1,54E+12;11827;POST dados básicos da matrícula;200;OK;Thread Group 1-165;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;61;0;0
+1,54E+12;353;GET dados básicos da matrícula;200;OK;Thread Group 1-5;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;115;0;0
+1,54E+12;65059;Tentativa de Login;200;OK;Thread Group 1-1;true;200;200;https://homologacao.ufms.br/siscad/academico;1530;0;0
+1,54E+12;11255;GET dados básicos da matrícula;200;OK;Thread Group 1-118;true;200;200;https://homologacao.ufms.br/siscad/matricula/2;121;0;0
+1,54E+12;11972;Post revisão de seleção;200;OK;Thread Group 1-122;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;8758;0;8685
+1,54E+12;328;GET dados básicos da matrícula;200;OK;Thread Group 1-66;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;97;0;0
+1,54E+12;281;POST dados básicos da matrícula;200;OK;Thread Group 1-141;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;105;0;0
+1,54E+12;283;Post seleção de disciplinas;200;OK;Thread Group 1-68;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;92;0;0
+1,54E+12;335;Post seleção de disciplinas;200;OK;Thread Group 1-7;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;116;0;0
+1,54E+12;272;POST dados básicos da matrícula;200;OK;Thread Group 1-5;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;87;0;0
+1,54E+12;468;GET dados básicos da matrícula;200;OK;Thread Group 1-44;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;86;0;0
+1,54E+12;17581;GET dados básicos da matrícula;200;OK;Thread Group 1-19;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;125;0;0
+1,54E+12;338;GET dados básicos da matrícula;200;OK;Thread Group 1-104;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;89;0;0
+1,54E+12;365;Post seleção de disciplinas;200;OK;Thread Group 1-165;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;104;0;0
+1,54E+12;254;POST dados básicos da matrícula;200;OK;Thread Group 1-66;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;85;0;0
+1,54E+12;11962;Post seleção de disciplinas;200;OK;Thread Group 1-33;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;57;0;0
+1,54E+12;12346;POST dados básicos da matrícula;200;OK;Thread Group 1-53;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;60;0;0
+1,54E+12;235;Post revisão de seleção;200;OK;Thread Group 1-7;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;72;0;0
+1,54E+12;271;Post revisão de seleção;200;OK;Thread Group 1-68;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;78;0;0
+1,54E+12;64127;Tentativa de Login;200;OK;Thread Group 1-136;false;200;200;https://homologacao.ufms.br/siscad/login;60573;0;0
+1,54E+12;238;Post seleção de disciplinas;200;OK;Thread Group 1-66;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;75;0;0
+1,54E+12;268;Post revisão de seleção;200;OK;Thread Group 1-165;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;90;0;0
+1,54E+12;289;POST dados básicos da matrícula;200;OK;Thread Group 1-104;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;81;0;0
+1,54E+12;293;POST dados básicos da matrícula;200;OK;Thread Group 1-44;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;105;0;0
+1,54E+12;495;Post revisão de seleção;200;OK;Thread Group 1-33;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;93;0;0
+1,54E+12;593;POST dados básicos da matrícula;200;OK;Thread Group 1-19;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;99;0;0
+1,54E+12;16165;Post revisão de seleção;200;OK;Thread Group 1-137;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;73;0;0
+1,54E+12;14142;Post revisão de seleção;200;OK;Thread Group 1-52;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;78;0;0
+1,54E+12;16169;Post seleção de disciplinas;200;OK;Thread Group 1-18;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;71;0;0
+1,54E+12;1026;GET dados básicos da matrícula;200;OK;Thread Group 1-1;true;200;200;https://homologacao.ufms.br/siscad/matricula/2;185;0;0
+1,54E+12;14996;POST dados básicos da matrícula;200;OK;Thread Group 1-163;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;74;0;0
+1,54E+12;496;GET dados básicos da matrícula;200;OK;Thread Group 1-136;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;92;0;0
+1,54E+12;14419;Post seleção de disciplinas;200;OK;Thread Group 1-61;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;85;0;0
+1,54E+12;16246;GET dados básicos da matrícula;200;OK;Thread Group 1-128;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;62;0;0
+1,54E+12;66141;Tentativa de Login;200;OK;Thread Group 1-112;true;200;200;https://homologacao.ufms.br/siscad/academico;1586;0;0
+1,54E+12;64963;Tentativa de Login;200;OK;Thread Group 1-47;false;200;200;https://homologacao.ufms.br/siscad/login;40019;0;0
+1,54E+12;64380;Tentativa de Login;200;OK;Thread Group 1-109;false;200;200;https://homologacao.ufms.br/siscad/login;60404;0;0
+1,54E+12;65092;Tentativa de Login;200;OK;Thread Group 1-153;false;200;200;https://homologacao.ufms.br/siscad/login;40064;0;0
+1,54E+12;62977;Tentativa de Login;200;OK;Thread Group 1-191;false;200;200;https://homologacao.ufms.br/siscad/login;60989;0;0
+1,54E+12;62932;Tentativa de Login;200;OK;Thread Group 1-37;false;200;200;https://homologacao.ufms.br/siscad/login;61006;0;0
+1,54E+12;62603;Tentativa de Login;200;OK;Thread Group 1-96;false;200;200;https://homologacao.ufms.br/siscad/login;60711;0;0
+1,54E+12;62607;Tentativa de Login;200;OK;Thread Group 1-29;false;200;200;https://homologacao.ufms.br/siscad/login;60653;0;0
+1,54E+12;62548;Tentativa de Login;200;OK;Thread Group 1-115;false;200;200;https://homologacao.ufms.br/siscad/login;60684;0;0
+1,54E+12;62524;Tentativa de Login;200;OK;Thread Group 1-62;false;200;200;https://homologacao.ufms.br/siscad/login;60611;0;0
+1,54E+12;13494;Post revisão de seleção;200;OK;Thread Group 1-101;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;59;0;0
+1,54E+12;1465;Post seleção de disciplinas;200;OK;Thread Group 1-53;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;92;0;0
+1,54E+12;65562;Tentativa de Login;200;OK;Thread Group 1-125;false;200;200;https://homologacao.ufms.br/siscad/login;60564;0;0
+1,54E+12;65575;Tentativa de Login;200;OK;Thread Group 1-150;false;200;200;https://homologacao.ufms.br/siscad/login;60558;0;0
+1,54E+12;62205;Tentativa de Login;200;OK;Thread Group 1-143;false;200;200;https://homologacao.ufms.br/siscad/login;60453;0;0
+1,54E+12;62269;Tentativa de Login;200;OK;Thread Group 1-149;false;200;200;https://homologacao.ufms.br/siscad/login;60519;0;0
+1,54E+12;2076;POST dados básicos da matrícula;200;OK;Thread Group 1-118;true;200;200;https://homologacao.ufms.br/siscad/matricula/3;142;0;0
+1,54E+12;3438;Post seleção de disciplinas;200;OK;Thread Group 1-134;true;200;200;https://homologacao.ufms.br/siscad/matricula/3;1618;0;856
+1,54E+12;1109;POST dados básicos da matrícula;200;OK;Thread Group 1-136;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;90;0;0
+1,54E+12;61805;Tentativa de Login;200;OK;Thread Group 1-43;false;200;200;https://homologacao.ufms.br/siscad/login;60508;0;0
+1,54E+12;61807;Tentativa de Login;200;OK;Thread Group 1-167;false;200;200;https://homologacao.ufms.br/siscad/login;60554;0;0
+1,54E+12;1304;Post seleção de disciplinas;200;OK;Thread Group 1-19;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;78;0;0
+1,54E+12;1957;Post seleção de disciplinas;200;OK;Thread Group 1-5;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;93;0;0
+1,54E+12;1983;Post seleção de disciplinas;200;OK;Thread Group 1-141;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;70;0;0
+1,54E+12;63665;Tentativa de Login;200;OK;Thread Group 1-26;false;200;200;https://homologacao.ufms.br/siscad/login;62552;0;2065
+1,54E+12;1592;Post seleção de disciplinas;200;OK;Thread Group 1-104;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;269;0;0
+1,54E+12;17315;POST dados básicos da matrícula;200;OK;Thread Group 1-38;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;72;0;0
+1,54E+12;1601;Post seleção de disciplinas;200;OK;Thread Group 1-44;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;266;0;0
+1,54E+12;63682;Tentativa de Login;200;OK;Thread Group 1-79;false;200;200;https://homologacao.ufms.br/siscad/login;62576;0;2067
+1,54E+12;1609;Post revisão de seleção;200;OK;Thread Group 1-66;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;267;0;0
+1,54E+12;337;Post revisão de seleção;200;OK;Thread Group 1-53;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;113;0;0
+1,54E+12;1125;GET dados básicos da matrícula;200;OK;Thread Group 1-112;true;200;200;https://homologacao.ufms.br/siscad/matricula/2;123;0;0
+1,54E+12;65993;Tentativa de Login;200;OK;Thread Group 1-6;false;200;200;https://homologacao.ufms.br/siscad/login;60613;0;0
+1,54E+12;411;GET dados básicos da matrícula;200;OK;Thread Group 1-125;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;138;0;0
+1,54E+12;1418;Post seleção de disciplinas;200;OK;Thread Group 1-163;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;120;0;0
+1,54E+12;417;GET dados básicos da matrícula;200;OK;Thread Group 1-150;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;144;0;0
+1,54E+12;15356;Post revisão de seleção;200;OK;Thread Group 1-126;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;66;0;0
+1,54E+12;1323;Post revisão de seleção;200;OK;Thread Group 1-61;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;93;0;0
+1,54E+12;1463;Post revisão de seleção;200;OK;Thread Group 1-18;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;107;0;0
+1,54E+12;367;Post seleção de disciplinas;200;OK;Thread Group 1-136;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;80;0;0
+1,54E+12;1394;POST dados básicos da matrícula;200;OK;Thread Group 1-128;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;90;0;0
+1,54E+12;66135;Tentativa de Login;200;OK;Thread Group 1-2;false;200;200;https://homologacao.ufms.br/siscad/login;60654;0;0
+1,54E+12;64000;Tentativa de Login;200;OK;Thread Group 1-174;false;200;200;https://homologacao.ufms.br/siscad/login;62729;0;2102
+1,54E+12;427;GET dados básicos da matrícula;200;OK;Thread Group 1-167;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;148;0;0
+1,54E+12;463;Post revisão de seleção;200;OK;Thread Group 1-19;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;145;0;0
+1,54E+12;442;GET dados básicos da matrícula;200;OK;Thread Group 1-26;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;122;0;0
+1,54E+12;64115;Tentativa de Login;200;OK;Thread Group 1-110;false;200;200;https://homologacao.ufms.br/siscad/login;62729;0;2188
+1,54E+12;512;GET dados básicos da matrícula;200;OK;Thread Group 1-43;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;177;0;0
+1,54E+12;470;Post revisão de seleção;200;OK;Thread Group 1-44;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;156;0;0
+1,54E+12;503;Post seleção de disciplinas;200;OK;Thread Group 1-38;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;162;0;0
+1,54E+12;307;Post revisão de seleção;200;OK;Thread Group 1-163;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;99;0;0
+1,54E+12;513;Post revisão de seleção;200;OK;Thread Group 1-104;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;195;0;0
+1,54E+12;652;Post revisão de seleção;200;OK;Thread Group 1-134;true;200;200;https://homologacao.ufms.br/siscad/matricula/2;398;0;0
+1,54E+12;557;GET dados básicos da matrícula;200;OK;Thread Group 1-79;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;157;0;0
+1,54E+12;388;POST dados básicos da matrícula;200;OK;Thread Group 1-125;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;110;0;0
+1,54E+12;417;GET dados básicos da matrícula;200;OK;Thread Group 1-6;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;96;0;0
+1,54E+12;365;Post revisão de seleção;200;OK;Thread Group 1-136;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;131;0;0
+1,54E+12;457;POST dados básicos da matrícula;200;OK;Thread Group 1-150;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;138;0;0
+1,54E+12;325;GET dados básicos da matrícula;200;OK;Thread Group 1-2;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;79;0;0
+1,54E+12;358;Post seleção de disciplinas;200;OK;Thread Group 1-128;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;129;0;0
+1,54E+12;313;POST dados básicos da matrícula;200;OK;Thread Group 1-167;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;118;0;0
+1,54E+12;67133;Tentativa de Login;500;Internal Server Error;Thread Group 1-155;false;200;200;https://homologacao.ufms.br/siscad/login;67133;0;472
+1,54E+12;433;GET dados básicos da matrícula;200;OK;Thread Group 1-174;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;130;0;0
+1,54E+12;351;POST dados básicos da matrícula;200;OK;Thread Group 1-26;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;119;0;0
+1,54E+12;342;GET dados básicos da matrícula;200;OK;Thread Group 1-110;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;121;0;0
+1,54E+12;302;Post revisão de seleção;200;OK;Thread Group 1-38;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;110;0;0
+1,54E+12;257;POST dados básicos da matrícula;200;OK;Thread Group 1-6;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;91;0;0
+1,54E+12;285;Post seleção de disciplinas;200;OK;Thread Group 1-125;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;103;0;0
+1,54E+12;16099;GET dados básicos da matrícula;200;OK;Thread Group 1-160;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;80;0;0
+1,54E+12;13640;POST dados básicos da matrícula;200;OK;Thread Group 1-184;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;58;0;0
+1,54E+12;301;POST dados básicos da matrícula;200;OK;Thread Group 1-79;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;127;0;0
+1,54E+12;66669;Tentativa de Login;200;OK;Thread Group 1-116;false;200;200;https://homologacao.ufms.br/siscad/login;60647;0;0
+1,54E+12;13820;POST dados básicos da matrícula;200;OK;Thread Group 1-22;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;59;0;0
+1,54E+12;289;POST dados básicos da matrícula;200;OK;Thread Group 1-2;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;117;0;0
+1,54E+12;67329;Tentativa de Login;200;OK;Thread Group 1-144;false;200;200;https://homologacao.ufms.br/siscad/login;61203;0;570
+1,54E+12;18381;Post revisão de seleção;200;OK;Thread Group 1-27;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;85;0;0
+1,54E+12;18395;Post revisão de seleção;200;OK;Thread Group 1-148;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;77;0;0
+1,54E+12;16164;GET dados básicos da matrícula;200;OK;Thread Group 1-107;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;75;0;0
+1,54E+12;16172;Post seleção de disciplinas;200;OK;Thread Group 1-76;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;63;0;0
+1,54E+12;291;POST dados básicos da matrícula;200;OK;Thread Group 1-174;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;100;0;0
+1,54E+12;15980;GET dados básicos da matrícula;200;OK;Thread Group 1-63;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;83;0;0
+1,54E+12;18473;Post seleção de disciplinas;200;OK;Thread Group 1-87;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;78;0;0
+1,54E+12;15846;Post seleção de disciplinas;200;OK;Thread Group 1-194;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;2083;0;2017
+1,54E+12;3971;GET dados básicos da matrícula;200;OK;Thread Group 1-123;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;80;0;0
+1,54E+12;64857;Tentativa de Login;200;OK;Thread Group 1-195;false;200;200;https://homologacao.ufms.br/siscad/login;61006;0;0
+1,54E+12;64848;Tentativa de Login;200;OK;Thread Group 1-189;false;200;200;https://homologacao.ufms.br/siscad/login;61123;0;0
+1,54E+12;64825;Tentativa de Login;200;OK;Thread Group 1-182;false;200;200;https://homologacao.ufms.br/siscad/login;61058;0;0
+1,54E+12;64698;Tentativa de Login;200;OK;Thread Group 1-84;false;200;200;https://homologacao.ufms.br/siscad/login;60957;0;0
+1,54E+12;64865;Tentativa de Login;200;OK;Thread Group 1-127;false;200;200;https://homologacao.ufms.br/siscad/login;61021;0;0
+1,54E+12;64874;Tentativa de Login;200;OK;Thread Group 1-145;false;200;200;https://homologacao.ufms.br/siscad/login;61105;0;0
+1,54E+12;65364;Tentativa de Login;200;OK;Thread Group 1-152;false;200;200;https://homologacao.ufms.br/siscad/login;61542;0;882
+1,54E+12;4108;GET dados básicos da matrícula;200;OK;Thread Group 1-131;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;78;0;0
+1,54E+12;67295;Tentativa de Login;200;OK;Thread Group 1-45;true;200;200;https://homologacao.ufms.br/siscad/academico;8742;0;0
+1,54E+12;66443;Tentativa de Login;200;OK;Thread Group 1-69;false;200;200;https://homologacao.ufms.br/siscad/login;61672;0;893
+1,54E+12;1840;Post revisão de seleção;200;OK;Thread Group 1-128;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;88;0;0
+1,54E+12;1844;Post seleção de disciplinas;200;OK;Thread Group 1-150;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;90;0;0
+1,54E+12;3788;POST dados básicos da matrícula;200;OK;Thread Group 1-1;true;200;200;https://homologacao.ufms.br/siscad/matricula/3;134;0;0
+1,54E+12;66292;Tentativa de Login;200;OK;Thread Group 1-34;false;200;200;https://homologacao.ufms.br/siscad/login;60786;0;0
+1,54E+12;67804;Tentativa de Login;200;OK;Thread Group 1-46;false;200;200;https://homologacao.ufms.br/siscad/login;60340;0;0
+1,54E+12;1766;Post seleção de disciplinas;200;OK;Thread Group 1-22;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;82;0;0
+1,54E+12;1813;POST dados básicos da matrícula;200;OK;Thread Group 1-160;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;84;0;0
+1,54E+12;17585;Post revisão de seleção;200;OK;Thread Group 1-59;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;62;0;0
+1,54E+12;1817;Post seleção de disciplinas;200;OK;Thread Group 1-184;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;86;0;0
+1,54E+12;2622;POST dados básicos da matrícula;200;OK;Thread Group 1-112;true;200;200;https://homologacao.ufms.br/siscad/matricula/3;191;0;0
+1,54E+12;1999;POST dados básicos da matrícula;200;OK;Thread Group 1-110;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;107;0;0
+1,54E+12;68637;Tentativa de Login;200;OK;Thread Group 1-154;false;200;200;https://homologacao.ufms.br/siscad/login;60698;0;0
+1,54E+12;2035;GET dados básicos da matrícula;200;OK;Thread Group 1-116;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;74;0;0
+1,54E+12;1841;POST dados básicos da matrícula;200;OK;Thread Group 1-63;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;82;0;0
+1,54E+12;1934;GET dados básicos da matrícula;200;OK;Thread Group 1-144;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;88;0;0
+1,54E+12;2084;Post revisão de seleção;200;OK;Thread Group 1-125;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;84;0;0
+1,54E+12;1975;Post revisão de seleção;200;OK;Thread Group 1-76;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;105;0;0
+1,54E+12;1838;Post revisão de seleção;200;OK;Thread Group 1-194;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;59;0;0
+1,54E+12;68373;Tentativa de Login;200;OK;Thread Group 1-71;false;200;200;https://homologacao.ufms.br/siscad/login;60506;0;0
+1,54E+12;2045;POST dados básicos da matrícula;200;OK;Thread Group 1-107;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;76;0;0
+1,54E+12;442;GET dados básicos da matrícula;200;OK;Thread Group 1-34;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;189;0;0
+1,54E+12;2199;Post seleção de disciplinas;200;OK;Thread Group 1-2;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;103;0;0
+1,54E+12;3998;GET dados básicos da matrícula;200;OK;Thread Group 1-47;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2029;0;1924
+1,54E+12;8351;POST dados básicos da matrícula;200;OK;Thread Group 1-72;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2219;0;2132
+1,54E+12;63246;Tentativa de Login;200;OK;Thread Group 1-17;false;200;200;https://homologacao.ufms.br/siscad/login;61318;0;775
+1,54E+12;538;GET dados básicos da matrícula;200;OK;Thread Group 1-46;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;206;0;0
+1,54E+12;18468;GET dados básicos da matrícula;200;OK;Thread Group 1-180;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;75;0;0
+1,54E+12;487;GET dados básicos da matrícula;200;OK;Thread Group 1-154;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;234;0;0
+1,54E+12;62686;Tentativa de Login;200;OK;Thread Group 1-98;false;200;200;https://homologacao.ufms.br/siscad/login;61237;0;0
+1,54E+12;62817;Tentativa de Login;200;OK;Thread Group 1-106;false;200;200;https://homologacao.ufms.br/siscad/login;61371;0;0
+1,54E+12;62508;Tentativa de Login;200;OK;Thread Group 1-169;false;200;200;https://homologacao.ufms.br/siscad/login;61051;0;0
+1,54E+12;2507;GET dados básicos da matrícula;200;OK;Thread Group 1-145;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;84;0;0
+1,54E+12;62639;Tentativa de Login;200;OK;Thread Group 1-177;false;200;200;https://homologacao.ufms.br/siscad/login;61175;0;0
+1,54E+12;4289;GET dados básicos da matrícula;200;OK;Thread Group 1-115;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;71;0;0
+1,54E+12;62769;Tentativa de Login;200;OK;Thread Group 1-164;false;200;200;https://homologacao.ufms.br/siscad/login;61306;0;0
+1,54E+12;2571;GET dados básicos da matrícula;200;OK;Thread Group 1-195;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;118;0;0
+1,54E+12;62860;Tentativa de Login;200;OK;Thread Group 1-192;false;200;200;https://homologacao.ufms.br/siscad/login;61392;0;0
+1,54E+12;62677;Tentativa de Login;200;OK;Thread Group 1-32;false;200;200;https://homologacao.ufms.br/siscad/login;61205;0;0
+1,54E+12;62858;Tentativa de Login;200;OK;Thread Group 1-179;false;200;200;https://homologacao.ufms.br/siscad/login;61377;0;0
+1,54E+12;67476;Tentativa de Login;200;OK;Thread Group 1-30;false;200;200;https://homologacao.ufms.br/siscad/login;63375;0;2966
+1,54E+12;62654;Tentativa de Login;200;OK;Thread Group 1-190;false;200;200;https://homologacao.ufms.br/siscad/login;61175;0;0
+1,54E+12;63749;Tentativa de Login;200;OK;Thread Group 1-73;false;200;200;https://homologacao.ufms.br/siscad/login;62280;0;943
+1,54E+12;62882;Tentativa de Login;200;OK;Thread Group 1-166;false;200;200;https://homologacao.ufms.br/siscad/login;61416;0;0
+1,54E+12;2688;GET dados básicos da matrícula;200;OK;Thread Group 1-127;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;87;0;0
+1,54E+12;293;GET dados básicos da matrícula;200;OK;Thread Group 1-169;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;97;0;0
+1,54E+12;305;GET dados básicos da matrícula;200;OK;Thread Group 1-192;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;95;0;0
+1,54E+12;318;GET dados básicos da matrícula;200;OK;Thread Group 1-164;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;87;0;0
+1,54E+12;303;GET dados básicos da matrícula;200;OK;Thread Group 1-73;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;89;0;0
+1,54E+12;350;GET dados básicos da matrícula;200;OK;Thread Group 1-98;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;113;0;0
+1,54E+12;334;POST dados básicos da matrícula;200;OK;Thread Group 1-145;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;114;0;0
+1,54E+12;354;GET dados básicos da matrícula;200;OK;Thread Group 1-106;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;126;0;0
+1,54E+12;313;GET dados básicos da matrícula;200;OK;Thread Group 1-179;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;103;0;0
+1,54E+12;314;GET dados básicos da matrícula;200;OK;Thread Group 1-190;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;109;0;0
+1,54E+12;330;POST dados básicos da matrícula;200;OK;Thread Group 1-195;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;95;0;0
+1,54E+12;324;GET dados básicos da matrícula;200;OK;Thread Group 1-30;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;96;0;0
+1,54E+12;336;GET dados básicos da matrícula;200;OK;Thread Group 1-32;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;117;0;0
+1,54E+12;368;POST dados básicos da matrícula;200;OK;Thread Group 1-115;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;133;0;0
+1,54E+12;368;GET dados básicos da matrícula;200;OK;Thread Group 1-166;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;106;0;0
+1,54E+12;414;GET dados básicos da matrícula;200;OK;Thread Group 1-177;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;130;0;0
+1,54E+12;345;POST dados básicos da matrícula;200;OK;Thread Group 1-127;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;89;0;0
+1,54E+12;7154;GET dados básicos da matrícula;200;OK;Thread Group 1-156;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;109;0;0
+1,54E+12;5277;GET dados básicos da matrícula;200;OK;Thread Group 1-109;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;206;0;0
+1,54E+12;7218;GET dados básicos da matrícula;200;OK;Thread Group 1-3;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;102;0;0
+1,54E+12;3240;POST dados básicos da matrícula;200;OK;Thread Group 1-123;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;66;0;0
+1,54E+12;7191;GET dados básicos da matrícula;200;OK;Thread Group 1-41;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;96;0;0
+1,54E+12;2089;Post revisão de seleção;200;OK;Thread Group 1-150;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;161;0;0
+1,54E+12;4118;POST dados básicos da matrícula;200;OK;Thread Group 1-43;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;149;0;0
+1,54E+12;3546;Post seleção de disciplinas;200;OK;Thread Group 1-174;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;69;0;0
+1,54E+12;3824;Post seleção de disciplinas;200;OK;Thread Group 1-26;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;96;0;0
+1,54E+12;3747;Post seleção de disciplinas;200;OK;Thread Group 1-79;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;94;0;0
+1,54E+12;3795;Post seleção de disciplinas;200;OK;Thread Group 1-6;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;105;0;0
+1,54E+12;64776;Tentativa de Login;200;OK;Thread Group 1-80;false;200;200;https://homologacao.ufms.br/siscad/login;61356;0;753
+1,54E+12;1990;Post seleção de disciplinas;200;OK;Thread Group 1-160;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;100;0;0
+1,54E+12;3607;Post revisão de seleção;200;OK;Thread Group 1-87;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;70;0;0
+1,54E+12;4912;Post seleção de disciplinas;200;OK;Thread Group 1-118;true;200;200;https://homologacao.ufms.br/siscad/matricula/3;905;0;0
+1,54E+12;2076;Post revisão de seleção;200;OK;Thread Group 1-22;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;115;0;0
+1,54E+12;2160;Post revisão de seleção;200;OK;Thread Group 1-184;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;110;0;0
+1,54E+12;65024;Tentativa de Login;200;OK;Thread Group 1-28;false;200;200;https://homologacao.ufms.br/siscad/login;61442;0;762
+1,54E+12;2133;Post seleção de disciplinas;200;OK;Thread Group 1-110;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;76;0;0
+1,54E+12;277;Post revisão de seleção;200;OK;Thread Group 1-160;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;70;0;0
+1,54E+12;1888;Post revisão de seleção;200;OK;Thread Group 1-2;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;90;0;0
+1,54E+12;1940;POST dados básicos da matrícula;200;OK;Thread Group 1-34;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;86;0;0
+1,54E+12;4305;Post seleção de disciplinas;200;OK;Thread Group 1-167;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;85;0;0
+1,54E+12;1945;Post seleção de disciplinas;200;OK;Thread Group 1-107;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;80;0;0
+1,54E+12;2108;POST dados básicos da matrícula;200;OK;Thread Group 1-116;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;91;0;0
+1,54E+12;2059;POST dados básicos da matrícula;200;OK;Thread Group 1-144;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;83;0;0
+1,54E+12;64020;Tentativa de Login;200;OK;Thread Group 1-14;false;200;200;https://homologacao.ufms.br/siscad/login;60476;0;0
+1,54E+12;63967;Tentativa de Login;200;OK;Thread Group 1-12;false;200;200;https://homologacao.ufms.br/siscad/login;60392;0;0
+1,54E+12;1940;GET dados básicos da matrícula;200;OK;Thread Group 1-71;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;74;0;0
+1,54E+12;65087;Tentativa de Login;200;OK;Thread Group 1-54;false;200;200;https://homologacao.ufms.br/siscad/login;61483;0;773
+1,54E+12;72407;Tentativa de Login;200;OK;Thread Group 1-133;true;200;200;https://homologacao.ufms.br/siscad/academico;2217;0;0
+1,54E+12;64127;Tentativa de Login;200;OK;Thread Group 1-105;false;200;200;https://homologacao.ufms.br/siscad/login;60454;0;0
+1,54E+12;2425;Post seleção de disciplinas;200;OK;Thread Group 1-112;true;200;200;https://homologacao.ufms.br/siscad/matricula/3;616;0;0
+1,54E+12;1953;GET dados básicos da matrícula;200;OK;Thread Group 1-17;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;83;0;0
+1,54E+12;2212;Post seleção de disciplinas;200;OK;Thread Group 1-63;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;86;0;0
+1,54E+12;64146;Tentativa de Login;200;OK;Thread Group 1-175;false;200;200;https://homologacao.ufms.br/siscad/login;60436;0;0
+1,54E+12;2030;Post seleção de disciplinas;200;OK;Thread Group 1-72;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;90;0;0
+1,54E+12;1091;POST dados básicos da matrícula;200;OK;Thread Group 1-169;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;96;0;0
+1,54E+12;1064;Post seleção de disciplinas;200;OK;Thread Group 1-145;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;90;0;0
+1,54E+12;1080;POST dados básicos da matrícula;200;OK;Thread Group 1-192;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;95;0;0
+1,54E+12;1092;POST dados básicos da matrícula;200;OK;Thread Group 1-190;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;93;0;0
+1,54E+12;1114;POST dados básicos da matrícula;200;OK;Thread Group 1-106;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;88;0;0
+1,54E+12;1112;POST dados básicos da matrícula;200;OK;Thread Group 1-30;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;93;0;0
+1,54E+12;1142;POST dados básicos da matrícula;200;OK;Thread Group 1-73;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;93;0;0
+1,54E+12;1096;Post seleção de disciplinas;200;OK;Thread Group 1-115;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;71;0;0
+1,54E+12;1132;Post seleção de disciplinas;200;OK;Thread Group 1-195;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;98;0;0
+1,54E+12;64370;Tentativa de Login;200;OK;Thread Group 1-8;false;200;200;https://homologacao.ufms.br/siscad/login;61417;0;0
+1,54E+12;1126;POST dados básicos da matrícula;200;OK;Thread Group 1-166;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;77;0;0
+1,54E+12;1192;POST dados básicos da matrícula;200;OK;Thread Group 1-98;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;75;0;0
+1,54E+12;1214;POST dados básicos da matrícula;200;OK;Thread Group 1-164;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;116;0;0
+1,54E+12;3935;POST dados básicos da matrícula;200;OK;Thread Group 1-131;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;95;0;0
+1,54E+12;1194;POST dados básicos da matrícula;200;OK;Thread Group 1-32;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;104;0;0
+1,54E+12;5885;GET dados básicos da matrícula;200;OK;Thread Group 1-37;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;76;0;0
+1,54E+12;4029;GET dados básicos da matrícula;200;OK;Thread Group 1-152;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;971;0;0
+1,54E+12;1208;POST dados básicos da matrícula;200;OK;Thread Group 1-177;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;71;0;0
+1,54E+12;4210;GET dados básicos da matrícula;200;OK;Thread Group 1-182;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;114;0;0
+1,54E+12;1365;POST dados básicos da matrícula;200;OK;Thread Group 1-179;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;103;0;0
+1,54E+12;69161;Tentativa de Login;200;OK;Thread Group 1-138;false;200;200;https://homologacao.ufms.br/siscad/login;63377;0;2981
+1,54E+12;1211;Post seleção de disciplinas;200;OK;Thread Group 1-127;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;76;0;0
+1,54E+12;4279;GET dados básicos da matrícula;200;OK;Thread Group 1-84;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;95;0;0
+1,54E+12;4300;GET dados básicos da matrícula;200;OK;Thread Group 1-189;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;115;0;0
+1,54E+12;64613;Tentativa de Login;200;OK;Thread Group 1-42;false;200;200;https://homologacao.ufms.br/siscad/login;61391;0;0
+1,54E+12;791;Post seleção de disciplinas;200;OK;Thread Group 1-73;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;104;0;0
+1,54E+12;834;Post seleção de disciplinas;200;OK;Thread Group 1-190;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;161;0;0
+1,54E+12;813;Post seleção de disciplinas;200;OK;Thread Group 1-106;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;141;0;0
+1,54E+12;6558;GET dados básicos da matrícula;200;OK;Thread Group 1-96;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;82;0;0
+1,54E+12;3620;GET dados básicos da matrícula;200;OK;Thread Group 1-69;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2097;0;1958
+1,54E+12;69510;Tentativa de Login;200;OK;Thread Group 1-135;false;200;200;https://homologacao.ufms.br/siscad/login;63584;0;2948
+1,54E+12;6576;GET dados básicos da matrícula;200;OK;Thread Group 1-191;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;73;0;0
+1,54E+12;885;Post seleção de disciplinas;200;OK;Thread Group 1-192;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;117;0;0
+1,54E+12;916;Post seleção de disciplinas;200;OK;Thread Group 1-169;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;140;0;0
+1,54E+12;69726;Tentativa de Login;200;OK;Thread Group 1-20;false;200;200;https://homologacao.ufms.br/siscad/login;63534;0;3032
+1,54E+12;907;Post revisão de seleção;200;OK;Thread Group 1-145;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;112;0;0
+1,54E+12;6331;GET dados básicos da matrícula;200;OK;Thread Group 1-143;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;98;0;0
+1,54E+12;1643;POST dados básicos da matrícula;200;OK;Thread Group 1-109;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;112;0;0
+1,54E+12;6241;Post revisão de seleção;200;OK;Thread Group 1-141;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;137;0;0
+1,54E+12;1749;POST dados básicos da matrícula;200;OK;Thread Group 1-3;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;937;0;765
+1,54E+12;1770;POST dados básicos da matrícula;200;OK;Thread Group 1-156;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;124;0;0
+1,54E+12;1753;POST dados básicos da matrícula;200;OK;Thread Group 1-41;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;939;0;758
+1,54E+12;4763;GET dados básicos da matrícula;200;OK;Thread Group 1-45;true;200;200;https://homologacao.ufms.br/siscad/matricula/2;932;0;0
+1,54E+12;936;GET dados básicos da matrícula;200;OK;Thread Group 1-8;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;149;0;0
+1,54E+12;922;Post seleção de disciplinas;200;OK;Thread Group 1-166;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;185;0;0
+1,54E+12;1016;Post revisão de seleção;200;OK;Thread Group 1-115;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;169;0;0
+1,54E+12;949;Post seleção de disciplinas;200;OK;Thread Group 1-131;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;108;0;0
+1,54E+12;65208;Tentativa de Login;200;OK;Thread Group 1-111;false;200;200;https://homologacao.ufms.br/siscad/login;61316;0;0
+1,54E+12;65350;Tentativa de Login;200;OK;Thread Group 1-162;false;200;200;https://homologacao.ufms.br/siscad/login;61463;0;0
+1,54E+12;6519;GET dados básicos da matrícula;200;OK;Thread Group 1-149;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;101;0;0
+1,54E+12;6783;GET dados básicos da matrícula;200;OK;Thread Group 1-29;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;95;0;0
+1,54E+12;1040;Post seleção de disciplinas;200;OK;Thread Group 1-30;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;198;0;0
+1,54E+12;912;POST dados básicos da matrícula;200;OK;Thread Group 1-37;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;139;0;0
+1,54E+12;65261;Tentativa de Login;200;OK;Thread Group 1-119;false;200;200;https://homologacao.ufms.br/siscad/login;61365;0;0
+1,54E+12;862;Post seleção de disciplinas;200;OK;Thread Group 1-177;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;124;0;0
+1,54E+12;955;Post seleção de disciplinas;200;OK;Thread Group 1-32;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;162;0;0
+1,54E+12;1037;Post revisão de seleção;200;OK;Thread Group 1-195;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;134;0;0
+1,54E+12;1843;Post seleção de disciplinas;200;OK;Thread Group 1-123;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;98;0;0
+1,54E+12;817;Post seleção de disciplinas;200;OK;Thread Group 1-179;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;133;0;0
+1,54E+12;867;POST dados básicos da matrícula;200;OK;Thread Group 1-182;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;411;0;0
+1,54E+12;794;Post revisão de seleção;200;OK;Thread Group 1-127;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;185;0;0
+1,54E+12;782;POST dados básicos da matrícula;200;OK;Thread Group 1-189;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;323;0;0
+1,54E+12;799;GET dados básicos da matrícula;200;OK;Thread Group 1-138;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;338;0;0
+1,54E+12;69981;Tentativa de Login;200;OK;Thread Group 1-196;false;200;200;https://homologacao.ufms.br/siscad/login;63542;0;2997
+1,54E+12;66429;Tentativa de Login;200;OK;Thread Group 1-51;false;200;200;https://homologacao.ufms.br/siscad/login;62503;0;810
+1,54E+12;703;GET dados básicos da matrícula;200;OK;Thread Group 1-42;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;236;0;0
+1,54E+12;5592;GET dados básicos da matrícula;200;OK;Thread Group 1-155;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1837;0;1645
+1,54E+12;918;POST dados básicos da matrícula;200;OK;Thread Group 1-152;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;139;0;0
+1,54E+12;999;Post seleção de disciplinas;200;OK;Thread Group 1-164;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;155;0;0
+1,54E+12;6800;GET dados básicos da matrícula;200;OK;Thread Group 1-62;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;83;0;0
+1,54E+12;65392;Tentativa de Login;200;OK;Thread Group 1-172;false;200;200;https://homologacao.ufms.br/siscad/login;61455;0;0
+1,54E+12;66295;Tentativa de Login;200;OK;Thread Group 1-147;false;200;200;https://homologacao.ufms.br/siscad/login;62304;0;961
+1,54E+12;6390;Post revisão de seleção;200;OK;Thread Group 1-5;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;163;0;0
+1,54E+12;889;POST dados básicos da matrícula;200;OK;Thread Group 1-84;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;323;0;0
+1,54E+12;70192;Tentativa de Login;200;OK;Thread Group 1-159;false;200;200;https://homologacao.ufms.br/siscad/login;63579;0;2928
+1,54E+12;294;POST dados básicos da matrícula;500;Internal Server Error;Thread Group 1-138;false;200;200;https://homologacao.ufms.br/siscad/matricula/2;292;0;0
+1,54E+12;2401;Post seleção de disciplinas;200;OK;Thread Group 1-43;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;113;0;0
+1,54E+12;2384;Post revisão de seleção;200;OK;Thread Group 1-79;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;113;0;0
+1,54E+12;2423;Post revisão de seleção;200;OK;Thread Group 1-174;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;119;0;0
+1,54E+12;2436;Post revisão de seleção;200;OK;Thread Group 1-26;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;111;0;0
+1,54E+12;2390;GET dados básicos da matrícula;200;OK;Thread Group 1-80;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;101;0;0
+1,54E+12;3910;POST dados básicos da matrícula;200;OK;Thread Group 1-47;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;94;0;0
+1,54E+12;2430;Post revisão de seleção;200;OK;Thread Group 1-6;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;108;0;0
+1,54E+12;8469;GET dados básicos da matrícula;200;OK;Thread Group 1-153;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;160;0;0
+1,54E+12;4436;POST dados básicos da matrícula;200;OK;Thread Group 1-154;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;59;0;0
+1,54E+12;4557;POST dados básicos da matrícula;200;OK;Thread Group 1-46;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;62;0;0
+1,54E+12;2617;GET dados básicos da matrícula;200;OK;Thread Group 1-175;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;139;0;0
+1,54E+12;2706;Post revisão de seleção;200;OK;Thread Group 1-63;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;181;0;0
+1,54E+12;4625;POST dados básicos da matrícula;200;OK;Thread Group 1-180;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;169;0;0
+1,54E+12;2973;GET dados básicos da matrícula;200;OK;Thread Group 1-28;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;148;0;0
+1,54E+12;2587;Post seleção de disciplinas;200;OK;Thread Group 1-98;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;159;0;0
+1,54E+12;1840;POST dados básicos da matrícula;200;OK;Thread Group 1-69;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;86;0;0
+1,54E+12;2872;GET dados básicos da matrícula;200;OK;Thread Group 1-133;true;200;200;https://homologacao.ufms.br/siscad/matricula/2;283;0;0
+1,54E+12;36720;Tentativa de Login;200;OK;Thread Group 1-161;false;200;200;https://homologacao.ufms.br/siscad/login;32698;0;1769
+1,54E+12;36819;Tentativa de Login;200;OK;Thread Group 1-130;false;200;200;https://homologacao.ufms.br/siscad/login;32709;0;1803
+1,54E+12;37531;Tentativa de Login;200;OK;Thread Group 1-91;false;200;200;https://homologacao.ufms.br/siscad/login;32761;0;1817
+1,54E+12;3410;GET dados básicos da matrícula;200;OK;Thread Group 1-51;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;187;0;0
+1,54E+12;3412;GET dados básicos da matrícula;200;OK;Thread Group 1-172;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;211;0;0
+1,54E+12;3432;POST dados básicos da matrícula;200;OK;Thread Group 1-62;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;212;0;0
+1,54E+12;3486;POST dados básicos da matrícula;200;OK;Thread Group 1-149;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;247;0;0
+1,54E+12;3522;POST dados básicos da matrícula;200;OK;Thread Group 1-29;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;338;0;0
+1,54E+12;3535;POST dados básicos da matrícula;200;OK;Thread Group 1-155;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;324;0;0
+1,54E+12;3563;GET dados básicos da matrícula;200;OK;Thread Group 1-196;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;375;0;0
+1,54E+12;3549;GET dados básicos da matrícula;200;OK;Thread Group 1-147;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;325;0;0
+1,54E+12;3600;GET dados básicos da matrícula;200;OK;Thread Group 1-119;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;334;0;0
+1,54E+12;8683;Post seleção de disciplinas;200;OK;Thread Group 1-1;true;200;200;https://homologacao.ufms.br/siscad/matricula/3;779;0;0
+1,54E+12;5386;POST dados básicos da matrícula;200;OK;Thread Group 1-143;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;97;0;0
+1,54E+12;5392;GET dados básicos da matrícula;200;OK;Thread Group 1-20;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;104;0;0
+1,54E+12;5884;Post revisão de seleção;200;OK;Thread Group 1-106;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;92;0;0
+1,54E+12;5880;GET dados básicos da matrícula;200;OK;Thread Group 1-135;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;132;0;0
+1,54E+12;5908;Post revisão de seleção;200;OK;Thread Group 1-190;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;104;0;0
+1,54E+12;5888;Post revisão de seleção;200;OK;Thread Group 1-192;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;101;0;0
+1,54E+12;5887;Post seleção de disciplinas;200;OK;Thread Group 1-109;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;85;0;0
+1,54E+12;5930;POST dados básicos da matrícula;200;OK;Thread Group 1-191;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;170;0;0
+1,54E+12;5489;GET dados básicos da matrícula;200;OK;Thread Group 1-159;false;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;332;0;0
+1,54E+12;5943;POST dados básicos da matrícula;200;OK;Thread Group 1-96;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;122;0;0
+1,54E+12;39764;Tentativa de Login;200;OK;Thread Group 1-86;false;200;200;https://homologacao.ufms.br/siscad/login;32753;0;1786
+1,54E+12;5419;Post seleção de disciplinas;200;OK;Thread Group 1-138;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1375;0;946
+1,54E+12;39776;Tentativa de Login;200;OK;Thread Group 1-24;false;200;200;https://homologacao.ufms.br/siscad/login;32738;0;1789
+1,54E+12;39834;Tentativa de Login;200;OK;Thread Group 1-13;false;200;200;https://homologacao.ufms.br/siscad/login;32789;0;1827
+1,54E+12;39691;Tentativa de Login;200;OK;Thread Group 1-56;false;200;200;https://homologacao.ufms.br/siscad/login;32615;0;1780
+1,54E+12;5633;Post seleção de disciplinas;200;OK;Thread Group 1-84;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;235;0;0
+1,54E+12;39854;Tentativa de Login;200;OK;Thread Group 1-176;false;200;200;https://homologacao.ufms.br/siscad/login;32800;0;1824
+1,54E+12;4154;Post seleção de disciplinas;200;OK;Thread Group 1-69;true;200;200;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;708;0;0
+1,54E+12;39788;Tentativa de Login;200;OK;Thread Group 1-140;false;200;200;https://homologacao.ufms.br/siscad/login;32745;0;1761
+1,54E+12;39798;Tentativa de Login;200;OK;Thread Group 1-121;false;200;200;https://homologacao.ufms.br/siscad/login;32751;0;1790
+1,54E+12;14662;Logout;200;OK;Thread Group 1-35;true;200;200;https://homologacao.ufms.br/siscad/;9775;0;0
+1,54E+12;39884;Tentativa de Login;200;OK;Thread Group 1-70;false;199;199;https://homologacao.ufms.br/siscad/login;32789;0;1801
+1,54E+12;39796;Tentativa de Login;200;OK;Thread Group 1-100;false;199;199;https://homologacao.ufms.br/siscad/login;32666;0;1794
+1,54E+12;25824;Logout;200;OK;Thread Group 1-21;true;199;199;https://homologacao.ufms.br/siscad/;20896;0;0
+1,54E+12;11964;Logout;200;OK;Thread Group 1-126;true;198;198;https://homologacao.ufms.br/siscad/;7025;0;0
+1,54E+12;16413;Logout;200;OK;Thread Group 1-94;true;197;197;https://homologacao.ufms.br/siscad/;11467;0;0
+1,54E+12;4627;POST dados básicos da matrícula;200;OK;Thread Group 1-175;true;196;196;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;243;0;0
+1,54E+12;6087;Post revisão de seleção;200;OK;Thread Group 1-131;true;196;196;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;202;0;0
+1,54E+12;40200;Tentativa de Login;200;OK;Thread Group 1-57;false;196;196;https://homologacao.ufms.br/siscad/login;33948;0;1541
+1,54E+12;6153;Post seleção de disciplinas;200;OK;Thread Group 1-41;true;196;196;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;228;0;0
+1,54E+12;6091;Post seleção de disciplinas;200;OK;Thread Group 1-37;true;196;196;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;299;0;0
+1,54E+12;6101;GET dados básicos da matrícula;200;OK;Thread Group 1-111;false;196;196;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;346;0;0
+1,54E+12;6318;Post revisão de seleção;200;OK;Thread Group 1-169;true;196;196;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;99;0;0
+1,54E+12;4566;POST dados básicos da matrícula;200;OK;Thread Group 1-28;true;196;196;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;655;0;0
+1,54E+12;4626;Logout;200;OK;Thread Group 1-63;true;196;196;https://homologacao.ufms.br/siscad/;696;0;0
+1,54E+12;6169;Post revisão de seleção;200;OK;Thread Group 1-30;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;316;0;0
+1,54E+12;40233;Tentativa de Login;200;OK;Thread Group 1-139;false;195;195;https://homologacao.ufms.br/siscad/login;33915;0;1803
+1,54E+12;4562;Post revisão de seleção;200;OK;Thread Group 1-98;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;700;0;0
+1,54E+12;40210;Tentativa de Login;200;OK;Thread Group 1-36;false;195;195;https://homologacao.ufms.br/siscad/login;33898;0;1784
+1,54E+12;6176;Post revisão de seleção;200;OK;Thread Group 1-32;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;269;0;0
+1,54E+12;6166;Post revisão de seleção;200;OK;Thread Group 1-123;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;260;0;0
+1,54E+12;40286;Tentativa de Login;200;OK;Thread Group 1-168;false;195;195;https://homologacao.ufms.br/siscad/login;33942;0;1820
+1,54E+12;6248;Post revisão de seleção;200;OK;Thread Group 1-166;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;84;0;0
+1,54E+12;4670;Post seleção de disciplinas;200;OK;Thread Group 1-180;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;790;0;0
+1,54E+12;6180;Post revisão de seleção;200;OK;Thread Group 1-179;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;304;0;0
+1,54E+12;40316;Tentativa de Login;200;OK;Thread Group 1-88;false;195;195;https://homologacao.ufms.br/siscad/login;33953;0;1546
+1,54E+12;6205;Post revisão de seleção;200;OK;Thread Group 1-177;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;227;0;0
+1,54E+12;6275;POST dados básicos da matrícula;200;OK;Thread Group 1-8;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;214;0;0
+1,54E+12;6180;Post revisão de seleção;200;OK;Thread Group 1-164;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;172;0;0
+1,54E+12;6191;POST dados básicos da matrícula;200;OK;Thread Group 1-42;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;294;0;0
+1,54E+12;6242;GET dados básicos da matrícula;200;OK;Thread Group 1-162;false;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;369;0;0
+1,54E+12;40340;Tentativa de Login;200;OK;Thread Group 1-181;false;195;195;https://homologacao.ufms.br/siscad/login;33958;0;1824
+1,54E+12;6220;Post seleção de disciplinas;200;OK;Thread Group 1-182;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;182;0;0
+1,54E+12;6486;Post revisão de seleção;200;OK;Thread Group 1-73;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;105;0;0
+1,54E+12;6224;Post seleção de disciplinas;200;OK;Thread Group 1-189;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;291;0;0
+1,54E+12;40292;Tentativa de Login;200;OK;Thread Group 1-188;false;195;195;https://homologacao.ufms.br/siscad/login;33893;0;1782
+1,54E+12;6219;Post seleção de disciplinas;200;OK;Thread Group 1-152;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;167;0;0
+1,54E+12;6336;Post seleção de disciplinas;200;OK;Thread Group 1-3;true;195;195;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;162;0;0
+1,54E+12;28164;Logout;200;OK;Thread Group 1-185;true;195;195;https://homologacao.ufms.br/siscad/;22765;0;0
+1,54E+12;32717;Logout;200;OK;Thread Group 1-89;true;194;194;https://homologacao.ufms.br/siscad/;27288;0;0
+1,54E+12;17570;Logout;200;OK;Thread Group 1-108;true;193;193;https://homologacao.ufms.br/siscad/;12150;0;0
+1,54E+12;40364;Tentativa de Login;200;OK;Thread Group 1-178;false;192;192;https://homologacao.ufms.br/siscad/login;33886;0;1786
+1,54E+12;6396;Post seleção de disciplinas;200;OK;Thread Group 1-156;true;192;192;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;194;0;0
+1,54E+12;16890;Logout;200;OK;Thread Group 1-65;true;192;192;https://homologacao.ufms.br/siscad/;11440;0;0
+1,54E+12;28291;Logout;200;OK;Thread Group 1-103;true;191;191;https://homologacao.ufms.br/siscad/;22785;0;0
+1,54E+12;14006;Logout;200;OK;Thread Group 1-33;true;190;190;https://homologacao.ufms.br/siscad/;8571;0;0
+1,54E+12;13934;Logout;200;OK;Thread Group 1-52;true;189;189;https://homologacao.ufms.br/siscad/;8488;0;0
+1,54E+12;12067;Logout;200;OK;Thread Group 1-136;true;189;189;https://homologacao.ufms.br/siscad/;6618;0;0
+1,54E+12;72039;Tentativa de Login;200;OK;Thread Group 1-95;false;188;188;https://homologacao.ufms.br/siscad/login;68317;0;31241
+1,54E+12;15220;Logout;200;OK;Thread Group 1-198;true;187;187;https://homologacao.ufms.br/siscad/;9724;0;0
+1,54E+12;16926;Logout;200;OK;Thread Group 1-197;true;186;186;https://homologacao.ufms.br/siscad/;11367;0;0
+1,54E+12;40459;Tentativa de Login;200;OK;Thread Group 1-31;false;185;185;https://homologacao.ufms.br/siscad/login;36685;0;1762
+1,54E+12;28519;Logout;200;OK;Thread Group 1-124;true;185;185;https://homologacao.ufms.br/siscad/;22751;0;0
+1,54E+12;12717;Logout;200;OK;Thread Group 1-61;true;185;185;https://homologacao.ufms.br/siscad/;7045;0;0
+1,54E+12;12469;Logout;200;OK;Thread Group 1-44;true;183;183;https://homologacao.ufms.br/siscad/;6781;0;0
+1,54E+12;26555;Logout;200;OK;Thread Group 1-40;true;182;182;https://homologacao.ufms.br/siscad/;20799;0;0
+1,54E+12;8328;Post revisão de seleção;200;OK;Thread Group 1-118;true;181;181;https://homologacao.ufms.br/siscad/matricula/2;231;0;0
+1,54E+12;13650;Logout;200;OK;Thread Group 1-19;true;181;181;https://homologacao.ufms.br/siscad/;6832;0;0
+1,54E+12;13760;Logout;200;OK;Thread Group 1-163;true;180;180;https://homologacao.ufms.br/siscad/;6770;0;0
+1,54E+12;29854;Logout;200;OK;Thread Group 1-146;true;179;179;https://homologacao.ufms.br/siscad/;22821;0;0
+1,54E+12;14036;Logout;200;OK;Thread Group 1-18;true;178;178;https://homologacao.ufms.br/siscad/;7037;0;0
+1,54E+12;16034;Logout;200;OK;Thread Group 1-68;true;177;177;https://homologacao.ufms.br/siscad/;8978;0;0
+1,54E+12;18658;Logout;200;OK;Thread Group 1-58;true;176;176;https://homologacao.ufms.br/siscad/;11506;0;0
+1,54E+12;18017;Logout;200;OK;Thread Group 1-83;true;175;175;https://homologacao.ufms.br/siscad/;10865;0;0
+1,54E+12;18981;Logout;200;OK;Thread Group 1-60;true;174;174;https://homologacao.ufms.br/siscad/;11822;0;0
+1,54E+12;18182;Logout;200;OK;Thread Group 1-11;true;173;173;https://homologacao.ufms.br/siscad/;11032;0;0
+1,54E+12;16821;Logout;200;OK;Thread Group 1-171;true;172;172;https://homologacao.ufms.br/siscad/;9683;0;0
+1,54E+12;17850;Logout;200;OK;Thread Group 1-48;true;171;171;https://homologacao.ufms.br/siscad/;10707;0;0
+1,54E+12;27995;Logout;200;OK;Thread Group 1-67;true;170;170;https://homologacao.ufms.br/siscad/;20719;0;0
+1,54E+12;27900;Logout;200;OK;Thread Group 1-102;true;169;169;https://homologacao.ufms.br/siscad/;20652;0;0
+1,54E+12;14424;Logout;200;OK;Thread Group 1-53;true;168;168;https://homologacao.ufms.br/siscad/;7244;0;0
+1,54E+12;14031;Logout;200;OK;Thread Group 1-104;true;167;167;https://homologacao.ufms.br/siscad/;6740;0;0
+1,54E+12;30132;Logout;200;OK;Thread Group 1-90;true;166;166;https://homologacao.ufms.br/siscad/;22782;0;0
+1,54E+12;14559;Logout;200;OK;Thread Group 1-66;true;165;165;https://homologacao.ufms.br/siscad/;7265;0;0
+1,54E+12;15809;Logout;200;OK;Thread Group 1-137;true;164;164;https://homologacao.ufms.br/siscad/;8509;0;0
+1,54E+12;16175;Logout;200;OK;Thread Group 1-165;true;163;163;https://homologacao.ufms.br/siscad/;8866;0;0
+1,54E+12;11644;Logout;200;OK;Thread Group 1-125;true;162;162;https://homologacao.ufms.br/siscad/;4333;0;0
+1,54E+12;18286;Logout;200;OK;Thread Group 1-158;true;161;161;https://homologacao.ufms.br/siscad/;10918;0;0
+1,54E+12;9527;POST dados básicos da matrícula;200;OK;Thread Group 1-71;true;160;160;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;121;0;0
+1,54E+12;9687;Post revisão de seleção;200;OK;Thread Group 1-110;true;160;160;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;108;0;0
+1,54E+12;14080;Logout;200;OK;Thread Group 1-134;true;160;160;https://homologacao.ufms.br/siscad/;6734;0;0
+1,54E+12;9557;Post seleção de disciplinas;200;OK;Thread Group 1-116;true;159;159;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;146;0;0
+1,54E+12;11628;Logout;200;OK;Thread Group 1-194;true;159;159;https://homologacao.ufms.br/siscad/;4257;0;0
+1,54E+12;33972;Logout;200;OK;Thread Group 1-187;true;159;159;https://homologacao.ufms.br/siscad/;26779;0;0
+1,54E+12;32204;Logout;200;OK;Thread Group 1-93;true;157;157;https://homologacao.ufms.br/siscad/;24970;0;0
+1,54E+12;8429;Logout;200;OK;Thread Group 1-141;true;156;156;https://homologacao.ufms.br/siscad/;1172;0;0
+1,54E+12;16415;Logout;200;OK;Thread Group 1-7;true;155;155;https://homologacao.ufms.br/siscad/;9006;0;0
+1,54E+12;8327;Logout;200;OK;Thread Group 1-195;true;155;155;https://homologacao.ufms.br/siscad/;1037;0;0
+1,54E+12;17097;Logout;200;OK;Thread Group 1-113;true;153;153;https://homologacao.ufms.br/siscad/;9679;0;0
+1,54E+12;9619;Logout;200;OK;Thread Group 1-2;true;152;152;https://homologacao.ufms.br/siscad/;2211;0;0
+1,54E+12;9628;Post revisão de seleção;200;OK;Thread Group 1-167;true;151;151;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;1984;0;1602
+1,54E+12;9758;Logout;200;OK;Thread Group 1-160;true;151;151;https://homologacao.ufms.br/siscad/;2338;0;0
+1,54E+12;5593;GET dados básicos da matrícula;200;OK;Thread Group 1-130;false;150;150;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;602;0;0
+1,54E+12;11714;Logout;200;OK;Thread Group 1-76;true;150;150;https://homologacao.ufms.br/siscad/;4274;0;0
+1,54E+12;13920;Logout;200;OK;Thread Group 1-38;true;149;149;https://homologacao.ufms.br/siscad/;6472;0;0
+1,54E+12;8618;Logout;200;OK;Thread Group 1-145;true;148;148;https://homologacao.ufms.br/siscad/;1221;0;0
+1,54E+12;9746;Post seleção de disciplinas;200;OK;Thread Group 1-34;true;147;147;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;136;0;0
+1,54E+12;7835;Post revisão de seleção;200;OK;Thread Group 1-43;true;147;147;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;454;0;0
+1,54E+12;19099;Logout;200;OK;Thread Group 1-55;true;147;147;https://homologacao.ufms.br/siscad/;11466;0;0
+1,54E+12;5815;GET dados básicos da matrícula;200;OK;Thread Group 1-161;false;147;147;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;429;0;0
+1,54E+12;31084;Logout;200;OK;Thread Group 1-99;true;146;146;https://homologacao.ufms.br/siscad/;23502;0;0
+1,54E+12;12315;Logout;200;OK;Thread Group 1-59;true;145;145;https://homologacao.ufms.br/siscad/;4902;0;0
+1,54E+12;34333;Logout;200;OK;Thread Group 1-49;true;144;144;https://homologacao.ufms.br/siscad/;26730;0;0
+1,54E+12;17127;Logout;200;OK;Thread Group 1-122;true;143;143;https://homologacao.ufms.br/siscad/;9359;0;0
+1,54E+12;30289;Logout;200;OK;Thread Group 1-16;true;142;142;https://homologacao.ufms.br/siscad/;22765;0;0
+1,54E+12;30305;Logout;200;OK;Thread Group 1-186;true;141;141;https://homologacao.ufms.br/siscad/;22781;0;0
+1,54E+12;7986;POST dados básicos da matrícula;200;OK;Thread Group 1-80;true;140;140;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;407;0;0
+1,54E+12;12548;Logout;200;OK;Thread Group 1-128;true;140;140;https://homologacao.ufms.br/siscad/;5079;0;0
+1,54E+12;74406;Tentativa de Login;200;OK;Thread Group 1-193;false;139;139;https://homologacao.ufms.br/siscad/login;69071;0;31361
+1,54E+12;28072;Logout;200;OK;Thread Group 1-157;true;139;139;https://homologacao.ufms.br/siscad/;20500;0;7818
+1,54E+12;19325;Logout;200;OK;Thread Group 1-25;true;138;138;https://homologacao.ufms.br/siscad/;11486;0;0
+1,54E+12;28235;Logout;200;OK;Thread Group 1-170;true;137;137;https://homologacao.ufms.br/siscad/;20652;0;7913
+1,54E+12;31282;Logout;200;OK;Thread Group 1-129;true;136;136;https://homologacao.ufms.br/siscad/;23591;0;0
+1,54E+12;9998;POST dados básicos da matrícula;200;OK;Thread Group 1-17;true;135;135;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;124;0;0
+1,54E+12;10529;Logout;200;OK;Thread Group 1-150;true;135;135;https://homologacao.ufms.br/siscad/;2992;0;0
+1,54E+12;9938;Post revisão de seleção;200;OK;Thread Group 1-72;true;135;135;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;91;0;0
+1,54E+12;8828;Logout;200;OK;Thread Group 1-115;true;134;134;https://homologacao.ufms.br/siscad/;1056;0;0
+1,54E+12;8843;Logout;200;OK;Thread Group 1-127;true;133;133;https://homologacao.ufms.br/siscad/;1120;0;0
+1,54E+12;10447;Logout;200;OK;Thread Group 1-22;true;132;132;https://homologacao.ufms.br/siscad/;2841;0;0
+1,54E+12;42883;Tentativa de Login;200;OK;Thread Group 1-85;false;131;131;https://homologacao.ufms.br/siscad/login;37472;0;1760
+1,54E+12;31301;Logout;200;OK;Thread Group 1-117;true;131;131;https://homologacao.ufms.br/siscad/;23563;0;0
+1,54E+12;5442;POST dados básicos da matrícula;200;OK;Thread Group 1-172;true;130;130;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1385;0;888
+1,54E+12;5456;POST dados básicos da matrícula;200;OK;Thread Group 1-51;true;130;130;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1483;0;827
+1,54E+12;32557;Logout;200;OK;Thread Group 1-64;true;130;130;https://homologacao.ufms.br/siscad/;24767;0;0
+1,54E+12;14233;Logout;200;OK;Thread Group 1-27;true;129;129;https://homologacao.ufms.br/siscad/;6584;0;0
+1,54E+12;5491;GET dados básicos da matrícula;200;OK;Thread Group 1-91;false;128;128;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1482;0;828
+1,54E+12;43003;Tentativa de Login;200;OK;Thread Group 1-81;false;128;128;https://homologacao.ufms.br/siscad/login;37493;0;1785
+1,54E+12;3796;POST dados básicos da matrícula;200;OK;Thread Group 1-20;true;128;128;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;198;0;0
+1,54E+12;8955;Logout;200;OK;Thread Group 1-5;true;128;128;https://homologacao.ufms.br/siscad/;1362;0;0
+1,54E+12;3813;Post seleção de disciplinas;200;OK;Thread Group 1-143;true;127;127;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;212;0;0
+1,54E+12;8298;Logout;200;OK;Thread Group 1-174;true;127;127;https://homologacao.ufms.br/siscad/;714;0;0
+1,54E+12;10271;GET dados básicos da matrícula;200;OK;Thread Group 1-54;false;126;126;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;183;0;0
+1,54E+12;10257;GET dados básicos da matrícula;200;OK;Thread Group 1-105;false;126;126;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;199;0;0
+1,54E+12;8342;Logout;200;OK;Thread Group 1-26;true;126;126;https://homologacao.ufms.br/siscad/;701;0;0
+1,54E+12;74871;Tentativa de Login;200;OK;Thread Group 1-92;false;126;126;https://homologacao.ufms.br/siscad/login;70038;0;31375
+1,54E+12;43125;Tentativa de Login;200;OK;Thread Group 1-39;false;125;125;https://homologacao.ufms.br/siscad/login;38309;0;1788
+1,54E+12;72508;Tentativa de Login;200;OK;Thread Group 1-74;false;125;125;https://homologacao.ufms.br/siscad/login;67941;0;29355
+1,54E+12;74752;Tentativa de Login;200;OK;Thread Group 1-23;false;125;125;https://homologacao.ufms.br/siscad/login;70498;0;31248
+1,54E+12;4197;Post revisão de seleção;200;OK;Thread Group 1-1;true;125;125;https://homologacao.ufms.br/siscad/matricula/2;241;0;0
+1,54E+12;43138;Tentativa de Login;200;OK;Thread Group 1-82;false;125;125;https://homologacao.ufms.br/siscad/login;38342;0;1776
+1,54E+12;43158;Tentativa de Login;200;OK;Thread Group 1-183;false;125;125;https://homologacao.ufms.br/siscad/login;39338;0;1773
+1,54E+12;3071;GET dados básicos da matrícula;200;OK;Thread Group 1-57;false;125;125;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;243;0;0
+1,54E+12;3085;Post seleção de disciplinas;200;OK;Thread Group 1-175;true;125;125;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;231;0;0
+1,54E+12;3075;Post revisão de seleção;200;OK;Thread Group 1-41;true;125;125;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;243;0;0
+1,54E+12;3082;Post revisão de seleção;200;OK;Thread Group 1-37;true;125;125;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;248;0;0
+1,54E+12;3069;Post seleção de disciplinas;200;OK;Thread Group 1-28;true;125;125;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;272;0;0
+1,54E+12;3112;POST dados básicos da matrícula;200;OK;Thread Group 1-111;true;125;125;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;291;0;0
+1,54E+12;10823;Logout;200;OK;Thread Group 1-87;true;125;125;https://homologacao.ufms.br/siscad/;2872;0;0
+1,54E+12;5760;Post seleção de disciplinas;200;OK;Thread Group 1-62;true;124;124;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1785;0;1371
+1,54E+12;74940;Tentativa de Login;200;OK;Thread Group 1-142;false;124;124;https://homologacao.ufms.br/siscad/login;70988;0;31239
+1,54E+12;7908;POST dados básicos da matrícula;200;OK;Thread Group 1-153;true;124;124;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2168;0;1614
+1,54E+12;3062;Post revisão de seleção;200;OK;Thread Group 1-189;true;124;124;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;357;0;0
+1,54E+12;3154;GET dados básicos da matrícula;200;OK;Thread Group 1-139;false;124;124;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;411;0;0
+1,54E+12;5848;Post seleção de disciplinas;200;OK;Thread Group 1-149;true;124;124;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1928;0;1544
+1,54E+12;3121;GET dados básicos da matrícula;200;OK;Thread Group 1-88;false;124;124;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;398;0;0
+1,54E+12;3153;Logout;200;OK;Thread Group 1-166;true;124;124;https://homologacao.ufms.br/siscad/;483;0;0
+1,54E+12;3092;GET dados básicos da matrícula;200;OK;Thread Group 1-188;false;123;123;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;354;0;0
+1,54E+12;3099;Post revisão de seleção;200;OK;Thread Group 1-152;true;123;123;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;354;0;0
+1,54E+12;3145;Post seleção de disciplinas;200;OK;Thread Group 1-8;true;123;123;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;388;0;0
+1,54E+12;3196;Logout;200;OK;Thread Group 1-30;true;123;123;https://homologacao.ufms.br/siscad/;500;0;0
+1,54E+12;3130;POST dados básicos da matrícula;200;OK;Thread Group 1-162;true;122;122;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;362;0;0
+1,54E+12;3298;Logout;200;OK;Thread Group 1-131;true;122;122;https://homologacao.ufms.br/siscad/;632;0;0
+1,54E+12;7747;POST dados básicos da matrícula;200;OK;Thread Group 1-133;true;121;121;https://homologacao.ufms.br/siscad/matricula/3;286;0;0
+1,54E+12;3217;Logout;200;OK;Thread Group 1-123;true;121;121;https://homologacao.ufms.br/siscad/;470;0;0
+1,54E+12;3163;GET dados básicos da matrícula;200;OK;Thread Group 1-181;false;121;121;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;361;0;0
+1,54E+12;3165;Post revisão de seleção;200;OK;Thread Group 1-182;true;120;120;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;366;0;0
+1,54E+12;10627;Post revisão de seleção;200;OK;Thread Group 1-112;true;120;120;https://homologacao.ufms.br/siscad/matricula/2;336;0;0
+1,54E+12;3212;Logout;200;OK;Thread Group 1-177;true;120;120;https://homologacao.ufms.br/siscad/;466;0;0
+1,54E+12;3226;Post revisão de seleção;200;OK;Thread Group 1-180;true;120;120;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;412;0;0
+1,54E+12;3253;GET dados básicos da matrícula;200;OK;Thread Group 1-36;false;119;119;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;418;0;0
+1,54E+12;3215;Post seleção de disciplinas;200;OK;Thread Group 1-42;true;119;119;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;383;0;0
+1,54E+12;3289;GET dados básicos da matrícula;200;OK;Thread Group 1-168;false;119;119;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;405;0;0
+1,54E+12;3220;Post revisão de seleção;200;OK;Thread Group 1-3;true;119;119;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;352;0;0
+1,54E+12;10742;GET dados básicos da matrícula;200;OK;Thread Group 1-12;false;119;119;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;235;0;0
+1,54E+12;3841;POST dados básicos da matrícula;200;OK;Thread Group 1-135;true;119;119;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1022;0;627
+1,54E+12;10748;Post revisão de seleção;200;OK;Thread Group 1-107;true;119;119;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;89;0;0
+1,54E+12;3312;Logout;200;OK;Thread Group 1-179;true;119;119;https://homologacao.ufms.br/siscad/;476;0;0
+1,54E+12;75175;Tentativa de Login;200;OK;Thread Group 1-151;false;118;118;https://homologacao.ufms.br/siscad/login;71393;0;31224
+1,54E+12;3311;Logout;200;OK;Thread Group 1-164;true;118;118;https://homologacao.ufms.br/siscad/;456;0;0
+1,54E+12;3291;Logout;200;OK;Thread Group 1-73;true;117;117;https://homologacao.ufms.br/siscad/;427;0;0
+1,54E+12;10796;GET dados básicos da matrícula;200;OK;Thread Group 1-14;false;116;116;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;224;0;0
+1,54E+12;3375;Logout;200;OK;Thread Group 1-32;true;116;116;https://homologacao.ufms.br/siscad/;492;0;0
+1,54E+12;35341;Logout;200;OK;Thread Group 1-15;true;115;115;https://homologacao.ufms.br/siscad/;27188;0;1966
+1,54E+12;3811;GET dados básicos da matrícula;200;OK;Thread Group 1-176;false;115;115;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2039;0;1029
+1,54E+12;3816;Post revisão de seleção;200;OK;Thread Group 1-69;true;114;114;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;2068;0;1066
+1,54E+12;10838;Post seleção de disciplinas;200;OK;Thread Group 1-144;true;114;114;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;136;0;0
+1,54E+12;3822;GET dados básicos da matrícula;200;OK;Thread Group 1-140;false;114;114;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2073;0;1065
+1,54E+12;3820;GET dados básicos da matrícula;200;OK;Thread Group 1-121;false;114;114;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2062;0;1082
+1,54E+12;3899;Post seleção de disciplinas;200;OK;Thread Group 1-191;true;114;114;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1593;0;894
+1,54E+12;3875;GET dados básicos da matrícula;200;OK;Thread Group 1-86;false;114;114;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1564;0;958
+1,54E+12;3927;Post revisão de seleção;200;OK;Thread Group 1-109;true;114;114;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;1606;0;740
+1,54E+12;16263;Logout;200;OK;Thread Group 1-101;true;114;114;https://homologacao.ufms.br/siscad/;7883;0;0
+1,54E+12;3949;Logout;200;OK;Thread Group 1-192;true;114;114;https://homologacao.ufms.br/siscad/;1620;0;1035
+1,54E+12;8183;Post seleção de disciplinas;200;OK;Thread Group 1-46;true;112;112;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;2192;0;1733
+1,54E+12;3974;Logout;200;OK;Thread Group 1-190;true;112;112;https://homologacao.ufms.br/siscad/;1645;0;632
+1,54E+12;3481;Logout;200;OK;Thread Group 1-98;true;111;111;https://homologacao.ufms.br/siscad/;485;0;0
+1,54E+12;3915;Post revisão de seleção;200;OK;Thread Group 1-138;true;111;111;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;1560;0;964
+1,54E+12;8929;Post seleção de disciplinas;200;OK;Thread Group 1-47;true;110;110;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;547;0;0
+1,54E+12;3851;GET dados básicos da matrícula;200;OK;Thread Group 1-70;false;110;110;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2150;0;1485
+1,54E+12;6083;POST dados básicos da matrícula;200;OK;Thread Group 1-119;true;110;110;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;167;0;0
+1,54E+12;28564;Logout;200;OK;Thread Group 1-200;true;110;110;https://homologacao.ufms.br/siscad/;20125;0;0
+1,54E+12;43806;Tentativa de Login;200;OK;Thread Group 1-75;false;109;109;https://homologacao.ufms.br/siscad/login;39731;0;1540
+1,54E+12;3979;Post seleção de disciplinas;200;OK;Thread Group 1-96;true;109;109;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1588;0;939
+1,54E+12;3378;GET dados básicos da matrícula;200;OK;Thread Group 1-178;false;109;109;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;348;0;0
+1,54E+12;11192;Logout;200;OK;Thread Group 1-184;true;109;109;https://homologacao.ufms.br/siscad/;2760;0;0
+1,54E+12;3969;GET dados básicos da matrícula;200;OK;Thread Group 1-13;false;108;108;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1877;0;1007
+1,54E+12;3952;Post revisão de seleção;200;OK;Thread Group 1-84;true;108;108;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;1859;0;995
+1,54E+12;3956;GET dados básicos da matrícula;200;OK;Thread Group 1-56;false;108;108;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1861;0;998
+1,54E+12;4009;POST dados básicos da matrícula;200;OK;Thread Group 1-159;true;108;108;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1598;0;861
+1,54E+12;3976;GET dados básicos da matrícula;200;OK;Thread Group 1-24;false;108;108;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;1877;0;994
+1,54E+12;6198;Post seleção de disciplinas;200;OK;Thread Group 1-29;true;108;108;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;2079;0;1825
+1,54E+12;8981;Logout;200;OK;Thread Group 1-6;true;108;108;https://homologacao.ufms.br/siscad/;691;0;0
+1,54E+12;1007;Post seleção de disciplinas;200;OK;Thread Group 1-80;true;108;108;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;294;0;0
+1,54E+12;9046;Logout;200;OK;Thread Group 1-79;true;107;107;https://homologacao.ufms.br/siscad/;747;0;0
+1,54E+12;988;GET dados básicos da matrícula;200;OK;Thread Group 1-193;false;106;106;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;285;0;0
+1,54E+12;6167;Post seleção de disciplinas;200;OK;Thread Group 1-155;true;106;106;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;2109;0;1823
+1,54E+12;40335;Logout;200;OK;Thread Group 1-50;true;106;106;https://homologacao.ufms.br/siscad/;30163;0;0
+1,54E+12;3359;GET dados básicos da matrícula;200;OK;Thread Group 1-95;false;105;105;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;935;0;0
+1,54E+12;2992;Logout;200;OK;Thread Group 1-118;true;105;105;https://homologacao.ufms.br/siscad/;261;0;0
+1,54E+12;4096;Logout;200;OK;Thread Group 1-106;true;105;105;https://homologacao.ufms.br/siscad/;1029;0;626
+1,54E+12;3268;GET dados básicos da matrícula;200;OK;Thread Group 1-31;false;103;103;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;823;0;0
+1,54E+12;43831;Tentativa de Login;200;OK;Thread Group 1-97;false;103;103;https://homologacao.ufms.br/siscad/login;32889;0;1817
+1,54E+12;15059;Logout;200;OK;Thread Group 1-148;true;103;103;https://homologacao.ufms.br/siscad/;6580;0;0
+1,54E+12;964;Post seleção de disciplinas;200;OK;Thread Group 1-17;true;102;102;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;270;0;0
+1,54E+12;31330;Logout;200;OK;Thread Group 1-132;true;102;102;https://homologacao.ufms.br/siscad/;23023;0;0
+1,54E+12;72750;Tentativa de Login;200;OK;Thread Group 1-4;false;101;101;https://homologacao.ufms.br/siscad/login;68657;0;28941
+1,54E+12;8363;Post seleção de disciplinas;200;OK;Thread Group 1-154;true;101;101;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;2184;0;1636
+1,54E+12;6177;POST dados básicos da matrícula;200;OK;Thread Group 1-196;true;101;101;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2120;0;1836
+1,54E+12;3660;Logout;200;OK;Thread Group 1-169;true;101;101;https://homologacao.ufms.br/siscad/;560;0;0
+1,54E+12;43851;Tentativa de Login;200;OK;Thread Group 1-9;false;100;100;https://homologacao.ufms.br/siscad/login;40795;0;1817
+1,54E+12;43822;Tentativa de Login;200;OK;Thread Group 1-199;false;100;100;https://homologacao.ufms.br/siscad/login;40645;0;1793
+1,54E+12;6184;POST dados básicos da matrícula;200;OK;Thread Group 1-147;true;100;100;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;2121;0;1851
+1,54E+12;3451;Post revisão de seleção;200;OK;Thread Group 1-156;true;100;100;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;347;0;0
+1,54E+12;43829;Tentativa de Login;200;OK;Thread Group 1-78;false;100;100;https://homologacao.ufms.br/siscad/login;40110;0;1785
+1,54E+12;3956;GET dados básicos da matrícula;200;OK;Thread Group 1-100;false;100;100;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;210;0;0
+1,54E+12;1509;Post seleção de disciplinas;200;OK;Thread Group 1-71;true;100;100;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;170;0;0
+1,54E+12;75398;Tentativa de Login;200;OK;Thread Group 1-114;false;100;100;https://homologacao.ufms.br/siscad/login;71736;0;31223
+1,54E+12;1484;Post revisão de seleção;200;OK;Thread Group 1-116;true;100;100;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;168;0;0
+1,54E+12;1496;Logout;200;OK;Thread Group 1-110;true;100;100;https://homologacao.ufms.br/siscad/;274;0;0
+1,54E+12;75442;Tentativa de Login;200;OK;Thread Group 1-120;false;100;100;https://homologacao.ufms.br/siscad/login;71610;0;31238
+1,54E+12;901;Post seleção de disciplinas;200;OK;Thread Group 1-172;true;99;99;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;324;0;0
+1,54E+12;1417;POST dados básicos da matrícula;200;OK;Thread Group 1-130;true;99;99;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;202;0;0
+1,54E+12;1421;Logout;200;OK;Thread Group 1-167;true;99;99;https://homologacao.ufms.br/siscad/;208;0;0
+1,54E+12;43858;Tentativa de Login;200;OK;Thread Group 1-77;false;99;99;https://homologacao.ufms.br/siscad/login;41567;0;1799
+1,54E+12;905;Post seleção de disciplinas;200;OK;Thread Group 1-51;true;99;99;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;316;0;0
+1,54E+12;73172;Tentativa de Login;200;OK;Thread Group 1-10;false;98;98;https://homologacao.ufms.br/siscad/login;69513;0;29300
+1,54E+12;43873;Tentativa de Login;200;OK;Thread Group 1-173;false;98;98;https://homologacao.ufms.br/siscad/login;41589;0;1808
+1,54E+12;1291;POST dados básicos da matrícula;200;OK;Thread Group 1-161;true;98;98;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;277;0;0
+1,54E+12;1316;Post revisão de seleção;200;OK;Thread Group 1-34;true;98;98;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;313;0;0
+1,54E+12;1301;Logout;200;OK;Thread Group 1-43;true;98;98;https://homologacao.ufms.br/siscad/;307;0;0
+1,54E+12;821;Post seleção de disciplinas;200;OK;Thread Group 1-20;true;97;97;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;291;0;0
+1,54E+12;799;POST dados básicos da matrícula;200;OK;Thread Group 1-54;true;97;97;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;288;0;0
+1,54E+12;852;GET dados básicos da matrícula;200;OK;Thread Group 1-81;false;97;97;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;303;0;0
+1,54E+12;1047;Logout;200;OK;Thread Group 1-72;true;97;97;https://homologacao.ufms.br/siscad/;451;0;0
+1,54E+12;1030;GET dados básicos da matrícula;200;OK;Thread Group 1-85;false;96;96;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;360;0;0
+1,54E+12;837;Logout;200;OK;Thread Group 1-1;true;96;96;https://homologacao.ufms.br/siscad/;137;0;0
+1,54E+12;1043;POST dados básicos da matrícula;200;OK;Thread Group 1-91;true;95;95;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;345;0;0
+1,54E+12;10356;POST dados básicos da matrícula;200;OK;Thread Group 1-45;true;95;95;https://homologacao.ufms.br/siscad/matricula/3;394;0;0
+1,54E+12;1188;GET dados básicos da matrícula;200;OK;Thread Group 1-82;false;95;95;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;334;0;0
+1,54E+12;1270;GET dados básicos da matrícula;200;OK;Thread Group 1-151;false;95;95;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;472;0;0
+1,54E+12;1194;POST dados básicos da matrícula;200;OK;Thread Group 1-140;true;95;95;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;390;0;0
+1,54E+12;1095;Post revisão de seleção;200;OK;Thread Group 1-96;true;95;95;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;402;0;0
+1,54E+12;1001;Logout;200;OK;Thread Group 1-116;true;95;95;https://homologacao.ufms.br/siscad/;314;0;0
+1,54E+12;990;GET dados básicos da matrícula;200;OK;Thread Group 1-173;false;95;95;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;466;0;0
+1,54E+12;992;Post seleção de disciplinas;200;OK;Thread Group 1-161;true;94;94;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;471;0;0
+1,54E+12;1006;Post seleção de disciplinas;200;OK;Thread Group 1-130;true;94;94;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;474;0;0
+1,54E+12;996;Logout;200;OK;Thread Group 1-34;true;94;94;https://homologacao.ufms.br/siscad/;448;0;0
+1,54E+12;1043;GET dados básicos da matrícula;200;OK;Thread Group 1-77;false;93;93;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;474;0;0
+1,54E+12;1366;Logout;200;OK;Thread Group 1-109;true;93;93;https://homologacao.ufms.br/siscad/;420;0;0
+1,54E+12;1394;Post revisão de seleção;200;OK;Thread Group 1-155;true;92;92;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;537;0;0
+1,54E+12;1381;Post seleção de disciplinas;200;OK;Thread Group 1-196;true;92;92;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;509;0;0
+1,54E+12;1381;GET dados básicos da matrícula;200;OK;Thread Group 1-199;false;92;92;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;500;0;0
+1,54E+12;1382;Logout;200;OK;Thread Group 1-156;true;92;92;https://homologacao.ufms.br/siscad/;485;0;0
+1,54E+12;1432;POST dados básicos da matrícula;200;OK;Thread Group 1-95;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;529;0;0
+1,54E+12;1416;GET dados básicos da matrícula;200;OK;Thread Group 1-4;false;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;512;0;0
+1,54E+12;1392;Post revisão de seleção;200;OK;Thread Group 1-71;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;481;0;0
+1,54E+12;1462;Post revisão de seleção;200;OK;Thread Group 1-29;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;390;0;0
+1,54E+12;1456;POST dados básicos da matrícula;200;OK;Thread Group 1-31;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;523;0;0
+1,54E+12;1464;Post revisão de seleção;200;OK;Thread Group 1-154;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;505;0;0
+1,54E+12;1467;Post seleção de disciplinas;200;OK;Thread Group 1-147;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;330;0;0
+1,54E+12;1483;GET dados básicos da matrícula;200;OK;Thread Group 1-9;false;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;505;0;0
+1,54E+12;2050;POST dados básicos da matrícula;200;OK;Thread Group 1-88;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;253;0;0
+1,54E+12;2348;POST dados básicos da matrícula;200;OK;Thread Group 1-105;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;278;0;0
+1,54E+12;2237;Post revisão de seleção;200;OK;Thread Group 1-175;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;362;0;0
+1,54E+12;2129;Post seleção de disciplinas;200;OK;Thread Group 1-162;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;636;0;0
+1,54E+12;2171;Logout;200;OK;Thread Group 1-3;true;91;91;https://homologacao.ufms.br/siscad/;284;0;0
+1,54E+12;2250;POST dados básicos da matrícula;200;OK;Thread Group 1-181;true;91;91;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;335;0;0
+1,54E+12;2291;Post revisão de seleção;200;OK;Thread Group 1-8;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;345;0;0
+1,54E+12;1850;POST dados básicos da matrícula;200;OK;Thread Group 1-81;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;430;0;0
+1,54E+12;2617;GET dados básicos da matrícula;200;OK;Thread Group 1-92;false;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;274;0;0
+1,54E+12;1896;GET dados básicos da matrícula;200;OK;Thread Group 1-114;false;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;499;0;0
+1,54E+12;1885;Post revisão de seleção;200;OK;Thread Group 1-51;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;467;0;0
+1,54E+12;1713;Post seleção de disciplinas;200;OK;Thread Group 1-91;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;427;0;0
+1,54E+12;2264;Post revisão de seleção;200;OK;Thread Group 1-42;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;501;0;0
+1,54E+12;1875;Post seleção de disciplinas;200;OK;Thread Group 1-54;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;465;0;0
+1,54E+12;2355;POST dados básicos da matrícula;200;OK;Thread Group 1-188;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;542;0;0
+1,54E+12;2620;GET dados básicos da matrícula;200;OK;Thread Group 1-39;false;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;290;0;0
+1,54E+12;2215;Post seleção de disciplinas;200;OK;Thread Group 1-135;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;471;0;0
+1,54E+12;2071;Post revisão de seleção;200;OK;Thread Group 1-47;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;413;0;0
+1,54E+12;2816;Post revisão de seleção;200;OK;Thread Group 1-143;true;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;304;0;0
+1,54E+12;2405;Logout;200;OK;Thread Group 1-180;true;90;90;https://homologacao.ufms.br/siscad/;341;0;0
+1,54E+12;2720;GET dados básicos da matrícula;200;OK;Thread Group 1-74;false;90;90;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;282;0;0
+1,54E+12;2715;GET dados básicos da matrícula;200;OK;Thread Group 1-23;false;89;89;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;347;0;0
+1,54E+12;2720;Logout;200;OK;Thread Group 1-41;true;89;89;https://homologacao.ufms.br/siscad/;375;0;0
+1,54E+12;2735;GET dados básicos da matrícula;200;OK;Thread Group 1-183;false;89;89;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;396;0;0
+1,54E+12;2527;Logout;200;OK;Thread Group 1-152;true;89;89;https://homologacao.ufms.br/siscad/;342;0;0
+1,54E+12;2279;POST dados básicos da matrícula;200;OK;Thread Group 1-121;true;89;89;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;176;0;0
+1,54E+12;1644;POST dados básicos da matrícula;200;OK;Thread Group 1-82;true;87;87;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;129;0;0
+1,54E+12;2051;POST dados básicos da matrícula;200;OK;Thread Group 1-85;true;87;87;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;342;0;0
+1,54E+12;2358;POST dados básicos da matrícula;200;OK;Thread Group 1-86;true;87;87;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;175;0;0
+1,54E+12;2392;POST dados básicos da matrícula;200;OK;Thread Group 1-176;true;87;87;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;538;0;0
+1,54E+12;2423;POST dados básicos da matrícula;200;OK;Thread Group 1-14;true;87;87;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;155;0;0
+1,54E+12;2272;POST dados básicos da matrícula;200;OK;Thread Group 1-178;true;87;87;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;569;0;0
+1,54E+12;2747;Post revisão de seleção;200;OK;Thread Group 1-62;true;87;87;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;311;0;0
+1,54E+12;2482;Logout;200;OK;Thread Group 1-107;true;87;87;https://homologacao.ufms.br/siscad/;236;0;0
+1,54E+12;2807;Logout;200;OK;Thread Group 1-37;true;87;87;https://homologacao.ufms.br/siscad/;380;0;0
+1,54E+12;2800;Post revisão de seleção;200;OK;Thread Group 1-28;true;85;85;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;322;0;0
+1,54E+12;2824;POST dados básicos da matrícula;200;OK;Thread Group 1-57;true;85;85;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;366;0;0
+1,54E+12;2493;POST dados básicos da matrícula;200;OK;Thread Group 1-12;true;85;85;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;762;0;0
+1,54E+12;2782;Post seleção de disciplinas;200;OK;Thread Group 1-111;true;85;85;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;355;0;0
+1,54E+12;2681;Post seleção de disciplinas;200;OK;Thread Group 1-153;true;85;85;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;270;0;0
+1,54E+12;2357;Logout;200;OK;Thread Group 1-138;true;85;85;https://homologacao.ufms.br/siscad/;626;0;0
+1,54E+12;2308;Logout;200;OK;Thread Group 1-84;true;84;84;https://homologacao.ufms.br/siscad/;569;0;0
+1,54E+12;2302;Post revisão de seleção;200;OK;Thread Group 1-80;true;84;84;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;549;0;0
+1,54E+12;2661;Logout;200;OK;Thread Group 1-112;true;83;83;https://homologacao.ufms.br/siscad/;431;0;0
+1,54E+12;2744;Post revisão de seleção;200;OK;Thread Group 1-149;true;83;83;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;370;0;0
+1,54E+12;680;Logout;200;OK;Thread Group 1-175;true;82;82;https://homologacao.ufms.br/siscad/;304;0;0
+1,54E+12;2373;POST dados básicos da matrícula;200;OK;Thread Group 1-13;true;81;81;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;549;0;0
+1,54E+12;2488;Post revisão de seleção;200;OK;Thread Group 1-191;true;81;81;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;686;0;0
+1,54E+12;2360;POST dados básicos da matrícula;200;OK;Thread Group 1-193;true;81;81;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;547;0;0
+1,54E+12;711;Post seleção de disciplinas;200;OK;Thread Group 1-88;true;81;81;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;320;0;0
+1,54E+12;713;Post seleção de disciplinas;200;OK;Thread Group 1-105;true;81;81;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;319;0;0
+1,54E+12;2777;POST dados básicos da matrícula;200;OK;Thread Group 1-139;true;81;81;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;373;0;0
+1,54E+12;2706;Logout;200;OK;Thread Group 1-182;true;81;81;https://homologacao.ufms.br/siscad/;641;0;0
+1,54E+12;2800;Logout;200;OK;Thread Group 1-189;true;81;81;https://homologacao.ufms.br/siscad/;387;0;0
+1,54E+12;2824;GET dados básicos da matrícula;200;OK;Thread Group 1-142;false;79;79;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;644;0;0
+1,54E+12;2333;GET dados básicos da matrícula;200;OK;Thread Group 1-78;false;79;79;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;517;0;0
+1,54E+12;441;POST dados básicos da matrícula;200;OK;Thread Group 1-92;true;79;79;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;107;0;0
+1,54E+12;2453;GET dados básicos da matrícula;200;OK;Thread Group 1-75;false;79;79;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;580;0;0
+1,54E+12;967;Logout;200;OK;Thread Group 1-71;true;79;79;https://homologacao.ufms.br/siscad/;131;0;0
+1,54E+12;2675;POST dados básicos da matrícula;200;OK;Thread Group 1-168;true;78;78;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;794;0;0
+1,54E+12;2727;POST dados básicos da matrícula;200;OK;Thread Group 1-36;true;78;78;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;640;0;0
+1,54E+12;2448;POST dados básicos da matrícula;200;OK;Thread Group 1-56;true;78;78;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;542;0;0
+1,54E+12;2453;Post seleção de disciplinas;200;OK;Thread Group 1-159;true;78;78;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;601;0;0
+1,54E+12;2484;Post seleção de disciplinas;200;OK;Thread Group 1-119;true;78;78;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;634;0;0
+1,54E+12;2585;Post revisão de seleção;200;OK;Thread Group 1-144;true;78;78;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;708;0;0
+1,54E+12;2455;POST dados básicos da matrícula;200;OK;Thread Group 1-24;true;78;78;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;569;0;0
+1,54E+12;2381;GET dados básicos da matrícula;200;OK;Thread Group 1-120;false;78;78;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;515;0;0
+1,54E+12;2593;Logout;200;OK;Thread Group 1-69;true;78;78;https://homologacao.ufms.br/siscad/;703;0;0
+1,54E+12;2403;POST dados básicos da matrícula;200;OK;Thread Group 1-100;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;480;0;0
+1,54E+12;2561;Post revisão de seleção;200;OK;Thread Group 1-46;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;676;0;0
+1,54E+12;2396;GET dados básicos da matrícula;200;OK;Thread Group 1-10;false;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;496;0;0
+1,54E+12;2440;Post revisão de seleção;200;OK;Thread Group 1-17;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;548;0;0
+1,54E+12;2448;GET dados básicos da matrícula;200;OK;Thread Group 1-97;false;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;567;0;0
+1,54E+12;2389;Post revisão de seleção;200;OK;Thread Group 1-20;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;492;0;0
+1,54E+12;527;Post revisão de seleção;200;OK;Thread Group 1-54;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;111;0;0
+1,54E+12;1431;POST dados básicos da matrícula;200;OK;Thread Group 1-173;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;100;0;0
+1,54E+12;1435;Post seleção de disciplinas;200;OK;Thread Group 1-140;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;124;0;0
+1,54E+12;514;POST dados básicos da matrícula;200;OK;Thread Group 1-39;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;112;0;0
+1,54E+12;2540;POST dados básicos da matrícula;200;OK;Thread Group 1-70;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;637;0;0
+1,54E+12;1409;Post revisão de seleção;200;OK;Thread Group 1-130;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;84;0;0
+1,54E+12;1417;Post revisão de seleção;200;OK;Thread Group 1-161;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;121;0;0
+1,54E+12;2409;Post revisão de seleção;200;OK;Thread Group 1-172;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;501;0;0
+1,54E+12;1534;POST dados básicos da matrícula;200;OK;Thread Group 1-151;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;119;0;0
+1,54E+12;1481;POST dados básicos da matrícula;200;OK;Thread Group 1-77;true;77;77;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;124;0;0
+1,54E+12;1550;Logout;200;OK;Thread Group 1-96;true;77;77;https://homologacao.ufms.br/siscad/;276;0;0
+1,54E+12;2319;Post seleção de disciplinas;200;OK;Thread Group 1-45;true;76;76;https://homologacao.ufms.br/siscad/matricula/3;880;0;0
+1,54E+12;3228;Post seleção de disciplinas;200;OK;Thread Group 1-133;true;76;76;https://homologacao.ufms.br/siscad/matricula/3;1518;0;0
+1,54E+12;1555;POST dados básicos da matrícula;200;OK;Thread Group 1-199;true;76;76;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;173;0;0
+1,54E+12;1575;POST dados básicos da matrícula;200;OK;Thread Group 1-4;true;76;76;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;162;0;0
+1,54E+12;1624;Logout;200;OK;Thread Group 1-155;true;76;76;https://homologacao.ufms.br/siscad/;184;0;0
+1,54E+12;1104;Post seleção de disciplinas;200;OK;Thread Group 1-181;true;75;75;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;356;0;0
+1,54E+12;1610;Post revisão de seleção;200;OK;Thread Group 1-196;true;75;75;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;206;0;0
+1,54E+12;1031;Logout;200;OK;Thread Group 1-47;true;75;75;https://homologacao.ufms.br/siscad/;332;0;0
+1,54E+12;1003;Post seleção de disciplinas;200;OK;Thread Group 1-12;true;74;74;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;476;0;0
+1,54E+12;835;Post revisão de seleção;200;OK;Thread Group 1-140;true;74;74;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;453;0;0
+1,54E+12;834;Logout;200;OK;Thread Group 1-130;true;74;74;https://homologacao.ufms.br/siscad/;449;0;0
+1,54E+12;743;Post seleção de disciplinas;200;OK;Thread Group 1-77;true;73;73;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;344;0;0
+1,54E+12;748;Post seleção de disciplinas;200;OK;Thread Group 1-151;true;73;73;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;358;0;0
+1,54E+12;880;Post seleção de disciplinas;200;OK;Thread Group 1-173;true;73;73;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;450;0;0
+1,54E+12;1433;POST dados básicos da matrícula;200;OK;Thread Group 1-114;true;73;73;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;144;0;0
+1,54E+12;903;Logout;200;OK;Thread Group 1-161;true;73;73;https://homologacao.ufms.br/siscad/;443;0;0
+1,54E+12;255;Post revisão de seleção;200;OK;Thread Group 1-151;true;72;72;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;120;0;0
+1,54E+12;271;Post revisão de seleção;200;OK;Thread Group 1-77;true;72;72;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;135;0;0
+1,54E+12;232;Post revisão de seleção;200;OK;Thread Group 1-173;true;72;72;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;109;0;0
+1,54E+12;3172;POST dados básicos da matrícula;200;OK;Thread Group 1-74;true;72;72;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;118;0;0
+1,54E+12;3469;Logout;200;OK;Thread Group 1-51;true;72;72;https://homologacao.ufms.br/siscad/;159;0;0
+1,54E+12;3479;Post revisão de seleção;200;OK;Thread Group 1-91;true;71;71;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;107;0;0
+1,54E+12;3033;Post seleção de disciplinas;200;OK;Thread Group 1-168;true;71;71;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;159;0;0
+1,54E+12;3668;Post revisão de seleção;200;OK;Thread Group 1-135;true;71;71;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;362;0;0
+1,54E+12;3697;Logout;200;OK;Thread Group 1-42;true;71;71;https://homologacao.ufms.br/siscad/;369;0;0
+1,54E+12;3743;Post revisão de seleção;200;OK;Thread Group 1-162;true;70;70;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;402;0;0
+1,54E+12;3701;Post seleção de disciplinas;200;OK;Thread Group 1-188;true;70;70;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;387;0;0
+1,54E+12;2794;Post revisão de seleção;200;OK;Thread Group 1-45;true;70;70;https://homologacao.ufms.br/siscad/matricula/2;336;0;0
+1,54E+12;4087;Logout;200;OK;Thread Group 1-8;true;70;70;https://homologacao.ufms.br/siscad/;435;0;0
+1,54E+12;3649;Post revisão de seleção;200;OK;Thread Group 1-88;true;69;69;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;366;0;0
+1,54E+12;3647;Post revisão de seleção;200;OK;Thread Group 1-105;true;69;69;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;379;0;0
+1,54E+12;4571;Post seleção de disciplinas;200;OK;Thread Group 1-95;true;69;69;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;181;0;0
+1,54E+12;4510;Post revisão de seleção;200;OK;Thread Group 1-147;true;69;69;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;130;0;0
+1,54E+12;4499;POST dados básicos da matrícula;200;OK;Thread Group 1-9;true;69;69;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;136;0;0
+1,54E+12;4551;Post seleção de disciplinas;200;OK;Thread Group 1-31;true;69;69;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;145;0;0
+1,54E+12;3617;POST dados básicos da matrícula;200;OK;Thread Group 1-75;true;69;69;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;534;0;0
+1,54E+12;4584;Logout;200;OK;Thread Group 1-29;true;69;69;https://homologacao.ufms.br/siscad/;178;0;0
+1,54E+12;3787;Post seleção de disciplinas;200;OK;Thread Group 1-178;true;69;69;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;696;0;0
+1,54E+12;3064;Post seleção de disciplinas;200;OK;Thread Group 1-199;true;68;68;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;125;0;0
+1,54E+12;3019;Logout;200;OK;Thread Group 1-196;true;68;68;https://homologacao.ufms.br/siscad/;117;0;0
+1,54E+12;3026;Post seleção de disciplinas;200;OK;Thread Group 1-4;true;67;67;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;144;0;0
+1,54E+12;4556;Logout;200;OK;Thread Group 1-154;true;67;67;https://homologacao.ufms.br/siscad/;179;0;0
+1,54E+12;4108;Post seleção de disciplinas;200;OK;Thread Group 1-81;true;66;66;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;126;0;0
+1,54E+12;2452;Logout;200;OK;Thread Group 1-77;true;66;66;https://homologacao.ufms.br/siscad/;124;0;0
+1,54E+12;3036;Post revisão de seleção;200;OK;Thread Group 1-181;true;65;65;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;116;0;0
+1,54E+12;2457;Logout;200;OK;Thread Group 1-173;true;65;65;https://homologacao.ufms.br/siscad/;122;0;0
+1,54E+12;2753;Logout;200;OK;Thread Group 1-140;true;64;64;https://homologacao.ufms.br/siscad/;195;0;0
+1,54E+12;3859;Post seleção de disciplinas;200;OK;Thread Group 1-85;true;63;63;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;334;0;0
+1,54E+12;2497;Logout;200;OK;Thread Group 1-151;true;63;63;https://homologacao.ufms.br/siscad/;139;0;0
+1,54E+12;3895;Logout;200;OK;Thread Group 1-62;true;62;62;https://homologacao.ufms.br/siscad/;141;0;0
+1,54E+12;4058;Logout;200;OK;Thread Group 1-143;true;61;61;https://homologacao.ufms.br/siscad/;142;0;0
+1,54E+12;4100;POST dados básicos da matrícula;200;OK;Thread Group 1-23;true;60;60;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;117;0;0
+1,54E+12;3912;Logout;200;OK;Thread Group 1-80;true;60;60;https://homologacao.ufms.br/siscad/;263;0;0
+1,54E+12;3745;Logout;200;OK;Thread Group 1-46;true;60;60;https://homologacao.ufms.br/siscad/;234;0;0
+1,54E+12;3973;Post revisão de seleção;200;OK;Thread Group 1-153;true;58;58;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;160;0;0
+1,54E+12;3845;Post seleção de disciplinas;200;OK;Thread Group 1-92;true;58;58;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;383;0;0
+1,54E+12;4077;Post seleção de disciplinas;200;OK;Thread Group 1-121;true;58;58;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;171;0;0
+1,54E+12;3817;Post seleção de disciplinas;200;OK;Thread Group 1-56;true;58;58;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;240;0;0
+1,54E+12;4009;Post seleção de disciplinas;200;OK;Thread Group 1-14;true;58;58;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;148;0;0
+1,54E+12;4086;POST dados básicos da matrícula;200;OK;Thread Group 1-183;true;58;58;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;139;0;0
+1,54E+12;3894;Logout;200;OK;Thread Group 1-191;true;58;58;https://homologacao.ufms.br/siscad/;264;0;0
+1,54E+12;3789;POST dados básicos da matrícula;200;OK;Thread Group 1-97;true;58;58;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;270;0;0
+1,54E+12;3813;POST dados básicos da matrícula;200;OK;Thread Group 1-120;true;57;57;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;276;0;0
+1,54E+12;3796;Logout;200;OK;Thread Group 1-17;true;57;57;https://homologacao.ufms.br/siscad/;277;0;0
+1,54E+12;3853;Post revisão de seleção;200;OK;Thread Group 1-159;true;56;56;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;241;0;0
+1,54E+12;3888;Logout;200;OK;Thread Group 1-144;true;56;56;https://homologacao.ufms.br/siscad/;258;0;0
+1,54E+12;3893;Post revisão de seleção;200;OK;Thread Group 1-119;true;56;56;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;226;0;0
+1,54E+12;3961;Post seleção de disciplinas;200;OK;Thread Group 1-193;true;56;56;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;331;0;0
+1,54E+12;3114;Post seleção de disciplinas;200;OK;Thread Group 1-114;true;55;55;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;1378;0;0
+1,54E+12;4066;Post seleção de disciplinas;200;OK;Thread Group 1-24;true;55;55;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;340;0;0
+1,54E+12;421;Post revisão de seleção;200;OK;Thread Group 1-14;true;55;55;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;104;0;0
+1,54E+12;412;Post seleção de disciplinas;200;OK;Thread Group 1-120;true;55;55;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;102;0;0
+1,54E+12;431;Post revisão de seleção;200;OK;Thread Group 1-92;true;55;55;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;140;0;0
+1,54E+12;415;Post seleção de disciplinas;200;OK;Thread Group 1-97;true;55;55;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;108;0;0
+1,54E+12;421;Post seleção de disciplinas;200;OK;Thread Group 1-183;true;55;55;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;102;0;0
+1,54E+12;444;Logout;200;OK;Thread Group 1-153;true;55;55;https://homologacao.ufms.br/siscad/;161;0;0
+1,54E+12;433;Post revisão de seleção;200;OK;Thread Group 1-56;true;54;54;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;136;0;0
+1,54E+12;438;Post revisão de seleção;200;OK;Thread Group 1-121;true;54;54;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;121;0;0
+1,54E+12;486;Post seleção de disciplinas;200;OK;Thread Group 1-23;true;54;54;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;113;0;0
+1,54E+12;358;Logout;200;OK;Thread Group 1-119;true;54;54;https://homologacao.ufms.br/siscad/;155;0;0
+1,54E+12;402;Logout;200;OK;Thread Group 1-159;true;53;53;https://homologacao.ufms.br/siscad/;182;0;0
+1,54E+12;362;Post revisão de seleção;200;OK;Thread Group 1-193;true;52;52;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;150;0;0
+1,54E+12;4352;Post seleção de disciplinas;200;OK;Thread Group 1-13;true;52;52;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;210;0;0
+1,54E+12;4457;Post seleção de disciplinas;200;OK;Thread Group 1-57;true;52;52;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;272;0;0
+1,54E+12;4481;Post seleção de disciplinas;200;OK;Thread Group 1-82;true;52;52;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;282;0;0
+1,54E+12;4219;Logout;200;OK;Thread Group 1-54;true;52;52;https://homologacao.ufms.br/siscad/;320;0;0
+1,54E+12;4466;Logout;200;OK;Thread Group 1-28;true;51;51;https://homologacao.ufms.br/siscad/;206;0;0
+1,54E+12;4247;Logout;200;OK;Thread Group 1-20;true;51;51;https://homologacao.ufms.br/siscad/;331;0;0
+1,54E+12;4489;Post seleção de disciplinas;200;OK;Thread Group 1-86;true;49;49;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;277;0;0
+1,54E+12;4259;POST dados básicos da matrícula;200;OK;Thread Group 1-10;true;49;49;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;207;0;0
+1,54E+12;4223;Logout;200;OK;Thread Group 1-172;true;49;49;https://homologacao.ufms.br/siscad/;341;0;0
+1,54E+12;4344;POST dados básicos da matrícula;200;OK;Thread Group 1-78;true;48;48;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;378;0;0
+1,54E+12;235;Post revisão de seleção;200;OK;Thread Group 1-114;true;48;48;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;76;0;0
+1,54E+12;1070;Post revisão de seleção;200;OK;Thread Group 1-188;true;48;48;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;137;0;0
+1,54E+12;233;Post revisão de seleção;200;OK;Thread Group 1-24;true;48;48;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;96;0;0
+1,54E+12;4515;Post seleção de disciplinas;200;OK;Thread Group 1-176;true;48;48;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;123;0;0
+1,54E+12;4502;Post revisão de seleção;200;OK;Thread Group 1-111;true;48;48;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;174;0;0
+1,54E+12;4259;Post seleção de disciplinas;200;OK;Thread Group 1-70;true;48;48;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;306;0;0
+1,54E+12;1114;Logout;200;OK;Thread Group 1-135;true;48;48;https://homologacao.ufms.br/siscad/;263;0;0
+1,54E+12;4263;Post seleção de disciplinas;200;OK;Thread Group 1-39;true;48;48;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;340;0;0
+1,54E+12;1084;Logout;200;OK;Thread Group 1-45;true;47;47;https://homologacao.ufms.br/siscad/;168;0;0
+1,54E+12;4394;POST dados básicos da matrícula;200;OK;Thread Group 1-142;true;46;46;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F2;277;0;0
+1,54E+12;1507;Post seleção de disciplinas;200;OK;Thread Group 1-74;true;46;46;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;532;0;353
+1,54E+12;1117;Logout;200;OK;Thread Group 1-162;true;46;46;https://homologacao.ufms.br/siscad/;276;0;0
+1,54E+12;4438;Post seleção de disciplinas;200;OK;Thread Group 1-139;true;45;45;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;342;0;0
+1,54E+12;4351;Post seleção de disciplinas;200;OK;Thread Group 1-100;true;45;45;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;327;0;0
+1,54E+12;4449;Post seleção de disciplinas;200;OK;Thread Group 1-36;true;45;45;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;341;0;0
+1,54E+12;4542;Logout;200;OK;Thread Group 1-149;true;45;45;https://homologacao.ufms.br/siscad/;442;0;0
+1,54E+12;4048;Post revisão de seleção;200;OK;Thread Group 1-133;true;44;44;https://homologacao.ufms.br/siscad/matricula/2;345;0;0
+1,54E+12;3696;Post revisão de seleção;200;OK;Thread Group 1-12;true;44;44;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;104;0;0
+1,54E+12;240;Post revisão de seleção;200;OK;Thread Group 1-86;true;44;44;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;86;0;0
+1,54E+12;933;Post seleção de disciplinas;200;OK;Thread Group 1-75;true;44;44;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;161;0;0
+1,54E+12;945;Post seleção de disciplinas;200;OK;Thread Group 1-9;true;44;44;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;115;0;0
+1,54E+12;1539;Logout;200;OK;Thread Group 1-91;true;44;44;https://homologacao.ufms.br/siscad/;703;0;515
+1,54E+12;1526;Post revisão de seleção;200;OK;Thread Group 1-168;true;43;43;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;680;0;505
+1,54E+12;276;Post seleção de disciplinas;200;OK;Thread Group 1-78;true;43;43;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;89;0;0
+1,54E+12;300;Post revisão de seleção;200;OK;Thread Group 1-57;true;43;43;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;122;0;0
+1,54E+12;931;Post revisão de seleção;200;OK;Thread Group 1-85;true;43;43;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;165;0;0
+1,54E+12;288;Post seleção de disciplinas;200;OK;Thread Group 1-142;true;43;43;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;87;0;0
+1,54E+12;1037;Post revisão de seleção;200;OK;Thread Group 1-31;true;43;43;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;164;0;0
+1,54E+12;1060;Logout;200;OK;Thread Group 1-105;true;43;43;https://homologacao.ufms.br/siscad/;176;0;0
+1,54E+12;363;Post revisão de seleção;200;OK;Thread Group 1-82;true;43;43;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;114;0;0
+1,54E+12;1031;Post revisão de seleção;200;OK;Thread Group 1-4;true;42;42;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;183;0;0
+1,54E+12;1066;Post revisão de seleção;200;OK;Thread Group 1-95;true;42;42;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;175;0;0
+1,54E+12;1064;Logout;200;OK;Thread Group 1-147;true;42;42;https://homologacao.ufms.br/siscad/;172;0;0
+1,54E+12;1056;Post revisão de seleção;200;OK;Thread Group 1-178;true;41;41;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;160;0;0
+1,54E+12;376;Post seleção de disciplinas;200;OK;Thread Group 1-10;true;41;41;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F3;109;0;0
+1,54E+12;306;Post revisão de seleção;200;OK;Thread Group 1-139;true;41;41;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;82;0;0
+1,54E+12;368;Post revisão de seleção;200;OK;Thread Group 1-176;true;41;41;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;103;0;0
+1,54E+12;1062;Logout;200;OK;Thread Group 1-181;true;41;41;https://homologacao.ufms.br/siscad/;190;0;0
+1,54E+12;367;Post revisão de seleção;200;OK;Thread Group 1-39;true;40;40;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;92;0;0
+1,54E+12;1102;Post revisão de seleção;200;OK;Thread Group 1-199;true;40;40;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;187;0;0
+1,54E+12;1087;Post revisão de seleção;200;OK;Thread Group 1-81;true;40;40;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;178;0;0
+1,54E+12;396;Post revisão de seleção;200;OK;Thread Group 1-70;true;40;40;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;105;0;0
+1,54E+12;1157;Logout;200;OK;Thread Group 1-88;true;40;40;https://homologacao.ufms.br/siscad/;183;0;0
+1,54E+12;478;Post revisão de seleção;200;OK;Thread Group 1-74;true;39;39;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;133;0;0
+1,54E+12;531;Logout;200;OK;Thread Group 1-111;true;39;39;https://homologacao.ufms.br/siscad/;142;0;0
+1,54E+12;426;Post revisão de seleção;200;OK;Thread Group 1-36;true;38;38;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;112;0;0
+1,54E+12;716;Post revisão de seleção;200;OK;Thread Group 1-97;true;38;38;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;100;0;0
+1,54E+12;611;Post revisão de seleção;200;OK;Thread Group 1-100;true;38;38;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;93;0;0
+1,54E+12;768;Post revisão de seleção;200;OK;Thread Group 1-183;true;38;38;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;99;0;0
+1,54E+12;810;Logout;200;OK;Thread Group 1-193;true;38;38;https://homologacao.ufms.br/siscad/;132;0;0
+1,54E+12;861;Post revisão de seleção;200;OK;Thread Group 1-13;true;37;37;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;106;0;0
+1,54E+12;623;Logout;200;OK;Thread Group 1-133;true;37;37;https://homologacao.ufms.br/siscad/;153;0;0
+1,54E+12;919;Logout;200;OK;Thread Group 1-92;true;36;36;https://homologacao.ufms.br/siscad/;122;0;0
+1,54E+12;923;Post revisão de seleção;200;OK;Thread Group 1-120;true;35;35;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;138;0;0
+1,54E+12;254;Logout;200;OK;Thread Group 1-97;true;35;35;https://homologacao.ufms.br/siscad/;117;0;0
+1,54E+12;966;Logout;200;OK;Thread Group 1-24;true;34;34;https://homologacao.ufms.br/siscad/;136;0;0
+1,54E+12;1053;Logout;200;OK;Thread Group 1-14;true;33;33;https://homologacao.ufms.br/siscad/;162;0;0
+1,54E+12;714;Logout;200;OK;Thread Group 1-57;true;32;32;https://homologacao.ufms.br/siscad/;170;0;0
+1,54E+12;600;Logout;200;OK;Thread Group 1-39;true;31;31;https://homologacao.ufms.br/siscad/;168;0;0
+1,54E+12;752;Logout;200;OK;Thread Group 1-86;true;31;31;https://homologacao.ufms.br/siscad/;148;0;0
+1,54E+12;288;Logout;200;OK;Thread Group 1-183;true;31;31;https://homologacao.ufms.br/siscad/;140;0;0
+1,54E+12;1004;Logout;200;OK;Thread Group 1-114;true;28;28;https://homologacao.ufms.br/siscad/;152;0;0
+1,54E+12;1008;Logout;200;OK;Thread Group 1-188;true;27;27;https://homologacao.ufms.br/siscad/;151;0;0
+1,54E+12;827;Post revisão de seleção;200;OK;Thread Group 1-75;true;26;26;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;95;0;0
+1,54E+12;813;Logout;200;OK;Thread Group 1-168;true;26;26;https://homologacao.ufms.br/siscad/;127;0;0
+1,54E+12;852;Logout;200;OK;Thread Group 1-12;true;25;25;https://homologacao.ufms.br/siscad/;151;0;0
+1,54E+12;840;Logout;200;OK;Thread Group 1-85;true;24;24;https://homologacao.ufms.br/siscad/;176;0;0
+1,54E+12;857;Post revisão de seleção;200;OK;Thread Group 1-78;true;23;23;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;99;0;0
+1,54E+12;815;Post revisão de seleção;200;OK;Thread Group 1-142;true;23;23;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;128;0;0
+1,54E+12;777;Logout;200;OK;Thread Group 1-139;true;23;23;https://homologacao.ufms.br/siscad/;170;0;0
+1,54E+12;922;Post revisão de seleção;200;OK;Thread Group 1-9;true;22;22;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;95;0;0
+1,54E+12;829;Logout;200;OK;Thread Group 1-178;true;22;22;https://homologacao.ufms.br/siscad/;211;0;0
+1,54E+12;1233;Post revisão de seleção;200;OK;Thread Group 1-23;true;22;22;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;106;0;0
+1,54E+12;1232;Logout;200;OK;Thread Group 1-121;true;22;22;https://homologacao.ufms.br/siscad/;127;0;0
+1,54E+12;828;Post revisão de seleção;200;OK;Thread Group 1-10;true;20;20;https://homologacao.ufms.br/siscad/?redirect=%2Fmatricula%2F4;146;0;0
+1,54E+12;869;Logout;200;OK;Thread Group 1-4;true;20;20;https://homologacao.ufms.br/siscad/;200;0;0
+1,54E+12;846;Logout;200;OK;Thread Group 1-176;true;19;19;https://homologacao.ufms.br/siscad/;173;0;0
+1,54E+12;833;Logout;200;OK;Thread Group 1-81;true;18;18;https://homologacao.ufms.br/siscad/;267;0;0
+1,54E+12;856;Logout;200;OK;Thread Group 1-70;true;17;17;https://homologacao.ufms.br/siscad/;262;0;0
+1,54E+12;1364;Logout;200;OK;Thread Group 1-56;true;16;16;https://homologacao.ufms.br/siscad/;156;0;0
+1,54E+12;454;Logout;200;OK;Thread Group 1-120;true;15;15;https://homologacao.ufms.br/siscad/;110;0;0
+1,54E+12;914;Logout;200;OK;Thread Group 1-199;true;14;14;https://homologacao.ufms.br/siscad/;184;0;0
+1,54E+12;508;Logout;200;OK;Thread Group 1-13;true;13;13;https://homologacao.ufms.br/siscad/;102;0;0
+1,54E+12;657;Logout;200;OK;Thread Group 1-100;true;13;13;https://homologacao.ufms.br/siscad/;133;0;0
+1,54E+12;828;Logout;200;OK;Thread Group 1-74;true;11;11;https://homologacao.ufms.br/siscad/;223;0;0
+1,54E+12;785;Logout;200;OK;Thread Group 1-36;true;10;10;https://homologacao.ufms.br/siscad/;184;0;0
+1,54E+12;1073;Logout;200;OK;Thread Group 1-95;true;9;9;https://homologacao.ufms.br/siscad/;154;0;0
+1,54E+12;264;Logout;200;OK;Thread Group 1-9;true;8;8;https://homologacao.ufms.br/siscad/;121;0;0
+1,54E+12;376;Logout;200;OK;Thread Group 1-75;true;7;7;https://homologacao.ufms.br/siscad/;235;0;0
+1,54E+12;271;Logout;200;OK;Thread Group 1-23;true;6;6;https://homologacao.ufms.br/siscad/;112;0;0
+1,54E+12;322;Logout;200;OK;Thread Group 1-142;true;5;5;https://homologacao.ufms.br/siscad/;115;0;0
+1,54E+12;333;Logout;200;OK;Thread Group 1-78;true;5;5;https://homologacao.ufms.br/siscad/;117;0;0
+1,54E+12;274;Logout;200;OK;Thread Group 1-10;true;3;3;https://homologacao.ufms.br/siscad/;130;0;0
+1,54E+12;1150;Logout;200;OK;Thread Group 1-31;true;2;2;https://homologacao.ufms.br/siscad/;156;0;0
+1,54E+12;1181;Logout;200;OK;Thread Group 1-82;true;1;1;https://homologacao.ufms.br/siscad/;178;0;0
