@@ -9,23 +9,28 @@
       type="file"
       @change="selecionarArquivo"
     >
+    <br>
+    <br>
     <v-progress-circular
-      :width="3"
+      :width="2"
+      :size=100
       color="green"
       indeterminate
       v-if="loading"
-    ></v-progress-circular>
+    >Carregando dados</v-progress-circular>
     </v-flex>
     <br>
     <br>
+    <v-flex xs12 v-if="!canvas">
+      <span>Adicione um arquivo para obter os relatórios</span>
+    </v-flex>
     <v-flex xs6>
-      <v-card>
+      <v-card v-if="canvas">
         <v-card-title>
           Painel
         </v-card-title>
         <v-card-text>
-          <div>
-            <canvas id="sucessos-erros"></canvas>
+          <div v-html="canvas">
           </div>
         </v-card-text>
       </v-card>
@@ -52,6 +57,7 @@ export default {
       categorias: [],
       serie: [],
       loading: false,
+      exibe_grafico: false,
       timestamp: [],
       response: [],
       response200: 0,
@@ -60,7 +66,8 @@ export default {
       response500: 0,
       responseNao: 0,
       response_outros: 0,
-      response: {}
+      response: {},
+      canvas: ""
     };
   },
   created() {
@@ -72,6 +79,7 @@ export default {
   mounted() {},
   methods: {
     createChart(chartId, chartData) {
+      this.loading = false;
       const ctx = document.getElementById(chartId);
       const myChart = new Chart(ctx, {
         plugins: [ChartDataLabels],
@@ -140,6 +148,8 @@ export default {
       });
     },
     selecionarArquivo(e) {
+      this.canvas = `<canvas id="sucessos-erros"></canvas>`;
+      this.loading = true;
       var input = e.target;
 
       var file = input.files[0];
