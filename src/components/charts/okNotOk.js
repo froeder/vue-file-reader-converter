@@ -1,4 +1,4 @@
-export const sucessosErrosChartData = {
+export const okNotOkChartData = {
   type: 'pie',
   label: 'Response Code',
   data: {},
@@ -20,4 +20,4 @@ export const sucessosErrosChartData = {
   },
 };
 
-export default sucessosErrosChartData;
+export default okNotOkChartData;

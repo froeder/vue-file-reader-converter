@@ -35,6 +35,17 @@
         </v-card-text>
       </v-card>
     </v-flex>
+    <v-flex xs6>
+      <v-card v-if="canvas">
+        <v-card-title>
+          Painel
+        </v-card-title>
+        <v-card-text>
+          <div v-html="canvas">
+          </div>
+        </v-card-text>
+      </v-card>
+    </v-flex>
     <br>
     </v-layout>
   </v-container>
@@ -60,10 +71,10 @@ export default {
       exibe_grafico: false,
       timestamp: [],
       response: [],
-      response200: 0,
-      response302: 0,
-      response404: 0,
-      response500: 0,
+      response20x: 0,
+      response30x: 0,
+      response40x: 0,
+      response50x: 0,
       responseNao: 0,
       response_outros: 0,
       response: {},
@@ -78,28 +89,64 @@ export default {
   },
   mounted() {},
   methods: {
-    createChart(chartId, chartData) {
+    createChartSuccessErrors(chartId, chartData) {
       this.loading = false;
       const ctx = document.getElementById(chartId);
       const myChart = new Chart(ctx, {
         plugins: [ChartDataLabels],
         type: chartData.type,
         data: {
-          labels: ["200", "302", "404", "500", "Não retornado", "Outros"],
+          labels: ["20x", "30x", "40x", "50x", "Não retornado"],
           datasets: [
             {
               // one line graph
               label: "Response Code",
               data: [
-                this.response200,
-                this.response302,
-                this.response404,
-                this.response500,
-                this.responseNao,
-                this.response_outros
+                this.response20x,
+                this.response30x,
+                this.response40x,
+                this.response50x,
+                this.responseNao
               ],
               backgroundColor: [
-                "rgba(54,73,93,.5)" //
+                "rgb(255, 99, 132)",
+                "rgb(54, 162, 235)",
+                "rgb(255, 206, 86)",
+                "rgb(75, 192, 192)",
+                "rgb(153, 102, 255)"
+              ],
+              borderWidth: 3
+            }
+          ]
+        },
+        options: chartData.options
+      });
+    },
+    createChartOkNotOk(chartId, chartData) {
+      this.loading = false;
+      const ctx = document.getElementById(chartId);
+      const myChart = new Chart(ctx, {
+        plugins: [ChartDataLabels],
+        type: chartData.type,
+        data: {
+          labels: ["20x", "30x", "40x", "50x", "Não retornado"],
+          datasets: [
+            {
+              // one line graph
+              label: "Response Code",
+              data: [
+                this.response20x,
+                this.response30x,
+                this.response40x,
+                this.response50x,
+                this.responseNao
+              ],
+              backgroundColor: [
+                "rgb(255, 99, 132)",
+                "rgb(54, 162, 235)",
+                "rgb(255, 206, 86)",
+                "rgb(75, 192, 192)",
+                "rgb(153, 102, 255)"
               ],
               borderWidth: 3
             }
@@ -110,16 +157,18 @@ export default {
     },
     confereResponseCode(dados) {
       if (dados.responseCode === "200") {
-        this.response200++;
-      } else if (dados.responseCode === "500") {
-        this.response500++;
-      } else if (dados.responseCode === "302") {
-        this.response302++;
-      } else if (dados.responseCode === undefined) {
-        this.responseNao++;
-      } else if (dados.responseCode === "404") {
-        this.response404++;
-      } else this.response_outros++;
+        this.response20x++;
+      } else if (
+        dados.responseCode === "301" ||
+        dados.responseCode === "302" ||
+        dados.responseCode === "304"
+      ) {
+        this.response30x++;
+      } else if (dados.responseCode === "400" || dados.responseCode === "404") {
+        this.response40x++;
+      } else if (dados.responseCode === "500" || dados.responseCode === "502") {
+        this.response50x++;
+      } else this.responseNao++;
     },
     pegarCategoria(dado) {
       let dados = dado[0];
@@ -130,7 +179,10 @@ export default {
         this.confereResponseCode(dados[i]);
       }
 
-      this.createChart("sucessos-erros", this.sucessosErrosChartData);
+      this.createChartSuccessErrors(
+        "sucessos-erros",
+        this.sucessosErrosChartData
+      );
     },
     converterObjeto(obj) {
       this.dados.push(obj.data);
