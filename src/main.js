@@ -5,6 +5,8 @@ import App from './App.vue';
 import router from './router';
 import store from './store';
 import './registerServiceWorker';
+import ChartJsPluginDataLabels from 'chartjs-plugin-datalabels';
+import ChartDataLabels from 'chartjs-plugin-datalabels';
 
 Vue.use(VueApexCharts);
 
@@ -15,6 +17,9 @@ Vue.config.productionTip = false;
 new Vue({
   router,
   store,
+  components: {
+    ChartDataLabels,
+  },
   render(h) {
     return h(App);
   },

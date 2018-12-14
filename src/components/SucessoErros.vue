@@ -1,10 +1,11 @@
 <template>
-  <v-container>
+  <v-container style="max-width:100%!important">
     <v-layout
       text-xs-center
       wrap
     >
-    <input
+    <v-flex xs12>
+      <input
       type="file"
       @change="selecionarArquivo"
     >
@@ -14,7 +15,10 @@
       indeterminate
       v-if="loading"
     ></v-progress-circular>
-    <v-flex xs12>
+    </v-flex>
+    <br>
+    <br>
+    <v-flex xs6>
       <v-card>
         <v-card-title>
           Painel
@@ -34,6 +38,7 @@
 <script>
 import Chart from "chart.js";
 import sucessosErrosChartData from "./charts/sucessos-e-erros.js";
+import ChartDataLabels from "chartjs-plugin-datalabels";
 import Papa from "papaparse";
 
 export default {
@@ -53,7 +58,9 @@ export default {
       response302: 0,
       response404: 0,
       response500: 0,
-      responseNao: 0
+      responseNao: 0,
+      response_outros: 0,
+      response: {}
     };
   },
   created() {
@@ -67,9 +74,10 @@ export default {
     createChart(chartId, chartData) {
       const ctx = document.getElementById(chartId);
       const myChart = new Chart(ctx, {
+        plugins: [ChartDataLabels],
         type: chartData.type,
         data: {
-          labels: ["200", "304", "404", "500", "Não retornado"],
+          labels: ["200", "302", "404", "500", "Não retornado", "Outros"],
           datasets: [
             {
               // one line graph
@@ -79,7 +87,8 @@ export default {
                 this.response302,
                 this.response404,
                 this.response500,
-                this.responseNao
+                this.responseNao,
+                this.response_outros
               ],
               backgroundColor: [
                 "rgba(54,73,93,.5)" //
@@ -102,7 +111,7 @@ export default {
         this.responseNao++;
       } else if (dados.responseCode === "404") {
         this.response404++;
-      }
+      } else this.response_outros++;
     },
     pegarCategoria(dado) {
       let dados = dado[0];

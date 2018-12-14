@@ -15,7 +15,7 @@
       </v-btn>
     </v-toolbar>
 
-    <v-content>
+    <v-content fluid>
       <Home/>
     </v-content>
   </v-app>

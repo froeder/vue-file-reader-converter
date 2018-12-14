@@ -4,6 +4,19 @@ export const sucessosErrosChartData = {
   data: {},
   options: {
     responsive: true,
+    title: {
+      display: true,
+      text: 'Response Code',
+    },
+    plugins: {
+      datalabels: {
+        color: '#fff',
+        font: {
+          size: 25,
+        },
+        align: 'end',
+      },
+    },
   },
 };
 
