@@ -1,0 +1,701 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1545054725111,1521,Get Página Inicial,200,OK,Thread Group 1-2,true,100,100,https://homologacao.ufms.br/siscad/,67,0,40
+1545054725101,1527,Get Página Inicial,200,OK,Thread Group 1-1,true,100,100,https://homologacao.ufms.br/siscad/,57,0,27
+1545054725188,1525,Get Página Inicial,200,OK,Thread Group 1-8,true,100,100,https://homologacao.ufms.br/siscad/,172,0,98
+1545054725124,1650,Get Página Inicial,200,OK,Thread Group 1-3,true,100,100,https://homologacao.ufms.br/siscad/,264,0,229
+1545054725292,1496,Get Página Inicial,200,OK,Thread Group 1-13,true,100,100,https://homologacao.ufms.br/siscad/,80,0,32
+1545054725235,1553,Get Página Inicial,200,OK,Thread Group 1-11,true,100,100,https://homologacao.ufms.br/siscad/,107,0,64
+1545054725226,1577,Get Página Inicial,200,OK,Thread Group 1-9,true,100,100,https://homologacao.ufms.br/siscad/,114,0,60
+1545054725230,1573,Get Página Inicial,200,OK,Thread Group 1-10,true,100,100,https://homologacao.ufms.br/siscad/,129,0,57
+1545054725289,1540,Get Página Inicial,200,OK,Thread Group 1-12,true,100,100,https://homologacao.ufms.br/siscad/,87,0,51
+1545054725298,1572,Get Página Inicial,200,OK,Thread Group 1-14,true,100,100,https://homologacao.ufms.br/siscad/,290,0,237
+1545054725138,1796,Get Página Inicial,200,OK,Thread Group 1-4,true,100,100,https://homologacao.ufms.br/siscad/,430,0,407
+1545054725168,4676,Get Página Inicial,200,OK,Thread Group 1-6,true,100,100,https://homologacao.ufms.br/siscad/,1439,0,1397
+1545054726151,8722,Get Página Inicial,200,OK,Thread Group 1-60,true,100,100,https://homologacao.ufms.br/siscad/,2960,0,2897
+1545054726264,8609,Get Página Inicial,200,OK,Thread Group 1-83,true,100,100,https://homologacao.ufms.br/siscad/,3649,0,3555
+1545054726158,8721,Get Página Inicial,200,OK,Thread Group 1-62,true,100,100,https://homologacao.ufms.br/siscad/,2980,0,2952
+1545054726421,8669,Get Página Inicial,200,OK,Thread Group 1-98,true,100,100,https://homologacao.ufms.br/siscad/,3575,0,3410
+1545054726389,8745,Get Página Inicial,200,OK,Thread Group 1-95,true,100,100,https://homologacao.ufms.br/siscad/,3613,0,3440
+1545054725564,9603,Get Página Inicial,200,OK,Thread Group 1-16,true,100,100,https://homologacao.ufms.br/siscad/,2007,0,1960
+1545054725617,9637,Get Página Inicial,200,OK,Thread Group 1-20,true,100,100,https://homologacao.ufms.br/siscad/,1955,0,1918
+1545054726328,8929,Get Página Inicial,200,OK,Thread Group 1-89,true,100,100,https://homologacao.ufms.br/siscad/,3669,0,3497
+1545054725145,10238,Get Página Inicial,200,OK,Thread Group 1-5,true,100,100,https://homologacao.ufms.br/siscad/,1465,0,1420
+1545054726400,9409,Get Página Inicial,200,OK,Thread Group 1-96,true,100,100,https://homologacao.ufms.br/siscad/,3586,0,3431
+1545054726368,9480,Get Página Inicial,200,OK,Thread Group 1-93,true,100,100,https://homologacao.ufms.br/siscad/,3664,0,3461
+1545054726338,9513,Get Página Inicial,200,OK,Thread Group 1-90,true,100,100,https://homologacao.ufms.br/siscad/,3620,0,3492
+1545054726209,9750,Get Página Inicial,200,OK,Thread Group 1-77,true,100,100,https://homologacao.ufms.br/siscad/,3408,0,3291
+1545054726351,9612,Get Página Inicial,200,OK,Thread Group 1-91,true,100,100,https://homologacao.ufms.br/siscad/,3704,0,3479
+1545054726380,9752,Get Página Inicial,200,OK,Thread Group 1-94,true,100,100,https://homologacao.ufms.br/siscad/,3649,0,3449
+1545054726128,10015,Get Página Inicial,200,OK,Thread Group 1-53,true,100,100,https://homologacao.ufms.br/siscad/,2801,0,2768
+1545054725648,10518,Get Página Inicial,200,OK,Thread Group 1-23,true,100,100,https://homologacao.ufms.br/siscad/,2058,0,2024
+1545054726092,10092,Get Página Inicial,200,OK,Thread Group 1-50,true,100,100,https://homologacao.ufms.br/siscad/,2714,0,2666
+1545054726533,9659,Get Página Inicial,200,OK,Thread Group 1-100,true,100,100,https://homologacao.ufms.br/siscad/,3473,0,3298
+1545054726088,10115,Get Página Inicial,200,OK,Thread Group 1-49,true,100,100,https://homologacao.ufms.br/siscad/,2712,0,2669
+1545054726285,10177,Get Página Inicial,200,OK,Thread Group 1-85,true,100,100,https://homologacao.ufms.br/siscad/,3684,0,3538
+1545054725182,11586,Get Página Inicial,200,OK,Thread Group 1-7,true,100,100,https://homologacao.ufms.br/siscad/,2017,0,1982
+1545054726310,10462,Get Página Inicial,200,OK,Thread Group 1-87,true,100,100,https://homologacao.ufms.br/siscad/,3742,0,3520
+1545054726248,10571,Get Página Inicial,200,OK,Thread Group 1-81,true,100,100,https://homologacao.ufms.br/siscad/,3655,0,3545
+1545054726255,10572,Get Página Inicial,200,OK,Thread Group 1-82,true,100,100,https://homologacao.ufms.br/siscad/,3605,0,3538
+1545054725693,11145,Get Página Inicial,200,OK,Thread Group 1-25,true,100,100,https://homologacao.ufms.br/siscad/,2142,0,2110
+1545054725606,11246,Get Página Inicial,200,OK,Thread Group 1-19,true,100,100,https://homologacao.ufms.br/siscad/,1993,0,1942
+1545054726278,10579,Get Página Inicial,200,OK,Thread Group 1-84,true,100,100,https://homologacao.ufms.br/siscad/,3629,0,3542
+1545054726207,10658,Get Página Inicial,200,OK,Thread Group 1-76,true,100,100,https://homologacao.ufms.br/siscad/,3626,0,3565
+1545054725551,11373,Get Página Inicial,200,OK,Thread Group 1-15,true,100,100,https://homologacao.ufms.br/siscad/,1885,0,1861
+1545054725624,11303,Get Página Inicial,200,OK,Thread Group 1-21,true,100,100,https://homologacao.ufms.br/siscad/,2077,0,2048
+1545054726410,10521,Get Página Inicial,200,OK,Thread Group 1-97,true,100,100,https://homologacao.ufms.br/siscad/,3627,0,3421
+1545054726174,10759,Get Página Inicial,200,OK,Thread Group 1-68,true,100,100,https://homologacao.ufms.br/siscad/,3751,0,3644
+1545054726360,10575,Get Página Inicial,200,OK,Thread Group 1-92,true,100,100,https://homologacao.ufms.br/siscad/,3665,0,3469
+1545054726317,11068,Get Página Inicial,200,OK,Thread Group 1-88,true,100,100,https://homologacao.ufms.br/siscad/,3586,0,3512
+1545054726005,11389,Get Página Inicial,200,OK,Thread Group 1-46,true,100,100,https://homologacao.ufms.br/siscad/,2676,0,2585
+1545054725927,11686,Get Página Inicial,200,OK,Thread Group 1-35,true,100,100,https://homologacao.ufms.br/siscad/,2646,0,2596
+1545054725600,12040,Get Página Inicial,200,OK,Thread Group 1-18,true,100,100,https://homologacao.ufms.br/siscad/,1991,0,1934
+1545054725871,11777,Get Página Inicial,200,OK,Thread Group 1-30,true,100,100,https://homologacao.ufms.br/siscad/,2682,0,2636
+1545054725702,11946,Get Página Inicial,200,OK,Thread Group 1-27,true,100,100,https://homologacao.ufms.br/siscad/,2158,0,2135
+1545054725875,11775,Get Página Inicial,200,OK,Thread Group 1-38,true,100,100,https://homologacao.ufms.br/siscad/,2813,0,2732
+1545054725802,11852,Get Página Inicial,200,OK,Thread Group 1-32,true,100,100,https://homologacao.ufms.br/siscad/,2320,0,2295
+1545054725572,12183,Get Página Inicial,200,OK,Thread Group 1-17,true,100,100,https://homologacao.ufms.br/siscad/,1875,0,1848
+1545054726166,11637,Get Página Inicial,200,OK,Thread Group 1-65,true,100,100,https://homologacao.ufms.br/siscad/,3039,0,2976
+1545054725637,12230,Get Página Inicial,200,OK,Thread Group 1-22,true,100,100,https://homologacao.ufms.br/siscad/,2333,0,2308
+1545054725901,11969,Get Página Inicial,200,OK,Thread Group 1-41,true,100,100,https://homologacao.ufms.br/siscad/,2566,0,2513
+1545054725879,11991,Get Página Inicial,200,OK,Thread Group 1-39,true,100,100,https://homologacao.ufms.br/siscad/,2396,0,2354
+1545054725824,12136,Get Página Inicial,200,OK,Thread Group 1-34,true,100,100,https://homologacao.ufms.br/siscad/,2440,0,2409
+1545054725798,12163,Get Página Inicial,200,OK,Thread Group 1-31,true,100,100,https://homologacao.ufms.br/siscad/,2306,0,2265
+1545054726126,11838,Get Página Inicial,200,OK,Thread Group 1-52,true,100,100,https://homologacao.ufms.br/siscad/,2831,0,2770
+1545054726141,11824,Get Página Inicial,200,OK,Thread Group 1-58,true,100,100,https://homologacao.ufms.br/siscad/,2892,0,2864
+1545054725896,12070,Get Página Inicial,200,OK,Thread Group 1-36,true,100,100,https://homologacao.ufms.br/siscad/,2573,0,2511
+1545054726155,11812,Get Página Inicial,200,OK,Thread Group 1-61,true,100,100,https://homologacao.ufms.br/siscad/,2974,0,2919
+1545054725892,12076,Get Página Inicial,200,OK,Thread Group 1-40,true,100,100,https://homologacao.ufms.br/siscad/,2784,0,2714
+1545054726139,11930,Get Página Inicial,200,OK,Thread Group 1-57,true,100,100,https://homologacao.ufms.br/siscad/,2921,0,2866
+1545054726188,11891,Get Página Inicial,200,OK,Thread Group 1-70,true,100,100,https://homologacao.ufms.br/siscad/,3271,0,3194
+1545054725803,12277,Get Página Inicial,200,OK,Thread Group 1-33,true,100,100,https://homologacao.ufms.br/siscad/,2325,0,2295
+1545054726134,11954,Get Página Inicial,200,OK,Thread Group 1-55,true,100,100,https://homologacao.ufms.br/siscad/,3234,0,3171
+1545054726147,11942,Get Página Inicial,200,OK,Thread Group 1-59,true,100,100,https://homologacao.ufms.br/siscad/,2923,0,2877
+1545054726192,11898,Get Página Inicial,200,OK,Thread Group 1-71,true,100,100,https://homologacao.ufms.br/siscad/,3286,0,3231
+1545054726203,11895,Get Página Inicial,200,OK,Thread Group 1-75,true,100,100,https://homologacao.ufms.br/siscad/,3326,0,3260
+1545054726212,11888,Get Página Inicial,200,OK,Thread Group 1-78,true,100,100,https://homologacao.ufms.br/siscad/,3540,0,3359
+1545054726295,11807,Get Página Inicial,200,OK,Thread Group 1-86,true,100,100,https://homologacao.ufms.br/siscad/,3645,0,3528
+1545054726171,11933,Get Página Inicial,200,OK,Thread Group 1-67,true,100,100,https://homologacao.ufms.br/siscad/,3004,0,2964
+1545054726178,11927,Get Página Inicial,200,OK,Thread Group 1-66,true,100,100,https://homologacao.ufms.br/siscad/,3024,0,2957
+1545054726131,11975,Get Página Inicial,200,OK,Thread Group 1-54,true,100,100,https://homologacao.ufms.br/siscad/,2812,0,2784
+1545054725698,12409,Get Página Inicial,200,OK,Thread Group 1-26,true,100,100,https://homologacao.ufms.br/siscad/,2152,0,2124
+1545054726113,11996,Get Página Inicial,200,OK,Thread Group 1-51,true,100,100,https://homologacao.ufms.br/siscad/,2690,0,2648
+1545054726183,11927,Get Página Inicial,200,OK,Thread Group 1-69,true,100,100,https://homologacao.ufms.br/siscad/,3320,0,3250
+1545054726165,11946,Get Página Inicial,200,OK,Thread Group 1-64,true,100,100,https://homologacao.ufms.br/siscad/,2989,0,2963
+1545054726138,11974,Get Página Inicial,200,OK,Thread Group 1-56,true,100,100,https://homologacao.ufms.br/siscad/,2919,0,2866
+1545054726161,11952,Get Página Inicial,200,OK,Thread Group 1-63,true,100,100,https://homologacao.ufms.br/siscad/,3037,0,2970
+1545054725933,12181,Get Página Inicial,200,OK,Thread Group 1-43,true,100,100,https://homologacao.ufms.br/siscad/,2741,0,2644
+1545054725888,12228,Get Página Inicial,200,OK,Thread Group 1-37,true,100,100,https://homologacao.ufms.br/siscad/,2551,0,2518
+1545054726224,11893,Get Página Inicial,200,OK,Thread Group 1-79,true,100,100,https://homologacao.ufms.br/siscad/,3562,0,3376
+1545054725929,12196,Get Página Inicial,200,OK,Thread Group 1-42,true,100,100,https://homologacao.ufms.br/siscad/,2755,0,2644
+1545054725686,12443,Get Página Inicial,200,OK,Thread Group 1-24,true,100,100,https://homologacao.ufms.br/siscad/,2140,0,2112
+1545054725938,12202,Get Página Inicial,200,OK,Thread Group 1-45,true,100,100,https://homologacao.ufms.br/siscad/,2721,0,2667
+1545054725792,12355,Get Página Inicial,200,OK,Thread Group 1-28,true,100,100,https://homologacao.ufms.br/siscad/,2172,0,2148
+1545054726522,11627,Get Página Inicial,200,OK,Thread Group 1-99,true,100,100,https://homologacao.ufms.br/siscad/,3500,0,3309
+1545054726233,11932,Get Página Inicial,200,OK,Thread Group 1-80,true,100,100,https://homologacao.ufms.br/siscad/,3561,0,3413
+1545054725798,12367,Get Página Inicial,200,OK,Thread Group 1-29,true,100,100,https://homologacao.ufms.br/siscad/,2313,0,2265
+1545054725884,12498,Get Página Inicial,200,OK,Thread Group 1-44,true,100,100,https://homologacao.ufms.br/siscad/,2869,0,2811
+1545054726074,12764,Get Página Inicial,200,OK,Thread Group 1-48,true,100,100,https://homologacao.ufms.br/siscad/,2649,0,2517
+1545054726201,12642,Get Página Inicial,200,OK,Thread Group 1-74,true,100,100,https://homologacao.ufms.br/siscad/,3370,0,3255
+1545054726066,12993,Get Página Inicial,200,OK,Thread Group 1-47,true,100,100,https://homologacao.ufms.br/siscad/,2627,0,2552
+1545054726193,12836,Get Página Inicial,200,OK,Thread Group 1-72,true,100,100,https://homologacao.ufms.br/siscad/,3317,0,3240
+1545054726200,12888,Get Página Inicial,200,OK,Thread Group 1-73,true,100,100,https://homologacao.ufms.br/siscad/,3318,0,3233
+1545054726788,13124,Tentativa de Login,200,OK,Thread Group 1-11,true,100,100,https://homologacao.ufms.br/siscad/academico,2601,0,0
+1545054726830,13085,Tentativa de Login,200,OK,Thread Group 1-12,true,100,100,https://homologacao.ufms.br/siscad/academico,2683,0,0
+1545054726647,13305,Tentativa de Login,200,OK,Thread Group 1-1,true,100,100,https://homologacao.ufms.br/siscad/academico,2399,0,0
+1545054726774,13191,Tentativa de Login,200,OK,Thread Group 1-3,true,100,100,https://homologacao.ufms.br/siscad/academico,2660,0,0
+1545054726789,13198,Tentativa de Login,200,OK,Thread Group 1-13,true,100,100,https://homologacao.ufms.br/siscad/academico,2746,0,0
+1545054726934,13066,Tentativa de Login,200,OK,Thread Group 1-4,true,100,100,https://homologacao.ufms.br/siscad/academico,2473,0,0
+1545054726714,13302,Tentativa de Login,200,OK,Thread Group 1-8,true,100,100,https://homologacao.ufms.br/siscad/academico,2538,0,0
+1545054726817,13204,Tentativa de Login,200,OK,Thread Group 1-10,true,100,100,https://homologacao.ufms.br/siscad/academico,2638,0,0
+1545054726870,13185,Tentativa de Login,200,OK,Thread Group 1-14,true,100,100,https://homologacao.ufms.br/siscad/academico,2576,0,0
+1545054726649,13471,Tentativa de Login,200,OK,Thread Group 1-2,true,100,100,https://homologacao.ufms.br/siscad/academico,2241,0,0
+1545054726816,13346,Tentativa de Login,200,OK,Thread Group 1-9,true,100,100,https://homologacao.ufms.br/siscad/academico,2508,0,0
+1545054739913,275,GET dados básicos da matrícula,200,OK,Thread Group 1-11,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,121,0,0
+1545054739952,251,GET dados básicos da matrícula,200,OK,Thread Group 1-1,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,106,0,0
+1545054739918,296,GET dados básicos da matrícula,200,OK,Thread Group 1-12,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,105,0,0
+1545054729845,10393,Tentativa de Login,200,OK,Thread Group 1-6,true,100,100,https://homologacao.ufms.br/siscad/academico,2153,0,844
+1545054739988,257,GET dados básicos da matrícula,200,OK,Thread Group 1-13,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,102,0,0
+1545054739965,313,GET dados básicos da matrícula,200,OK,Thread Group 1-3,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,121,0,0
+1545054740017,265,GET dados básicos da matrícula,200,OK,Thread Group 1-8,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,134,0,0
+1545054740002,299,GET dados básicos da matrícula,200,OK,Thread Group 1-4,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,135,0,0
+1545054740055,266,GET dados básicos da matrícula,200,OK,Thread Group 1-14,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,103,0,0
+1545054740021,311,GET dados básicos da matrícula,200,OK,Thread Group 1-10,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,117,0,0
+1545054740131,272,GET dados básicos da matrícula,200,OK,Thread Group 1-2,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,109,0,0
+1545054740162,250,GET dados básicos da matrícula,200,OK,Thread Group 1-9,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,95,0,0
+1545054740189,289,POST dados básicos da matrícula,200,OK,Thread Group 1-11,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,126,0,0
+1545054740216,273,POST dados básicos da matrícula,200,OK,Thread Group 1-12,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,127,0,0
+1545054740205,313,POST dados básicos da matrícula,200,OK,Thread Group 1-1,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,106,0,0
+1545054740246,311,POST dados básicos da matrícula,200,OK,Thread Group 1-13,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,134,0,0
+1545054740283,281,POST dados básicos da matrícula,200,OK,Thread Group 1-8,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,99,0,0
+1545054740302,269,POST dados básicos da matrícula,200,OK,Thread Group 1-4,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,97,0,0
+1545054740279,292,POST dados básicos da matrícula,200,OK,Thread Group 1-3,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,95,0,0
+1545054740238,341,GET dados básicos da matrícula,200,OK,Thread Group 1-6,false,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054740323,261,POST dados básicos da matrícula,200,OK,Thread Group 1-14,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,129,0,0
+1545054740413,221,POST dados básicos da matrícula,200,OK,Thread Group 1-9,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,86,0,0
+1545054740404,252,POST dados básicos da matrícula,200,OK,Thread Group 1-2,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,96,0,0
+1545054740497,241,Post seleção de disciplinas,200,OK,Thread Group 1-12,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,104,0,0
+1545054740478,268,Post seleção de disciplinas,200,OK,Thread Group 1-11,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,99,0,0
+1545054740520,259,Post seleção de disciplinas,200,OK,Thread Group 1-1,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,116,0,0
+1545054740558,236,Post seleção de disciplinas,200,OK,Thread Group 1-13,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,99,0,0
+1545054740565,232,Post seleção de disciplinas,200,OK,Thread Group 1-8,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,93,0,0
+1545054740334,478,POST dados básicos da matrícula,200,OK,Thread Group 1-10,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,309,0,0
+1545054740572,256,Post seleção de disciplinas,200,OK,Thread Group 1-3,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,111,0,0
+1545054740572,260,Post seleção de disciplinas,200,OK,Thread Group 1-4,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054740585,251,Post seleção de disciplinas,200,OK,Thread Group 1-14,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,104,0,0
+1545054740580,275,POST dados básicos da matrícula,200,OK,Thread Group 1-6,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,125,0,0
+1545054740635,255,Post seleção de disciplinas,200,OK,Thread Group 1-9,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,134,0,0
+1545054740656,280,Post seleção de disciplinas,200,OK,Thread Group 1-2,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,121,0,0
+1545054740738,256,Post revisão de seleção,200,OK,Thread Group 1-12,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,95,0,0
+1545054740747,284,Post revisão de seleção,200,OK,Thread Group 1-11,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,112,0,0
+1545054740797,261,Post revisão de seleção,200,OK,Thread Group 1-8,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,95,0,0
+1545054740780,322,Post revisão de seleção,200,OK,Thread Group 1-1,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,113,0,0
+1545054740829,282,Post revisão de seleção,200,OK,Thread Group 1-3,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,100,0,0
+1545054740833,285,Post revisão de seleção,200,OK,Thread Group 1-4,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,106,0,0
+1545054740795,325,Post revisão de seleção,200,OK,Thread Group 1-13,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,133,0,0
+1545054740837,284,Post revisão de seleção,200,OK,Thread Group 1-14,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,93,0,0
+1545054740813,329,Post seleção de disciplinas,200,OK,Thread Group 1-10,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,137,0,0
+1545054740891,276,Post revisão de seleção,200,OK,Thread Group 1-9,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,109,0,0
+1545054740937,251,Post revisão de seleção,200,OK,Thread Group 1-2,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,132,0,0
+1545054740857,369,Post seleção de disciplinas,200,OK,Thread Group 1-6,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,103,0,0
+1545054741143,195,Post revisão de seleção,200,OK,Thread Group 1-10,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054741227,186,Post revisão de seleção,200,OK,Thread Group 1-6,true,100,100,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,80,0,0
+1545054741032,995,Logout,200,OK,Thread Group 1-11,true,100,100,https://homologacao.ufms.br/siscad/,867,0,0
+1545054734873,7183,Tentativa de Login,200,OK,Thread Group 1-60,true,99,99,https://homologacao.ufms.br/siscad/academico,5063,0,0
+1545054741168,899,Logout,200,OK,Thread Group 1-9,true,99,99,https://homologacao.ufms.br/siscad/,733,0,0
+1545054741188,887,Logout,200,OK,Thread Group 1-2,true,98,98,https://homologacao.ufms.br/siscad/,717,0,0
+1545054741103,1030,Logout,200,OK,Thread Group 1-1,true,97,97,https://homologacao.ufms.br/siscad/,909,0,0
+1545054734873,7292,Tentativa de Login,200,OK,Thread Group 1-83,true,96,96,https://homologacao.ufms.br/siscad/academico,4937,0,0
+1545054741118,1049,Logout,200,OK,Thread Group 1-4,true,96,96,https://homologacao.ufms.br/siscad/,897,0,0
+1545054741112,1062,Logout,200,OK,Thread Group 1-3,true,95,95,https://homologacao.ufms.br/siscad/,904,0,0
+1545054740995,1205,Logout,200,OK,Thread Group 1-12,true,94,94,https://homologacao.ufms.br/siscad/,1084,0,0
+1545054741121,1127,Logout,200,OK,Thread Group 1-13,true,93,93,https://homologacao.ufms.br/siscad/,958,0,0
+1545054741121,1142,Logout,200,OK,Thread Group 1-14,true,92,92,https://homologacao.ufms.br/siscad/,960,0,0
+1545054741413,872,Logout,200,OK,Thread Group 1-6,true,91,91,https://homologacao.ufms.br/siscad/,691,0,0
+1545054742059,276,GET dados básicos da matrícula,200,OK,Thread Group 1-60,false,90,90,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,125,0,8
+1545054741339,1005,Logout,200,OK,Thread Group 1-10,true,90,90,https://homologacao.ufms.br/siscad/,879,0,0
+1545054742167,249,GET dados básicos da matrícula,200,OK,Thread Group 1-83,false,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,110,0,0
+1545054742335,183,POST dados básicos da matrícula,200,OK,Thread Group 1-60,true,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,83,0,0
+1545054742416,182,POST dados básicos da matrícula,200,OK,Thread Group 1-83,true,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,80,0,0
+1545054742519,184,Post seleção de disciplinas,200,OK,Thread Group 1-60,true,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,81,0,0
+1545054742599,199,Post seleção de disciplinas,200,OK,Thread Group 1-83,true,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,84,0,0
+1545054734879,8031,Tentativa de Login,200,OK,Thread Group 1-62,true,89,89,https://homologacao.ufms.br/siscad/academico,5814,0,0
+1545054742703,221,Post revisão de seleção,200,OK,Thread Group 1-60,true,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,88,0,0
+1545054742798,255,Post revisão de seleção,200,OK,Thread Group 1-83,true,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,87,0,0
+1545054742911,207,GET dados básicos da matrícula,200,OK,Thread Group 1-62,false,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,88,0,0
+1545054743119,206,POST dados básicos da matrícula,200,OK,Thread Group 1-62,true,89,89,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,97,0,0
+1545054741059,2390,Logout,200,OK,Thread Group 1-8,true,89,89,https://homologacao.ufms.br/siscad/,2228,0,0
+1545054742925,561,Logout,200,OK,Thread Group 1-60,true,88,88,https://homologacao.ufms.br/siscad/,430,0,0
+1545054743326,230,Post seleção de disciplinas,200,OK,Thread Group 1-62,true,87,87,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,116,0,0
+1545054743557,222,Post revisão de seleção,200,OK,Thread Group 1-62,true,87,87,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,88,0,0
+1545054743053,777,Logout,200,OK,Thread Group 1-83,true,87,87,https://homologacao.ufms.br/siscad/,635,0,0
+1545054735168,8704,Tentativa de Login,200,OK,Thread Group 1-16,true,86,86,https://homologacao.ufms.br/siscad/academico,6674,0,0
+1545054743873,210,GET dados básicos da matrícula,200,OK,Thread Group 1-16,false,86,86,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,94,0,9
+1545054735254,8984,Tentativa de Login,200,OK,Thread Group 1-20,true,86,86,https://homologacao.ufms.br/siscad/academico,6786,0,0
+1545054744084,220,POST dados básicos da matrícula,200,OK,Thread Group 1-16,true,86,86,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054735256,9100,Tentativa de Login,200,OK,Thread Group 1-89,true,86,86,https://homologacao.ufms.br/siscad/academico,7045,0,0
+1545054744240,377,GET dados básicos da matrícula,200,OK,Thread Group 1-20,false,86,86,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,113,0,0
+1545054744358,306,GET dados básicos da matrícula,200,OK,Thread Group 1-89,false,86,86,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,107,0,8
+1545054744304,345,Post seleção de disciplinas,200,OK,Thread Group 1-16,true,86,86,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,127,0,0
+1545054743779,893,Logout,200,OK,Thread Group 1-62,true,86,86,https://homologacao.ufms.br/siscad/,631,0,0
+1545054744618,218,POST dados básicos da matrícula,200,OK,Thread Group 1-20,true,85,85,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,105,0,0
+1545054744670,203,Post revisão de seleção,200,OK,Thread Group 1-16,true,85,85,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,94,0,0
+1545054744669,218,POST dados básicos da matrícula,200,OK,Thread Group 1-89,true,85,85,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,91,0,0
+1545054735090,9945,Tentativa de Login,200,OK,Thread Group 1-98,true,85,85,https://homologacao.ufms.br/siscad/academico,7744,0,0
+1545054744836,224,Post seleção de disciplinas,200,OK,Thread Group 1-20,true,85,85,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,91,0,0
+1545054744888,208,Post seleção de disciplinas,200,OK,Thread Group 1-89,true,85,85,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054744874,298,Logout,200,OK,Thread Group 1-16,true,85,85,https://homologacao.ufms.br/siscad/,146,0,0
+1545054735133,10092,Tentativa de Login,200,OK,Thread Group 1-95,true,84,84,https://homologacao.ufms.br/siscad/academico,7629,0,0
+1545054745060,234,Post revisão de seleção,200,OK,Thread Group 1-20,true,84,84,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,95,0,0
+1545054745037,277,GET dados básicos da matrícula,200,OK,Thread Group 1-98,false,84,84,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,120,0,0
+1545054745097,259,Post revisão de seleção,200,OK,Thread Group 1-89,true,84,84,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,124,0,0
+1545054745227,252,GET dados básicos da matrícula,200,OK,Thread Group 1-95,false,84,84,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,108,0,0
+1545054745315,226,POST dados básicos da matrícula,200,OK,Thread Group 1-98,true,84,84,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,98,0,0
+1545054745295,278,Logout,200,OK,Thread Group 1-20,true,84,84,https://homologacao.ufms.br/siscad/,155,0,0
+1545054745357,270,Logout,200,OK,Thread Group 1-89,true,83,83,https://homologacao.ufms.br/siscad/,142,0,0
+1545054745480,203,POST dados básicos da matrícula,200,OK,Thread Group 1-95,true,82,82,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054745541,211,Post seleção de disciplinas,200,OK,Thread Group 1-98,true,82,82,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,101,0,0
+1545054745684,201,Post seleção de disciplinas,200,OK,Thread Group 1-95,true,82,82,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,81,0,0
+1545054745753,226,Post revisão de seleção,200,OK,Thread Group 1-98,true,82,82,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,112,0,0
+1545054745886,189,Post revisão de seleção,200,OK,Thread Group 1-95,true,82,82,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,80,0,0
+1545054745980,293,Logout,200,OK,Thread Group 1-98,true,82,82,https://homologacao.ufms.br/siscad/,160,0,0
+1545054735384,11179,Tentativa de Login,200,OK,Thread Group 1-5,true,81,81,https://homologacao.ufms.br/siscad/academico,9049,0,0
+1545054746075,666,Logout,200,OK,Thread Group 1-95,true,81,81,https://homologacao.ufms.br/siscad/,517,0,0
+1545054746563,225,GET dados básicos da matrícula,200,OK,Thread Group 1-5,false,80,80,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,109,0,8
+1545054746788,206,POST dados básicos da matrícula,200,OK,Thread Group 1-5,true,80,80,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,93,0,0
+1545054735850,11410,Tentativa de Login,200,OK,Thread Group 1-90,true,80,80,https://homologacao.ufms.br/siscad/academico,9252,0,0
+1545054746994,414,Post seleção de disciplinas,200,OK,Thread Group 1-5,true,80,80,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,87,0,0
+1545054735809,11670,Tentativa de Login,200,OK,Thread Group 1-96,true,80,80,https://homologacao.ufms.br/siscad/academico,9450,0,0
+1545054747261,283,GET dados básicos da matrícula,200,OK,Thread Group 1-90,false,80,80,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,133,0,21
+1545054747409,231,Post revisão de seleção,200,OK,Thread Group 1-5,true,80,80,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,104,0,0
+1545054747480,211,GET dados básicos da matrícula,200,OK,Thread Group 1-96,false,80,80,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,90,0,0
+1545054747545,265,POST dados básicos da matrícula,200,OK,Thread Group 1-90,true,80,80,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,104,0,0
+1545054747641,265,Logout,200,OK,Thread Group 1-5,true,80,80,https://homologacao.ufms.br/siscad/,118,0,0
+1545054747691,218,POST dados básicos da matrícula,200,OK,Thread Group 1-96,true,79,79,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,101,0,0
+1545054747811,202,Post seleção de disciplinas,200,OK,Thread Group 1-90,true,79,79,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,93,0,0
+1545054747910,211,Post seleção de disciplinas,200,OK,Thread Group 1-96,true,79,79,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,87,0,0
+1545054748013,208,Post revisão de seleção,200,OK,Thread Group 1-90,true,79,79,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,91,0,0
+1545054748122,217,Post revisão de seleção,200,OK,Thread Group 1-96,true,79,79,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,81,0,0
+1545054735959,12420,Tentativa de Login,200,OK,Thread Group 1-77,true,79,79,https://homologacao.ufms.br/siscad/academico,10298,0,0
+1545054736167,12359,Tentativa de Login,200,OK,Thread Group 1-23,true,79,79,https://homologacao.ufms.br/siscad/academico,10231,0,0
+1545054748381,233,GET dados básicos da matrícula,200,OK,Thread Group 1-77,false,79,79,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,110,0,10
+1545054748339,442,Logout,200,OK,Thread Group 1-96,true,79,79,https://homologacao.ufms.br/siscad/,290,0,0
+1545054748527,317,GET dados básicos da matrícula,200,OK,Thread Group 1-23,false,78,78,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,134,0,14
+1545054748222,629,Logout,200,OK,Thread Group 1-90,true,78,78,https://homologacao.ufms.br/siscad/,408,0,0
+1545054748615,272,POST dados básicos da matrícula,200,OK,Thread Group 1-77,true,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,134,0,0
+1545054748845,237,POST dados básicos da matrícula,200,OK,Thread Group 1-23,true,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,127,0,0
+1545054748887,230,Post seleção de disciplinas,200,OK,Thread Group 1-77,true,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,110,0,0
+1545054735963,13351,Tentativa de Login,200,OK,Thread Group 1-91,true,77,77,https://homologacao.ufms.br/siscad/academico,11097,0,0
+1545054749083,240,Post seleção de disciplinas,200,OK,Thread Group 1-23,true,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,115,0,0
+1545054749118,223,Post revisão de seleção,200,OK,Thread Group 1-77,true,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,96,0,0
+1545054736132,13230,Tentativa de Login,200,OK,Thread Group 1-94,true,77,77,https://homologacao.ufms.br/siscad/academico,11086,0,0
+1545054736183,13204,Tentativa de Login,200,OK,Thread Group 1-50,true,77,77,https://homologacao.ufms.br/siscad/academico,10980,0,0
+1545054735848,13545,Tentativa de Login,200,OK,Thread Group 1-93,true,77,77,https://homologacao.ufms.br/siscad/academico,11318,0,0
+1545054749324,206,Post revisão de seleção,200,OK,Thread Group 1-23,true,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054749314,219,GET dados básicos da matrícula,200,OK,Thread Group 1-91,false,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,91,0,0
+1545054749363,214,GET dados básicos da matrícula,200,OK,Thread Group 1-94,false,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,95,0,7
+1545054749388,210,GET dados básicos da matrícula,200,OK,Thread Group 1-50,false,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,93,0,0
+1545054736192,13460,Tentativa de Login,200,OK,Thread Group 1-100,true,77,77,https://homologacao.ufms.br/siscad/academico,11034,0,0
+1545054749533,230,POST dados básicos da matrícula,200,OK,Thread Group 1-91,true,77,77,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,82,0,0
+1545054749341,452,Logout,200,OK,Thread Group 1-77,true,77,77,https://homologacao.ufms.br/siscad/,306,0,0
+1545054749578,227,POST dados básicos da matrícula,200,OK,Thread Group 1-94,true,76,76,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054749394,451,GET dados básicos da matrícula,200,OK,Thread Group 1-93,false,76,76,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,310,0,0
+1545054749598,268,POST dados básicos da matrícula,200,OK,Thread Group 1-50,true,76,76,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,137,0,0
+1545054749653,288,GET dados básicos da matrícula,200,OK,Thread Group 1-100,false,76,76,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,114,0,0
+1545054749764,293,Post seleção de disciplinas,200,OK,Thread Group 1-91,true,76,76,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,119,0,0
+1545054749806,295,Post seleção de disciplinas,200,OK,Thread Group 1-94,true,76,76,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,127,0,0
+1545054749530,711,Logout,200,OK,Thread Group 1-23,true,76,76,https://homologacao.ufms.br/siscad/,454,0,0
+1545054749866,413,Post seleção de disciplinas,200,OK,Thread Group 1-50,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,137,0,0
+1545054749846,477,POST dados básicos da matrícula,200,OK,Thread Group 1-93,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,177,0,0
+1545054749941,416,POST dados básicos da matrícula,200,OK,Thread Group 1-100,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,145,0,0
+1545054750057,585,Post revisão de seleção,200,OK,Thread Group 1-91,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,205,0,0
+1545054750280,411,Post revisão de seleção,200,OK,Thread Group 1-50,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,135,0,0
+1545054750102,607,Post revisão de seleção,200,OK,Thread Group 1-94,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,237,0,0
+1545054750358,406,Post seleção de disciplinas,200,OK,Thread Group 1-100,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,149,0,0
+1545054750324,541,Post seleção de disciplinas,200,OK,Thread Group 1-93,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,249,0,0
+1545054750765,325,Post revisão de seleção,200,OK,Thread Group 1-100,true,75,75,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,163,0,0
+1545054750643,508,Logout,200,OK,Thread Group 1-91,true,75,75,https://homologacao.ufms.br/siscad/,247,0,0
+1545054750865,387,Post revisão de seleção,200,OK,Thread Group 1-93,true,74,74,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,147,0,0
+1545054750710,550,Logout,200,OK,Thread Group 1-94,true,74,74,https://homologacao.ufms.br/siscad/,212,0,0
+1545054750692,569,Logout,200,OK,Thread Group 1-50,true,74,74,https://homologacao.ufms.br/siscad/,174,0,0
+1545054751253,441,Logout,200,OK,Thread Group 1-93,true,72,72,https://homologacao.ufms.br/siscad/,189,0,0
+1545054751091,642,Logout,200,OK,Thread Group 1-100,true,71,71,https://homologacao.ufms.br/siscad/,241,0,0
+1545054736772,15097,Tentativa de Login,200,OK,Thread Group 1-87,true,70,70,https://homologacao.ufms.br/siscad/academico,12000,0,0
+1545054737967,14147,Tentativa de Login,200,OK,Thread Group 1-61,true,70,70,https://homologacao.ufms.br/siscad/academico,10762,0,0
+1545054751870,257,GET dados básicos da matrícula,200,OK,Thread Group 1-87,false,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,104,0,0
+1545054752128,282,POST dados básicos da matrícula,200,OK,Thread Group 1-87,true,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,128,0,0
+1545054752115,354,GET dados básicos da matrícula,200,OK,Thread Group 1-61,false,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,89,0,0
+1545054752411,254,Post seleção de disciplinas,200,OK,Thread Group 1-87,true,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,99,0,0
+1545054736924,15744,Tentativa de Login,200,OK,Thread Group 1-15,true,70,70,https://homologacao.ufms.br/siscad/academico,11814,0,0
+1545054736931,15750,Tentativa de Login,200,OK,Thread Group 1-97,true,70,70,https://homologacao.ufms.br/siscad/academico,12545,0,0
+1545054752470,327,POST dados básicos da matrícula,200,OK,Thread Group 1-61,true,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,113,0,0
+1545054737964,15053,Tentativa de Login,200,OK,Thread Group 1-52,true,70,70,https://homologacao.ufms.br/siscad/academico,11680,0,0
+1545054752682,407,GET dados básicos da matrícula,200,OK,Thread Group 1-97,false,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,156,0,0
+1545054752669,510,GET dados básicos da matrícula,200,OK,Thread Group 1-15,false,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,195,0,0
+1545054752665,561,Post revisão de seleção,200,OK,Thread Group 1-87,true,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,171,0,0
+1545054737648,15634,Tentativa de Login,200,OK,Thread Group 1-30,true,70,70,https://homologacao.ufms.br/siscad/academico,11995,0,0
+1545054753018,418,GET dados básicos da matrícula,200,OK,Thread Group 1-52,false,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,112,0,0
+1545054752797,661,Post seleção de disciplinas,200,OK,Thread Group 1-61,true,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,158,0,0
+1545054736865,16652,Tentativa de Login,200,OK,Thread Group 1-76,true,70,70,https://homologacao.ufms.br/siscad/academico,13117,0,0
+1545054736856,16670,Tentativa de Login,200,OK,Thread Group 1-84,true,70,70,https://homologacao.ufms.br/siscad/academico,13073,0,0
+1545054737966,15621,Tentativa de Login,200,OK,Thread Group 1-36,true,70,70,https://homologacao.ufms.br/siscad/academico,12034,0,0
+1545054737655,16013,Tentativa de Login,200,OK,Thread Group 1-32,true,70,70,https://homologacao.ufms.br/siscad/academico,12192,0,0
+1545054736827,16976,Tentativa de Login,200,OK,Thread Group 1-82,true,70,70,https://homologacao.ufms.br/siscad/academico,13157,0,0
+1545054753180,833,POST dados básicos da matrícula,200,OK,Thread Group 1-15,true,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,195,0,0
+1545054753283,785,GET dados básicos da matrícula,200,OK,Thread Group 1-30,false,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,298,0,0
+1545054737648,16460,Tentativa de Login,200,OK,Thread Group 1-27,true,70,70,https://homologacao.ufms.br/siscad/academico,12213,0,0
+1545054737640,16470,Tentativa de Login,200,OK,Thread Group 1-18,true,70,70,https://homologacao.ufms.br/siscad/academico,12638,0,0
+1545054753527,607,GET dados básicos da matrícula,200,OK,Thread Group 1-84,false,70,70,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,311,0,0
+1545054753226,913,Logout,200,OK,Thread Group 1-87,true,70,70,https://homologacao.ufms.br/siscad/,311,0,0
+1545054753437,711,POST dados básicos da matrícula,200,OK,Thread Group 1-52,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,344,0,0
+1545054753089,1074,POST dados básicos da matrícula,200,OK,Thread Group 1-97,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,258,0,0
+1545054753459,758,Post revisão de seleção,200,OK,Thread Group 1-61,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,514,0,0
+1545054753518,870,GET dados básicos da matrícula,200,OK,Thread Group 1-76,false,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,360,0,0
+1545054753670,729,GET dados básicos da matrícula,200,OK,Thread Group 1-32,false,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,351,0,0
+1545054753588,817,GET dados básicos da matrícula,200,OK,Thread Group 1-36,false,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,329,0,0
+1545054736142,18295,Tentativa de Login,200,OK,Thread Group 1-53,true,69,69,https://homologacao.ufms.br/siscad/academico,13800,0,0
+1545054754014,424,Post seleção de disciplinas,200,OK,Thread Group 1-15,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,211,0,0
+1545054737755,16700,Tentativa de Login,200,OK,Thread Group 1-17,true,69,69,https://homologacao.ufms.br/siscad/academico,12438,0,0
+1545054754069,536,POST dados básicos da matrícula,200,OK,Thread Group 1-30,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,253,0,0
+1545054754162,444,Post seleção de disciplinas,200,OK,Thread Group 1-97,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,176,0,0
+1545054754147,510,Post seleção de disciplinas,200,OK,Thread Group 1-52,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,233,0,0
+1545054754404,301,POST dados básicos da matrícula,200,OK,Thread Group 1-36,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,142,0,0
+1545054754439,318,Post revisão de seleção,200,OK,Thread Group 1-15,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,142,0,0
+1545054754111,694,GET dados básicos da matrícula,200,OK,Thread Group 1-18,false,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,219,0,0
+1545054754399,407,POST dados básicos da matrícula,200,OK,Thread Group 1-32,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,151,0,0
+1545054754437,376,GET dados básicos da matrícula,200,OK,Thread Group 1-53,false,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,115,0,0
+1545054754135,687,POST dados básicos da matrícula,200,OK,Thread Group 1-84,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,268,0,0
+1545054754455,368,GET dados básicos da matrícula,200,OK,Thread Group 1-17,false,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,111,0,0
+1545054754109,723,GET dados básicos da matrícula,200,OK,Thread Group 1-27,false,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,225,0,0
+1545054754606,249,Post seleção de disciplinas,200,OK,Thread Group 1-30,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,112,0,0
+1545054753804,1077,GET dados básicos da matrícula,200,OK,Thread Group 1-82,false,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,274,0,0
+1545054754388,493,POST dados básicos da matrícula,200,OK,Thread Group 1-76,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,155,0,0
+1545054738382,16553,Tentativa de Login,200,OK,Thread Group 1-44,true,69,69,https://homologacao.ufms.br/siscad/academico,11568,0,0
+1545054737384,17567,Tentativa de Login,200,OK,Thread Group 1-88,true,69,69,https://homologacao.ufms.br/siscad/academico,12869,0,0
+1545054754607,404,Post revisão de seleção,200,OK,Thread Group 1-97,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,123,0,0
+1545054754657,410,Post revisão de seleção,200,OK,Thread Group 1-52,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,97,0,0
+1545054754814,343,POST dados básicos da matrícula,200,OK,Thread Group 1-53,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,202,0,0
+1545054754807,397,Post seleção de disciplinas,200,OK,Thread Group 1-32,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,125,0,0
+1545054754705,576,Post seleção de disciplinas,200,OK,Thread Group 1-36,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,126,0,0
+1545054754822,629,Post seleção de disciplinas,200,OK,Thread Group 1-84,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,140,0,0
+1545054738098,17428,Tentativa de Login,200,OK,Thread Group 1-75,true,69,69,https://homologacao.ufms.br/siscad/academico,12919,0,0
+1545054738112,17415,Tentativa de Login,200,OK,Thread Group 1-63,true,69,69,https://homologacao.ufms.br/siscad/academico,12028,0,0
+1545054754824,745,POST dados básicos da matrícula,200,OK,Thread Group 1-17,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,186,0,0
+1545054754832,738,POST dados básicos da matrícula,200,OK,Thread Group 1-27,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,192,0,0
+1545054754806,766,POST dados básicos da matrícula,200,OK,Thread Group 1-18,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,144,0,0
+1545054754882,723,Post seleção de disciplinas,200,OK,Thread Group 1-76,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,186,0,0
+1545054754856,765,Post revisão de seleção,200,OK,Thread Group 1-30,true,69,69,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,244,0,0
+1545054755068,578,Logout,200,OK,Thread Group 1-52,true,69,69,https://homologacao.ufms.br/siscad/,193,0,0
+1545054737649,18008,Tentativa de Login,200,OK,Thread Group 1-38,true,68,68,https://homologacao.ufms.br/siscad/academico,12831,0,0
+1545054754758,900,Logout,200,OK,Thread Group 1-15,true,68,68,https://homologacao.ufms.br/siscad/,253,0,0
+1545054755012,650,Logout,200,OK,Thread Group 1-97,true,67,67,https://homologacao.ufms.br/siscad/,231,0,0
+1545054755205,502,Post revisão de seleção,200,OK,Thread Group 1-32,true,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,260,0,0
+1545054755452,313,Post revisão de seleção,200,OK,Thread Group 1-84,true,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,146,0,0
+1545054754935,855,GET dados básicos da matrícula,200,OK,Thread Group 1-44,false,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,131,0,0
+1545054754881,912,POST dados básicos da matrícula,200,OK,Thread Group 1-82,true,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,232,0,0
+1545054754951,842,GET dados básicos da matrícula,200,OK,Thread Group 1-88,false,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,171,0,0
+1545054755281,565,Post revisão de seleção,200,OK,Thread Group 1-36,true,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,183,0,0
+1545054737613,18234,Tentativa de Login,200,OK,Thread Group 1-35,true,66,66,https://homologacao.ufms.br/siscad/academico,12626,0,0
+1545054755605,247,Post revisão de seleção,200,OK,Thread Group 1-76,true,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,108,0,0
+1545054755569,500,Post seleção de disciplinas,200,OK,Thread Group 1-17,true,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,132,0,0
+1545054755572,507,Post seleção de disciplinas,200,OK,Thread Group 1-18,true,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,136,0,0
+1545054755571,543,Post seleção de disciplinas,200,OK,Thread Group 1-27,true,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,163,0,0
+1545054755657,457,GET dados básicos da matrícula,200,OK,Thread Group 1-38,false,66,66,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,120,0,0
+1545054754220,1911,Logout,200,OK,Thread Group 1-61,true,66,66,https://homologacao.ufms.br/siscad/,666,0,0
+1545054755622,526,Logout,200,OK,Thread Group 1-30,true,65,65,https://homologacao.ufms.br/siscad/,117,0,0
+1545054737965,18197,Tentativa de Login,200,OK,Thread Group 1-58,true,64,64,https://homologacao.ufms.br/siscad/academico,12651,0,0
+1545054737962,18202,Tentativa de Login,200,OK,Thread Group 1-31,true,64,64,https://homologacao.ufms.br/siscad/academico,12250,0,0
+1545054755539,635,GET dados básicos da matrícula,200,OK,Thread Group 1-63,false,64,64,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,173,0,0
+1545054755847,354,Logout,200,OK,Thread Group 1-36,true,64,64,https://homologacao.ufms.br/siscad/,131,0,0
+1545054738103,18124,Tentativa de Login,200,OK,Thread Group 1-67,true,63,63,https://homologacao.ufms.br/siscad/academico,12360,0,0
+1545054755793,513,Post seleção de disciplinas,200,OK,Thread Group 1-82,true,63,63,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,146,0,0
+1545054755707,627,Logout,200,OK,Thread Group 1-32,true,63,63,https://homologacao.ufms.br/siscad/,163,0,0
+1545054755848,576,GET dados básicos da matrícula,200,OK,Thread Group 1-35,false,62,62,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,163,0,0
+1545054755766,727,Logout,200,OK,Thread Group 1-84,true,62,62,https://homologacao.ufms.br/siscad/,133,0,0
+1545054737869,18715,Tentativa de Login,200,OK,Thread Group 1-41,true,61,61,https://homologacao.ufms.br/siscad/academico,13364,0,0
+1545054755158,1429,Post seleção de disciplinas,200,OK,Thread Group 1-53,true,61,61,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,310,0,0
+1545054755790,827,POST dados básicos da matrícula,200,OK,Thread Group 1-44,true,61,61,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,122,0,0
+1545054755852,800,Logout,200,OK,Thread Group 1-76,true,61,61,https://homologacao.ufms.br/siscad/,145,0,0
+1545054756162,490,GET dados básicos da matrícula,200,OK,Thread Group 1-58,false,61,61,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,162,0,0
+1545054736935,19736,Tentativa de Login,200,OK,Thread Group 1-68,true,60,60,https://homologacao.ufms.br/siscad/academico,14292,0,0
+1545054755793,925,POST dados básicos da matrícula,200,OK,Thread Group 1-88,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,157,0,0
+1545054738116,18647,Tentativa de Login,200,OK,Thread Group 1-79,true,60,60,https://homologacao.ufms.br/siscad/academico,12065,0,0
+1545054756175,617,POST dados básicos da matrícula,200,OK,Thread Group 1-63,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,207,0,0
+1545054756069,817,Post revisão de seleção,200,OK,Thread Group 1-17,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,216,0,0
+1545054756080,850,Post revisão de seleção,200,OK,Thread Group 1-18,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,275,0,0
+1545054755538,1445,GET dados básicos da matrícula,200,OK,Thread Group 1-75,false,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,793,0,292
+1545054756114,880,Post revisão de seleção,200,OK,Thread Group 1-27,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,224,0,0
+1545054756226,799,GET dados básicos da matrícula,200,OK,Thread Group 1-67,false,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,208,0,0
+1545054756115,910,POST dados básicos da matrícula,200,OK,Thread Group 1-38,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,271,0,0
+1545054756426,644,POST dados básicos da matrícula,200,OK,Thread Group 1-35,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,167,0,0
+1545054756165,906,GET dados básicos da matrícula,200,OK,Thread Group 1-31,false,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,206,0,0
+1545054736202,20943,Tentativa de Login,200,OK,Thread Group 1-49,true,60,60,https://homologacao.ufms.br/siscad/academico,16657,0,0
+1545054756307,900,Post revisão de seleção,200,OK,Thread Group 1-82,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,241,0,0
+1545054756587,644,Post revisão de seleção,200,OK,Thread Group 1-53,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,297,0,0
+1545054756584,740,GET dados básicos da matrícula,200,OK,Thread Group 1-41,false,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,242,0,0
+1545054756617,795,Post seleção de disciplinas,200,OK,Thread Group 1-44,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,295,0,0
+1545054756656,858,POST dados básicos da matrícula,200,OK,Thread Group 1-58,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,323,0,0
+1545054756671,906,GET dados básicos da matrícula,200,OK,Thread Group 1-68,false,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,305,0,0
+1545054756719,893,Post seleção de disciplinas,200,OK,Thread Group 1-88,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,320,0,0
+1545054756793,894,Post seleção de disciplinas,200,OK,Thread Group 1-63,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,357,0,0
+1545054757071,1604,Post seleção de disciplinas,200,OK,Thread Group 1-35,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,344,0,0
+1545054757025,1654,POST dados básicos da matrícula,200,OK,Thread Group 1-67,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,351,0,0
+1545054757026,1661,Post seleção de disciplinas,200,OK,Thread Group 1-38,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,415,0,0
+1545054756763,1945,GET dados básicos da matrícula,200,OK,Thread Group 1-79,false,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,438,0,92
+1545054756983,1808,POST dados básicos da matrícula,200,OK,Thread Group 1-75,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,330,0,0
+1545054757515,1337,Post seleção de disciplinas,200,OK,Thread Group 1-58,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,265,0,0
+1545054757146,1789,GET dados básicos da matrícula,200,OK,Thread Group 1-49,false,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,388,0,20
+1545054757325,1647,POST dados básicos da matrícula,200,OK,Thread Group 1-41,true,60,60,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,261,0,0
+1545054756930,2044,Logout,200,OK,Thread Group 1-18,true,60,60,https://homologacao.ufms.br/siscad/,244,0,0
+1545054756887,2106,Logout,200,OK,Thread Group 1-17,true,59,59,https://homologacao.ufms.br/siscad/,346,0,0
+1545054757071,1935,POST dados básicos da matrícula,200,OK,Thread Group 1-31,true,58,58,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,320,0,0
+1545054757208,1803,Logout,200,OK,Thread Group 1-82,true,58,58,https://homologacao.ufms.br/siscad/,310,0,0
+1545054757577,1555,POST dados básicos da matrícula,200,OK,Thread Group 1-68,true,57,57,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,278,0,0
+1545054757412,1806,Post revisão de seleção,200,OK,Thread Group 1-44,true,57,57,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,378,0,0
+1545054756994,2234,Logout,200,OK,Thread Group 1-27,true,57,57,https://homologacao.ufms.br/siscad/,376,0,0
+1545054757613,1621,Post revisão de seleção,200,OK,Thread Group 1-88,true,56,56,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,210,0,0
+1545054757232,2016,Logout,200,OK,Thread Group 1-53,true,56,56,https://homologacao.ufms.br/siscad/,287,0,0
+1545054758853,552,Post revisão de seleção,200,OK,Thread Group 1-58,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,262,0,0
+1545054759146,274,Post seleção de disciplinas,200,OK,Thread Group 1-68,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,108,0,0
+1545054758791,671,Post seleção de disciplinas,200,OK,Thread Group 1-75,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,173,0,0
+1545054737394,22127,Tentativa de Login,200,OK,Thread Group 1-46,true,55,55,https://homologacao.ufms.br/siscad/academico,15476,0,0
+1545054758709,821,POST dados básicos da matrícula,200,OK,Thread Group 1-79,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,154,0,0
+1545054759007,528,Post seleção de disciplinas,200,OK,Thread Group 1-31,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,177,0,0
+1545054758972,598,Post seleção de disciplinas,200,OK,Thread Group 1-41,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,226,0,0
+1545054737968,21627,Tentativa de Login,200,OK,Thread Group 1-40,true,55,55,https://homologacao.ufms.br/siscad/academico,14986,0,0
+1545054757687,1911,Post revisão de seleção,200,OK,Thread Group 1-63,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,872,0,0
+1545054758688,923,Post revisão de seleção,200,OK,Thread Group 1-38,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,166,0,0
+1545054758676,944,Post revisão de seleção,200,OK,Thread Group 1-35,true,55,55,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,132,0,0
+1545054759236,389,Logout,200,OK,Thread Group 1-88,true,55,55,https://homologacao.ufms.br/siscad/,124,0,0
+1545054758936,964,POST dados básicos da matrícula,200,OK,Thread Group 1-49,true,54,54,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,176,0,0
+1545054759901,246,Post seleção de disciplinas,200,OK,Thread Group 1-49,true,54,54,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,119,0,0
+1545054759220,1011,Logout,200,OK,Thread Group 1-44,true,54,54,https://homologacao.ufms.br/siscad/,199,0,0
+1545054758680,1558,Post seleção de disciplinas,200,OK,Thread Group 1-67,true,53,53,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,261,0,0
+1545054759600,656,Logout,200,OK,Thread Group 1-63,true,53,53,https://homologacao.ufms.br/siscad/,151,0,0
+1545054759621,637,Logout,200,OK,Thread Group 1-35,true,53,53,https://homologacao.ufms.br/siscad/,207,0,0
+1545054759613,655,Logout,200,OK,Thread Group 1-38,true,51,51,https://homologacao.ufms.br/siscad/,165,0,0
+1545054759536,745,Post revisão de seleção,200,OK,Thread Group 1-31,true,50,50,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,176,0,0
+1545054759406,975,Logout,200,OK,Thread Group 1-58,true,50,50,https://homologacao.ufms.br/siscad/,134,0,0
+1545054760171,326,Post revisão de seleção,200,OK,Thread Group 1-49,true,49,49,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,108,0,0
+1545054759532,968,Post seleção de disciplinas,200,OK,Thread Group 1-79,true,49,49,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,246,0,0
+1545054760239,306,Post revisão de seleção,200,OK,Thread Group 1-67,true,49,49,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,103,0,0
+1545054759464,1105,Post revisão de seleção,200,OK,Thread Group 1-75,true,49,49,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,131,0,0
+1545054760281,318,Logout,200,OK,Thread Group 1-31,true,49,49,https://homologacao.ufms.br/siscad/,162,0,0
+1545054759522,1079,GET dados básicos da matrícula,200,OK,Thread Group 1-46,false,49,49,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,515,0,75
+1545054759596,1006,GET dados básicos da matrícula,200,OK,Thread Group 1-40,false,48,48,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,624,0,135
+1545054759420,1200,Post revisão de seleção,200,OK,Thread Group 1-68,true,48,48,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,108,0,0
+1545054760570,439,Logout,200,OK,Thread Group 1-75,true,48,48,https://homologacao.ufms.br/siscad/,174,0,0
+1545054760621,453,Logout,200,OK,Thread Group 1-68,true,47,47,https://homologacao.ufms.br/siscad/,118,0,0
+1545054760603,479,POST dados básicos da matrícula,200,OK,Thread Group 1-40,true,46,46,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,128,0,0
+1545054759570,1549,Post revisão de seleção,200,OK,Thread Group 1-41,true,46,46,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,192,0,0
+1545054760601,548,POST dados básicos da matrícula,200,OK,Thread Group 1-46,true,46,46,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,340,0,0
+1545054738079,23154,Tentativa de Login,200,OK,Thread Group 1-70,true,46,46,https://homologacao.ufms.br/siscad/academico,14776,0,0
+1545054761083,234,Post seleção de disciplinas,200,OK,Thread Group 1-40,true,46,46,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,95,0,0
+1545054761120,221,Logout,200,OK,Thread Group 1-41,true,46,46,https://homologacao.ufms.br/siscad/,102,0,0
+1545054761149,209,Post seleção de disciplinas,200,OK,Thread Group 1-46,true,45,45,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,98,0,0
+1545054738842,22534,Tentativa de Login,200,OK,Thread Group 1-74,true,45,45,https://homologacao.ufms.br/siscad/academico,14067,0,0
+1545054738115,23348,Tentativa de Login,200,OK,Thread Group 1-37,true,45,45,https://homologacao.ufms.br/siscad/academico,17186,0,0
+1545054760545,929,Logout,200,OK,Thread Group 1-67,true,45,45,https://homologacao.ufms.br/siscad/,181,0,0
+1545054760500,1000,Post revisão de seleção,200,OK,Thread Group 1-79,true,44,44,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,135,0,0
+1545054760497,1030,Logout,200,OK,Thread Group 1-49,true,44,44,https://homologacao.ufms.br/siscad/,160,0,0
+1545054738140,23390,Tentativa de Login,200,OK,Thread Group 1-45,true,43,43,https://homologacao.ufms.br/siscad/academico,17143,0,0
+1545054736769,24762,Tentativa de Login,200,OK,Thread Group 1-7,true,43,43,https://homologacao.ufms.br/siscad/academico,18310,0,0
+1545054761318,230,Post revisão de seleção,200,OK,Thread Group 1-40,true,43,43,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,88,0,0
+1545054736819,24827,Tentativa de Login,200,OK,Thread Group 1-81,true,43,43,https://homologacao.ufms.br/siscad/academico,16402,0,0
+1545054738124,23525,Tentativa de Login,200,OK,Thread Group 1-42,true,43,43,https://homologacao.ufms.br/siscad/academico,15330,0,0
+1545054761235,450,GET dados básicos da matrícula,200,OK,Thread Group 1-70,false,43,43,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,95,0,0
+1545054738089,23666,Tentativa de Login,200,OK,Thread Group 1-71,true,43,43,https://homologacao.ufms.br/siscad/academico,15160,0,0
+1545054736934,24822,Tentativa de Login,200,OK,Thread Group 1-92,true,43,43,https://homologacao.ufms.br/siscad/academico,16092,0,0
+1545054738100,23656,Tentativa de Login,200,OK,Thread Group 1-78,true,43,43,https://homologacao.ufms.br/siscad/academico,14829,0,0
+1545054738087,23692,Tentativa de Login,200,OK,Thread Group 1-55,true,43,43,https://homologacao.ufms.br/siscad/academico,17207,0,0
+1545054736852,24937,Tentativa de Login,200,OK,Thread Group 1-19,true,43,43,https://homologacao.ufms.br/siscad/academico,16247,0,0
+1545054739087,22702,Tentativa de Login,200,OK,Thread Group 1-73,true,43,43,https://homologacao.ufms.br/siscad/academico,14283,0,0
+1545054761501,361,Logout,200,OK,Thread Group 1-79,true,43,43,https://homologacao.ufms.br/siscad/,168,0,0
+1545054736462,25408,Tentativa de Login,200,OK,Thread Group 1-85,true,42,42,https://homologacao.ufms.br/siscad/academico,16845,0,0
+1545054761359,623,Post revisão de seleção,200,OK,Thread Group 1-46,true,42,42,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,107,0,0
+1545054737803,24193,Tentativa de Login,200,OK,Thread Group 1-65,true,42,42,https://homologacao.ufms.br/siscad/academico,16809,0,0
+1545054737871,24195,Tentativa de Login,200,OK,Thread Group 1-39,true,42,42,https://homologacao.ufms.br/siscad/academico,15600,0,0
+1545054761686,428,POST dados básicos da matrícula,200,OK,Thread Group 1-70,true,42,42,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,96,0,0
+1545054738104,24028,Tentativa de Login,200,OK,Thread Group 1-66,true,42,42,https://homologacao.ufms.br/siscad/academico,15395,0,0
+1545054738081,24054,Tentativa de Login,200,OK,Thread Group 1-33,true,42,42,https://homologacao.ufms.br/siscad/academico,14895,0,0
+1545054738130,24005,Tentativa de Login,200,OK,Thread Group 1-24,true,42,42,https://homologacao.ufms.br/siscad/academico,16327,0,0
+1545054761983,276,Logout,200,OK,Thread Group 1-46,true,42,42,https://homologacao.ufms.br/siscad/,121,0,0
+1545054761549,742,Logout,200,OK,Thread Group 1-40,true,41,41,https://homologacao.ufms.br/siscad/,169,0,0
+1545054761647,646,GET dados básicos da matrícula,200,OK,Thread Group 1-81,false,41,41,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,108,0,0
+1545054761377,941,GET dados básicos da matrícula,200,OK,Thread Group 1-74,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,300,0,113
+1545054762115,223,Post seleção de disciplinas,200,OK,Thread Group 1-70,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,92,0,0
+1545054761790,555,GET dados básicos da matrícula,200,OK,Thread Group 1-19,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,101,0,0
+1545054761757,590,GET dados básicos da matrícula,200,OK,Thread Group 1-78,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,121,0,0
+1545054761756,602,GET dados básicos da matrícula,200,OK,Thread Group 1-71,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,156,0,0
+1545054738069,24295,Tentativa de Login,200,OK,Thread Group 1-57,true,40,40,https://homologacao.ufms.br/siscad/academico,14889,0,0
+1545054761757,608,GET dados básicos da matrícula,200,OK,Thread Group 1-92,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,116,0,0
+1545054738147,24220,Tentativa de Login,200,OK,Thread Group 1-28,true,40,40,https://homologacao.ufms.br/siscad/academico,17294,0,0
+1545054761649,744,GET dados básicos da matrícula,200,OK,Thread Group 1-42,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,143,0,0
+1545054761997,428,GET dados básicos da matrícula,200,OK,Thread Group 1-65,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,99,0,0
+1545054738110,24319,Tentativa de Login,200,OK,Thread Group 1-64,true,40,40,https://homologacao.ufms.br/siscad/academico,16649,0,0
+1545054738149,24281,Tentativa de Login,200,OK,Thread Group 1-99,true,40,40,https://homologacao.ufms.br/siscad/academico,16600,0,0
+1545054762067,365,GET dados básicos da matrícula,200,OK,Thread Group 1-39,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,84,0,0
+1545054761532,904,GET dados básicos da matrícula,200,OK,Thread Group 1-45,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,471,0,230
+1545054737868,24572,Tentativa de Login,200,OK,Thread Group 1-22,true,40,40,https://homologacao.ufms.br/siscad/academico,17213,0,0
+1545054761534,915,GET dados básicos da matrícula,200,OK,Thread Group 1-7,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,469,0,231
+1545054762136,333,GET dados básicos da matrícula,200,OK,Thread Group 1-33,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,109,0,0
+1545054738105,24374,Tentativa de Login,200,OK,Thread Group 1-54,true,40,40,https://homologacao.ufms.br/siscad/academico,17017,0,0
+1545054738107,24380,Tentativa de Login,200,OK,Thread Group 1-26,true,40,40,https://homologacao.ufms.br/siscad/academico,17380,0,0
+1545054762137,374,GET dados básicos da matrícula,200,OK,Thread Group 1-24,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,108,0,0
+1545054761791,724,GET dados básicos da matrícula,200,OK,Thread Group 1-73,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,104,0,0
+1545054761871,646,GET dados básicos da matrícula,200,OK,Thread Group 1-85,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,110,0,0
+1545054738164,24371,Tentativa de Login,200,OK,Thread Group 1-80,true,40,40,https://homologacao.ufms.br/siscad/academico,16447,0,0
+1545054738838,23697,Tentativa de Login,200,OK,Thread Group 1-48,true,40,40,https://homologacao.ufms.br/siscad/academico,16590,0,0
+1545054761465,1095,GET dados básicos da matrícula,200,OK,Thread Group 1-37,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,90,0,0
+1545054739074,23500,Tentativa de Login,200,OK,Thread Group 1-47,true,40,40,https://homologacao.ufms.br/siscad/academico,16192,0,0
+1545054738111,24470,Tentativa de Login,200,OK,Thread Group 1-56,true,40,40,https://homologacao.ufms.br/siscad/academico,16640,0,0
+1545054762295,305,POST dados básicos da matrícula,200,OK,Thread Group 1-81,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,91,0,0
+1545054738108,24548,Tentativa de Login,200,OK,Thread Group 1-51,true,40,40,https://homologacao.ufms.br/siscad/academico,17335,0,0
+1545054736839,25819,Tentativa de Login,200,OK,Thread Group 1-25,true,40,40,https://homologacao.ufms.br/siscad/academico,18840,0,0
+1545054739074,23593,Tentativa de Login,200,OK,Thread Group 1-72,true,40,40,https://homologacao.ufms.br/siscad/academico,16374,0,0
+1545054738088,24587,Tentativa de Login,200,OK,Thread Group 1-59,true,40,40,https://homologacao.ufms.br/siscad/academico,17708,0,0
+1545054762346,343,POST dados básicos da matrícula,200,OK,Thread Group 1-19,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,100,0,0
+1545054762318,377,POST dados básicos da matrícula,200,OK,Thread Group 1-74,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,97,0,0
+1545054762348,374,POST dados básicos da matrícula,200,OK,Thread Group 1-78,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,113,0,0
+1545054738109,24623,Tentativa de Login,200,OK,Thread Group 1-69,true,40,40,https://homologacao.ufms.br/siscad/academico,17325,0,0
+1545054737961,24795,Tentativa de Login,200,OK,Thread Group 1-34,true,40,40,https://homologacao.ufms.br/siscad/academico,17714,0,0
+1545054738114,24643,Tentativa de Login,200,OK,Thread Group 1-43,true,40,40,https://homologacao.ufms.br/siscad/academico,17326,0,0
+1545054762369,405,GET dados básicos da matrícula,200,OK,Thread Group 1-28,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,109,0,0
+1545054738165,24620,Tentativa de Login,200,OK,Thread Group 1-29,true,40,40,https://homologacao.ufms.br/siscad/academico,17610,0,0
+1545054762437,362,POST dados básicos da matrícula,200,OK,Thread Group 1-45,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,122,0,0
+1545054762339,461,Post revisão de seleção,200,OK,Thread Group 1-70,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,123,0,0
+1545054762365,438,GET dados básicos da matrícula,200,OK,Thread Group 1-57,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,117,0,0
+1545054762366,459,POST dados básicos da matrícula,200,OK,Thread Group 1-92,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,117,0,0
+1545054762359,474,POST dados básicos da matrícula,200,OK,Thread Group 1-71,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,115,0,0
+1545054738101,24768,Tentativa de Login,200,OK,Thread Group 1-86,true,40,40,https://homologacao.ufms.br/siscad/academico,17107,0,0
+1545054762133,760,GET dados básicos da matrícula,200,OK,Thread Group 1-66,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,351,0,122
+1545054762433,463,POST dados básicos da matrícula,200,OK,Thread Group 1-39,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,173,0,0
+1545054762432,465,GET dados básicos da matrícula,200,OK,Thread Group 1-99,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,179,0,0
+1545054762394,515,POST dados básicos da matrícula,200,OK,Thread Group 1-42,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,136,0,0
+1545054761781,1135,GET dados básicos da matrícula,200,OK,Thread Group 1-55,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,335,0,118
+1545054736927,26024,Tentativa de Login,200,OK,Thread Group 1-21,true,40,40,https://homologacao.ufms.br/siscad/academico,18868,0,0
+1545054762489,464,GET dados básicos da matrícula,200,OK,Thread Group 1-26,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,132,0,0
+1545054762426,538,POST dados básicos da matrícula,200,OK,Thread Group 1-65,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,176,0,0
+1545054762470,534,POST dados básicos da matrícula,200,OK,Thread Group 1-33,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,162,0,0
+1545054762517,493,POST dados básicos da matrícula,200,OK,Thread Group 1-85,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,165,0,0
+1545054762442,608,GET dados básicos da matrícula,200,OK,Thread Group 1-22,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,285,0,60
+1545054762450,606,POST dados básicos da matrícula,200,OK,Thread Group 1-7,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,183,0,0
+1545054762537,537,GET dados básicos da matrícula,200,OK,Thread Group 1-80,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,151,0,0
+1545054762431,708,GET dados básicos da matrícula,200,OK,Thread Group 1-64,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,172,0,0
+1545054762516,639,POST dados básicos da matrícula,200,OK,Thread Group 1-73,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,169,0,0
+1545054762601,569,Post seleção de disciplinas,200,OK,Thread Group 1-81,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,181,0,0
+1545054762561,616,POST dados básicos da matrícula,200,OK,Thread Group 1-37,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,205,0,0
+1545054762669,519,GET dados básicos da matrícula,200,OK,Thread Group 1-72,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,153,0,0
+1545054762512,677,POST dados básicos da matrícula,200,OK,Thread Group 1-24,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,131,0,0
+1545054762576,615,GET dados básicos da matrícula,200,OK,Thread Group 1-47,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,199,0,0
+1545054762583,609,GET dados básicos da matrícula,200,OK,Thread Group 1-56,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,192,0,0
+1545054762660,562,GET dados básicos da matrícula,200,OK,Thread Group 1-25,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,154,0,0
+1545054762733,497,Post seleção de disciplinas,200,OK,Thread Group 1-78,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,196,0,0
+1545054762482,748,GET dados básicos da matrícula,200,OK,Thread Group 1-54,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,228,0,0
+1545054762689,561,Post seleção de disciplinas,200,OK,Thread Group 1-19,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,220,0,0
+1545054762696,572,Post seleção de disciplinas,200,OK,Thread Group 1-74,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,243,0,0
+1545054762787,499,GET dados básicos da matrícula,200,OK,Thread Group 1-29,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,202,0,0
+1545054762759,537,GET dados básicos da matrícula,200,OK,Thread Group 1-43,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,214,0,0
+1545054762804,494,POST dados básicos da matrícula,200,OK,Thread Group 1-57,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,196,0,0
+1545054762734,595,GET dados básicos da matrícula,200,OK,Thread Group 1-69,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,296,0,0
+1545054762834,532,Post seleção de disciplinas,200,OK,Thread Group 1-71,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,212,0,0
+1545054762658,714,GET dados básicos da matrícula,200,OK,Thread Group 1-51,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,148,0,0
+1545054762871,508,GET dados básicos da matrícula,200,OK,Thread Group 1-86,false,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,192,0,0
+1545054762826,566,Post seleção de disciplinas,200,OK,Thread Group 1-92,true,40,40,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,233,0,0
+1545054762800,619,Logout,200,OK,Thread Group 1-70,true,40,40,https://homologacao.ufms.br/siscad/,237,0,0
+1545054762799,632,Post seleção de disciplinas,200,OK,Thread Group 1-45,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,237,0,0
+1545054762537,895,GET dados básicos da matrícula,200,OK,Thread Group 1-48,false,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,157,0,0
+1545054762894,555,POST dados básicos da matrícula,200,OK,Thread Group 1-66,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,242,0,0
+1545054762953,501,GET dados básicos da matrícula,200,OK,Thread Group 1-21,false,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,184,0,0
+1545054762677,799,GET dados básicos da matrícula,200,OK,Thread Group 1-59,false,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,222,0,0
+1545054762758,719,GET dados básicos da matrícula,200,OK,Thread Group 1-34,false,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,254,0,0
+1545054762897,580,Post seleção de disciplinas,200,OK,Thread Group 1-39,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,306,0,0
+1545054762775,707,POST dados básicos da matrícula,200,OK,Thread Group 1-28,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,279,0,0
+1545054763004,489,Post seleção de disciplinas,200,OK,Thread Group 1-33,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,189,0,0
+1545054762909,590,Post seleção de disciplinas,200,OK,Thread Group 1-42,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,248,0,0
+1545054762898,639,POST dados básicos da matrícula,200,OK,Thread Group 1-99,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,268,0,0
+1545054762954,607,POST dados básicos da matrícula,200,OK,Thread Group 1-26,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,321,0,0
+1545054762964,607,Post seleção de disciplinas,200,OK,Thread Group 1-65,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,262,0,0
+1545054762917,669,POST dados básicos da matrícula,200,OK,Thread Group 1-55,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,219,0,0
+1545054763057,627,Post seleção de disciplinas,200,OK,Thread Group 1-7,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,212,0,0
+1545054763011,678,Post seleção de disciplinas,200,OK,Thread Group 1-85,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,241,0,0
+1545054763140,567,POST dados básicos da matrícula,200,OK,Thread Group 1-64,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,254,0,0
+1545054763050,694,POST dados básicos da matrícula,200,OK,Thread Group 1-22,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,283,0,0
+1545054763190,572,Post seleção de disciplinas,200,OK,Thread Group 1-24,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,164,0,0
+1545054763230,552,Post revisão de seleção,200,OK,Thread Group 1-78,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,208,0,0
+1545054763229,563,POST dados básicos da matrícula,200,OK,Thread Group 1-25,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,280,0,0
+1545054763156,637,Post seleção de disciplinas,200,OK,Thread Group 1-73,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,270,0,0
+1545054763170,625,Post revisão de seleção,200,OK,Thread Group 1-81,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,275,0,0
+1545054763287,509,POST dados básicos da matrícula,200,OK,Thread Group 1-29,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,180,0,0
+1545054763178,622,Post seleção de disciplinas,200,OK,Thread Group 1-37,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,185,0,0
+1545054763189,611,POST dados básicos da matrícula,200,OK,Thread Group 1-72,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,259,0,0
+1545054763251,559,Post revisão de seleção,200,OK,Thread Group 1-19,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,208,0,0
+1545054763231,604,POST dados básicos da matrícula,200,OK,Thread Group 1-54,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,210,0,0
+1545054763297,570,POST dados básicos da matrícula,200,OK,Thread Group 1-43,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,216,0,0
+1545054763074,802,POST dados básicos da matrícula,200,OK,Thread Group 1-80,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,313,0,0
+1545054763192,692,POST dados básicos da matrícula,200,OK,Thread Group 1-47,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,336,0,0
+1545054763298,593,Post seleção de disciplinas,200,OK,Thread Group 1-57,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,248,0,0
+1545054763193,704,POST dados básicos da matrícula,200,OK,Thread Group 1-56,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,223,0,0
+1545054763500,476,Post revisão de seleção,200,OK,Thread Group 1-42,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,177,0,0
+1545054763269,720,Post revisão de seleção,200,OK,Thread Group 1-74,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,243,0,0
+1545054763372,622,POST dados básicos da matrícula,200,OK,Thread Group 1-51,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,266,0,0
+1545054763330,673,POST dados básicos da matrícula,200,OK,Thread Group 1-69,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,254,0,0
+1545054763455,564,POST dados básicos da matrícula,200,OK,Thread Group 1-21,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,185,0,0
+1545054763380,639,POST dados básicos da matrícula,200,OK,Thread Group 1-86,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,261,0,0
+1545054763366,666,Post revisão de seleção,200,OK,Thread Group 1-71,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,224,0,0
+1545054763393,646,Post revisão de seleção,200,OK,Thread Group 1-92,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,321,0,0
+1545054763433,636,POST dados básicos da matrícula,200,OK,Thread Group 1-48,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,230,0,0
+1545054763432,652,Post revisão de seleção,200,OK,Thread Group 1-45,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,201,0,0
+1545054763478,613,Post revisão de seleção,200,OK,Thread Group 1-39,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,247,0,0
+1545054763493,599,Post revisão de seleção,200,OK,Thread Group 1-33,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,246,0,0
+1545054763477,621,POST dados básicos da matrícula,200,OK,Thread Group 1-34,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,184,0,0
+1545054763483,615,Post seleção de disciplinas,200,OK,Thread Group 1-28,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,260,0,0
+1545054763449,659,Post seleção de disciplinas,200,OK,Thread Group 1-66,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,347,0,0
+1545054763476,645,POST dados básicos da matrícula,200,OK,Thread Group 1-59,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,221,0,0
+1545054763537,640,Post seleção de disciplinas,200,OK,Thread Group 1-99,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,266,0,0
+1545054763571,622,Post revisão de seleção,200,OK,Thread Group 1-65,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,263,0,0
+1545054763562,671,Post seleção de disciplinas,200,OK,Thread Group 1-26,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,251,0,0
+1545054763685,570,Post revisão de seleção,200,OK,Thread Group 1-7,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,211,0,0
+1545054763587,683,Post seleção de disciplinas,200,OK,Thread Group 1-55,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,310,0,0
+1545054763763,536,Post revisão de seleção,200,OK,Thread Group 1-24,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,223,0,0
+1545054763744,593,Post seleção de disciplinas,200,OK,Thread Group 1-22,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,231,0,0
+1545054763800,565,Post seleção de disciplinas,200,OK,Thread Group 1-72,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,261,0,0
+1545054763707,674,Post seleção de disciplinas,200,OK,Thread Group 1-64,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,320,0,0
+1545054763836,612,Post seleção de disciplinas,200,OK,Thread Group 1-54,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,254,0,0
+1545054763793,666,Post revisão de seleção,200,OK,Thread Group 1-73,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,289,0,0
+1545054763793,670,Post seleção de disciplinas,200,OK,Thread Group 1-25,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,286,0,0
+1545054763797,677,Post seleção de disciplinas,200,OK,Thread Group 1-29,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,281,0,0
+1545054763801,685,Post revisão de seleção,200,OK,Thread Group 1-37,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,294,0,0
+1545054763877,612,Post seleção de disciplinas,200,OK,Thread Group 1-80,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,232,0,0
+1545054763885,605,Post seleção de disciplinas,200,OK,Thread Group 1-47,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,225,0,0
+1545054763898,596,Post seleção de disciplinas,200,OK,Thread Group 1-56,true,39,39,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,279,0,0
+1545054763810,686,Logout,200,OK,Thread Group 1-19,true,39,39,https://homologacao.ufms.br/siscad/,223,0,0
+1545054763892,613,Post revisão de seleção,200,OK,Thread Group 1-57,true,38,38,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,265,0,0
+1545054763783,723,Logout,200,OK,Thread Group 1-78,true,38,38,https://homologacao.ufms.br/siscad/,262,0,0
+1545054763796,715,Logout,200,OK,Thread Group 1-81,true,37,37,https://homologacao.ufms.br/siscad/,222,0,0
+1545054763976,558,Logout,200,OK,Thread Group 1-42,true,36,36,https://homologacao.ufms.br/siscad/,206,0,0
+1545054763868,673,Post seleção de disciplinas,200,OK,Thread Group 1-43,true,35,35,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,267,0,0
+1545054763690,866,Post revisão de seleção,200,OK,Thread Group 1-85,true,35,35,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,243,0,0
+1545054763995,603,Post seleção de disciplinas,200,OK,Thread Group 1-51,true,35,35,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,339,0,0
+1545054764098,503,Post seleção de disciplinas,200,OK,Thread Group 1-34,true,35,35,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,203,0,0
+1545054763990,627,Logout,200,OK,Thread Group 1-74,true,35,35,https://homologacao.ufms.br/siscad/,225,0,0
+1545054764020,604,Post seleção de disciplinas,200,OK,Thread Group 1-86,true,34,34,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,219,0,0
+1545054764178,487,Post revisão de seleção,200,OK,Thread Group 1-99,true,34,34,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,251,0,0
+1545054764099,586,Post revisão de seleção,200,OK,Thread Group 1-28,true,34,34,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,223,0,0
+1545054764092,593,Logout,200,OK,Thread Group 1-33,true,34,34,https://homologacao.ufms.br/siscad/,180,0,0
+1545054764020,666,Post seleção de disciplinas,200,OK,Thread Group 1-21,true,34,34,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,263,0,0
+1545054764108,589,Post revisão de seleção,200,OK,Thread Group 1-66,true,33,33,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,227,0,0
+1545054764122,596,Post seleção de disciplinas,200,OK,Thread Group 1-59,true,33,33,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,271,0,0
+1545054764084,657,Logout,200,OK,Thread Group 1-45,true,33,33,https://homologacao.ufms.br/siscad/,196,0,0
+1545054764300,466,Logout,200,OK,Thread Group 1-24,true,32,32,https://homologacao.ufms.br/siscad/,185,0,0
+1545054764194,587,Logout,200,OK,Thread Group 1-65,true,31,31,https://homologacao.ufms.br/siscad/,215,0,0
+1545054764246,543,Post revisão de seleção,200,OK,Thread Group 1-26,true,30,30,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,272,0,0
+1545054764091,711,Logout,200,OK,Thread Group 1-39,true,30,30,https://homologacao.ufms.br/siscad/,238,0,0
+1545054764004,802,Post seleção de disciplinas,200,OK,Thread Group 1-69,true,29,29,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,267,0,0
+1545054764256,564,Logout,200,OK,Thread Group 1-7,true,29,29,https://homologacao.ufms.br/siscad/,249,0,0
+1545054764033,799,Logout,200,OK,Thread Group 1-71,true,28,28,https://homologacao.ufms.br/siscad/,239,0,0
+1545054764381,462,Post revisão de seleção,200,OK,Thread Group 1-64,true,27,27,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,176,0,0
+1545054764070,794,Post seleção de disciplinas,200,OK,Thread Group 1-48,true,27,27,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,216,0,0
+1545054764039,833,Logout,200,OK,Thread Group 1-92,true,27,27,https://homologacao.ufms.br/siscad/,205,0,0
+1545054764450,437,Post revisão de seleção,200,OK,Thread Group 1-54,true,26,26,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,239,0,0
+1545054764271,634,Post revisão de seleção,200,OK,Thread Group 1-55,true,26,26,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,323,0,0
+1545054764464,457,Post revisão de seleção,200,OK,Thread Group 1-25,true,26,26,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,206,0,0
+1545054764460,469,Logout,200,OK,Thread Group 1-73,true,26,26,https://homologacao.ufms.br/siscad/,200,0,0
+1545054764494,449,Post revisão de seleção,200,OK,Thread Group 1-56,true,25,25,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,139,0,0
+1545054764366,583,Post revisão de seleção,200,OK,Thread Group 1-72,true,25,25,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,299,0,0
+1545054764486,480,Logout,200,OK,Thread Group 1-37,true,25,25,https://homologacao.ufms.br/siscad/,203,0,0
+1545054764338,651,Post revisão de seleção,200,OK,Thread Group 1-22,true,24,24,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,343,0,0
+1545054764490,500,Post revisão de seleção,200,OK,Thread Group 1-80,true,24,24,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,268,0,0
+1545054764490,501,Post revisão de seleção,200,OK,Thread Group 1-47,true,24,24,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,244,0,0
+1545054764475,526,Post revisão de seleção,200,OK,Thread Group 1-29,true,24,24,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,294,0,0
+1545054764556,471,Logout,200,OK,Thread Group 1-85,true,24,24,https://homologacao.ufms.br/siscad/,196,0,0
+1545054764542,498,Post revisão de seleção,200,OK,Thread Group 1-43,true,23,23,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,249,0,0
+1545054764625,428,Post revisão de seleção,200,OK,Thread Group 1-86,true,23,23,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,197,0,0
+1545054764599,460,Post revisão de seleção,200,OK,Thread Group 1-51,true,23,23,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,180,0,0
+1545054764666,396,Logout,200,OK,Thread Group 1-99,true,23,23,https://homologacao.ufms.br/siscad/,179,0,0
+1545054764602,462,Post revisão de seleção,200,OK,Thread Group 1-34,true,23,23,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,172,0,0
+1545054764687,387,Post revisão de seleção,200,OK,Thread Group 1-21,true,22,22,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,211,0,0
+1545054764718,357,Post revisão de seleção,200,OK,Thread Group 1-59,true,22,22,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,124,0,0
+1545054764685,398,Logout,200,OK,Thread Group 1-28,true,22,22,https://homologacao.ufms.br/siscad/,192,0,0
+1545054764506,589,Logout,200,OK,Thread Group 1-57,true,21,21,https://homologacao.ufms.br/siscad/,256,0,0
+1545054764698,423,Logout,200,OK,Thread Group 1-66,true,20,20,https://homologacao.ufms.br/siscad/,198,0,0
+1545054764808,356,Post revisão de seleção,200,OK,Thread Group 1-69,true,19,19,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,147,0,0
+1545054764865,325,Post revisão de seleção,200,OK,Thread Group 1-48,true,19,19,https://homologacao.ufms.br/siscad/matricula/selecoes/erro,144,0,0
+1545054764790,404,Logout,200,OK,Thread Group 1-26,true,19,19,https://homologacao.ufms.br/siscad/,172,0,0
+1545054764950,299,Logout,200,OK,Thread Group 1-72,true,18,18,https://homologacao.ufms.br/siscad/,153,0,0
+1545054764905,345,Logout,200,OK,Thread Group 1-55,true,18,18,https://homologacao.ufms.br/siscad/,138,0,0
+1545054764887,553,Logout,200,OK,Thread Group 1-54,true,16,16,https://homologacao.ufms.br/siscad/,134,0,0
+1545054764944,532,Logout,200,OK,Thread Group 1-56,true,15,15,https://homologacao.ufms.br/siscad/,166,0,0
+1545054764844,635,Logout,200,OK,Thread Group 1-64,true,14,14,https://homologacao.ufms.br/siscad/,187,0,0
+1545054764921,560,Logout,200,OK,Thread Group 1-25,true,13,13,https://homologacao.ufms.br/siscad/,164,0,0
+1545054764991,522,Logout,200,OK,Thread Group 1-47,true,12,12,https://homologacao.ufms.br/siscad/,145,0,0
+1545054765076,437,Logout,200,OK,Thread Group 1-59,true,12,12,https://homologacao.ufms.br/siscad/,152,0,0
+1545054764991,543,Logout,200,OK,Thread Group 1-80,true,10,10,https://homologacao.ufms.br/siscad/,159,0,0
+1545054765059,478,Logout,200,OK,Thread Group 1-51,true,9,9,https://homologacao.ufms.br/siscad/,159,0,0
+1545054765075,464,Logout,200,OK,Thread Group 1-21,true,9,9,https://homologacao.ufms.br/siscad/,152,0,0
+1545054765001,539,Logout,200,OK,Thread Group 1-29,true,8,8,https://homologacao.ufms.br/siscad/,200,0,0
+1545054765191,357,Logout,200,OK,Thread Group 1-48,true,6,6,https://homologacao.ufms.br/siscad/,146,0,0
+1545054765065,496,Logout,200,OK,Thread Group 1-34,true,5,5,https://homologacao.ufms.br/siscad/,163,0,0
+1545054765041,532,Logout,200,OK,Thread Group 1-43,true,4,4,https://homologacao.ufms.br/siscad/,132,0,0
+1545054765164,442,Logout,200,OK,Thread Group 1-69,true,3,3,https://homologacao.ufms.br/siscad/,101,0,0
+1545054765053,612,Logout,200,OK,Thread Group 1-86,true,2,2,https://homologacao.ufms.br/siscad/,137,0,0
+1545054764990,1784,Logout,200,OK,Thread Group 1-22,true,1,1,https://homologacao.ufms.br/siscad/,229,0,0

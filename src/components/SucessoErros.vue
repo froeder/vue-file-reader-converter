@@ -46,17 +46,28 @@
         </v-card-text>
       </v-card>
     </v-flex>
+    <v-flex xs12>
+      <v-card >
+        <v-card-title>
+          Quantidade de Usuários ativos
+        </v-card-title>
+        <v-card-text>
+          <div v-html="canvas_user">
+          </div>
+        </v-card-text>
+      </v-card>
+    </v-flex>
     <br>
     </v-layout>
   </v-container>
 </template>
 
 <script>
-import Chart from "chart.js"
-import sucessosErrosChartData from "./charts/sucessos-erros.js"
-import responseCodeChartData from "./charts/response-code.js"
-import ChartDataLabels from "chartjs-plugin-datalabels"
-import Papa from "papaparse"
+import Chart from "chart.js";
+import sucessosErrosChartData from "./charts/sucessos-erros.js";
+import responseCodeChartData from "./charts/response-code.js";
+import ChartDataLabels from "chartjs-plugin-datalabels";
+import Papa from "papaparse";
 
 export default {
   data() {
@@ -79,10 +90,11 @@ export default {
       response50x: 0,
       responseNao: 0,
       canvas_response_code: "",
-      canvas: '',
+      canvas: "",
+      canvas_user: "",
       qtde_true: 0,
       qtde_false: 0
-    }
+    };
   },
   created() {
     /* for (var i = 0 i < 3 i++) {
@@ -93,8 +105,8 @@ export default {
   mounted() {},
   methods: {
     createChartResponseCode(chartId, chartData) {
-      this.loading = false
-      const ctx = document.getElementById(chartId)
+      this.loading = false;
+      const ctx = document.getElementById(chartId);
       const myChart = new Chart(ctx, {
         plugins: [ChartDataLabels],
         type: chartData.type,
@@ -123,112 +135,108 @@ export default {
           ]
         },
         options: chartData.options
-      })
+      });
     },
     createChartSucessosErros(chartId, chartData) {
-      this.loading = false
-      const ctx = document.getElementById(chartId)
+      this.loading = false;
+      const ctx = document.getElementById(chartId);
       const myChart = new Chart(ctx, {
         plugins: [ChartDataLabels],
         type: chartData.type,
         data: {
-          labels: ['True', 'False'],
+          labels: ["True", "False"],
           datasets: [
             {
               // one line graph
               label: "Response Code",
-              data: [
-                this.qtde_true,
-                this.qtde_false
-              ],
-              backgroundColor: [
-                "rgb(255, 99, 132)",
-                "rgb(54, 162, 235)"
-              ],
+              data: [this.qtde_true, this.qtde_false],
+              backgroundColor: ["rgb(255, 99, 132)", "rgb(54, 162, 235)"],
               borderWidth: 3
             }
           ]
         },
         options: chartData.options
-      })
+      });
     },
-    confereResponseCode(dados) {
-      if (dados.responseCode === "200") {
-        this.response20x++
+    confereResponseCode(responseCode) {
+      if (responseCode === "200") {
+        this.response20x++;
       } else if (
-        dados.responseCode === "301" ||
-        dados.responseCode === "302" ||
-        dados.responseCode === "304"
+        responseCode === "301" ||
+        responseCode === "302" ||
+        responseCode === "304"
       ) {
-        this.response30x++
-      } else if (dados.responseCode === "400" || dados.responseCode === "404") {
-        this.response40x++
-      } else if (dados.responseCode === "500" || dados.responseCode === "502") {
-        this.response50x++
-      } else this.responseNao++
+        this.response30x++;
+      } else if (responseCode === "400" || responseCode === "404") {
+        this.response40x++;
+      } else if (responseCode === "500" || responseCode === "502") {
+        this.response50x++;
+      } else this.responseNao++;
     },
-    contaSucessoErros(status){
-      if(status === 'true'){
-        this.qtde_true++
-      } else if(status === 'false'){
-        this.qtde_false++
+    contaSucessoErros(status) {
+      if (status === "true") {
+        this.qtde_true++;
+      } else if (status === "false") {
+        this.qtde_false++;
       }
-      console.log(this.qtde_false)
-      console.log(this.qtde_true)
     },
-    plotaGraficos(){
-      this.createChartResponseCode(
-        "response-code",
-        this.responseCodeChartData
-      )
+    converteParaData(timestamp) {
+      console.log(timestamp);
+      let data = new Date(timestamp);
+      let ano = data.getFullYear();
+      console.log(ano);
+    },
+    plotaGraficos() {
+      this.createChartResponseCode("response-code", this.responseCodeChartData);
 
       this.createChartSucessosErros(
         "sucessos-erros",
         this.sucessosErrosChartData
-      )
+      );
     },
     pegarCategoria(dado) {
-      let dados = dado[0]
-      console.log(dados)
+      let dados = dado[0];
 
-      for (var i = 0 ; i < dados.length ;i++) {
+      for (var i = 0; i < dados.length; i++) {
         //this.timestamp.push(dados[i].timeStamp)
         //this.response.push(dados[i].responseCode)
-        this.confereResponseCode(dados[i])
-        this.contaSucessoErros(dados[i].success)
+        this.confereResponseCode(dados[i].responseCode);
+        this.contaSucessoErros(dados[i].success);
+        this.converteParaData(dados[i].timeStamp);
       }
 
-      this.plotaGraficos()
+      this.plotaGraficos();
     },
     converterObjeto(obj) {
-      this.dados.push(obj.data)
+      this.dados.push(obj.data);
 
-      this.pegarCategoria(this.dados)
+      this.pegarCategoria(this.dados);
     },
     converterArquivo(arquivo) {
-      let self = this
+      let self = this;
       Papa.parse(arquivo, {
         header: true,
         complete: function(results) {
-          this.objeto = results
-          self.converterObjeto(results)
+          this.objeto = results;
+          self.converterObjeto(results);
         }
-      })
+      });
     },
     selecionarArquivo(e) {
-      this.canvas_response_code = `<canvas id="response-code"></canvas>`
-      this.canvas = `<canvas id="sucessos-erros"></canvas>`
-      this.loading = true
-      var input = e.target
+      this.canvas_response_code = `<canvas id="response-code"></canvas>`;
+      this.canvas = `<canvas id="sucessos-erros"></canvas>`;
+      this.canvas_user = '<canvas id="user"></canvas>';
+      this.loading = true;
+      var input = e.target;
 
-      var file = input.files[0]
-      this.arquivo = file.name
-      this.file = file
+      var file = input.files[0];
+      this.arquivo = file.name;
+      this.file = file;
 
-      this.converterArquivo(file)
+      this.converterArquivo(file);
     }
   }
-}
+};
 </script>
 
 <style>
