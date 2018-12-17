@@ -1,0 +1,701 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1545054725101,1527,Get Página Inicial,200,OK,Thread Group 1-1,true,,144726,100,100,57,1,0,CPCG-150518
+1545054725111,1521,Get Página Inicial,200,OK,Thread Group 1-2,true,,144981,100,100,67,1,0,CPCG-150518
+1545054725188,1525,Get Página Inicial,200,OK,Thread Group 1-8,true,,144923,100,100,172,1,0,CPCG-150518
+1545054725124,1650,Get Página Inicial,200,OK,Thread Group 1-3,true,,145022,100,100,264,1,0,CPCG-150518
+1545054725292,1496,Get Página Inicial,200,OK,Thread Group 1-13,true,,144906,100,100,80,1,0,CPCG-150518
+1545054725235,1553,Get Página Inicial,200,OK,Thread Group 1-11,true,,144941,100,100,107,1,0,CPCG-150518
+1545054725230,1573,Get Página Inicial,200,OK,Thread Group 1-10,true,,145009,100,100,129,1,0,CPCG-150518
+1545054725226,1577,Get Página Inicial,200,OK,Thread Group 1-9,true,,145148,100,100,114,1,0,CPCG-150518
+1545054725289,1540,Get Página Inicial,200,OK,Thread Group 1-12,true,,144860,100,100,87,1,0,CPCG-150518
+1545054725298,1572,Get Página Inicial,200,OK,Thread Group 1-14,true,,144608,100,100,290,1,0,CPCG-150518
+1545054725138,1796,Get Página Inicial,200,OK,Thread Group 1-4,true,,144997,100,100,430,1,0,CPCG-150518
+1545054725168,4676,Get Página Inicial,200,OK,Thread Group 1-6,true,,144994,100,100,1439,1,0,CPCG-150518
+1545054726151,8722,Get Página Inicial,200,OK,Thread Group 1-60,true,,145138,100,100,2960,1,0,CPCG-150518
+1545054726264,8609,Get Página Inicial,200,OK,Thread Group 1-83,true,,144835,100,100,3649,1,0,CPCG-150518
+1545054726158,8721,Get Página Inicial,200,OK,Thread Group 1-62,true,,144939,100,100,2980,1,0,CPCG-150518
+1545054726421,8669,Get Página Inicial,200,OK,Thread Group 1-98,true,,144834,100,100,3575,1,0,CPCG-150518
+1545054726389,8745,Get Página Inicial,200,OK,Thread Group 1-95,true,,144773,100,100,3613,1,0,CPCG-150518
+1545054725564,9603,Get Página Inicial,200,OK,Thread Group 1-16,true,,144835,100,100,2007,1,0,CPCG-150518
+1545054725617,9637,Get Página Inicial,200,OK,Thread Group 1-20,true,,144962,100,100,1955,1,0,CPCG-150518
+1545054726328,8929,Get Página Inicial,200,OK,Thread Group 1-89,true,,144989,100,100,3669,1,0,CPCG-150518
+1545054725145,10238,Get Página Inicial,200,OK,Thread Group 1-5,true,,144752,100,100,1465,1,0,CPCG-150518
+1545054726400,9409,Get Página Inicial,200,OK,Thread Group 1-96,true,,145167,100,100,3586,1,0,CPCG-150518
+1545054726368,9480,Get Página Inicial,200,OK,Thread Group 1-93,true,,144907,100,100,3664,1,0,CPCG-150518
+1545054726338,9513,Get Página Inicial,200,OK,Thread Group 1-90,true,,144776,100,100,3620,1,0,CPCG-150518
+1545054726209,9750,Get Página Inicial,200,OK,Thread Group 1-77,true,,144827,100,100,3408,1,0,CPCG-150518
+1545054726351,9612,Get Página Inicial,200,OK,Thread Group 1-91,true,,144934,100,100,3704,1,0,CPCG-150518
+1545054726380,9752,Get Página Inicial,200,OK,Thread Group 1-94,true,,145064,100,100,3649,1,0,CPCG-150518
+1545054726128,10015,Get Página Inicial,200,OK,Thread Group 1-53,true,,145046,100,100,2801,1,0,CPCG-150518
+1545054725648,10518,Get Página Inicial,200,OK,Thread Group 1-23,true,,144828,100,100,2058,1,0,CPCG-150518
+1545054726092,10092,Get Página Inicial,200,OK,Thread Group 1-50,true,,144966,100,100,2714,1,0,CPCG-150518
+1545054726533,9659,Get Página Inicial,200,OK,Thread Group 1-100,true,,144817,100,100,3473,1,0,CPCG-150518
+1545054726088,10115,Get Página Inicial,200,OK,Thread Group 1-49,true,,144900,100,100,2712,1,0,CPCG-150518
+1545054726285,10177,Get Página Inicial,200,OK,Thread Group 1-85,true,,144684,100,100,3684,1,0,CPCG-150518
+1545054725182,11586,Get Página Inicial,200,OK,Thread Group 1-7,true,,145046,100,100,2017,1,0,CPCG-150518
+1545054726310,10462,Get Página Inicial,200,OK,Thread Group 1-87,true,,144858,100,100,3742,1,0,CPCG-150518
+1545054726248,10571,Get Página Inicial,200,OK,Thread Group 1-81,true,,144961,100,100,3655,1,0,CPCG-150518
+1545054726255,10572,Get Página Inicial,200,OK,Thread Group 1-82,true,,145000,100,100,3605,1,0,CPCG-150518
+1545054725693,11145,Get Página Inicial,200,OK,Thread Group 1-25,true,,144882,100,100,2142,1,0,CPCG-150518
+1545054725606,11246,Get Página Inicial,200,OK,Thread Group 1-19,true,,144900,100,100,1993,1,0,CPCG-150518
+1545054726278,10579,Get Página Inicial,200,OK,Thread Group 1-84,true,,145034,100,100,3629,1,0,CPCG-150518
+1545054726207,10658,Get Página Inicial,200,OK,Thread Group 1-76,true,,144817,100,100,3626,1,0,CPCG-150518
+1545054725551,11373,Get Página Inicial,200,OK,Thread Group 1-15,true,,145023,100,100,1885,1,0,CPCG-150518
+1545054725624,11303,Get Página Inicial,200,OK,Thread Group 1-21,true,,145050,100,100,2077,1,0,CPCG-150518
+1545054726410,10521,Get Página Inicial,200,OK,Thread Group 1-97,true,,145004,100,100,3627,1,0,CPCG-150518
+1545054726174,10759,Get Página Inicial,200,OK,Thread Group 1-68,true,,145103,100,100,3751,1,0,CPCG-150518
+1545054726360,10575,Get Página Inicial,200,OK,Thread Group 1-92,true,,144891,100,100,3665,1,0,CPCG-150518
+1545054726317,11068,Get Página Inicial,200,OK,Thread Group 1-88,true,,145140,100,100,3586,1,0,CPCG-150518
+1545054726005,11389,Get Página Inicial,200,OK,Thread Group 1-46,true,,144959,100,100,2676,1,0,CPCG-150518
+1545054725927,11686,Get Página Inicial,200,OK,Thread Group 1-35,true,,144948,100,100,2646,1,0,CPCG-150518
+1545054725600,12040,Get Página Inicial,200,OK,Thread Group 1-18,true,,144777,100,100,1991,1,0,CPCG-150518
+1545054725871,11777,Get Página Inicial,200,OK,Thread Group 1-30,true,,145055,100,100,2682,1,0,CPCG-150518
+1545054725702,11946,Get Página Inicial,200,OK,Thread Group 1-27,true,,144936,100,100,2158,1,0,CPCG-150518
+1545054725875,11775,Get Página Inicial,200,OK,Thread Group 1-38,true,,145133,100,100,2813,1,0,CPCG-150518
+1545054725802,11852,Get Página Inicial,200,OK,Thread Group 1-32,true,,144790,100,100,2320,1,0,CPCG-150518
+1545054725572,12183,Get Página Inicial,200,OK,Thread Group 1-17,true,,144859,100,100,1875,1,0,CPCG-150518
+1545054726166,11637,Get Página Inicial,200,OK,Thread Group 1-65,true,,144937,100,100,3039,1,0,CPCG-150518
+1545054725637,12230,Get Página Inicial,200,OK,Thread Group 1-22,true,,144966,100,100,2333,1,0,CPCG-150518
+1545054725901,11969,Get Página Inicial,200,OK,Thread Group 1-41,true,,144692,100,100,2566,1,0,CPCG-150518
+1545054725879,11991,Get Página Inicial,200,OK,Thread Group 1-39,true,,144917,100,100,2396,1,0,CPCG-150518
+1545054725824,12136,Get Página Inicial,200,OK,Thread Group 1-34,true,,144715,100,100,2440,1,0,CPCG-150518
+1545054725798,12163,Get Página Inicial,200,OK,Thread Group 1-31,true,,144926,100,100,2306,1,0,CPCG-150518
+1545054726126,11838,Get Página Inicial,200,OK,Thread Group 1-52,true,,144959,100,100,2831,1,0,CPCG-150518
+1545054726141,11824,Get Página Inicial,200,OK,Thread Group 1-58,true,,145148,100,100,2892,1,0,CPCG-150518
+1545054725896,12070,Get Página Inicial,200,OK,Thread Group 1-36,true,,144759,100,100,2573,1,0,CPCG-150518
+1545054726155,11812,Get Página Inicial,200,OK,Thread Group 1-61,true,,144904,100,100,2974,1,0,CPCG-150518
+1545054725892,12076,Get Página Inicial,200,OK,Thread Group 1-40,true,,144905,100,100,2784,1,0,CPCG-150518
+1545054726139,11930,Get Página Inicial,200,OK,Thread Group 1-57,true,,144992,100,100,2921,1,0,CPCG-150518
+1545054726188,11891,Get Página Inicial,200,OK,Thread Group 1-70,true,,144990,100,100,3271,1,0,CPCG-150518
+1545054725803,12277,Get Página Inicial,200,OK,Thread Group 1-33,true,,144915,100,100,2325,1,0,CPCG-150518
+1545054726134,11954,Get Página Inicial,200,OK,Thread Group 1-55,true,,144757,100,100,3234,1,0,CPCG-150518
+1545054726147,11942,Get Página Inicial,200,OK,Thread Group 1-59,true,,144912,100,100,2923,1,0,CPCG-150518
+1545054726192,11898,Get Página Inicial,200,OK,Thread Group 1-71,true,,144986,100,100,3286,1,0,CPCG-150518
+1545054726203,11895,Get Página Inicial,200,OK,Thread Group 1-75,true,,144844,100,100,3326,1,0,CPCG-150518
+1545054726212,11888,Get Página Inicial,200,OK,Thread Group 1-78,true,,145110,100,100,3540,1,0,CPCG-150518
+1545054726295,11807,Get Página Inicial,200,OK,Thread Group 1-86,true,,144840,100,100,3645,1,0,CPCG-150518
+1545054726171,11933,Get Página Inicial,200,OK,Thread Group 1-67,true,,144878,100,100,3004,1,0,CPCG-150518
+1545054726178,11927,Get Página Inicial,200,OK,Thread Group 1-66,true,,145124,100,100,3024,1,0,CPCG-150518
+1545054726131,11975,Get Página Inicial,200,OK,Thread Group 1-54,true,,144852,100,100,2812,1,0,CPCG-150518
+1545054725698,12409,Get Página Inicial,200,OK,Thread Group 1-26,true,,144883,100,100,2152,1,0,CPCG-150518
+1545054726113,11996,Get Página Inicial,200,OK,Thread Group 1-51,true,,144862,100,100,2690,1,0,CPCG-150518
+1545054726183,11927,Get Página Inicial,200,OK,Thread Group 1-69,true,,145170,100,100,3320,1,0,CPCG-150518
+1545054726165,11946,Get Página Inicial,200,OK,Thread Group 1-64,true,,144854,100,100,2989,1,0,CPCG-150518
+1545054726138,11974,Get Página Inicial,200,OK,Thread Group 1-56,true,,145051,100,100,2919,1,0,CPCG-150518
+1545054726161,11952,Get Página Inicial,200,OK,Thread Group 1-63,true,,144869,100,100,3037,1,0,CPCG-150518
+1545054725933,12181,Get Página Inicial,200,OK,Thread Group 1-43,true,,144674,100,100,2741,1,0,CPCG-150518
+1545054725888,12228,Get Página Inicial,200,OK,Thread Group 1-37,true,,145015,100,100,2551,1,0,CPCG-150518
+1545054726224,11893,Get Página Inicial,200,OK,Thread Group 1-79,true,,144740,100,100,3562,1,0,CPCG-150518
+1545054725929,12196,Get Página Inicial,200,OK,Thread Group 1-42,true,,144984,100,100,2755,1,0,CPCG-150518
+1545054725686,12443,Get Página Inicial,200,OK,Thread Group 1-24,true,,144746,100,100,2140,1,0,CPCG-150518
+1545054725938,12202,Get Página Inicial,200,OK,Thread Group 1-45,true,,144857,100,100,2721,1,0,CPCG-150518
+1545054725792,12355,Get Página Inicial,200,OK,Thread Group 1-28,true,,144737,100,100,2172,1,0,CPCG-150518
+1545054726522,11627,Get Página Inicial,200,OK,Thread Group 1-99,true,,145033,100,100,3500,1,0,CPCG-150518
+1545054726233,11932,Get Página Inicial,200,OK,Thread Group 1-80,true,,144741,100,100,3561,1,0,CPCG-150518
+1545054725798,12367,Get Página Inicial,200,OK,Thread Group 1-29,true,,144837,100,100,2313,1,0,CPCG-150518
+1545054725884,12498,Get Página Inicial,200,OK,Thread Group 1-44,true,,144849,100,100,2869,1,0,CPCG-150518
+1545054726074,12764,Get Página Inicial,200,OK,Thread Group 1-48,true,,145119,100,100,2649,1,0,CPCG-150518
+1545054726201,12642,Get Página Inicial,200,OK,Thread Group 1-74,true,,144787,100,100,3370,1,0,CPCG-150518
+1545054726066,12993,Get Página Inicial,200,OK,Thread Group 1-47,true,,145013,100,100,2627,1,0,CPCG-150518
+1545054726193,12836,Get Página Inicial,200,OK,Thread Group 1-72,true,,144751,100,100,3317,1,0,CPCG-150518
+1545054726200,12888,Get Página Inicial,200,OK,Thread Group 1-73,true,,144851,100,100,3318,1,0,CPCG-150518
+1545054726788,13124,Tentativa de Login,200,OK,Thread Group 1-11,true,,508698,100,100,2601,1,0,CPCG-150518
+1545054726830,13085,Tentativa de Login,200,OK,Thread Group 1-12,true,,508689,100,100,2683,1,0,CPCG-150518
+1545054726647,13305,Tentativa de Login,200,OK,Thread Group 1-1,true,,508697,100,100,2399,1,0,CPCG-150518
+1545054726774,13191,Tentativa de Login,200,OK,Thread Group 1-3,true,,508690,100,100,2660,1,0,CPCG-150518
+1545054726789,13198,Tentativa de Login,200,OK,Thread Group 1-13,true,,508705,100,100,2746,1,0,CPCG-150518
+1545054726934,13066,Tentativa de Login,200,OK,Thread Group 1-4,true,,508696,100,100,2473,1,0,CPCG-150518
+1545054726714,13302,Tentativa de Login,200,OK,Thread Group 1-8,true,,508697,100,100,2538,1,0,CPCG-150518
+1545054726817,13204,Tentativa de Login,200,OK,Thread Group 1-10,true,,508697,100,100,2638,1,0,CPCG-150518
+1545054726870,13185,Tentativa de Login,200,OK,Thread Group 1-14,true,,508707,100,100,2576,1,0,CPCG-150518
+1545054726649,13471,Tentativa de Login,200,OK,Thread Group 1-2,true,,508697,100,100,2241,1,0,CPCG-150518
+1545054726816,13346,Tentativa de Login,200,OK,Thread Group 1-9,true,,508697,100,100,2508,1,0,CPCG-150518
+1545054739913,275,GET dados básicos da matrícula,200,OK,Thread Group 1-11,false,Não conseguiu acessar tela de matrícula,14869,100,100,121,1,1,CPCG-150518
+1545054739952,251,GET dados básicos da matrícula,200,OK,Thread Group 1-1,false,Não conseguiu acessar tela de matrícula,14869,100,100,106,1,1,CPCG-150518
+1545054739918,296,GET dados básicos da matrícula,200,OK,Thread Group 1-12,false,Não conseguiu acessar tela de matrícula,14869,100,100,105,1,1,CPCG-150518
+1545054729845,10393,Tentativa de Login,200,OK,Thread Group 1-6,true,,508698,100,100,2153,1,0,CPCG-150518
+1545054739988,257,GET dados básicos da matrícula,200,OK,Thread Group 1-13,false,Não conseguiu acessar tela de matrícula,14869,100,100,102,1,1,CPCG-150518
+1545054739965,313,GET dados básicos da matrícula,200,OK,Thread Group 1-3,false,Não conseguiu acessar tela de matrícula,14869,100,100,121,1,1,CPCG-150518
+1545054740017,265,GET dados básicos da matrícula,200,OK,Thread Group 1-8,false,Não conseguiu acessar tela de matrícula,14869,100,100,134,1,1,CPCG-150518
+1545054740002,299,GET dados básicos da matrícula,200,OK,Thread Group 1-4,false,Não conseguiu acessar tela de matrícula,14869,100,100,135,1,1,CPCG-150518
+1545054740055,266,GET dados básicos da matrícula,200,OK,Thread Group 1-14,false,Não conseguiu acessar tela de matrícula,14869,100,100,103,1,1,CPCG-150518
+1545054740021,311,GET dados básicos da matrícula,200,OK,Thread Group 1-10,false,Não conseguiu acessar tela de matrícula,14869,100,100,117,1,1,CPCG-150518
+1545054740131,272,GET dados básicos da matrícula,200,OK,Thread Group 1-2,false,Não conseguiu acessar tela de matrícula,14869,100,100,109,1,1,CPCG-150518
+1545054740162,250,GET dados básicos da matrícula,200,OK,Thread Group 1-9,false,Não conseguiu acessar tela de matrícula,14869,100,100,95,1,1,CPCG-150518
+1545054740189,289,POST dados básicos da matrícula,200,OK,Thread Group 1-11,true,,14870,100,100,126,1,0,CPCG-150518
+1545054740216,273,POST dados básicos da matrícula,200,OK,Thread Group 1-12,true,,14870,100,100,127,1,0,CPCG-150518
+1545054740205,313,POST dados básicos da matrícula,200,OK,Thread Group 1-1,true,,14870,100,100,106,1,0,CPCG-150518
+1545054740246,311,POST dados básicos da matrícula,200,OK,Thread Group 1-13,true,,14870,100,100,134,1,0,CPCG-150518
+1545054740283,281,POST dados básicos da matrícula,200,OK,Thread Group 1-8,true,,14870,100,100,99,1,0,CPCG-150518
+1545054740302,269,POST dados básicos da matrícula,200,OK,Thread Group 1-4,true,,14870,100,100,97,1,0,CPCG-150518
+1545054740279,292,POST dados básicos da matrícula,200,OK,Thread Group 1-3,true,,14870,100,100,95,1,0,CPCG-150518
+1545054740238,341,GET dados básicos da matrícula,200,OK,Thread Group 1-6,false,Não conseguiu acessar tela de matrícula,14870,100,100,92,1,1,CPCG-150518
+1545054740323,261,POST dados básicos da matrícula,200,OK,Thread Group 1-14,true,,14869,100,100,129,1,0,CPCG-150518
+1545054740413,221,POST dados básicos da matrícula,200,OK,Thread Group 1-9,true,,14869,100,100,86,1,0,CPCG-150518
+1545054740404,252,POST dados básicos da matrícula,200,OK,Thread Group 1-2,true,,14870,100,100,96,1,0,CPCG-150518
+1545054740497,241,Post seleção de disciplinas,200,OK,Thread Group 1-12,true,,14869,100,100,104,1,0,CPCG-150518
+1545054740478,268,Post seleção de disciplinas,200,OK,Thread Group 1-11,true,,14869,100,100,99,1,0,CPCG-150518
+1545054740520,259,Post seleção de disciplinas,200,OK,Thread Group 1-1,true,,14869,100,100,116,1,0,CPCG-150518
+1545054740558,236,Post seleção de disciplinas,200,OK,Thread Group 1-13,true,,14869,100,100,99,1,0,CPCG-150518
+1545054740565,232,Post seleção de disciplinas,200,OK,Thread Group 1-8,true,,14869,100,100,93,1,0,CPCG-150518
+1545054740334,478,POST dados básicos da matrícula,200,OK,Thread Group 1-10,true,,14870,100,100,309,1,0,CPCG-150518
+1545054740572,256,Post seleção de disciplinas,200,OK,Thread Group 1-3,true,,14869,100,100,111,1,0,CPCG-150518
+1545054740572,260,Post seleção de disciplinas,200,OK,Thread Group 1-4,true,,14869,100,100,92,1,0,CPCG-150518
+1545054740585,251,Post seleção de disciplinas,200,OK,Thread Group 1-14,true,,14869,100,100,104,1,0,CPCG-150518
+1545054740580,275,POST dados básicos da matrícula,200,OK,Thread Group 1-6,true,,14869,100,100,125,1,0,CPCG-150518
+1545054740635,255,Post seleção de disciplinas,200,OK,Thread Group 1-9,true,,14870,100,100,134,1,0,CPCG-150518
+1545054740656,280,Post seleção de disciplinas,200,OK,Thread Group 1-2,true,,14869,100,100,121,1,0,CPCG-150518
+1545054740738,256,Post revisão de seleção,200,OK,Thread Group 1-12,true,,14869,100,100,95,1,0,CPCG-150518
+1545054740747,284,Post revisão de seleção,200,OK,Thread Group 1-11,true,,14870,100,100,112,1,0,CPCG-150518
+1545054740797,261,Post revisão de seleção,200,OK,Thread Group 1-8,true,,14869,100,100,95,1,0,CPCG-150518
+1545054740780,322,Post revisão de seleção,200,OK,Thread Group 1-1,true,,14870,100,100,113,1,0,CPCG-150518
+1545054740829,282,Post revisão de seleção,200,OK,Thread Group 1-3,true,,14870,100,100,100,1,0,CPCG-150518
+1545054740833,285,Post revisão de seleção,200,OK,Thread Group 1-4,true,,14870,100,100,106,1,0,CPCG-150518
+1545054740795,325,Post revisão de seleção,200,OK,Thread Group 1-13,true,,14870,100,100,133,1,0,CPCG-150518
+1545054740837,284,Post revisão de seleção,200,OK,Thread Group 1-14,true,,14870,100,100,93,1,0,CPCG-150518
+1545054740813,329,Post seleção de disciplinas,200,OK,Thread Group 1-10,true,,14870,100,100,137,1,0,CPCG-150518
+1545054740891,276,Post revisão de seleção,200,OK,Thread Group 1-9,true,,14870,100,100,109,1,0,CPCG-150518
+1545054740937,251,Post revisão de seleção,200,OK,Thread Group 1-2,true,,14870,100,100,132,1,0,CPCG-150518
+1545054740857,369,Post seleção de disciplinas,200,OK,Thread Group 1-6,true,,14870,100,100,103,1,0,CPCG-150518
+1545054741143,195,Post revisão de seleção,200,OK,Thread Group 1-10,true,,14869,100,100,92,1,0,CPCG-150518
+1545054741227,186,Post revisão de seleção,200,OK,Thread Group 1-6,true,,14869,100,100,80,1,0,CPCG-150518
+1545054741032,995,Logout,200,OK,Thread Group 1-11,true,,81950,100,100,867,1,0,CPCG-150518
+1545054734873,7183,Tentativa de Login,200,OK,Thread Group 1-60,true,,508687,99,99,5063,1,0,CPCG-150518
+1545054741168,899,Logout,200,OK,Thread Group 1-9,true,,81950,99,99,733,1,0,CPCG-150518
+1545054741188,887,Logout,200,OK,Thread Group 1-2,true,,81950,98,98,717,1,0,CPCG-150518
+1545054741103,1030,Logout,200,OK,Thread Group 1-1,true,,81950,97,97,909,1,0,CPCG-150518
+1545054734873,7292,Tentativa de Login,200,OK,Thread Group 1-83,true,,508688,96,96,4937,1,0,CPCG-150518
+1545054741118,1049,Logout,200,OK,Thread Group 1-4,true,,81950,96,96,897,1,0,CPCG-150518
+1545054741112,1062,Logout,200,OK,Thread Group 1-3,true,,81949,95,95,904,1,0,CPCG-150518
+1545054740995,1205,Logout,200,OK,Thread Group 1-12,true,,81951,94,94,1084,1,0,CPCG-150518
+1545054741121,1127,Logout,200,OK,Thread Group 1-13,true,,81951,93,93,958,1,0,CPCG-150518
+1545054741121,1142,Logout,200,OK,Thread Group 1-14,true,,81951,92,92,960,1,0,CPCG-150518
+1545054741413,872,Logout,200,OK,Thread Group 1-6,true,,81951,91,91,691,1,0,CPCG-150518
+1545054742059,276,GET dados básicos da matrícula,200,OK,Thread Group 1-60,false,Não conseguiu acessar tela de matrícula,14870,90,90,125,1,1,CPCG-150518
+1545054741339,1005,Logout,200,OK,Thread Group 1-10,true,,81950,90,90,879,1,0,CPCG-150518
+1545054742167,249,GET dados básicos da matrícula,200,OK,Thread Group 1-83,false,Não conseguiu acessar tela de matrícula,14869,89,89,110,1,1,CPCG-150518
+1545054742335,183,POST dados básicos da matrícula,200,OK,Thread Group 1-60,true,,14869,89,89,83,1,0,CPCG-150518
+1545054742416,182,POST dados básicos da matrícula,200,OK,Thread Group 1-83,true,,14869,89,89,80,1,0,CPCG-150518
+1545054742519,184,Post seleção de disciplinas,200,OK,Thread Group 1-60,true,,14869,89,89,81,1,0,CPCG-150518
+1545054742599,199,Post seleção de disciplinas,200,OK,Thread Group 1-83,true,,14869,89,89,84,1,0,CPCG-150518
+1545054734879,8031,Tentativa de Login,200,OK,Thread Group 1-62,true,,508696,89,89,5814,1,0,CPCG-150518
+1545054742703,221,Post revisão de seleção,200,OK,Thread Group 1-60,true,,14869,89,89,88,1,0,CPCG-150518
+1545054742798,255,Post revisão de seleção,200,OK,Thread Group 1-83,true,,14869,89,89,87,1,0,CPCG-150518
+1545054742911,207,GET dados básicos da matrícula,200,OK,Thread Group 1-62,false,Não conseguiu acessar tela de matrícula,14869,89,89,88,1,1,CPCG-150518
+1545054743119,206,POST dados básicos da matrícula,200,OK,Thread Group 1-62,true,,14869,89,89,97,1,0,CPCG-150518
+1545054741059,2390,Logout,200,OK,Thread Group 1-8,true,,81952,89,89,2228,1,0,CPCG-150518
+1545054742925,561,Logout,200,OK,Thread Group 1-60,true,,81950,88,88,430,1,0,CPCG-150518
+1545054743326,230,Post seleção de disciplinas,200,OK,Thread Group 1-62,true,,14869,87,87,116,1,0,CPCG-150518
+1545054743557,222,Post revisão de seleção,200,OK,Thread Group 1-62,true,,14869,87,87,88,1,0,CPCG-150518
+1545054743053,777,Logout,200,OK,Thread Group 1-83,true,,81951,87,87,635,1,0,CPCG-150518
+1545054735168,8704,Tentativa de Login,200,OK,Thread Group 1-16,true,,508694,86,86,6674,1,0,CPCG-150518
+1545054743873,210,GET dados básicos da matrícula,200,OK,Thread Group 1-16,false,Não conseguiu acessar tela de matrícula,14870,86,86,94,1,1,CPCG-150518
+1545054735254,8984,Tentativa de Login,200,OK,Thread Group 1-20,true,,508687,86,86,6786,1,0,CPCG-150518
+1545054744084,220,POST dados básicos da matrícula,200,OK,Thread Group 1-16,true,,14869,86,86,92,1,0,CPCG-150518
+1545054735256,9100,Tentativa de Login,200,OK,Thread Group 1-89,true,,508687,86,86,7045,1,0,CPCG-150518
+1545054744240,377,GET dados básicos da matrícula,200,OK,Thread Group 1-20,false,Não conseguiu acessar tela de matrícula,14869,86,86,113,1,1,CPCG-150518
+1545054744358,306,GET dados básicos da matrícula,200,OK,Thread Group 1-89,false,Não conseguiu acessar tela de matrícula,14870,86,86,107,1,1,CPCG-150518
+1545054744304,345,Post seleção de disciplinas,200,OK,Thread Group 1-16,true,,14869,86,86,127,1,0,CPCG-150518
+1545054743779,893,Logout,200,OK,Thread Group 1-62,true,,81951,86,86,631,1,0,CPCG-150518
+1545054744618,218,POST dados básicos da matrícula,200,OK,Thread Group 1-20,true,,14869,85,85,105,1,0,CPCG-150518
+1545054744670,203,Post revisão de seleção,200,OK,Thread Group 1-16,true,,14869,85,85,94,1,0,CPCG-150518
+1545054744669,218,POST dados básicos da matrícula,200,OK,Thread Group 1-89,true,,14869,85,85,91,1,0,CPCG-150518
+1545054735090,9945,Tentativa de Login,200,OK,Thread Group 1-98,true,,508740,85,85,7744,1,0,CPCG-150518
+1545054744836,224,Post seleção de disciplinas,200,OK,Thread Group 1-20,true,,14869,85,85,91,1,0,CPCG-150518
+1545054744888,208,Post seleção de disciplinas,200,OK,Thread Group 1-89,true,,14869,85,85,92,1,0,CPCG-150518
+1545054744874,298,Logout,200,OK,Thread Group 1-16,true,,81950,85,85,146,1,0,CPCG-150518
+1545054735133,10092,Tentativa de Login,200,OK,Thread Group 1-95,true,,508697,84,84,7629,1,0,CPCG-150518
+1545054745060,234,Post revisão de seleção,200,OK,Thread Group 1-20,true,,14869,84,84,95,1,0,CPCG-150518
+1545054745037,277,GET dados básicos da matrícula,200,OK,Thread Group 1-98,false,Não conseguiu acessar tela de matrícula,14869,84,84,120,1,1,CPCG-150518
+1545054745097,259,Post revisão de seleção,200,OK,Thread Group 1-89,true,,14869,84,84,124,1,0,CPCG-150518
+1545054745227,252,GET dados básicos da matrícula,200,OK,Thread Group 1-95,false,Não conseguiu acessar tela de matrícula,14869,84,84,108,1,1,CPCG-150518
+1545054745315,226,POST dados básicos da matrícula,200,OK,Thread Group 1-98,true,,14869,84,84,98,1,0,CPCG-150518
+1545054745295,278,Logout,200,OK,Thread Group 1-20,true,,81949,84,84,155,1,0,CPCG-150518
+1545054745357,270,Logout,200,OK,Thread Group 1-89,true,,81950,83,83,142,1,0,CPCG-150518
+1545054745480,203,POST dados básicos da matrícula,200,OK,Thread Group 1-95,true,,14869,82,82,92,1,0,CPCG-150518
+1545054745541,211,Post seleção de disciplinas,200,OK,Thread Group 1-98,true,,14869,82,82,101,1,0,CPCG-150518
+1545054745684,201,Post seleção de disciplinas,200,OK,Thread Group 1-95,true,,14869,82,82,81,1,0,CPCG-150518
+1545054745753,226,Post revisão de seleção,200,OK,Thread Group 1-98,true,,14869,82,82,112,1,0,CPCG-150518
+1545054745886,189,Post revisão de seleção,200,OK,Thread Group 1-95,true,,14869,82,82,80,1,0,CPCG-150518
+1545054745980,293,Logout,200,OK,Thread Group 1-98,true,,81950,82,82,160,1,0,CPCG-150518
+1545054735384,11179,Tentativa de Login,200,OK,Thread Group 1-5,true,,508687,81,81,9049,1,0,CPCG-150518
+1545054746075,666,Logout,200,OK,Thread Group 1-95,true,,81951,81,81,517,1,0,CPCG-150518
+1545054746563,225,GET dados básicos da matrícula,200,OK,Thread Group 1-5,false,Não conseguiu acessar tela de matrícula,14870,80,80,109,1,1,CPCG-150518
+1545054746788,206,POST dados básicos da matrícula,200,OK,Thread Group 1-5,true,,14869,80,80,93,1,0,CPCG-150518
+1545054735850,11410,Tentativa de Login,200,OK,Thread Group 1-90,true,,508693,80,80,9252,1,0,CPCG-150518
+1545054746994,414,Post seleção de disciplinas,200,OK,Thread Group 1-5,true,,14869,80,80,87,1,0,CPCG-150518
+1545054735809,11670,Tentativa de Login,200,OK,Thread Group 1-96,true,,508689,80,80,9450,1,0,CPCG-150518
+1545054747261,283,GET dados básicos da matrícula,200,OK,Thread Group 1-90,false,Não conseguiu acessar tela de matrícula,14870,80,80,133,1,1,CPCG-150518
+1545054747409,231,Post revisão de seleção,200,OK,Thread Group 1-5,true,,14869,80,80,104,1,0,CPCG-150518
+1545054747480,211,GET dados básicos da matrícula,200,OK,Thread Group 1-96,false,Não conseguiu acessar tela de matrícula,14869,80,80,90,1,1,CPCG-150518
+1545054747545,265,POST dados básicos da matrícula,200,OK,Thread Group 1-90,true,,14869,80,80,104,1,0,CPCG-150518
+1545054747641,265,Logout,200,OK,Thread Group 1-5,true,,81950,80,80,118,1,0,CPCG-150518
+1545054747691,218,POST dados básicos da matrícula,200,OK,Thread Group 1-96,true,,14869,79,79,101,1,0,CPCG-150518
+1545054747811,202,Post seleção de disciplinas,200,OK,Thread Group 1-90,true,,14869,79,79,93,1,0,CPCG-150518
+1545054747910,211,Post seleção de disciplinas,200,OK,Thread Group 1-96,true,,14869,79,79,87,1,0,CPCG-150518
+1545054748013,208,Post revisão de seleção,200,OK,Thread Group 1-90,true,,14869,79,79,91,1,0,CPCG-150518
+1545054748122,217,Post revisão de seleção,200,OK,Thread Group 1-96,true,,14869,79,79,81,1,0,CPCG-150518
+1545054735959,12420,Tentativa de Login,200,OK,Thread Group 1-77,true,,508687,79,79,10298,1,0,CPCG-150518
+1545054736167,12359,Tentativa de Login,200,OK,Thread Group 1-23,true,,508687,79,79,10231,1,0,CPCG-150518
+1545054748381,233,GET dados básicos da matrícula,200,OK,Thread Group 1-77,false,Não conseguiu acessar tela de matrícula,14870,79,79,110,1,1,CPCG-150518
+1545054748339,442,Logout,200,OK,Thread Group 1-96,true,,81950,79,79,290,1,0,CPCG-150518
+1545054748527,317,GET dados básicos da matrícula,200,OK,Thread Group 1-23,false,Não conseguiu acessar tela de matrícula,14870,78,78,134,1,1,CPCG-150518
+1545054748222,629,Logout,200,OK,Thread Group 1-90,true,,81950,78,78,408,1,0,CPCG-150518
+1545054748615,272,POST dados básicos da matrícula,200,OK,Thread Group 1-77,true,,14869,77,77,134,1,0,CPCG-150518
+1545054748845,237,POST dados básicos da matrícula,200,OK,Thread Group 1-23,true,,14869,77,77,127,1,0,CPCG-150518
+1545054748887,230,Post seleção de disciplinas,200,OK,Thread Group 1-77,true,,14869,77,77,110,1,0,CPCG-150518
+1545054735963,13351,Tentativa de Login,200,OK,Thread Group 1-91,true,,508688,77,77,11097,1,0,CPCG-150518
+1545054749083,240,Post seleção de disciplinas,200,OK,Thread Group 1-23,true,,14869,77,77,115,1,0,CPCG-150518
+1545054749118,223,Post revisão de seleção,200,OK,Thread Group 1-77,true,,14869,77,77,96,1,0,CPCG-150518
+1545054736132,13230,Tentativa de Login,200,OK,Thread Group 1-94,true,,508687,77,77,11086,1,0,CPCG-150518
+1545054736183,13204,Tentativa de Login,200,OK,Thread Group 1-50,true,,508688,77,77,10980,1,0,CPCG-150518
+1545054735848,13545,Tentativa de Login,200,OK,Thread Group 1-93,true,,508695,77,77,11318,1,0,CPCG-150518
+1545054749324,206,Post revisão de seleção,200,OK,Thread Group 1-23,true,,14869,77,77,92,1,0,CPCG-150518
+1545054749314,219,GET dados básicos da matrícula,200,OK,Thread Group 1-91,false,Não conseguiu acessar tela de matrícula,14869,77,77,91,1,1,CPCG-150518
+1545054749363,214,GET dados básicos da matrícula,200,OK,Thread Group 1-94,false,Não conseguiu acessar tela de matrícula,14870,77,77,95,1,1,CPCG-150518
+1545054749388,210,GET dados básicos da matrícula,200,OK,Thread Group 1-50,false,Não conseguiu acessar tela de matrícula,14869,77,77,93,1,1,CPCG-150518
+1545054736192,13460,Tentativa de Login,200,OK,Thread Group 1-100,true,,508695,77,77,11034,1,0,CPCG-150518
+1545054749533,230,POST dados básicos da matrícula,200,OK,Thread Group 1-91,true,,14869,77,77,82,1,0,CPCG-150518
+1545054749341,452,Logout,200,OK,Thread Group 1-77,true,,81950,77,77,306,1,0,CPCG-150518
+1545054749578,227,POST dados básicos da matrícula,200,OK,Thread Group 1-94,true,,14869,76,76,92,1,0,CPCG-150518
+1545054749394,451,GET dados básicos da matrícula,200,OK,Thread Group 1-93,false,Não conseguiu acessar tela de matrícula,14869,76,76,310,1,1,CPCG-150518
+1545054749598,268,POST dados básicos da matrícula,200,OK,Thread Group 1-50,true,,14869,76,76,137,1,0,CPCG-150518
+1545054749653,288,GET dados básicos da matrícula,200,OK,Thread Group 1-100,false,Não conseguiu acessar tela de matrícula,14869,76,76,114,1,1,CPCG-150518
+1545054749764,293,Post seleção de disciplinas,200,OK,Thread Group 1-91,true,,14869,76,76,119,1,0,CPCG-150518
+1545054749806,295,Post seleção de disciplinas,200,OK,Thread Group 1-94,true,,14869,76,76,127,1,0,CPCG-150518
+1545054749530,711,Logout,200,OK,Thread Group 1-23,true,,81951,76,76,454,1,0,CPCG-150518
+1545054749866,413,Post seleção de disciplinas,200,OK,Thread Group 1-50,true,,14869,75,75,137,1,0,CPCG-150518
+1545054749846,477,POST dados básicos da matrícula,200,OK,Thread Group 1-93,true,,14869,75,75,177,1,0,CPCG-150518
+1545054749941,416,POST dados básicos da matrícula,200,OK,Thread Group 1-100,true,,14869,75,75,145,1,0,CPCG-150518
+1545054750057,585,Post revisão de seleção,200,OK,Thread Group 1-91,true,,14870,75,75,205,1,0,CPCG-150518
+1545054750280,411,Post revisão de seleção,200,OK,Thread Group 1-50,true,,14869,75,75,135,1,0,CPCG-150518
+1545054750102,607,Post revisão de seleção,200,OK,Thread Group 1-94,true,,14869,75,75,237,1,0,CPCG-150518
+1545054750358,406,Post seleção de disciplinas,200,OK,Thread Group 1-100,true,,14869,75,75,149,1,0,CPCG-150518
+1545054750324,541,Post seleção de disciplinas,200,OK,Thread Group 1-93,true,,14870,75,75,249,1,0,CPCG-150518
+1545054750765,325,Post revisão de seleção,200,OK,Thread Group 1-100,true,,14869,75,75,163,1,0,CPCG-150518
+1545054750643,508,Logout,200,OK,Thread Group 1-91,true,,81951,75,75,247,1,0,CPCG-150518
+1545054750865,387,Post revisão de seleção,200,OK,Thread Group 1-93,true,,14870,74,74,147,1,0,CPCG-150518
+1545054750710,550,Logout,200,OK,Thread Group 1-94,true,,81951,74,74,212,1,0,CPCG-150518
+1545054750692,569,Logout,200,OK,Thread Group 1-50,true,,81952,74,74,174,1,0,CPCG-150518
+1545054751253,441,Logout,200,OK,Thread Group 1-93,true,,81949,72,72,189,1,0,CPCG-150518
+1545054751091,642,Logout,200,OK,Thread Group 1-100,true,,81952,71,71,241,1,0,CPCG-150518
+1545054736772,15097,Tentativa de Login,200,OK,Thread Group 1-87,true,,508688,70,70,12000,1,0,CPCG-150518
+1545054737967,14147,Tentativa de Login,200,OK,Thread Group 1-61,true,,508696,70,70,10762,1,0,CPCG-150518
+1545054751870,257,GET dados básicos da matrícula,200,OK,Thread Group 1-87,false,Não conseguiu acessar tela de matrícula,14869,70,70,104,1,1,CPCG-150518
+1545054752128,282,POST dados básicos da matrícula,200,OK,Thread Group 1-87,true,,14869,70,70,128,1,0,CPCG-150518
+1545054752115,354,GET dados básicos da matrícula,200,OK,Thread Group 1-61,false,Não conseguiu acessar tela de matrícula,14869,70,70,89,1,1,CPCG-150518
+1545054752411,254,Post seleção de disciplinas,200,OK,Thread Group 1-87,true,,14869,70,70,99,1,0,CPCG-150518
+1545054736924,15744,Tentativa de Login,200,OK,Thread Group 1-15,true,,508688,70,70,11814,1,0,CPCG-150518
+1545054736931,15750,Tentativa de Login,200,OK,Thread Group 1-97,true,,508688,70,70,12545,1,0,CPCG-150518
+1545054752470,327,POST dados básicos da matrícula,200,OK,Thread Group 1-61,true,,14869,70,70,113,1,0,CPCG-150518
+1545054737964,15053,Tentativa de Login,200,OK,Thread Group 1-52,true,,508695,70,70,11680,1,0,CPCG-150518
+1545054752682,407,GET dados básicos da matrícula,200,OK,Thread Group 1-97,false,Não conseguiu acessar tela de matrícula,14869,70,70,156,1,1,CPCG-150518
+1545054752669,510,GET dados básicos da matrícula,200,OK,Thread Group 1-15,false,Não conseguiu acessar tela de matrícula,14870,70,70,195,1,1,CPCG-150518
+1545054752665,561,Post revisão de seleção,200,OK,Thread Group 1-87,true,,14871,70,70,171,1,0,CPCG-150518
+1545054737648,15634,Tentativa de Login,200,OK,Thread Group 1-30,true,,508711,70,70,11995,1,0,CPCG-150518
+1545054753018,418,GET dados básicos da matrícula,200,OK,Thread Group 1-52,false,Não conseguiu acessar tela de matrícula,14869,70,70,112,1,1,CPCG-150518
+1545054752797,661,Post seleção de disciplinas,200,OK,Thread Group 1-61,true,,14871,70,70,158,1,0,CPCG-150518
+1545054736865,16652,Tentativa de Login,200,OK,Thread Group 1-76,true,,508703,70,70,13117,1,0,CPCG-150518
+1545054736856,16670,Tentativa de Login,200,OK,Thread Group 1-84,true,,508688,70,70,13073,1,0,CPCG-150518
+1545054737966,15621,Tentativa de Login,200,OK,Thread Group 1-36,true,,508688,70,70,12034,1,0,CPCG-150518
+1545054737655,16013,Tentativa de Login,200,OK,Thread Group 1-32,true,,508687,70,70,12192,1,0,CPCG-150518
+1545054736827,16976,Tentativa de Login,200,OK,Thread Group 1-82,true,,508688,70,70,13157,1,0,CPCG-150518
+1545054753180,833,POST dados básicos da matrícula,200,OK,Thread Group 1-15,true,,14870,70,70,195,1,0,CPCG-150518
+1545054753283,785,GET dados básicos da matrícula,200,OK,Thread Group 1-30,false,Não conseguiu acessar tela de matrícula,14871,70,70,298,1,1,CPCG-150518
+1545054737648,16460,Tentativa de Login,200,OK,Thread Group 1-27,true,,508688,70,70,12213,1,0,CPCG-150518
+1545054737640,16470,Tentativa de Login,200,OK,Thread Group 1-18,true,,508696,70,70,12638,1,0,CPCG-150518
+1545054753527,607,GET dados básicos da matrícula,200,OK,Thread Group 1-84,false,Não conseguiu acessar tela de matrícula,14870,70,70,311,1,1,CPCG-150518
+1545054753226,913,Logout,200,OK,Thread Group 1-87,true,,81950,70,70,311,1,0,CPCG-150518
+1545054753437,711,POST dados básicos da matrícula,200,OK,Thread Group 1-52,true,,14871,69,69,344,1,0,CPCG-150518
+1545054753089,1074,POST dados básicos da matrícula,200,OK,Thread Group 1-97,true,,14871,69,69,258,1,0,CPCG-150518
+1545054753459,758,Post revisão de seleção,200,OK,Thread Group 1-61,true,,14869,69,69,514,1,0,CPCG-150518
+1545054753518,870,GET dados básicos da matrícula,200,OK,Thread Group 1-76,false,Não conseguiu acessar tela de matrícula,14870,69,69,360,1,1,CPCG-150518
+1545054753670,729,GET dados básicos da matrícula,200,OK,Thread Group 1-32,false,Não conseguiu acessar tela de matrícula,14871,69,69,351,1,1,CPCG-150518
+1545054753588,817,GET dados básicos da matrícula,200,OK,Thread Group 1-36,false,Não conseguiu acessar tela de matrícula,14870,69,69,329,1,1,CPCG-150518
+1545054736142,18295,Tentativa de Login,200,OK,Thread Group 1-53,true,,508697,69,69,13800,1,0,CPCG-150518
+1545054754014,424,Post seleção de disciplinas,200,OK,Thread Group 1-15,true,,14869,69,69,211,1,0,CPCG-150518
+1545054737755,16700,Tentativa de Login,200,OK,Thread Group 1-17,true,,508690,69,69,12438,1,0,CPCG-150518
+1545054754069,536,POST dados básicos da matrícula,200,OK,Thread Group 1-30,true,,14869,69,69,253,1,0,CPCG-150518
+1545054754162,444,Post seleção de disciplinas,200,OK,Thread Group 1-97,true,,14869,69,69,176,1,0,CPCG-150518
+1545054754147,510,Post seleção de disciplinas,200,OK,Thread Group 1-52,true,,14869,69,69,233,1,0,CPCG-150518
+1545054754404,301,POST dados básicos da matrícula,200,OK,Thread Group 1-36,true,,14869,69,69,142,1,0,CPCG-150518
+1545054754439,318,Post revisão de seleção,200,OK,Thread Group 1-15,true,,14869,69,69,142,1,0,CPCG-150518
+1545054754111,694,GET dados básicos da matrícula,200,OK,Thread Group 1-18,false,Não conseguiu acessar tela de matrícula,14870,69,69,219,1,1,CPCG-150518
+1545054754399,407,POST dados básicos da matrícula,200,OK,Thread Group 1-32,true,,14869,69,69,151,1,0,CPCG-150518
+1545054754437,376,GET dados básicos da matrícula,200,OK,Thread Group 1-53,false,Não conseguiu acessar tela de matrícula,14869,69,69,115,1,1,CPCG-150518
+1545054754135,687,POST dados básicos da matrícula,200,OK,Thread Group 1-84,true,,14870,69,69,268,1,0,CPCG-150518
+1545054754455,368,GET dados básicos da matrícula,200,OK,Thread Group 1-17,false,Não conseguiu acessar tela de matrícula,14869,69,69,111,1,1,CPCG-150518
+1545054754109,723,GET dados básicos da matrícula,200,OK,Thread Group 1-27,false,Não conseguiu acessar tela de matrícula,14870,69,69,225,1,1,CPCG-150518
+1545054754606,249,Post seleção de disciplinas,200,OK,Thread Group 1-30,true,,14869,69,69,112,1,0,CPCG-150518
+1545054753804,1077,GET dados básicos da matrícula,200,OK,Thread Group 1-82,false,Não conseguiu acessar tela de matrícula,14871,69,69,274,1,1,CPCG-150518
+1545054754388,493,POST dados básicos da matrícula,200,OK,Thread Group 1-76,true,,14870,69,69,155,1,0,CPCG-150518
+1545054738382,16553,Tentativa de Login,200,OK,Thread Group 1-44,true,,508690,69,69,11568,1,0,CPCG-150518
+1545054737384,17567,Tentativa de Login,200,OK,Thread Group 1-88,true,,508697,69,69,12869,1,0,CPCG-150518
+1545054754607,404,Post revisão de seleção,200,OK,Thread Group 1-97,true,,14869,69,69,123,1,0,CPCG-150518
+1545054754657,410,Post revisão de seleção,200,OK,Thread Group 1-52,true,,14869,69,69,97,1,0,CPCG-150518
+1545054754814,343,POST dados básicos da matrícula,200,OK,Thread Group 1-53,true,,14869,69,69,202,1,0,CPCG-150518
+1545054754807,397,Post seleção de disciplinas,200,OK,Thread Group 1-32,true,,14869,69,69,125,1,0,CPCG-150518
+1545054754705,576,Post seleção de disciplinas,200,OK,Thread Group 1-36,true,,14870,69,69,126,1,0,CPCG-150518
+1545054754822,629,Post seleção de disciplinas,200,OK,Thread Group 1-84,true,,14869,69,69,140,1,0,CPCG-150518
+1545054738098,17428,Tentativa de Login,200,OK,Thread Group 1-75,true,,508688,69,69,12919,1,0,CPCG-150518
+1545054738112,17415,Tentativa de Login,200,OK,Thread Group 1-63,true,,508689,69,69,12028,1,0,CPCG-150518
+1545054754824,745,POST dados básicos da matrícula,200,OK,Thread Group 1-17,true,,14870,69,69,186,1,0,CPCG-150518
+1545054754832,738,POST dados básicos da matrícula,200,OK,Thread Group 1-27,true,,14870,69,69,192,1,0,CPCG-150518
+1545054754806,766,POST dados básicos da matrícula,200,OK,Thread Group 1-18,true,,14870,69,69,144,1,0,CPCG-150518
+1545054754882,723,Post seleção de disciplinas,200,OK,Thread Group 1-76,true,,14869,69,69,186,1,0,CPCG-150518
+1545054754856,765,Post revisão de seleção,200,OK,Thread Group 1-30,true,,14869,69,69,244,1,0,CPCG-150518
+1545054755068,578,Logout,200,OK,Thread Group 1-52,true,,81950,69,69,193,1,0,CPCG-150518
+1545054737649,18008,Tentativa de Login,200,OK,Thread Group 1-38,true,,508689,68,68,12831,1,0,CPCG-150518
+1545054754758,900,Logout,200,OK,Thread Group 1-15,true,,81951,68,68,253,1,0,CPCG-150518
+1545054755012,650,Logout,200,OK,Thread Group 1-97,true,,81950,67,67,231,1,0,CPCG-150518
+1545054755205,502,Post revisão de seleção,200,OK,Thread Group 1-32,true,,14869,66,66,260,1,0,CPCG-150518
+1545054755452,313,Post revisão de seleção,200,OK,Thread Group 1-84,true,,14869,66,66,146,1,0,CPCG-150518
+1545054754935,855,GET dados básicos da matrícula,200,OK,Thread Group 1-44,false,Não conseguiu acessar tela de matrícula,14869,66,66,131,1,1,CPCG-150518
+1545054754881,912,POST dados básicos da matrícula,200,OK,Thread Group 1-82,true,,14869,66,66,232,1,0,CPCG-150518
+1545054754951,842,GET dados básicos da matrícula,200,OK,Thread Group 1-88,false,Não conseguiu acessar tela de matrícula,14869,66,66,171,1,1,CPCG-150518
+1545054755281,565,Post revisão de seleção,200,OK,Thread Group 1-36,true,,14869,66,66,183,1,0,CPCG-150518
+1545054737613,18234,Tentativa de Login,200,OK,Thread Group 1-35,true,,508689,66,66,12626,1,0,CPCG-150518
+1545054755605,247,Post revisão de seleção,200,OK,Thread Group 1-76,true,,14869,66,66,108,1,0,CPCG-150518
+1545054755569,500,Post seleção de disciplinas,200,OK,Thread Group 1-17,true,,14869,66,66,132,1,0,CPCG-150518
+1545054755572,507,Post seleção de disciplinas,200,OK,Thread Group 1-18,true,,14869,66,66,136,1,0,CPCG-150518
+1545054755571,543,Post seleção de disciplinas,200,OK,Thread Group 1-27,true,,14869,66,66,163,1,0,CPCG-150518
+1545054755657,457,GET dados básicos da matrícula,200,OK,Thread Group 1-38,false,Não conseguiu acessar tela de matrícula,14869,66,66,120,1,1,CPCG-150518
+1545054754220,1911,Logout,200,OK,Thread Group 1-61,true,,81952,66,66,666,1,0,CPCG-150518
+1545054755622,526,Logout,200,OK,Thread Group 1-30,true,,81951,65,65,117,1,0,CPCG-150518
+1545054737965,18197,Tentativa de Login,200,OK,Thread Group 1-58,true,,508698,64,64,12651,1,0,CPCG-150518
+1545054737962,18202,Tentativa de Login,200,OK,Thread Group 1-31,true,,508689,64,64,12250,1,0,CPCG-150518
+1545054755539,635,GET dados básicos da matrícula,200,OK,Thread Group 1-63,false,Não conseguiu acessar tela de matrícula,14870,64,64,173,1,1,CPCG-150518
+1545054755847,354,Logout,200,OK,Thread Group 1-36,true,,81950,64,64,131,1,0,CPCG-150518
+1545054738103,18124,Tentativa de Login,200,OK,Thread Group 1-67,true,,508696,63,63,12360,1,0,CPCG-150518
+1545054755793,513,Post seleção de disciplinas,200,OK,Thread Group 1-82,true,,14869,63,63,146,1,0,CPCG-150518
+1545054755707,627,Logout,200,OK,Thread Group 1-32,true,,81950,63,63,163,1,0,CPCG-150518
+1545054755848,576,GET dados básicos da matrícula,200,OK,Thread Group 1-35,false,Não conseguiu acessar tela de matrícula,14869,62,62,163,1,1,CPCG-150518
+1545054755766,727,Logout,200,OK,Thread Group 1-84,true,,81951,62,62,133,1,0,CPCG-150518
+1545054737869,18715,Tentativa de Login,200,OK,Thread Group 1-41,true,,508696,61,61,13364,1,0,CPCG-150518
+1545054755158,1429,Post seleção de disciplinas,200,OK,Thread Group 1-53,true,,14871,61,61,310,1,0,CPCG-150518
+1545054755790,827,POST dados básicos da matrícula,200,OK,Thread Group 1-44,true,,14871,61,61,122,1,0,CPCG-150518
+1545054755852,800,Logout,200,OK,Thread Group 1-76,true,,81951,61,61,145,1,0,CPCG-150518
+1545054756162,490,GET dados básicos da matrícula,200,OK,Thread Group 1-58,false,Não conseguiu acessar tela de matrícula,14870,61,61,162,1,1,CPCG-150518
+1545054736935,19736,Tentativa de Login,200,OK,Thread Group 1-68,true,,508705,60,60,14292,1,0,CPCG-150518
+1545054755793,925,POST dados básicos da matrícula,200,OK,Thread Group 1-88,true,,14871,60,60,157,1,0,CPCG-150518
+1545054738116,18647,Tentativa de Login,200,OK,Thread Group 1-79,true,,508713,60,60,12065,1,0,CPCG-150518
+1545054756175,617,POST dados básicos da matrícula,200,OK,Thread Group 1-63,true,,14869,60,60,207,1,0,CPCG-150518
+1545054756069,817,Post revisão de seleção,200,OK,Thread Group 1-17,true,,14870,60,60,216,1,0,CPCG-150518
+1545054756080,850,Post revisão de seleção,200,OK,Thread Group 1-18,true,,14870,60,60,275,1,0,CPCG-150518
+1545054755538,1445,GET dados básicos da matrícula,200,OK,Thread Group 1-75,false,Não conseguiu acessar tela de matrícula,14871,60,60,793,1,1,CPCG-150518
+1545054756114,880,Post revisão de seleção,200,OK,Thread Group 1-27,true,,14870,60,60,224,1,0,CPCG-150518
+1545054756226,799,GET dados básicos da matrícula,200,OK,Thread Group 1-67,false,Não conseguiu acessar tela de matrícula,14871,60,60,208,1,1,CPCG-150518
+1545054756115,910,POST dados básicos da matrícula,200,OK,Thread Group 1-38,true,,14871,60,60,271,1,0,CPCG-150518
+1545054756426,644,POST dados básicos da matrícula,200,OK,Thread Group 1-35,true,,14871,60,60,167,1,0,CPCG-150518
+1545054756165,906,GET dados básicos da matrícula,200,OK,Thread Group 1-31,false,Não conseguiu acessar tela de matrícula,14871,60,60,206,1,1,CPCG-150518
+1545054736202,20943,Tentativa de Login,200,OK,Thread Group 1-49,true,,508696,60,60,16657,1,0,CPCG-150518
+1545054756307,900,Post revisão de seleção,200,OK,Thread Group 1-82,true,,14871,60,60,241,1,0,CPCG-150518
+1545054756587,644,Post revisão de seleção,200,OK,Thread Group 1-53,true,,14869,60,60,297,1,0,CPCG-150518
+1545054756584,740,GET dados básicos da matrícula,200,OK,Thread Group 1-41,false,Não conseguiu acessar tela de matrícula,14870,60,60,242,1,1,CPCG-150518
+1545054756617,795,Post seleção de disciplinas,200,OK,Thread Group 1-44,true,,14869,60,60,295,1,0,CPCG-150518
+1545054756656,858,POST dados básicos da matrícula,200,OK,Thread Group 1-58,true,,14870,60,60,323,1,0,CPCG-150518
+1545054756671,906,GET dados básicos da matrícula,200,OK,Thread Group 1-68,false,Não conseguiu acessar tela de matrícula,14870,60,60,305,1,1,CPCG-150518
+1545054756719,893,Post seleção de disciplinas,200,OK,Thread Group 1-88,true,,14869,60,60,320,1,0,CPCG-150518
+1545054756793,894,Post seleção de disciplinas,200,OK,Thread Group 1-63,true,,14870,60,60,357,1,0,CPCG-150518
+1545054757071,1604,Post seleção de disciplinas,200,OK,Thread Group 1-35,true,,14869,60,60,344,1,0,CPCG-150518
+1545054757025,1654,POST dados básicos da matrícula,200,OK,Thread Group 1-67,true,,14869,60,60,351,1,0,CPCG-150518
+1545054757026,1661,Post seleção de disciplinas,200,OK,Thread Group 1-38,true,,14869,60,60,415,1,0,CPCG-150518
+1545054756763,1945,GET dados básicos da matrícula,200,OK,Thread Group 1-79,false,Não conseguiu acessar tela de matrícula,14871,60,60,438,1,1,CPCG-150518
+1545054756983,1808,POST dados básicos da matrícula,200,OK,Thread Group 1-75,true,,14870,60,60,330,1,0,CPCG-150518
+1545054757515,1337,Post seleção de disciplinas,200,OK,Thread Group 1-58,true,,14870,60,60,265,1,0,CPCG-150518
+1545054757146,1789,GET dados básicos da matrícula,200,OK,Thread Group 1-49,false,Não conseguiu acessar tela de matrícula,14871,60,60,388,1,1,CPCG-150518
+1545054757325,1647,POST dados básicos da matrícula,200,OK,Thread Group 1-41,true,,14870,60,60,261,1,0,CPCG-150518
+1545054756930,2044,Logout,200,OK,Thread Group 1-18,true,,81952,60,60,244,1,0,CPCG-150518
+1545054756887,2106,Logout,200,OK,Thread Group 1-17,true,,81952,59,59,346,1,0,CPCG-150518
+1545054757071,1935,POST dados básicos da matrícula,200,OK,Thread Group 1-31,true,,14870,58,58,320,1,0,CPCG-150518
+1545054757208,1803,Logout,200,OK,Thread Group 1-82,true,,81951,58,58,310,1,0,CPCG-150518
+1545054757577,1555,POST dados básicos da matrícula,200,OK,Thread Group 1-68,true,,14870,57,57,278,1,0,CPCG-150518
+1545054757412,1806,Post revisão de seleção,200,OK,Thread Group 1-44,true,,14871,57,57,378,1,0,CPCG-150518
+1545054756994,2234,Logout,200,OK,Thread Group 1-27,true,,81952,57,57,376,1,0,CPCG-150518
+1545054757613,1621,Post revisão de seleção,200,OK,Thread Group 1-88,true,,14871,56,56,210,1,0,CPCG-150518
+1545054757232,2016,Logout,200,OK,Thread Group 1-53,true,,81952,56,56,287,1,0,CPCG-150518
+1545054758853,552,Post revisão de seleção,200,OK,Thread Group 1-58,true,,14869,55,55,262,1,0,CPCG-150518
+1545054759146,274,Post seleção de disciplinas,200,OK,Thread Group 1-68,true,,14869,55,55,108,1,0,CPCG-150518
+1545054758791,671,Post seleção de disciplinas,200,OK,Thread Group 1-75,true,,14870,55,55,173,1,0,CPCG-150518
+1545054737394,22127,Tentativa de Login,200,OK,Thread Group 1-46,true,,508689,55,55,15476,1,0,CPCG-150518
+1545054758709,821,POST dados básicos da matrícula,200,OK,Thread Group 1-79,true,,14870,55,55,154,1,0,CPCG-150518
+1545054759007,528,Post seleção de disciplinas,200,OK,Thread Group 1-31,true,,14870,55,55,177,1,0,CPCG-150518
+1545054758972,598,Post seleção de disciplinas,200,OK,Thread Group 1-41,true,,14870,55,55,226,1,0,CPCG-150518
+1545054737968,21627,Tentativa de Login,200,OK,Thread Group 1-40,true,,508689,55,55,14986,1,0,CPCG-150518
+1545054757687,1911,Post revisão de seleção,200,OK,Thread Group 1-63,true,,14871,55,55,872,1,0,CPCG-150518
+1545054758688,923,Post revisão de seleção,200,OK,Thread Group 1-38,true,,14871,55,55,166,1,0,CPCG-150518
+1545054758676,944,Post revisão de seleção,200,OK,Thread Group 1-35,true,,14871,55,55,132,1,0,CPCG-150518
+1545054759236,389,Logout,200,OK,Thread Group 1-88,true,,81949,55,55,124,1,0,CPCG-150518
+1545054758936,964,POST dados básicos da matrícula,200,OK,Thread Group 1-49,true,,14870,54,54,176,1,0,CPCG-150518
+1545054759901,246,Post seleção de disciplinas,200,OK,Thread Group 1-49,true,,14869,54,54,119,1,0,CPCG-150518
+1545054759220,1011,Logout,200,OK,Thread Group 1-44,true,,81950,54,54,199,1,0,CPCG-150518
+1545054758680,1558,Post seleção de disciplinas,200,OK,Thread Group 1-67,true,,14871,53,53,261,1,0,CPCG-150518
+1545054759600,656,Logout,200,OK,Thread Group 1-63,true,,81950,53,53,151,1,0,CPCG-150518
+1545054759621,637,Logout,200,OK,Thread Group 1-35,true,,81950,53,53,207,1,0,CPCG-150518
+1545054759613,655,Logout,200,OK,Thread Group 1-38,true,,81951,51,51,165,1,0,CPCG-150518
+1545054759536,745,Post revisão de seleção,200,OK,Thread Group 1-31,true,,14869,50,50,176,1,0,CPCG-150518
+1545054759406,975,Logout,200,OK,Thread Group 1-58,true,,81951,50,50,134,1,0,CPCG-150518
+1545054760171,326,Post revisão de seleção,200,OK,Thread Group 1-49,true,,14869,49,49,108,1,0,CPCG-150518
+1545054759532,968,Post seleção de disciplinas,200,OK,Thread Group 1-79,true,,14870,49,49,246,1,0,CPCG-150518
+1545054760239,306,Post revisão de seleção,200,OK,Thread Group 1-67,true,,14869,49,49,103,1,0,CPCG-150518
+1545054759464,1105,Post revisão de seleção,200,OK,Thread Group 1-75,true,,14870,49,49,131,1,0,CPCG-150518
+1545054760281,318,Logout,200,OK,Thread Group 1-31,true,,81950,49,49,162,1,0,CPCG-150518
+1545054759522,1079,GET dados básicos da matrícula,200,OK,Thread Group 1-46,false,Não conseguiu acessar tela de matrícula,14871,49,49,515,1,1,CPCG-150518
+1545054759596,1006,GET dados básicos da matrícula,200,OK,Thread Group 1-40,false,Não conseguiu acessar tela de matrícula,14871,48,48,624,1,1,CPCG-150518
+1545054759420,1200,Post revisão de seleção,200,OK,Thread Group 1-68,true,,14871,48,48,108,1,0,CPCG-150518
+1545054760570,439,Logout,200,OK,Thread Group 1-75,true,,81950,48,48,174,1,0,CPCG-150518
+1545054760621,453,Logout,200,OK,Thread Group 1-68,true,,81950,47,47,118,1,0,CPCG-150518
+1545054760603,479,POST dados básicos da matrícula,200,OK,Thread Group 1-40,true,,14869,46,46,128,1,0,CPCG-150518
+1545054759570,1549,Post revisão de seleção,200,OK,Thread Group 1-41,true,,14870,46,46,192,1,0,CPCG-150518
+1545054760601,548,POST dados básicos da matrícula,200,OK,Thread Group 1-46,true,,14869,46,46,340,1,0,CPCG-150518
+1545054738079,23154,Tentativa de Login,200,OK,Thread Group 1-70,true,,508690,46,46,14776,1,0,CPCG-150518
+1545054761083,234,Post seleção de disciplinas,200,OK,Thread Group 1-40,true,,14869,46,46,95,1,0,CPCG-150518
+1545054761120,221,Logout,200,OK,Thread Group 1-41,true,,81950,46,46,102,1,0,CPCG-150518
+1545054761149,209,Post seleção de disciplinas,200,OK,Thread Group 1-46,true,,14869,45,45,98,1,0,CPCG-150518
+1545054738842,22534,Tentativa de Login,200,OK,Thread Group 1-74,true,,508690,45,45,14067,1,0,CPCG-150518
+1545054738115,23348,Tentativa de Login,200,OK,Thread Group 1-37,true,,508689,45,45,17186,1,0,CPCG-150518
+1545054760545,929,Logout,200,OK,Thread Group 1-67,true,,81951,45,45,181,1,0,CPCG-150518
+1545054760500,1000,Post revisão de seleção,200,OK,Thread Group 1-79,true,,14870,44,44,135,1,0,CPCG-150518
+1545054760497,1030,Logout,200,OK,Thread Group 1-49,true,,81952,44,44,160,1,0,CPCG-150518
+1545054738140,23390,Tentativa de Login,200,OK,Thread Group 1-45,true,,508698,43,43,17143,1,0,CPCG-150518
+1545054736769,24762,Tentativa de Login,200,OK,Thread Group 1-7,true,,508689,43,43,18310,1,0,CPCG-150518
+1545054761318,230,Post revisão de seleção,200,OK,Thread Group 1-40,true,,14869,43,43,88,1,0,CPCG-150518
+1545054736819,24827,Tentativa de Login,200,OK,Thread Group 1-81,true,,508690,43,43,16402,1,0,CPCG-150518
+1545054738124,23525,Tentativa de Login,200,OK,Thread Group 1-42,true,,508698,43,43,15330,1,0,CPCG-150518
+1545054761235,450,GET dados básicos da matrícula,200,OK,Thread Group 1-70,false,Não conseguiu acessar tela de matrícula,14870,43,43,95,1,1,CPCG-150518
+1545054738089,23666,Tentativa de Login,200,OK,Thread Group 1-71,true,,508714,43,43,15160,1,0,CPCG-150518
+1545054736934,24822,Tentativa de Login,200,OK,Thread Group 1-92,true,,508698,43,43,16092,1,0,CPCG-150518
+1545054738100,23656,Tentativa de Login,200,OK,Thread Group 1-78,true,,508690,43,43,14829,1,0,CPCG-150518
+1545054738087,23692,Tentativa de Login,200,OK,Thread Group 1-55,true,,508689,43,43,17207,1,0,CPCG-150518
+1545054736852,24937,Tentativa de Login,200,OK,Thread Group 1-19,true,,508715,43,43,16247,1,0,CPCG-150518
+1545054739087,22702,Tentativa de Login,200,OK,Thread Group 1-73,true,,508706,43,43,14283,1,0,CPCG-150518
+1545054761501,361,Logout,200,OK,Thread Group 1-79,true,,81950,43,43,168,1,0,CPCG-150518
+1545054736462,25408,Tentativa de Login,200,OK,Thread Group 1-85,true,,508690,42,42,16845,1,0,CPCG-150518
+1545054761359,623,Post revisão de seleção,200,OK,Thread Group 1-46,true,,14870,42,42,107,1,0,CPCG-150518
+1545054737803,24193,Tentativa de Login,200,OK,Thread Group 1-65,true,,508690,42,42,16809,1,0,CPCG-150518
+1545054737871,24195,Tentativa de Login,200,OK,Thread Group 1-39,true,,508690,42,42,15600,1,0,CPCG-150518
+1545054761686,428,POST dados básicos da matrícula,200,OK,Thread Group 1-70,true,,14869,42,42,96,1,0,CPCG-150518
+1545054738104,24028,Tentativa de Login,200,OK,Thread Group 1-66,true,,508706,42,42,15395,1,0,CPCG-150518
+1545054738081,24054,Tentativa de Login,200,OK,Thread Group 1-33,true,,508697,42,42,14895,1,0,CPCG-150518
+1545054738130,24005,Tentativa de Login,200,OK,Thread Group 1-24,true,,508698,42,42,16327,1,0,CPCG-150518
+1545054761983,276,Logout,200,OK,Thread Group 1-46,true,,81950,42,42,121,1,0,CPCG-150518
+1545054761549,742,Logout,200,OK,Thread Group 1-40,true,,81952,41,41,169,1,0,CPCG-150518
+1545054761647,646,GET dados básicos da matrícula,200,OK,Thread Group 1-81,false,Não conseguiu acessar tela de matrícula,14870,41,41,108,1,1,CPCG-150518
+1545054761377,941,GET dados básicos da matrícula,200,OK,Thread Group 1-74,false,Não conseguiu acessar tela de matrícula,14871,40,40,300,1,1,CPCG-150518
+1545054762115,223,Post seleção de disciplinas,200,OK,Thread Group 1-70,true,,14869,40,40,92,1,0,CPCG-150518
+1545054761790,555,GET dados básicos da matrícula,200,OK,Thread Group 1-19,false,Não conseguiu acessar tela de matrícula,14870,40,40,101,1,1,CPCG-150518
+1545054761757,590,GET dados básicos da matrícula,200,OK,Thread Group 1-78,false,Não conseguiu acessar tela de matrícula,14870,40,40,121,1,1,CPCG-150518
+1545054761756,602,GET dados básicos da matrícula,200,OK,Thread Group 1-71,false,Não conseguiu acessar tela de matrícula,14870,40,40,156,1,1,CPCG-150518
+1545054738069,24295,Tentativa de Login,200,OK,Thread Group 1-57,true,,508690,40,40,14889,1,0,CPCG-150518
+1545054761757,608,GET dados básicos da matrícula,200,OK,Thread Group 1-92,false,Não conseguiu acessar tela de matrícula,14870,40,40,116,1,1,CPCG-150518
+1545054738147,24220,Tentativa de Login,200,OK,Thread Group 1-28,true,,508697,40,40,17294,1,0,CPCG-150518
+1545054761649,744,GET dados básicos da matrícula,200,OK,Thread Group 1-42,false,Não conseguiu acessar tela de matrícula,14870,40,40,143,1,1,CPCG-150518
+1545054761997,428,GET dados básicos da matrícula,200,OK,Thread Group 1-65,false,Não conseguiu acessar tela de matrícula,14870,40,40,99,1,1,CPCG-150518
+1545054738110,24319,Tentativa de Login,200,OK,Thread Group 1-64,true,,508689,40,40,16649,1,0,CPCG-150518
+1545054738149,24281,Tentativa de Login,200,OK,Thread Group 1-99,true,,508706,40,40,16600,1,0,CPCG-150518
+1545054762067,365,GET dados básicos da matrícula,200,OK,Thread Group 1-39,false,Não conseguiu acessar tela de matrícula,14870,40,40,84,1,1,CPCG-150518
+1545054761532,904,GET dados básicos da matrícula,200,OK,Thread Group 1-45,false,Não conseguiu acessar tela de matrícula,14871,40,40,471,1,1,CPCG-150518
+1545054737868,24572,Tentativa de Login,200,OK,Thread Group 1-22,true,,508689,40,40,17213,1,0,CPCG-150518
+1545054761534,915,GET dados básicos da matrícula,200,OK,Thread Group 1-7,false,Não conseguiu acessar tela de matrícula,14871,40,40,469,1,1,CPCG-150518
+1545054762136,333,GET dados básicos da matrícula,200,OK,Thread Group 1-33,false,Não conseguiu acessar tela de matrícula,14870,40,40,109,1,1,CPCG-150518
+1545054738105,24374,Tentativa de Login,200,OK,Thread Group 1-54,true,,508690,40,40,17017,1,0,CPCG-150518
+1545054738107,24380,Tentativa de Login,200,OK,Thread Group 1-26,true,,508689,40,40,17380,1,0,CPCG-150518
+1545054762137,374,GET dados básicos da matrícula,200,OK,Thread Group 1-24,false,Não conseguiu acessar tela de matrícula,14870,40,40,108,1,1,CPCG-150518
+1545054761791,724,GET dados básicos da matrícula,200,OK,Thread Group 1-73,false,Não conseguiu acessar tela de matrícula,14871,40,40,104,1,1,CPCG-150518
+1545054761871,646,GET dados básicos da matrícula,200,OK,Thread Group 1-85,false,Não conseguiu acessar tela de matrícula,14870,40,40,110,1,1,CPCG-150518
+1545054738164,24371,Tentativa de Login,200,OK,Thread Group 1-80,true,,508697,40,40,16447,1,0,CPCG-150518
+1545054738838,23697,Tentativa de Login,200,OK,Thread Group 1-48,true,,508689,40,40,16590,1,0,CPCG-150518
+1545054761465,1095,GET dados básicos da matrícula,200,OK,Thread Group 1-37,false,Não conseguiu acessar tela de matrícula,14871,40,40,90,1,1,CPCG-150518
+1545054739074,23500,Tentativa de Login,200,OK,Thread Group 1-47,true,,508690,40,40,16192,1,0,CPCG-150518
+1545054738111,24470,Tentativa de Login,200,OK,Thread Group 1-56,true,,508690,40,40,16640,1,0,CPCG-150518
+1545054762295,305,POST dados básicos da matrícula,200,OK,Thread Group 1-81,true,,14869,40,40,91,1,0,CPCG-150518
+1545054738108,24548,Tentativa de Login,200,OK,Thread Group 1-51,true,,508704,40,40,17335,1,0,CPCG-150518
+1545054736839,25819,Tentativa de Login,200,OK,Thread Group 1-25,true,,508696,40,40,18840,1,0,CPCG-150518
+1545054739074,23593,Tentativa de Login,200,OK,Thread Group 1-72,true,,508697,40,40,16374,1,0,CPCG-150518
+1545054738088,24587,Tentativa de Login,200,OK,Thread Group 1-59,true,,508713,40,40,17708,1,0,CPCG-150518
+1545054762346,343,POST dados básicos da matrícula,200,OK,Thread Group 1-19,true,,14869,40,40,100,1,0,CPCG-150518
+1545054762318,377,POST dados básicos da matrícula,200,OK,Thread Group 1-74,true,,14869,40,40,97,1,0,CPCG-150518
+1545054762348,374,POST dados básicos da matrícula,200,OK,Thread Group 1-78,true,,14869,40,40,113,1,0,CPCG-150518
+1545054738109,24623,Tentativa de Login,200,OK,Thread Group 1-69,true,,508689,40,40,17325,1,0,CPCG-150518
+1545054737961,24795,Tentativa de Login,200,OK,Thread Group 1-34,true,,508696,40,40,17714,1,0,CPCG-150518
+1545054738114,24643,Tentativa de Login,200,OK,Thread Group 1-43,true,,508689,40,40,17326,1,0,CPCG-150518
+1545054762369,405,GET dados básicos da matrícula,200,OK,Thread Group 1-28,false,Não conseguiu acessar tela de matrícula,14871,40,40,109,1,1,CPCG-150518
+1545054738165,24620,Tentativa de Login,200,OK,Thread Group 1-29,true,,508689,40,40,17610,1,0,CPCG-150518
+1545054762437,362,POST dados básicos da matrícula,200,OK,Thread Group 1-45,true,,14869,40,40,122,1,0,CPCG-150518
+1545054762339,461,Post revisão de seleção,200,OK,Thread Group 1-70,true,,14870,40,40,123,1,0,CPCG-150518
+1545054762365,438,GET dados básicos da matrícula,200,OK,Thread Group 1-57,false,Não conseguiu acessar tela de matrícula,14871,40,40,117,1,1,CPCG-150518
+1545054762366,459,POST dados básicos da matrícula,200,OK,Thread Group 1-92,true,,14870,40,40,117,1,0,CPCG-150518
+1545054762359,474,POST dados básicos da matrícula,200,OK,Thread Group 1-71,true,,14870,40,40,115,1,0,CPCG-150518
+1545054738101,24768,Tentativa de Login,200,OK,Thread Group 1-86,true,,508690,40,40,17107,1,0,CPCG-150518
+1545054762133,760,GET dados básicos da matrícula,200,OK,Thread Group 1-66,false,Não conseguiu acessar tela de matrícula,14871,40,40,351,1,1,CPCG-150518
+1545054762433,463,POST dados básicos da matrícula,200,OK,Thread Group 1-39,true,,14869,40,40,173,1,0,CPCG-150518
+1545054762432,465,GET dados básicos da matrícula,200,OK,Thread Group 1-99,false,Não conseguiu acessar tela de matrícula,14870,40,40,179,1,1,CPCG-150518
+1545054762394,515,POST dados básicos da matrícula,200,OK,Thread Group 1-42,true,,14870,40,40,136,1,0,CPCG-150518
+1545054761781,1135,GET dados básicos da matrícula,200,OK,Thread Group 1-55,false,Não conseguiu acessar tela de matrícula,14871,40,40,335,1,1,CPCG-150518
+1545054736927,26024,Tentativa de Login,200,OK,Thread Group 1-21,true,,508689,40,40,18868,1,0,CPCG-150518
+1545054762489,464,GET dados básicos da matrícula,200,OK,Thread Group 1-26,false,Não conseguiu acessar tela de matrícula,14871,40,40,132,1,1,CPCG-150518
+1545054762426,538,POST dados básicos da matrícula,200,OK,Thread Group 1-65,true,,14869,40,40,176,1,0,CPCG-150518
+1545054762470,534,POST dados básicos da matrícula,200,OK,Thread Group 1-33,true,,14869,40,40,162,1,0,CPCG-150518
+1545054762517,493,POST dados básicos da matrícula,200,OK,Thread Group 1-85,true,,14870,40,40,165,1,0,CPCG-150518
+1545054762442,608,GET dados básicos da matrícula,200,OK,Thread Group 1-22,false,Não conseguiu acessar tela de matrícula,14871,40,40,285,1,1,CPCG-150518
+1545054762450,606,POST dados básicos da matrícula,200,OK,Thread Group 1-7,true,,14869,40,40,183,1,0,CPCG-150518
+1545054762537,537,GET dados básicos da matrícula,200,OK,Thread Group 1-80,false,Não conseguiu acessar tela de matrícula,14870,40,40,151,1,1,CPCG-150518
+1545054762431,708,GET dados básicos da matrícula,200,OK,Thread Group 1-64,false,Não conseguiu acessar tela de matrícula,14870,40,40,172,1,1,CPCG-150518
+1545054762516,639,POST dados básicos da matrícula,200,OK,Thread Group 1-73,true,,14869,40,40,169,1,0,CPCG-150518
+1545054762601,569,Post seleção de disciplinas,200,OK,Thread Group 1-81,true,,14870,40,40,181,1,0,CPCG-150518
+1545054762561,616,POST dados básicos da matrícula,200,OK,Thread Group 1-37,true,,14869,40,40,205,1,0,CPCG-150518
+1545054762669,519,GET dados básicos da matrícula,200,OK,Thread Group 1-72,false,Não conseguiu acessar tela de matrícula,14869,40,40,153,1,1,CPCG-150518
+1545054762512,677,POST dados básicos da matrícula,200,OK,Thread Group 1-24,true,,14869,40,40,131,1,0,CPCG-150518
+1545054762576,615,GET dados básicos da matrícula,200,OK,Thread Group 1-47,false,Não conseguiu acessar tela de matrícula,14870,40,40,199,1,1,CPCG-150518
+1545054762583,609,GET dados básicos da matrícula,200,OK,Thread Group 1-56,false,Não conseguiu acessar tela de matrícula,14870,40,40,192,1,1,CPCG-150518
+1545054762660,562,GET dados básicos da matrícula,200,OK,Thread Group 1-25,false,Não conseguiu acessar tela de matrícula,14870,40,40,154,1,1,CPCG-150518
+1545054762733,497,Post seleção de disciplinas,200,OK,Thread Group 1-78,true,,14870,40,40,196,1,0,CPCG-150518
+1545054762482,748,GET dados básicos da matrícula,200,OK,Thread Group 1-54,false,Não conseguiu acessar tela de matrícula,14870,40,40,228,1,1,CPCG-150518
+1545054762689,561,Post seleção de disciplinas,200,OK,Thread Group 1-19,true,,14870,40,40,220,1,0,CPCG-150518
+1545054762696,572,Post seleção de disciplinas,200,OK,Thread Group 1-74,true,,14869,40,40,243,1,0,CPCG-150518
+1545054762787,499,GET dados básicos da matrícula,200,OK,Thread Group 1-29,false,Não conseguiu acessar tela de matrícula,14870,40,40,202,1,1,CPCG-150518
+1545054762759,537,GET dados básicos da matrícula,200,OK,Thread Group 1-43,false,Não conseguiu acessar tela de matrícula,14870,40,40,214,1,1,CPCG-150518
+1545054762804,494,POST dados básicos da matrícula,200,OK,Thread Group 1-57,true,,14869,40,40,196,1,0,CPCG-150518
+1545054762734,595,GET dados básicos da matrícula,200,OK,Thread Group 1-69,false,Não conseguiu acessar tela de matrícula,14870,40,40,296,1,1,CPCG-150518
+1545054762834,532,Post seleção de disciplinas,200,OK,Thread Group 1-71,true,,14869,40,40,212,1,0,CPCG-150518
+1545054762658,714,GET dados básicos da matrícula,200,OK,Thread Group 1-51,false,Não conseguiu acessar tela de matrícula,14870,40,40,148,1,1,CPCG-150518
+1545054762871,508,GET dados básicos da matrícula,200,OK,Thread Group 1-86,false,Não conseguiu acessar tela de matrícula,14869,40,40,192,1,1,CPCG-150518
+1545054762826,566,Post seleção de disciplinas,200,OK,Thread Group 1-92,true,,14869,40,40,233,1,0,CPCG-150518
+1545054762800,619,Logout,200,OK,Thread Group 1-70,true,,81950,40,40,237,1,0,CPCG-150518
+1545054762799,632,Post seleção de disciplinas,200,OK,Thread Group 1-45,true,,14869,39,39,237,1,0,CPCG-150518
+1545054762537,895,GET dados básicos da matrícula,200,OK,Thread Group 1-48,false,Não conseguiu acessar tela de matrícula,14871,39,39,157,1,1,CPCG-150518
+1545054762894,555,POST dados básicos da matrícula,200,OK,Thread Group 1-66,true,,14869,39,39,242,1,0,CPCG-150518
+1545054762953,501,GET dados básicos da matrícula,200,OK,Thread Group 1-21,false,Não conseguiu acessar tela de matrícula,14870,39,39,184,1,1,CPCG-150518
+1545054762677,799,GET dados básicos da matrícula,200,OK,Thread Group 1-59,false,Não conseguiu acessar tela de matrícula,14869,39,39,222,1,1,CPCG-150518
+1545054762758,719,GET dados básicos da matrícula,200,OK,Thread Group 1-34,false,Não conseguiu acessar tela de matrícula,14870,39,39,254,1,1,CPCG-150518
+1545054762897,580,Post seleção de disciplinas,200,OK,Thread Group 1-39,true,,14870,39,39,306,1,0,CPCG-150518
+1545054762775,707,POST dados básicos da matrícula,200,OK,Thread Group 1-28,true,,14869,39,39,279,1,0,CPCG-150518
+1545054763004,489,Post seleção de disciplinas,200,OK,Thread Group 1-33,true,,14870,39,39,189,1,0,CPCG-150518
+1545054762909,590,Post seleção de disciplinas,200,OK,Thread Group 1-42,true,,14869,39,39,248,1,0,CPCG-150518
+1545054762898,639,POST dados básicos da matrícula,200,OK,Thread Group 1-99,true,,14869,39,39,268,1,0,CPCG-150518
+1545054762954,607,POST dados básicos da matrícula,200,OK,Thread Group 1-26,true,,14869,39,39,321,1,0,CPCG-150518
+1545054762964,607,Post seleção de disciplinas,200,OK,Thread Group 1-65,true,,14870,39,39,262,1,0,CPCG-150518
+1545054762917,669,POST dados básicos da matrícula,200,OK,Thread Group 1-55,true,,14869,39,39,219,1,0,CPCG-150518
+1545054763057,627,Post seleção de disciplinas,200,OK,Thread Group 1-7,true,,14870,39,39,212,1,0,CPCG-150518
+1545054763011,678,Post seleção de disciplinas,200,OK,Thread Group 1-85,true,,14869,39,39,241,1,0,CPCG-150518
+1545054763140,567,POST dados básicos da matrícula,200,OK,Thread Group 1-64,true,,14870,39,39,254,1,0,CPCG-150518
+1545054763050,694,POST dados básicos da matrícula,200,OK,Thread Group 1-22,true,,14869,39,39,283,1,0,CPCG-150518
+1545054763190,572,Post seleção de disciplinas,200,OK,Thread Group 1-24,true,,14870,39,39,164,1,0,CPCG-150518
+1545054763230,552,Post revisão de seleção,200,OK,Thread Group 1-78,true,,14869,39,39,208,1,0,CPCG-150518
+1545054763229,563,POST dados básicos da matrícula,200,OK,Thread Group 1-25,true,,14870,39,39,280,1,0,CPCG-150518
+1545054763156,637,Post seleção de disciplinas,200,OK,Thread Group 1-73,true,,14869,39,39,270,1,0,CPCG-150518
+1545054763170,625,Post revisão de seleção,200,OK,Thread Group 1-81,true,,14869,39,39,275,1,0,CPCG-150518
+1545054763287,509,POST dados básicos da matrícula,200,OK,Thread Group 1-29,true,,14870,39,39,180,1,0,CPCG-150518
+1545054763178,622,Post seleção de disciplinas,200,OK,Thread Group 1-37,true,,14870,39,39,185,1,0,CPCG-150518
+1545054763189,611,POST dados básicos da matrícula,200,OK,Thread Group 1-72,true,,14871,39,39,259,1,0,CPCG-150518
+1545054763251,559,Post revisão de seleção,200,OK,Thread Group 1-19,true,,14869,39,39,208,1,0,CPCG-150518
+1545054763231,604,POST dados básicos da matrícula,200,OK,Thread Group 1-54,true,,14870,39,39,210,1,0,CPCG-150518
+1545054763297,570,POST dados básicos da matrícula,200,OK,Thread Group 1-43,true,,14870,39,39,216,1,0,CPCG-150518
+1545054763074,802,POST dados básicos da matrícula,200,OK,Thread Group 1-80,true,,14870,39,39,313,1,0,CPCG-150518
+1545054763192,692,POST dados básicos da matrícula,200,OK,Thread Group 1-47,true,,14869,39,39,336,1,0,CPCG-150518
+1545054763298,593,Post seleção de disciplinas,200,OK,Thread Group 1-57,true,,14869,39,39,248,1,0,CPCG-150518
+1545054763193,704,POST dados básicos da matrícula,200,OK,Thread Group 1-56,true,,14869,39,39,223,1,0,CPCG-150518
+1545054763500,476,Post revisão de seleção,200,OK,Thread Group 1-42,true,,14869,39,39,177,1,0,CPCG-150518
+1545054763269,720,Post revisão de seleção,200,OK,Thread Group 1-74,true,,14870,39,39,243,1,0,CPCG-150518
+1545054763372,622,POST dados básicos da matrícula,200,OK,Thread Group 1-51,true,,14870,39,39,266,1,0,CPCG-150518
+1545054763330,673,POST dados básicos da matrícula,200,OK,Thread Group 1-69,true,,14870,39,39,254,1,0,CPCG-150518
+1545054763455,564,POST dados básicos da matrícula,200,OK,Thread Group 1-21,true,,14870,39,39,185,1,0,CPCG-150518
+1545054763380,639,POST dados básicos da matrícula,200,OK,Thread Group 1-86,true,,14871,39,39,261,1,0,CPCG-150518
+1545054763366,666,Post revisão de seleção,200,OK,Thread Group 1-71,true,,14869,39,39,224,1,0,CPCG-150518
+1545054763393,646,Post revisão de seleção,200,OK,Thread Group 1-92,true,,14869,39,39,321,1,0,CPCG-150518
+1545054763433,636,POST dados básicos da matrícula,200,OK,Thread Group 1-48,true,,14869,39,39,230,1,0,CPCG-150518
+1545054763432,652,Post revisão de seleção,200,OK,Thread Group 1-45,true,,14870,39,39,201,1,0,CPCG-150518
+1545054763478,613,Post revisão de seleção,200,OK,Thread Group 1-39,true,,14869,39,39,247,1,0,CPCG-150518
+1545054763493,599,Post revisão de seleção,200,OK,Thread Group 1-33,true,,14869,39,39,246,1,0,CPCG-150518
+1545054763477,621,POST dados básicos da matrícula,200,OK,Thread Group 1-34,true,,14870,39,39,184,1,0,CPCG-150518
+1545054763483,615,Post seleção de disciplinas,200,OK,Thread Group 1-28,true,,14869,39,39,260,1,0,CPCG-150518
+1545054763449,659,Post seleção de disciplinas,200,OK,Thread Group 1-66,true,,14869,39,39,347,1,0,CPCG-150518
+1545054763476,645,POST dados básicos da matrícula,200,OK,Thread Group 1-59,true,,14871,39,39,221,1,0,CPCG-150518
+1545054763537,640,Post seleção de disciplinas,200,OK,Thread Group 1-99,true,,14870,39,39,266,1,0,CPCG-150518
+1545054763571,622,Post revisão de seleção,200,OK,Thread Group 1-65,true,,14869,39,39,263,1,0,CPCG-150518
+1545054763562,671,Post seleção de disciplinas,200,OK,Thread Group 1-26,true,,14869,39,39,251,1,0,CPCG-150518
+1545054763685,570,Post revisão de seleção,200,OK,Thread Group 1-7,true,,14869,39,39,211,1,0,CPCG-150518
+1545054763587,683,Post seleção de disciplinas,200,OK,Thread Group 1-55,true,,14870,39,39,310,1,0,CPCG-150518
+1545054763763,536,Post revisão de seleção,200,OK,Thread Group 1-24,true,,14869,39,39,223,1,0,CPCG-150518
+1545054763744,593,Post seleção de disciplinas,200,OK,Thread Group 1-22,true,,14869,39,39,231,1,0,CPCG-150518
+1545054763800,565,Post seleção de disciplinas,200,OK,Thread Group 1-72,true,,14869,39,39,261,1,0,CPCG-150518
+1545054763707,674,Post seleção de disciplinas,200,OK,Thread Group 1-64,true,,14869,39,39,320,1,0,CPCG-150518
+1545054763836,612,Post seleção de disciplinas,200,OK,Thread Group 1-54,true,,14869,39,39,254,1,0,CPCG-150518
+1545054763793,666,Post revisão de seleção,200,OK,Thread Group 1-73,true,,14871,39,39,289,1,0,CPCG-150518
+1545054763793,670,Post seleção de disciplinas,200,OK,Thread Group 1-25,true,,14869,39,39,286,1,0,CPCG-150518
+1545054763797,677,Post seleção de disciplinas,200,OK,Thread Group 1-29,true,,14869,39,39,281,1,0,CPCG-150518
+1545054763801,685,Post revisão de seleção,200,OK,Thread Group 1-37,true,,14869,39,39,294,1,0,CPCG-150518
+1545054763877,612,Post seleção de disciplinas,200,OK,Thread Group 1-80,true,,14869,39,39,232,1,0,CPCG-150518
+1545054763885,605,Post seleção de disciplinas,200,OK,Thread Group 1-47,true,,14870,39,39,225,1,0,CPCG-150518
+1545054763898,596,Post seleção de disciplinas,200,OK,Thread Group 1-56,true,,14870,39,39,279,1,0,CPCG-150518
+1545054763810,686,Logout,200,OK,Thread Group 1-19,true,,81951,39,39,223,1,0,CPCG-150518
+1545054763892,613,Post revisão de seleção,200,OK,Thread Group 1-57,true,,14869,38,38,265,1,0,CPCG-150518
+1545054763783,723,Logout,200,OK,Thread Group 1-78,true,,81951,38,38,262,1,0,CPCG-150518
+1545054763796,715,Logout,200,OK,Thread Group 1-81,true,,81951,37,37,222,1,0,CPCG-150518
+1545054763976,558,Logout,200,OK,Thread Group 1-42,true,,81951,36,36,206,1,0,CPCG-150518
+1545054763868,673,Post seleção de disciplinas,200,OK,Thread Group 1-43,true,,14869,35,35,267,1,0,CPCG-150518
+1545054763690,866,Post revisão de seleção,200,OK,Thread Group 1-85,true,,14870,35,35,243,1,0,CPCG-150518
+1545054763995,603,Post seleção de disciplinas,200,OK,Thread Group 1-51,true,,14869,35,35,339,1,0,CPCG-150518
+1545054764098,503,Post seleção de disciplinas,200,OK,Thread Group 1-34,true,,14869,35,35,203,1,0,CPCG-150518
+1545054763990,627,Logout,200,OK,Thread Group 1-74,true,,81951,35,35,225,1,0,CPCG-150518
+1545054764020,604,Post seleção de disciplinas,200,OK,Thread Group 1-86,true,,14869,34,34,219,1,0,CPCG-150518
+1545054764178,487,Post revisão de seleção,200,OK,Thread Group 1-99,true,,14869,34,34,251,1,0,CPCG-150518
+1545054764099,586,Post revisão de seleção,200,OK,Thread Group 1-28,true,,14869,34,34,223,1,0,CPCG-150518
+1545054764092,593,Logout,200,OK,Thread Group 1-33,true,,81952,34,34,180,1,0,CPCG-150518
+1545054764020,666,Post seleção de disciplinas,200,OK,Thread Group 1-21,true,,14869,34,34,263,1,0,CPCG-150518
+1545054764108,589,Post revisão de seleção,200,OK,Thread Group 1-66,true,,14870,33,33,227,1,0,CPCG-150518
+1545054764122,596,Post seleção de disciplinas,200,OK,Thread Group 1-59,true,,14869,33,33,271,1,0,CPCG-150518
+1545054764084,657,Logout,200,OK,Thread Group 1-45,true,,81951,33,33,196,1,0,CPCG-150518
+1545054764300,466,Logout,200,OK,Thread Group 1-24,true,,81951,32,32,185,1,0,CPCG-150518
+1545054764194,587,Logout,200,OK,Thread Group 1-65,true,,81951,31,31,215,1,0,CPCG-150518
+1545054764246,543,Post revisão de seleção,200,OK,Thread Group 1-26,true,,14869,30,30,272,1,0,CPCG-150518
+1545054764091,711,Logout,200,OK,Thread Group 1-39,true,,81952,30,30,238,1,0,CPCG-150518
+1545054764004,802,Post seleção de disciplinas,200,OK,Thread Group 1-69,true,,14869,29,29,267,1,0,CPCG-150518
+1545054764256,564,Logout,200,OK,Thread Group 1-7,true,,81952,29,29,249,1,0,CPCG-150518
+1545054764033,799,Logout,200,OK,Thread Group 1-71,true,,81951,28,28,239,1,0,CPCG-150518
+1545054764381,462,Post revisão de seleção,200,OK,Thread Group 1-64,true,,14869,27,27,176,1,0,CPCG-150518
+1545054764070,794,Post seleção de disciplinas,200,OK,Thread Group 1-48,true,,14869,27,27,216,1,0,CPCG-150518
+1545054764039,833,Logout,200,OK,Thread Group 1-92,true,,81952,27,27,205,1,0,CPCG-150518
+1545054764450,437,Post revisão de seleção,200,OK,Thread Group 1-54,true,,14869,26,26,239,1,0,CPCG-150518
+1545054764271,634,Post revisão de seleção,200,OK,Thread Group 1-55,true,,14870,26,26,323,1,0,CPCG-150518
+1545054764464,457,Post revisão de seleção,200,OK,Thread Group 1-25,true,,14869,26,26,206,1,0,CPCG-150518
+1545054764460,469,Logout,200,OK,Thread Group 1-73,true,,81950,26,26,200,1,0,CPCG-150518
+1545054764494,449,Post revisão de seleção,200,OK,Thread Group 1-56,true,,14869,25,25,139,1,0,CPCG-150518
+1545054764366,583,Post revisão de seleção,200,OK,Thread Group 1-72,true,,14869,25,25,299,1,0,CPCG-150518
+1545054764486,480,Logout,200,OK,Thread Group 1-37,true,,81951,25,25,203,1,0,CPCG-150518
+1545054764338,651,Post revisão de seleção,200,OK,Thread Group 1-22,true,,14870,24,24,343,1,0,CPCG-150518
+1545054764490,500,Post revisão de seleção,200,OK,Thread Group 1-80,true,,14869,24,24,268,1,0,CPCG-150518
+1545054764490,501,Post revisão de seleção,200,OK,Thread Group 1-47,true,,14869,24,24,244,1,0,CPCG-150518
+1545054764475,526,Post revisão de seleção,200,OK,Thread Group 1-29,true,,14869,24,24,294,1,0,CPCG-150518
+1545054764556,471,Logout,200,OK,Thread Group 1-85,true,,81952,24,24,196,1,0,CPCG-150518
+1545054764542,498,Post revisão de seleção,200,OK,Thread Group 1-43,true,,14869,23,23,249,1,0,CPCG-150518
+1545054764625,428,Post revisão de seleção,200,OK,Thread Group 1-86,true,,14869,23,23,197,1,0,CPCG-150518
+1545054764599,460,Post revisão de seleção,200,OK,Thread Group 1-51,true,,14869,23,23,180,1,0,CPCG-150518
+1545054764666,396,Logout,200,OK,Thread Group 1-99,true,,81951,23,23,179,1,0,CPCG-150518
+1545054764602,462,Post revisão de seleção,200,OK,Thread Group 1-34,true,,14869,23,23,172,1,0,CPCG-150518
+1545054764687,387,Post revisão de seleção,200,OK,Thread Group 1-21,true,,14869,22,22,211,1,0,CPCG-150518
+1545054764718,357,Post revisão de seleção,200,OK,Thread Group 1-59,true,,14869,22,22,124,1,0,CPCG-150518
+1545054764685,398,Logout,200,OK,Thread Group 1-28,true,,81952,22,22,192,1,0,CPCG-150518
+1545054764506,589,Logout,200,OK,Thread Group 1-57,true,,81952,21,21,256,1,0,CPCG-150518
+1545054764698,423,Logout,200,OK,Thread Group 1-66,true,,81951,20,20,198,1,0,CPCG-150518
+1545054764808,356,Post revisão de seleção,200,OK,Thread Group 1-69,true,,14869,19,19,147,1,0,CPCG-150518
+1545054764865,325,Post revisão de seleção,200,OK,Thread Group 1-48,true,,14870,19,19,144,1,0,CPCG-150518
+1545054764790,404,Logout,200,OK,Thread Group 1-26,true,,81952,19,19,172,1,0,CPCG-150518
+1545054764950,299,Logout,200,OK,Thread Group 1-72,true,,81951,18,18,153,1,0,CPCG-150518
+1545054764905,345,Logout,200,OK,Thread Group 1-55,true,,81950,18,18,138,1,0,CPCG-150518
+1545054764887,553,Logout,200,OK,Thread Group 1-54,true,,81951,16,16,134,1,0,CPCG-150518
+1545054764944,532,Logout,200,OK,Thread Group 1-56,true,,81951,15,15,166,1,0,CPCG-150518
+1545054764844,635,Logout,200,OK,Thread Group 1-64,true,,81950,14,14,187,1,0,CPCG-150518
+1545054764921,560,Logout,200,OK,Thread Group 1-25,true,,81952,13,13,164,1,0,CPCG-150518
+1545054764991,522,Logout,200,OK,Thread Group 1-47,true,,81951,12,12,145,1,0,CPCG-150518
+1545054765076,437,Logout,200,OK,Thread Group 1-59,true,,81950,12,12,152,1,0,CPCG-150518
+1545054764991,543,Logout,200,OK,Thread Group 1-80,true,,81950,10,10,159,1,0,CPCG-150518
+1545054765059,478,Logout,200,OK,Thread Group 1-51,true,,81952,9,9,159,1,0,CPCG-150518
+1545054765075,464,Logout,200,OK,Thread Group 1-21,true,,81951,9,9,152,1,0,CPCG-150518
+1545054765001,539,Logout,200,OK,Thread Group 1-29,true,,81951,8,8,200,1,0,CPCG-150518
+1545054765191,357,Logout,200,OK,Thread Group 1-48,true,,81951,6,6,146,1,0,CPCG-150518
+1545054765065,496,Logout,200,OK,Thread Group 1-34,true,,81952,5,5,163,1,0,CPCG-150518
+1545054765041,532,Logout,200,OK,Thread Group 1-43,true,,81951,4,4,132,1,0,CPCG-150518
+1545054765164,442,Logout,200,OK,Thread Group 1-69,true,,81951,3,3,101,1,0,CPCG-150518
+1545054765053,612,Logout,200,OK,Thread Group 1-86,true,,81950,2,2,137,1,0,CPCG-150518
+1545054764990,1784,Logout,200,OK,Thread Group 1-22,true,,81952,1,1,229,1,0,CPCG-150518
