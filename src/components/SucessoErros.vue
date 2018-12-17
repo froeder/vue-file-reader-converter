@@ -142,8 +142,8 @@ export default {
                 this.qtde_false
               ],
               backgroundColor: [
-                "rgb(255, 99, 132)",
-                "rgb(54, 162, 235)"
+                "rgba(0, 128, 0, 0.7)",
+                "rgba(255,0,0, 0.7)"
               ],
               borderWidth: 3
             }
@@ -173,8 +173,6 @@ export default {
       } else if(status === 'false'){
         this.qtde_false++
       }
-      console.log(this.qtde_false)
-      console.log(this.qtde_true)
     },
     plotaGraficos(){
       this.createChartResponseCode(
